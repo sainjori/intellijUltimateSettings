@@ -11,18 +11,25 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1508497680874" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/karma.conf.js" timestamp="1508497793395" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/main/java/MainController.java" timestamp="1508502701779">
-        <mark key="[" line="150" column="25" />
-        <mark key="]" line="150" column="25" />
-        <mark key="^" line="150" column="25" />
-        <mark key="." line="150" column="25" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1508497814097">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/main/java/MainController.java" timestamp="1508507827916">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDate.java" timestamp="1508500973515">
         <mark key="'" line="136" column="19" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java" timestamp="1508506372543" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/libs/simple-license-lib/1.0-SNAPSHOT/simple-license-lib-1.0-20171005.135529-2.jar!/com/dscsag/libs/simplelicenselib/hashing/LicenseKeyHashingUtil.class" timestamp="1508506523347" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/src/test/java/com/dscsag/libs/simplelicenselib/hashing/LicenseKeyHashingUtilTest.java" timestamp="1508507927027">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1508497814097">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/src/main/java/com/dscsag/libs/simplelicenselib/hashing/LicenseKeyHashingUtil.java" timestamp="1508506321468" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1508497942785">
         <mark key="[" line="61" column="37" />
         <mark key="]" line="61" column="26" />
@@ -43,41 +50,41 @@
       <jump line="136" column="19" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDate.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YWdlLnNldE1pbkhlaWdodCgyMDApOwo=</text>
+      <register name="0" type="4">
+        <text>168eebd9a6a0953579d319df6169b240a6c9eb8f</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDE2OGVlYmQ5YTZhMDk1MzU3OWQzMTlkZjYxNjliMjQwYTZjOWViOGYK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDE2OGVlYmQ5YTZhMDk1MzU3OWQzMTlkZjYxNjliMjQwYTZjOWViOGYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDE2OGVlYmQ5YTZhMDk1MzU3OWQzMTlkZjYxNjliMjQwYTZjOWViOGYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBkYXkgPSBpbnN0YW5jZS5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKTsK</text>
+        <text encoding="base64">Ly8gICAgSW1tdXRhYmxlRXhwaXJ5RGF0ZSBleHBpcnlEYXRlID0gSW1tdXRhYmxlRXhwaXJ5RGF0ZS5idWlsZGVyKCkueWVhcigxMTExKS5kYXlPZk1vbnRoKDIpLm1vbnRoT2ZZZWFyKDMpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBtb250aCA9IGluc3RhbmNlLmdldChDYWxlbmRhci5NT05USCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgSW1tdXRhYmxlRXhwaXJ5RGF0ZSBleHBpcnlEYXRlID0gSW1tdXRhYmxlRXhwaXJ5RGF0ZS5idWlsZGVyKCkueWVhcigxMTExKS5kYXlPZk1vbnRoKDIpLm1vbnRoT2ZZZWFyKDMpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCB5ZWFyID0gaW5zdGFuY2UuZ2V0KENhbGVuZGFyLllFQVIpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBJbW11dGFibGVFeHBpcnlEYXRlLmJ1aWxkZXIoKS55ZWFyKHllYXIpLm1vbnRoT2ZZZWFyKG1vbnRoKS5kYXlPZk1vbnRoKGRheSkuYnVpbGQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldFRpbWUoZGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IExpY2Vuc2VLZXlIYXNoaW5nVXRpbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENhbGVuZGFyIGluc3RhbmNlID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1vbnRoIG1vbnRoMSA9IHZhbHVlLmdldE1vbnRoKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERhdGUgZGF0ZSA9IERhdGUudmFsdWVPZihkYXRlRmllbGQuZ2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBjbGllbnRMaW1pdEludCA9IEludGVnZXIucGFyc2VJbnQoY2xpZW50TGltaXQuZ2V0VGV4dCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>1111</text>
       </register>
     </registers>
     <search>
