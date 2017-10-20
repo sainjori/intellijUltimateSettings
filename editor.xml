@@ -2,6 +2,10 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
   </component>
+  <component name="EditorSettings">
+    <option name="CARET_BLINKING_PERIOD" value="400" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
