@@ -1,0 +1,87 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/MainController.java" timestamp="1508494368867" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/main/java/MainController.java" timestamp="1508496217607">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="74" column="43" />
+      </file>
+      <file name="/fragment.java" timestamp="1508493482011">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLm9yKGJpbGxpbmdJZC50ZXh0UHJvcGVydHkoKS5pc0VtcHR5KCkpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vICAgIGNyZWF0ZUJ1dHRvbi5kaXNhYmxlUHJvcGVydHkoKS5iaW5kKGN1c3RvbWVyTmFtZVZhbGlkLm5vdCgpLm9yKGJpbGxpbmdJZFZhbGlkLm5vdCgpKS5vcihjbGllbnRJZFZhbGlkLm5vdCgpKS5vcihkYXRlT2ZFeHBpcnlWYWxpZC5ub3QoKSkub3Ioc2VjcmV0TGljZW5zZUtleVZhbGlkLm5vdCgpKS5vcihkYXRlT2ZFeHBpcnlWYWxpZFRleHQubm90KCkpKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vICAgIGNyZWF0ZUJ1dHRvbi5kaXNhYmxlUHJvcGVydHkoKS5iaW5kKGN1c3RvbWVyTmFtZVZhbGlkLm5vdCgpLm9yKGJpbGxpbmdJZFZhbGlkLm5vdCgpKS5vcihjbGllbnRJZFZhbGlkLm5vdCgpKS5vcihkYXRlT2ZFeHBpcnlWYWxpZC5ub3QoKSkub3Ioc2VjcmV0TGljZW5zZUtleVZhbGlkLm5vdCgpKS5vcihkYXRlT2ZFeHBpcnlWYWxpZFRleHQubm90KCkpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50TGltaXQuc2V0U3R5bGUoIi1meC1iYWNrZ3JvdW5kLWNvbG9yOiAjYTk0NDQyIik7CiAgICAgICAgICAgIGNsaWVudExpbWl0LnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjQ0MwMDAwIik7CiAgICAgICAgICAgIGNsaWVudExpbWl0LmNsZWFyKCk7CiAgICAgICAgICAgIGNsaWVudExpbWl0LnNldFByb21wdFRleHQoIlBsZWFzZSBlbnRlciBhIG51bWJlciIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50TGltaXQuc2V0U3R5bGUobnVsbCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICB0cnkKICAgICAgICAgIHsKICAgICAgICAgICAgaW50IGkgPSBJbnRlZ2VyLnBhcnNlSW50KGNsaWVudExpbWl0LmdldFRleHQoKSk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgfQogICAgICAgICAgY2F0Y2ggKE51bWJlckZvcm1hdEV4Y2VwdGlvbiBlKQogICAgICAgICAgewogICAgICAgICAgICAgIHJldHVybiAKICAgICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50TGltaXQuc2V0U3R5bGUoIi1meC1iYWNrZ3JvdW5kLWNvbG9yOiAjYTk0NDQyIik7CiAgICAgICAgICAgIGNsaWVudExpbWl0LnNldFN0eWxlKCItZngtYm9yZGVyLWNvbG9yOiAjQ0MwMDAwIik7CiAgICAgICAgICAgIGNsaWVudExpbWl0LmNsZWFyKCk7CiAgICAgICAgICAgIGNsaWVudExpbWl0LnNldFByb21wdFRleHQoIlBsZWFzZSBlbnRlciBhIG51bWJlciIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50TGltaXQuc2V0U3R5bGUobnVsbCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAiIi5lcXVhbHMoY2xpZW50TGltaXQuZ2V0VGV4dCgpKSA/IGZhbHNlIDogdHJ1ZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IGNsaWVudExpbWl0LnRleHRQcm9wZXJ0eSgpLmFkZExpc3RlbmVyKG5ldyBDaGFuZ2VMaXN0ZW5lcjxTdHJpbmc+KCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIHZvaWQgY2hhbmdlZChPYnNlcnZhYmxlVmFsdWU8PyBleHRlbmRzIFN0cmluZz4gb2JzZXJ2YWJsZSwgU3RyaW5nIG9sZFZhbHVlLCBTdHJpbmcgbmV3VmFsdWUpIHsKICAgICAgICAKICAgICAgfQogICAgfSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
