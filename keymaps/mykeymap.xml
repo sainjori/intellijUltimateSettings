@@ -37,7 +37,17 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="InsertLiveTemplate" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
