@@ -6,12 +6,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508854913682">
-        <mark key="'" line="95" column="3" />
-        <mark key="[" line="130" column="85" />
-        <mark key="]" line="130" column="101" />
-        <mark key="." line="130" column="101" />
-        <mark key="^" line="130" column="101" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508856805046">
+        <mark key="'" line="100" column="3" />
+        <mark key="[" line="85" column="43" />
+        <mark key="]" line="85" column="48" />
+        <mark key="^" line="85" column="48" />
+        <mark key="." line="85" column="48" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license-routing.module.ts" timestamp="1508838701569">
         <mark key="[" line="22" column="13" />
@@ -147,53 +147,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>errorType.get()</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>errorType.get()</text>
       </register>
       <register name="/" type="4">
         <text>exec</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgW3JvdXRlckxpbmtdPSJbJy9hZG1pbmlzdHJhdGlvbi91c2VybWFuYWdlbWVudCddIj48aSBjbGFzcz0iaWNvbi11c2VyIj48L2k+IFVzZXJzPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+      <register name="0" type="4">
+        <text>String.format(&quot;Eventlog cleanup (%s). Message: %s&quot;, errorType.get(), e.getMessage())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlQb2pvLnNldExldmVsKEV2ZW50TG9nRW50cnlMZXZlbC5FUlJPUik7Cg==</text>
+        <text encoding="base64">Ly8gICAgRXZlbnRMb2dFbnRyeUxldmVsIGV2ZW50TG9nRW50cnlMZXZlbCA9IEV2ZW50TG9nRW50cnlMZXZlbC52YWx1ZU9mKGVycm9yVHlwZS5nZXQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZXZlbnRMb2dFbnRyeVBvam8uc2V0TGV2ZWwoZXZlbnRMb2dFbnRyeUxldmVsKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>private void createEventlogEntry(Exception e)
-  {
-    EventLogEntryPojo eventLogEntryPojo = new EventLogEntryPojo();
-    eventLogEntryPojo.setMessage(String.format(&quot;Eventlog cleanup error. Message: %s&quot;, e.getMessage()));
-    eventLogEntryPojo.setApplicationType(&quot;monitoring&quot;);
-    eventLogEntryPojo.setLevel(EventLogEntryLevel.ERROR);
-    eventLogEntryPojo.setEventType(&quot;ERROR&quot;);
-    eventLogEntryPojo.setEventId(&quot;E00001&quot;);
-    eventLogEntryPojo.setClientName(&quot;dashboard&quot;);
-    eventLogEntryDAO.insert(eventLogEntryPojo);
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgZXZlbnRMb2dFbnRyeVBvam8uc2V0TWVzc2FnZShTdHJpbmcuZm9ybWF0KCJFdmVudGxvZyBjbGVhbnVwICglcykuIE1lc3NhZ2U6ICVzIiwgZXJyb3JUeXBlLmdldCgpLCBlLmdldE1lc3NhZ2UoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgZXZlbnRMb2dFbnRyeVBvam8uc2V0TWVzc2FnZShTdHJpbmcuZm9ybWF0KCJFdmVudGxvZyBjbGVhbnVwICglcykuIE1lc3NhZ2U6ICVzIiwgZXJyb3JUeXBlLmdldCgpLCBlLmdldE1lc3NhZ2UoKSkpOwovLyAgICBldmVudExvZ0VudHJ5UG9qby5zZXRMZXZlbChldmVudExvZ0VudHJ5TGV2ZWwpOwovLyAgICBFdmVudExvZ0VudHJ5TGV2ZWwgZXZlbnRMb2dFbnRyeUxldmVsID0gRXZlbnRMb2dFbnRyeUxldmVsLnZhbHVlT2YoZXJyb3JUeXBlLmdldCgpKTsKLy8gICAgZXZlbnRMb2dFbnRyeVBvam8uc2V0RXZlbnRUeXBlKGVycm9yVHlwZS5nZXQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlQb2pvLnNldEV2ZW50SWQoIkUwMDAwMSIpOwogICAgZXZlbnRMb2dFbnRyeVBvam8uc2V0Q2xpZW50TmFtZSgiZGFzaGJvYXJkIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlEQU8uZGUK</text>
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlQb2pvLnNldEFwcGxpY2F0aW9uVHlwZSgibW9uaXRvcmluZyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG8uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgZXZlbnRMb2dFbnRyeVBvam8uc2V0TWVzc2FnZShTdHJpbmcuZm9ybWF0KCJFdmVudGxvZyBjbGVhbnVwICglcykuIE1lc3NhZ2U6ICVzIiwgZXJyb3JUeXBlLmdldCgpLCBlLmdldE1lc3NhZ2UoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlQb2pvLnNldExldmVsKGV2ZW50TG9nRW50cnlMZXZlbCk7Cg==</text>
       </register>
     </registers>
     <search>
