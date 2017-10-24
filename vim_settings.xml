@@ -8,10 +8,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508850582569">
         <mark key="'" line="79" column="2" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
         <mark key="^" line="114" column="21" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license-routing.module.ts" timestamp="1508838701569">
         <mark key="[" line="22" column="13" />
@@ -19,11 +16,8 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508847148939">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508852237694">
         <mark key="^" line="134" column="78" />
-        <mark key="." line="118" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1508839377738">
         <mark key="[" line="78" column="32" />
@@ -150,10 +144,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLmVudW1zLkV2ZW50TG9nRW50cnlMZXZlbDsK</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>logfile</text>
+        <text>execute</text>
       </register>
       <register name="/" type="4">
         <text>exec</text>
@@ -162,18 +156,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgW3JvdXRlckxpbmtdPSJbJy9hZG1pbmlzdHJhdGlvbi91c2VybWFuYWdlbWVudCddIj48aSBjbGFzcz0iaWNvbi11c2VyIj48L2k+IFVzZXJzPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLmVudW1zLkV2ZW50TG9nRW50cnlMZXZlbDsK</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLmVudW1zLkV2ZW50TG9nRW50cnlMZXZlbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>private void createEventlogEntry(Exception e)
   {
     EventLogEntryPojo eventLogEntryPojo = new EventLogEntryPojo();
@@ -185,18 +191,6 @@
     eventLogEntryPojo.setClientName(&quot;dashboard&quot;);
     eventLogEntryDAO.insert(eventLogEntryPojo);
   }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVFdmVudGxvZ0VudHJ5KGUpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0VuYWJsZWQoKSkK</text>
       </register>
     </registers>
     <search>
