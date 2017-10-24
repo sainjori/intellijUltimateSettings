@@ -6,12 +6,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508847212652">
-        <mark key="'" line="81" column="2" />
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="30" />
-        <mark key="^" line="79" column="30" />
-        <mark key="." line="79" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508850582569">
+        <mark key="'" line="79" column="2" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="114" column="21" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license-routing.module.ts" timestamp="1508838701569">
         <mark key="[" line="22" column="13" />
@@ -19,17 +19,11 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DSLContext.java" timestamp="1508750818502">
-        <mark key="'" line="118" column="74" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508847148939">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="^" line="134" column="78" />
         <mark key="." line="118" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDate.java" timestamp="1508500973515">
-        <mark key="'" line="136" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1508839377738">
         <mark key="[" line="78" column="32" />
@@ -37,14 +31,8 @@
         <mark key="." line="78" column="38" />
         <mark key="^" line="78" column="38" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" timestamp="1508752101937">
-        <mark key="'" line="262" column="31" />
-      </file>
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Field.java" timestamp="1508751185193">
-        <mark key="'" line="1968" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/pom.xml" timestamp="1508516282261">
         <mark key="[" line="31" column="35" />
@@ -75,7 +63,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508846622698">
+      <file name="/dummy.sql" timestamp="1508850487076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1508761896017">
@@ -88,15 +76,6 @@
         <mark key="[" line="58" column="2" />
         <mark key="]" line="68" column="3" />
         <mark key="." line="68" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.21/jul-to-slf4j-1.7.21-sources.jar!/org/slf4j/bridge/SLF4JBridgeHandler.java" timestamp="1508518314049">
-        <mark key="'" line="165" column="35" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/SecurityManager.java" timestamp="1508518377393">
-        <mark key="'" line="217" column="37" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" timestamp="1508780452671">
-        <mark key="'" line="197" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1508844902336">
         <mark key="[" line="8" column="0" />
@@ -130,6 +109,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/PreferenceEndpoint.java" timestamp="1508849991673" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-api/src/main/java/com/dscsag/monitoring/dashboard_api/PreferenceEndpointApi.java" timestamp="1508849964672" />
       <file name="/fragment.java" timestamp="1508847255783">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,8 +149,8 @@
       <jump line="79" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logfile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLmVudW1zLkV2ZW50TG9nRW50cnlMZXZlbDsK</text>
       </register>
       <register name="-" type="4">
         <text>logfile</text>
@@ -181,31 +162,41 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgW3JvdXRlckxpbmtdPSJbJy9hZG1pbmlzdHJhdGlvbi91c2VybWFuYWdlbWVudCddIj48aSBjbGFzcz0iaWNvbi11c2VyIj48L2k+IFVzZXJzPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLmVudW1zLkV2ZW50TG9nRW50cnlMZXZlbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0VuYWJsZWQoKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="5" type="4">
+        <text>private void createEventlogEntry(Exception e)
+  {
+    EventLogEntryPojo eventLogEntryPojo = new EventLogEntryPojo();
+    eventLogEntryPojo.setMessage(String.format(&quot;Error occured during eventlog cleanup. Message: %s&quot;, e.getMessage()));
+    eventLogEntryPojo.setApplicationType(&quot;monitoring&quot;);
+    eventLogEntryPojo.setLevel(EventLogEntryLevel.ERROR);
+    eventLogEntryPojo.setEventType(&quot;ERROR&quot;);
+    eventLogEntryPojo.setEventId(&quot;E00001&quot;);
+    eventLogEntryPojo.setClientName(&quot;dashboard&quot;);
+    eventLogEntryDAO.insert(eventLogEntryPojo);
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0VuYWJsZWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVFdmVudGxvZ0VudHJ5KGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfNF8wLnhtbCIgLz4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybSA+Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0VuYWJsZWQoKSkK</text>
       </register>
     </registers>
     <search>
