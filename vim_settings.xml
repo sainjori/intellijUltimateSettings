@@ -6,10 +6,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508870279279" />
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" timestamp="1508857379527">
-        <mark key="'" line="262" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508873595963">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="78" column="6" />
+        <mark key="." line="146" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508873074605" />
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,17 +28,21 @@
       <file name="/HTML File.txt.ft" timestamp="1508761899129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508870208954">
+      <file name="/dummy.sql" timestamp="1508872713327">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1508761896017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508863828756">
+      <file name="/Dummy.txt" timestamp="1508872349221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/config/midway/config.yml" timestamp="1508869037976" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/eventlogging/EventTypeContants.java" timestamp="1508870110737" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LogFileEndpoint.java" timestamp="1508872484841" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
+        <mark key="[" line="42" column="5" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1508761897584">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,11 +86,11 @@
       <jump line="53" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8080</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>exec</text>
@@ -95,28 +102,28 @@
         <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuU2Vjb25kczsK</text>
+        <text encoding="base64">ICAgICAgd3JpdGVTdWNjZXNzRXZlbnRMb2coKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLkRBTzsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuU2Vjb25kczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLkRBTzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlEQU8uaW5zZXJ0KGVudHJ5UG9qbyk7CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlEQU8uaW5zZXJ0KGVudHJ5UG9qbyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
