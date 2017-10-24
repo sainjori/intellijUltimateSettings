@@ -6,9 +6,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508850582569">
-        <mark key="'" line="79" column="2" />
-        <mark key="^" line="114" column="21" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508854913682">
+        <mark key="'" line="95" column="3" />
+        <mark key="[" line="130" column="85" />
+        <mark key="]" line="130" column="101" />
+        <mark key="." line="130" column="101" />
+        <mark key="^" line="130" column="101" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license-routing.module.ts" timestamp="1508838701569">
         <mark key="[" line="22" column="13" />
@@ -16,7 +19,7 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508852237694">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508853111823">
         <mark key="^" line="134" column="78" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1508839377738">
@@ -119,7 +122,6 @@
       <jump line="262" column="31" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" />
       <jump line="74" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="61" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
-      <jump line="93" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="101" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="102" column="67" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="108" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
@@ -141,13 +143,14 @@
       <jump line="289" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
       <jump line="109" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
       <jump line="79" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
+      <jump line="93" column="3" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>execute</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>exec</text>
@@ -156,34 +159,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgW3JvdXRlckxpbmtdPSJbJy9hZG1pbmlzdHJhdGlvbi91c2VybWFuYWdlbWVudCddIj48aSBjbGFzcz0iaWNvbi11c2VyIj48L2k+IFVzZXJzPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlQb2pvLnNldExldmVsKEV2ZW50TG9nRW50cnlMZXZlbC5FUlJPUik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLmVudW1zLkV2ZW50TG9nRW50cnlMZXZlbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxMDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
+      <register name="3" type="4">
         <text>private void createEventlogEntry(Exception e)
   {
     EventLogEntryPojo eventLogEntryPojo = new EventLogEntryPojo();
-    eventLogEntryPojo.setMessage(String.format(&quot;Error occured during eventlog cleanup. Message: %s&quot;, e.getMessage()));
+    eventLogEntryPojo.setMessage(String.format(&quot;Eventlog cleanup error. Message: %s&quot;, e.getMessage()));
     eventLogEntryPojo.setApplicationType(&quot;monitoring&quot;);
     eventLogEntryPojo.setLevel(EventLogEntryLevel.ERROR);
     eventLogEntryPojo.setEventType(&quot;ERROR&quot;);
@@ -191,6 +176,24 @@
     eventLogEntryPojo.setClientName(&quot;dashboard&quot;);
     eventLogEntryDAO.insert(eventLogEntryPojo);
   }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlEQU8uZGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBleGVjdXRlKCk7Cg==</text>
       </register>
     </registers>
     <search>
