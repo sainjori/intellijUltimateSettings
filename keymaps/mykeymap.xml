@@ -6,15 +6,23 @@
   </action>
   <action id="BaseOnThisFunction" />
   <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="Console.Jdbc.Close">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -41,6 +49,10 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -65,4 +77,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="context.load" />
 </keymap>
