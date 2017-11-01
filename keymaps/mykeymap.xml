@@ -35,6 +35,10 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="alt #10000d6" />
@@ -54,7 +58,6 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="QuickJavaDoc">
