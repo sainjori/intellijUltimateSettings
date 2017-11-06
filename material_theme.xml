@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="hideFileIcons" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="themedScrollbars" value="false" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="" />
+  </component>
+</application>
