@@ -15,6 +15,7 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -34,20 +35,15 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="GuiDesigner.QuickJavadoc">
-    <mouse-shortcut keystroke="alt button2" />
-  </action>
+  <action id="GuiDesigner.QuickJavadoc" />
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
-  </action>
+  <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -59,6 +55,15 @@
   </action>
   <action id="RerunTests" />
   <action id="SelectNextOccurrence" />
+  <action id="StepInto">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="StepOut">
+    <mouse-shortcut keystroke="shift button143" />
+  </action>
+  <action id="StepOver">
+    <mouse-shortcut keystroke="shift button142" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
