@@ -6,7 +6,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1510057187980">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1510058847751">
         <mark key="'" line="167" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/status-pill/status-pill.component.ts" timestamp="1509988229124" />
@@ -66,6 +66,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statsuploader_5.1.6.0/src/main/resources/META-INF/services/cadagent.cfc.util.LogUploadService" timestamp="1510057916096" />
       <file name="/dummy.sql" timestamp="1509123758834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,7 +77,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1508761896017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509983410252">
+      <file name="/Dummy.txt" timestamp="1510058657118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiAnalyzeCompleteAfter.java" timestamp="1509102989202">
@@ -281,6 +282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
