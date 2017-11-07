@@ -6,6 +6,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaProxyEndpoint.java" timestamp="1510080761839" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1509103006298">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -88,12 +89,18 @@
         <mark key="]" line="219" column="21" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/proxy.config.json" timestamp="1510080997966">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1509114078560">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510070137831">
+      <file name="/fragment.java" timestamp="1510080909995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -158,10 +165,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.1.7.1</text>
+        <text>9000</text>
       </register>
       <register name="-" type="4">
-        <text>5.1.7.1</text>
+        <text>9000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</text>
