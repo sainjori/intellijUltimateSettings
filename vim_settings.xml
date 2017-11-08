@@ -68,16 +68,16 @@
       <file name="/HTML File.txt.ft" timestamp="1508761899129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.html" timestamp="1510162862671">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.html" timestamp="1510165887666">
+        <mark key="[" line="13" column="114" />
+        <mark key="]" line="13" column="127" />
+        <mark key="." line="13" column="127" />
+        <mark key="^" line="13" column="127" />
       </file>
       <file name="/dummy.sql" timestamp="1509123758834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/setup-server/setup-server.component.html" timestamp="1510162662250" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/setup-server/setup-server.component.html" timestamp="1510165210713" />
       <file name="/Dummy.txt" timestamp="1510139491021">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,11 +91,18 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510161339444">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="3" />
-        <mark key="^" line="40" column="3" />
-        <mark key="." line="40" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.ts" timestamp="1510166530051" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510166571625">
+        <mark key="[" line="86" column="38" />
+        <mark key="]" line="86" column="38" />
+        <mark key="^" line="86" column="38" />
+        <mark key="." line="86" column="38" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.scss" timestamp="1510166438137">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
@@ -166,44 +173,44 @@
       <jump line="54" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.75rem;</text>
       </register>
       <register name="-" type="4">
-        <text>Server Applications</text>
+        <text>.75rem;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02IG9mZnNldC1tZC0zIj4K</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDAuNzVyZW07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEwcHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02IG9mZnNldC1tZC0xIj4KICAgICAgICAgICAgICAgIDxoNj5FbnRlciBMaWNlbnNlOiA8L2g2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGRkIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg2PkVudGVyIExpY2Vuc2U6IDwvaDY+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgICBDb25maWd1cmUgU2VydmVyCiAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLTxoNj5TZXJ2ZXIgQXBwbGljYXRpb25zPC9oNj4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx0ZXh0YXJlYSBuYW1lPSJpZmVmIiBpZD0iIiBjb2xzPSIzMCIgcm93cz0iMTAiPjwvdGV4dGFyZWE+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYmxvY2siPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTggb2Zmc2V0LW1kLTEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj5FbnRlciBOZXcgTGljZW5zZTogPC9oNj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC05Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0idGV4dGFyZWEtaW5wdXQiIG5hbWU9InRleHRhcmVhLWlucHV0IiBwbGFjZWhvbGRlcj0iQ29udGVudC4uIiByb3dzPSI5Ij48L3RleHRhcmVhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
     </registers>
     <search>
