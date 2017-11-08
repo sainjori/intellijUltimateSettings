@@ -14,11 +14,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/details-card/details-card.component.html" timestamp="1510162220582">
         <mark key="[" line="8" column="103" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510171216546">
-        <mark key="[" line="102" column="27" />
-        <mark key="]" line="102" column="30" />
-        <mark key="." line="102" column="30" />
-        <mark key="^" line="102" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510172761913">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="43" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="99" column="34" />
       </file>
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
@@ -58,6 +58,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/PreferenceEndpoint.java" timestamp="1510172705960">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="119" column="24" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
@@ -191,10 +197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaXNlCg==</text>
+        <text encoding="base64">Ly8gICAgQENvbnN1bWVzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ConfigDefinitionEndpointApi</text>
+        <text>APPLICATION_JSON</text>
       </register>
       <register name="/" type="4">
         <text>sav</text>
@@ -203,33 +209,33 @@
         <text encoding="base64">aW1wb3J0IHsgQ29uZmlnRGVmaW5pdGlvbkVuZHBvaW50QXBpIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvYXBpL0NvbmZpZ0RlZmluaXRpb25FbmRwb2ludEFwaSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaXNlCg==</text>
+        <text encoding="base64">Ly8gICAgQENvbnN1bWVzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBAQ29uc3VtZXMgKHtNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTn0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsaXNlCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzeXN0ZW0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>@FormParam(&quot;username&quot;) String username,
                                      @FormParam(&quot;password&quot;) String password,
                                      @Context UriInfo uriInfo</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBPcHRpb25hbDxVc2VyUG9qbz4gdXNlciA9IHVzZXJEQU8uZmV0Y2hCeVVzZXJuYW1lKHVzZXJuYW1lKS5zdHJlYW0oKS5maW5kQW55KCk7CgogICAgICAgIGJvb2xlYW4gdXNlclZhbGlkID0gdXNlci5tYXAodSAtPiBhdXRoZW50aWNhdGVVc2VyKHUsIHBhc3N3b3JkKSkub3JFbHNlKGZhbHNlKTsKICAgICAgICBpZiAodXNlclZhbGlkKQogICAgICAgIHsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gdG9rZW5BdXRoZW50aWNhdG9yLmlzc3VlVG9rZW4odXNlcm5hbWUpOwoKICAgICAgICAgICAgaW50IG1heEFnZSA9IChpbnQpIFRpbWVVbml0LlNFQ09ORFMuY29udmVydCgxLCBUaW1lVW5pdC5EQVlTKTsKICAgICAgICAgICAgU3RyaW5nIGhvc3RuYW1lID0gdXJpSW5mby5nZXRCYXNlVXJpKCkuZ2V0SG9zdCgpOwogICAgICAgICAgICBOZXdDb29raWUgdG9rZW5Db29raWUgPSBuZXcgTmV3Q29va2llKEN1c3RvbUF1dGhGaWx0ZXIuQVVUSF9UT0tFTl9DT09LSUVOQU1FLCB0b2tlbiwgIi8iLCBob3N0bmFtZSwgMSwgbnVsbCwgbWF4QWdlLCBudWxsLCBmYWxzZSwgZmFsc2UpOwogICAgICAgICAgICBOZXdDb29raWUgdXNlckNvb2tpZSA9IG5ldyBOZXdDb29raWUoQ3VzdG9tQXV0aEZpbHRlci5BVVRIX1VTRVJfQ09PS0lFTkFNRSwgdXNlcm5hbWUsICIvIiwgaG9zdG5hbWUsIDEsIG51bGwsIG1heEFnZSwgbnVsbCwgZmFsc2UsIGZhbHNlKTsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKCJ7fSIpLmNvb2tpZSh1c2VyQ29va2llLCB0b2tlbkNvb2tpZSkuYnVpbGQoKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN0YXR1cyhSZXNwb25zZS5TdGF0dXMuVU5BVVRIT1JJWkVEKS5idWlsZCgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsb2coKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEwcHg7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
     </registers>
     <search>
