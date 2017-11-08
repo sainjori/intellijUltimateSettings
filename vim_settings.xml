@@ -34,6 +34,11 @@
       <file name="/HTML File.txt.ft" timestamp="1508761899129">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.html" timestamp="1510155956010">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1509553351205">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -60,6 +65,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ClientDetailsEndpoint.java" timestamp="1510152072304" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/utils/ECTRClientRequestUtils.java" timestamp="1510152200544" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510156342567">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="36" column="21" />
+        <mark key="^" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
       </file>
@@ -77,12 +88,14 @@
         <mark key="." line="215" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dependency_versions.txt" timestamp="1510146201656" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/ECTRClientRequestEndpoint.java" timestamp="1510155423357" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/websockets/ECTRClientWebsocketAccessor.java" timestamp="1510155620788" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1509114078560">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510152070290">
+      <file name="/fragment.java" timestamp="1510156506761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -147,10 +160,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>9000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</text>
