@@ -15,11 +15,10 @@
       <file name="$USER_HOME$/IdeaProjects/untitled1/.gitignore" timestamp="1509554611335">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510306665372">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="58" column="26" />
-        <mark key="." line="58" column="26" />
-        <mark key="^" line="58" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510308313268">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
@@ -36,6 +35,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/LicenseEndpointApi.ts" timestamp="1510255961657">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ServerEndpoint.java" timestamp="1510307478538" />
       <file name="/JavaScript Console" timestamp="1508497814097">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,6 +66,7 @@
       <file name="/Dummy.txt" timestamp="1510243790862">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ClientDetailsEndpoint.java" timestamp="1510307111192" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/fefe.java" timestamp="1510248642883">
         <mark key="'" line="30" column="21" />
       </file>
@@ -107,6 +108,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/PreferenceEndpointApi.ts" timestamp="1510237734715">
         <mark key="'" line="349" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ClientDetailsResponse.java" timestamp="1510307131753" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProvider.java" timestamp="1510307297466" />
       <file name="/app.routing.ts" timestamp="1510259863777" />
     </filemarks>
     <jumps>
@@ -198,11 +201,11 @@
       <jump line="27" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbW11dGFibGVMaWNlbnNlS2V5Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmZXJlbmNlREFPXD4=</text>
@@ -211,31 +214,31 @@
         <text>dataLicense</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kYXRhTGljZW5zZSA9IGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbW11dGFibGVMaWNlbnNlS2V5Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRXhwaXJ5RGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaWNlbnNlRW5kcG9pbnRBcGl9IGZyb20gIi4uLy4uL3NlcnZpY2VzL2FwaS9MaWNlbnNlRW5kcG9pbnRBcGkiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpY2Vuc2VLZXk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaWNlbnNlRW5kcG9pbnRBcGksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kYXRhTGljZW5zZSA9IGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRXhwaXJ5RGF0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNlbnNlS2V5RGVzZXJpYWxpemF0aW9uU2VydmljZQo=</text>
+        <text encoding="base64">aW1wb3J0IHtMaWNlbnNlRW5kcG9pbnRBcGl9IGZyb20gIi4uLy4uL3NlcnZpY2VzL2FwaS9MaWNlbnNlRW5kcG9pbnRBcGkiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNlbnNlS2V5U2VyaWFsaXphdGlvblNlcnZpY2Uuc2VyaWFsaXplS2V5KGxpY2Vuc2VUZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBMaWNlbnNlRW5kcG9pbnRBcGksCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBLZXkgcGFyc2VuCiAgICAgICAgLy8gS2V5IHZhbGlkaWVyZW4K</text>
+        <text encoding="base64">ICAgICAgICBsaWNlbnNlS2V5RGVzZXJpYWxpemF0aW9uU2VydmljZQo=</text>
       </register>
     </registers>
     <search>
