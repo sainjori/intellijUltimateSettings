@@ -9,14 +9,20 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1510259885343">
         <mark key="[" line="80" column="14" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/model/ResponseLicenseValid.ts" timestamp="1510314361082">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/.gitignore" timestamp="1509554611335">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510311193371">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="168" column="117" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510314905327">
+        <mark key="[" line="165" column="19" />
+        <mark key="]" line="165" column="38" />
+        <mark key="." line="165" column="38" />
+        <mark key="^" line="165" column="38" />
       </file>
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
@@ -31,6 +37,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ServerEndpoint.java" timestamp="1510307478538" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/src/test/java/com/dscsag/libs/simplelicenselib/hashing/LicenseKeyHashingUtilTest.java" timestamp="1510315026537" />
       <file name="/JavaScript Console" timestamp="1508497814097">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,21 +65,26 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1510259221633">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510309256583">
+      <file name="/Dummy.txt" timestamp="1510314551574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ClientDetailsEndpoint.java" timestamp="1510307111192" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ResponseLicenseValid.java" timestamp="1510313853929">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/pom.xml" timestamp="1510255345777">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510310893833">
-        <mark key="'" line="27" column="43" />
-        <mark key="[" line="189" column="57" />
-        <mark key="]" line="190" column="28" />
-        <mark key="^" line="190" column="28" />
-        <mark key="." line="190" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510314886555">
+        <mark key="'" line="55" column="3" />
+        <mark key="[" line="186" column="12" />
+        <mark key="]" line="188" column="23" />
+        <mark key="." line="186" column="12" />
+        <mark key="^" line="186" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
@@ -94,6 +106,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ClientDetailsResponse.java" timestamp="1510307131753" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/libs/simple-license-lib/1.0-SNAPSHOT/simple-license-lib-1.0-20171005.135529-2.jar!/com/dscsag/libs/simplelicenselib/shared/KeyMetaData.class" timestamp="1510309230327" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProvider.java" timestamp="1510307297466" />
+      <file name="/fragment.java" timestamp="1510313644553">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/app.routing.ts" timestamp="1510259863777" />
     </filemarks>
     <jumps>
@@ -148,7 +163,6 @@
       <jump line="38" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" />
       <jump line="34" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="22" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
-      <jump line="55" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="167" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" />
       <jump line="292" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" />
       <jump line="96" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statsuploader_5.1.6.0/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
@@ -185,46 +199,60 @@
       <jump line="179" column="39" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="28" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="27" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
+      <jump line="192" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
+      <jump line="55" column="3" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>// export interface ElementStatus {
+    // status: 'GOOD' | 'NEUTRAL' | 'ERROR' | 'WARNING';
+    // message: string;</text>
       </register>
       <register name="-" type="4">
-        <text>activeLicenseKey</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmZXJlbmNlREFPXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>dataLicense</text>
+        <text>elementStatus</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="1" type="4">
+        <text>// export interface ElementStatus {
+    // status: 'GOOD' | 'NEUTRAL' | 'ERROR' | 'WARNING';
+    // message: string;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGljZW5zZUtleSBsaWNlbnNlS2V5Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIExpY2Vuc2VLZXkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZUxpY2Vuc2VLZXkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUmVzcAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdHNhdmVsaWNlc2VuIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInRlc3QiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZS52YWxpZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBleHBpcnlEYXRlLnRvRGF0ZSgpOwogICAgICAgIHRoaXMuZXhwaXJ5RGF0ZSA9IGRhdGVUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGVUaW1lID0gbmV3IERhdGVUaW1lKHNvdXJjZS5leHBpcnlEYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbW11dGFibGVMaWNlbnNlS2V5Lgo=</text>
+      <register name="9" type="4">
+        <text>public String getCustomerName()
+    {
+        return valid;
+    }
+
+    public String getPurchaseID()
+    {
+        return purchaseID;
+    }</text>
       </register>
     </registers>
     <search>
