@@ -17,11 +17,12 @@
       <file name="$USER_HOME$/IdeaProjects/untitled1/.gitignore" timestamp="1509554611335">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510327280288">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="112" column="137" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1510332053001">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="161" column="125" />
       </file>
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
@@ -98,20 +99,26 @@
       <file name="/dummy.sql" timestamp="1510324596741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510326717594">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510332208701">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510326973375">
+      <file name="/Dummy.txt" timestamp="1510329696557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/content_migrations/ContentMigrationTask.java" timestamp="1510327027981" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ResponseLicenseValid.java" timestamp="1510332131896">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="65" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510315717923" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510326496783">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1510332341266">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="60" />
-        <mark key="." line="18" column="60" />
-        <mark key="^" line="18" column="60" />
+        <mark key="[" line="106" column="15" />
+        <mark key="]" line="106" column="19" />
+        <mark key="." line="106" column="19" />
+        <mark key="^" line="106" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
@@ -234,49 +241,62 @@
       <jump line="53" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="220" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="65" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
+      <jump line="161" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiByZXNwb25zZUxpY2Vuc2VLZXk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>license</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>preferenceValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBXZWJBcHBsaWNhdGlvbkV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiByZXNwb25zZUxpY2Vuc2VLZXk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uRmFpbHVyZUNhdXNlID0gc291cmNlLmZhaWx1cmVDYXVzZSgpLmdldCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlTGljZW5zZUtleShsaWNlbnNlS2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZVBvam8uc2V0UHJlZmVyZW5jZVZhbHVlKGxpY2Vuc2VUZXh0LmdldExpY2Vuc2UoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>//Aus Preferences lesen
+        // Key parsen
+        // Key validieren
+//        String license = &quot;customer_name: bya\n&quot; +
+//                &quot;purchase_id: byaaa\n&quot; +
+//                &quot;client_limit: 12\n&quot; +
+//                &quot;expiry_date: 1982-05-12\n&quot; +
+//                &quot;license_key: 0bacf5aa8ea71d986110338903fddc8322f2be37&quot;;
+//        String expectedLicenseKeyString = &quot;customer_name: Test Customer\r\n&quot;
+//                + &quot;purchase_id: PCH-1234\r\n&quot;
+//                + &quot;client_limit: 100\r\n&quot;
+//                + &quot;expiry_date: 2017-12-12\r\n&quot;
+//                + &quot;license_key: 7200910690dd9ae644b61c363cc86b5d57cb2c0d&quot;;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZURBTy51cGRhdGUocHJlZmVyZW5jZVBvam8pOwo=</text>
+        <text encoding="base64">Ly8gICAgfSBjYXRjaCgKLy8gICAgVmFsaWRhdGlvbkV4Y2VwdGlvbiBlKQovLwovLyAgICB7Ci8vICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwovLyAgICAgICAgdGhyb3cgbmV3IFdlYkFwcGxpY2F0aW9uRXhjZXB0aW9uKGUuZ2V0TWVzc2FnZSgpKTsKLy8gICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlZmVyZW5jZVBvam8gcHJlZmVyZW5jZVBvam8gPSBuZXcgUHJlZmVyZW5jZVBvam8oKTsKICAgICAgICAgICAgcHJlZmVyZW5jZVBvam8uc2V0UHJlZmVyZW5jZVZhbHVlKGxpY2Vuc2VUZXh0LmdldExpY2Vuc2UoKSk7CiAgICAgICAgICAgIHByZWZlcmVuY2VQb2pvLnNldFByZWZlcmVuY2VLZXkoTElDRU5TRV9LRVlfUFJFRl9LRVkpOwogICAgICAgICAgICBwcmVmZXJlbmNlUG9qby5zZXRPd25lcihQcmVmZXJlbmNlcy5TWVNURU1fT1dORVIpOwogICAgICAgICAgICBwcmVmZXJlbmNlREFPLmluc2VydChwcmVmZXJlbmNlUG9qbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZUxpY2Vuc2VWYWxpZCByZXNwb25zZUxpY2Vuc2VWYWxpZCA9IG5ldyBSZXNwb25zZUxpY2Vuc2VWYWxpZCh2YWxpZGF0aW9uUmVzdWx0KTsKICAgICAgICByZXR1cm4gcmVzcG9uc2VMaWNlbnNlVmFsaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZURBTy51cHNlcnQoQXJyYXlzLmFzTGlzdChwcmVmZXJlbmNlUG9qbykpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByZWZlcmVuY2VQb2pvIHByZWZlcmVuY2VQb2pvID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICAgICAgICAgICAgICBwcmVmZXJlbmNlUG9qby5zZXRQcmVmZXJlbmNlS2V5KENPTlRFTlRNSUdSQVRJT05TX1BSRUZLRVkpOwogICAgICAgICAgICAgICAgcHJlZmVyZW5jZVBvam8uc2V0T3duZXIoUHJlZmVyZW5jZXMuU1lTVEVNX09XTkVSKTsKICAgICAgICAgICAgICAgIHByZWZlcmVuY2VQb2pvLnNldFByZWZlcmVuY2VWYWx1ZShhcHBsaWVkTWlncmF0aW9ucy5zdHJlYW0oKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZyhQcmVmZXJlbmNlQ29uc3RhbnRzLkxJU1RfUFJFRl9ERUxJTSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZUxpY2Vuc2VLZXkgcmVzcG9uc2VMaWNlbnNlS2V5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJlZmVyZW5jZVBvam8gcHJlZmVyZW5jZVBvam8gPSBuZXcgUHJlZmVyZW5jZVBvam8oKTsKICAgICAgICAgICAgcHJlZmVyZW5jZVBvam8uc2V0UHJlZmVyZW5jZVZhbHVlKGxpY2Vuc2VUZXh0LmdldExpY2Vuc2UoKSk7CiAgICAgICAgICAgIHByZWZlcmVuY2VQb2pvLnNldFByZWZlcmVuY2VLZXkoTElDRU5TRV9LRVlfUFJFRl9LRVkpOwogICAgICAgICAgICBwcmVmZXJlbmNlUG9qby5zZXRPd25lcihQcmVmZXJlbmNlcy5TWVNURU1fT1dORVIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGljZW5zZUtleSBsaWNlbnNlS2V5RGVzZXJpYWxpemVkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VMaWNlbnNlS2V5ID0gbmV3IFJlc3BvbnNlTGljZW5zZUtleShsaWNlbnNlS2V5RGVzZXJpYWxpemVkKTsK</text>
       </register>
     </registers>
     <search>
