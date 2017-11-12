@@ -6,6 +6,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/FlatMapExample.java" timestamp="1510448689390">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1509118793862">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
@@ -53,11 +60,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/StreamAndCellectors.java" timestamp="1510443585166">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/StreamAndCellectors.java" timestamp="1510447963758">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1508761899129">
         <mark key="[" line="0" column="0" />
@@ -104,7 +111,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510442617972">
+      <file name="/fragment.java" timestamp="1510448244460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -150,46 +157,47 @@
       <jump line="70" column="23" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/Main.java" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/funcInterfaces.java" />
       <jump line="456" column="19" filename="C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java" />
+      <jump line="6" column="20" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/FlatMapExample.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Just intermidiary operations. No execution.</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>Just intermidiary operations. No execution.</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>exec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvbmUhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0cy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChmbGF0bWFwcGVyKQogICAgICAgICAgICAgICAgLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwMSA9IHMgLT4gcy5sZW5ndGgoKSA+IDM7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBsaXN0cy5zdHJlYW0oKQovLyAgICAgICAgICAgICAgICAubWFwKGZsYXRtYXBwZXIpCi8vICAgICAgICAgICAgICAgIC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwogICAgICAgIGxpc3RzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFw</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJlYW08U3RyaW5nPiBzdHJlYW0gPSBTdHJlYW0ub2YoIm9uZSIsICJ0d28iLCAidGhyZWUiLCAiZm91ciIsICJmaXZlIik7CgogICAgICAgIFByZWRpY2F0ZTxTdHJpbmc+IHAxID0gUHJlZGljYXRlLmlzRXF1YWwoInR3byIpOwogICAgICAgIFByZWRpY2F0ZTxTdHJpbmc+IHAyID0gUHJlZGljYXRlLmlzRXF1YWwoInRocmVlIik7CgogICAgICAgIEFycmF5TGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICAgICAgc3RyZWFtCiAgICAgICAgICAgICAgICAucGVlayhTeXN0ZW0ub3V0OjpwcmludGxuKQogICAgICAgICAgICAgICAgLmZpbHRlcihwMS5vcihwMikpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChsaXN0OjphZGQpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRvbmUhIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTaXplID0gIiArIGxpc3Quc2l6ZSgpKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdW1lcgo=</text>
+        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwMSA9IHMgLT4gcy5sZW5ndGgoKSA+IDM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShPYmplY3QgbzEsIE9iamVjdCBvMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zdW1lcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgb2JqKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYXJhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShPYmplY3QgbzEsIE9iamVjdCBvMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
