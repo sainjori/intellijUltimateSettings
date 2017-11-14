@@ -84,7 +84,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510587429665">
+      <file name="/Dummy.txt" timestamp="1510653771899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ResponseLicenseValid.java" timestamp="1510332131896">
@@ -158,8 +158,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510652547106">
-        <mark key="[" line="63" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510654073456">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1510582182987">
         <mark key="[" line="0" column="0" />
@@ -269,10 +271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmFib3V0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sandvik</text>
+        <text>root.copy.folder.templates&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -281,34 +283,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmFib3V0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmFib3V0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNkZXNrLnNydi5zZWFyY2gK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmFib3V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmtzYi5kb2MuY2hhbmdlLmxvbmd0ZXh0Lm11bHRpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNkZXNrLnNydi5zZWFyY2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogT01GOiBDcmVhdGUgTWF0ZXJpYWwgKGRlOiBNYXRlcmlhbCBhbmxlZ2VuLURpYWxvZykKICogT01GOiBJbmhlcml0IEZvbGRlciBjbGFzc2lmaWNhdGlvbiB0byBjaGlsZCBmb2xkZXIgc3RydWN0dXJlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T21mQmhzQ3JlYXRlTWF0ZXJpYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmtzYi5kb2MuY2hhbmdlLmxvbmd0ZXh0Lm11bHRpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogT01GOiBDcmVhdGUgTWF0ZXJpYWwgKGRlOiBNYXRlcmlhbCBhbmxlZ2VuLURpYWxvZykKICogT01GOiBJbmhlcml0IEZvbGRlciBjbGFzc2lmaWNhdGlvbiB0byBjaGlsZCBmb2xkZXIgc3RydWN0dXJlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">T21mQmhzQ3JlYXRlTWF0ZXJpYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50b0FycmF5KG5ldyBmZWZlZmVbLnNpemUoKV0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
