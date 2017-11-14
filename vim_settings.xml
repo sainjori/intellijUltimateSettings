@@ -50,10 +50,15 @@
       <file name="/a.sql" timestamp="1508751543353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/modules/addons/src/main/java/plm/modules/prefill/PrefillService.java" timestamp="1510659464318" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/utils/PlmUtils.java" timestamp="1510661626393" />
       <file name="/JavaScript Console" timestamp="1508497814097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/modules/fa/brobj/BrDNCFile.java" timestamp="1510657123251" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" timestamp="1510659292337">
+        <mark key="'" line="94" column="37" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.module.ts" timestamp="1510326608345">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="57" />
@@ -69,6 +74,7 @@
         <mark key="^" line="15" column="92" />
         <mark key="." line="23" column="6" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmUtils.java" timestamp="1510659949823" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyTemplateFolder.java" timestamp="1510581590531">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -86,7 +92,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510657020535">
+      <file name="/Dummy.txt" timestamp="1510661019404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ResponseLicenseValid.java" timestamp="1510332131896">
@@ -125,6 +131,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="117" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/prefill/PrefillFolderInfo.java" timestamp="1510659971873" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/pst/PstHelper.java" timestamp="1510661055309" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
       </file>
@@ -160,18 +168,18 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510657254910">
-        <mark key="[" line="80" column="76" />
-        <mark key="]" line="80" column="86" />
-        <mark key="." line="80" column="86" />
-        <mark key="^" line="80" column="86" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510661616761">
+        <mark key="[" line="151" column="68" />
+        <mark key="]" line="152" column="65" />
+        <mark key="." line="152" column="65" />
+        <mark key="^" line="152" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1510582182987">
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/proc/cad/PlmProcessCadAssignToFolder.java" timestamp="1510659188773" />
+      <file name="/fragment.java" timestamp="1510660635257">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="37" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/SecurityManager.java" />
       <jump line="197" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" />
       <jump line="118" column="74" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DSLContext.java" />
       <jump line="1968" column="14" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Field.java" />
@@ -271,49 +279,50 @@
       <jump line="47" column="0" filename="/default.txt" />
       <jump line="640" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" />
       <jump line="2483" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
+      <jump line="94" column="37" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plm_doc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFBsbU11bHRpRGV0YWlsUHJvY2Vzc0Zhc3QuSU5fUkVBRF9DSEVDS0VESU4K</text>
       </register>
       <register name="-" type="4">
-        <text>plm_doc</text>
+        <text>fldFromPref</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgU3RyaW5nIHMgPSBPcHRpb25hbC5vZk51bGxhYmxlKFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJiaHMudGVtcGxhdGVzLmZvbGRlciIsIG51bGwpKS5vckVsc2VUaHJvdygpCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8UGxtT2JqZWN0PiBhbGxDaGlsZHJlbiA9IHBsbUZvbGRlci5nZXRBbGxDaGlsZHJlbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50LnNldHNhCg==</text>
+        <text encoding="base64">ICAgIFBsbU11bHRpRGV0YWlsUHJvY2Vzc0Zhc3QuSU5fUkVBRF9DSEVDS0VESU4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsbUFjY2Vzcy4K</text>
+        <text encoding="base64">ICAgIFByb2Nlc3NGb2xkZXJHZXRDaGlsZHJlbkZhc3QuSU5fUkVBRF9EUkFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50Cg==</text>
+        <text encoding="base64">ICAgIFBsbUZvbGRlciBwbG1Gb2xkZXIgPSBuZXcgUGxtRm9sZGVyKG5hbWUsIFBsbUZvbGRlci5UQVNLX0ZPTERFUl9UWVBFX0RFRkFVTFQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50Lgo=</text>
+        <text encoding="base64">ICAgIFBsbUZvbGRlciBmbGRGcm9tUHJlZiA9IFBsbVV0aWxzLnBhcnNlRm9sZGVyKG5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50LnJlZnJlc2goKTsK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5TRVZFUkUsICJFcnJvciByZWFkaW5nIGZvbGRlciAnIiArIGZvbGRlci50b1N0cmluZygpICsgIiciLCB0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsbUZvbGRlci4K</text>
+        <text encoding="base64">ICAgIHBsbUZvbGRlci5nZXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzYXBLZXkgPSBwbG1Gb2xkZXIuZ2V0U2FwS2V5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50Lgo=</text>
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50LnNldHNhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBsbUFjY2Vzcy4K</text>
       </register>
     </registers>
     <search>
