@@ -158,10 +158,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510654073456">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510654956676">
+        <mark key="[" line="69" column="103" />
+        <mark key="]" line="69" column="102" />
+        <mark key="." line="69" column="102" />
+        <mark key="^" line="69" column="102" />
       </file>
       <file name="/fragment.java" timestamp="1510582182987">
         <mark key="[" line="0" column="0" />
@@ -270,11 +271,11 @@
       <jump line="2483" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>root.copy.folder.templates&quot;)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
