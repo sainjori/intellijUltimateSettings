@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510680818061">
-        <mark key="'" line="95" column="6" />
-        <mark key="[" line="218" column="33" />
-        <mark key="]" line="218" column="37" />
-        <mark key="." line="218" column="37" />
-        <mark key="^" line="218" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510683940023">
+        <mark key="'" line="180" column="6" />
+        <mark key="[" line="197" column="4" />
+        <mark key="]" line="197" column="6" />
+        <mark key="." line="197" column="6" />
+        <mark key="^" line="197" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" timestamp="1510673278775">
         <mark key="'" line="915" column="29" />
@@ -92,6 +92,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" timestamp="1510659292337">
         <mark key="'" line="94" column="37" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/clone/dependent/PlmProcessDocumentCloneSelectDependent.java" timestamp="1510683295664" />
       <file name="/HTML File.txt.ft" timestamp="1508761899129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,7 +106,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1510667358987">
         <mark key="'" line="171" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510679873327">
+      <file name="/Dummy.txt" timestamp="1510684494542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/DialogUtils.java" timestamp="1510680810239" />
@@ -117,7 +118,7 @@
         <mark key="[" line="214" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" timestamp="1510673940362" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510668364610">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510683769408">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
@@ -129,9 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
-      <jump line="253" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
-      <jump line="83" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="289" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
       <jump line="109" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
       <jump line="79" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
@@ -229,13 +227,16 @@
       <jump line="49" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/Bla.java" />
       <jump line="185" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="184" column="9" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="221" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="234" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="180" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TABLESELECTION_LOCATION</text>
+        <text>tableSelectionDialog</text>
       </register>
       <register name="-" type="4">
-        <text>TABLESELECTION_LOCATION</text>
+        <text>tableSelectionDialog</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -244,34 +245,34 @@
         <text encoding="base64">ICAgIERpYWxvZ1V0aWxzLnNldExvY2F0aW9uKHRzZCwgVEFCTEVTRUxFQ1RJT05fTE9DQVRJT04pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERpYWxvZ1V0aWxzLnNhdmVSZWxhdGl2ZVVJRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgIHRzZC5yZW1vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERpYWxvZ1V0aWxzLih0c2QsIFRBQkxFU0VMRUNUSU9OX0xPQ0FUSU9OKTsK</text>
+        <text encoding="base64">ICAgIERpYWxvZ1V0aWxzLnNhdmVSZWxhdGl2ZVVJRGF0YSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRzZC5zZXRUaXRsZShEaWMuZ2V0KCJ3ZWJlci5kaWFsb2cuc2VsZWN0LnByb2plY3RzIiwgIkFzc2lnbiBwcm9qZWN0cyIpKTsK</text>
+        <text encoding="base64">ICAgIERpYWxvZ1V0aWxzLih0c2QsIFRBQkxFU0VMRUNUSU9OX0xPQ0FUSU9OKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRzZC5zZXRNaW5pbXVtU2l6ZShuZXcgRGltZW5zaW9uKDUwMCwgNTAwKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRzZC5zZXRUaXRsZShEaWMuZ2V0KCJ3ZWJlci5kaWFsb2cuc2VsZWN0LnByb2plY3RzIiwgIkFzc2lnbiBwcm9qZWN0cyIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb2JqZWN0cy5hZGQodGVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIHRzZC5zZXRNaW5pbXVtU2l6ZShuZXcgRGltZW5zaW9uKDUwMCwgNTAwKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQmxhIHRlc3QgPSBuZXcgQmxhKHRhYmxlT2JqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgb2JqZWN0cy5hZGQodGVzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQmxhIHRlc3QgPSBuZXcgQmxhKHRhYmxlT2JqZWN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQnJGb2xkZXIgdGFibGVPYmplY3QxID0gKEJyRm9sZGVyKSB0YWJsZU9iamVjdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFuY2VvCg==</text>
+        <text encoding="base64">ICAgICAgQnJGb2xkZXIgdGFibGVPYmplY3QxID0gKEJyRm9sZGVyKSB0YWJsZU9iamVjdDsK</text>
       </register>
     </registers>
     <search>
