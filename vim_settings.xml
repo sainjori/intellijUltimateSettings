@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510669846493">
-        <mark key="'" line="96" column="29" />
-        <mark key="[" line="121" column="58" />
-        <mark key="]" line="121" column="68" />
-        <mark key="." line="121" column="68" />
-        <mark key="^" line="121" column="68" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510675034889">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="50" column="73" />
+        <mark key="]" line="50" column="72" />
+        <mark key="." line="50" column="72" />
+        <mark key="^" line="50" column="72" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" timestamp="1510673278775">
         <mark key="'" line="915" column="29" />
@@ -115,7 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="99" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="100" column="67" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="106" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
@@ -215,13 +214,14 @@
       <jump line="22" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrCustLongTextObject.java" />
       <jump line="50" column="80" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrCustLongTextObject.java" />
       <jump line="915" column="29" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" />
+      <jump line="84" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getPart</text>
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>getPart</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
