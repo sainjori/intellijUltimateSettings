@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510756913654">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510757873081">
         <mark key="'" line="135" column="6" />
-        <mark key="[" line="117" column="7" />
-        <mark key="]" line="117" column="28" />
-        <mark key="." line="117" column="28" />
-        <mark key="^" line="117" column="28" />
+        <mark key="[" line="171" column="73" />
+        <mark key="]" line="173" column="20" />
+        <mark key="." line="173" column="20" />
+        <mark key="^" line="173" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" timestamp="1510673278775">
         <mark key="'" line="915" column="29" />
@@ -173,6 +173,9 @@
         <mark key="^" line="131" column="20" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCopyStruct.java" timestamp="1510757802987">
+        <mark key="'" line="697" column="79" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/brobj/BrFolder.java" timestamp="1510745893264" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base2/dashboard/dashboard-backend/pom.xml" timestamp="1510249530580">
         <mark key="[" line="214" column="21" />
@@ -210,9 +213,9 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/fld/ProcessFolderCopyStructure.java" timestamp="1510757905079" />
     </filemarks>
     <jumps>
-      <jump line="110" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
       <jump line="129" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="24" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="64" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
@@ -312,13 +315,14 @@
       <jump line="484" column="2" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" />
       <jump line="135" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="95" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" />
+      <jump line="697" column="79" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCopyStruct.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>brPlmObject</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>brPlmObject</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmpldHNDaGFyYWN0ZXJpc3RpY1w+</text>
@@ -327,34 +331,34 @@
         <text>brPlmObject</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlICBzZWxlY3RlZFRlbXBsYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGtleSA9IG9iclByb3BlcnR5LmdldEtleSgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEFycmF5TGlzdDxTdHJpbmc+IHByZXNldFR5cGVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPiBzdHJpbmdTdHJpbmdFbnRyeSA6IHRlbXBsYXRlTmFtZXMuZW50cnlTZXQoKSkKICAgIHsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">IC8vKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAvLwogIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvcHlyaWdodCAoYykgMjAwOAogIC8vICAgICAgICAgICAgICAgICAgICBEU0MgU29mdHdhcmUgQUcsIEthcmxzcnVoZSwgR2VybWFueQogIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFsbCByaWdodHMgcmVzZXJ2ZWQKICAvLwogIC8vICAgICAgICBUaGUgY29udGVudHMgb2YgdGhpcyBmaWxlIGlzIGFuIHVucHVibGlzaGVkIHdvcmsgcHJvdGVjdGVkCiAgLy8gICAgICAgIHVuZGVyIHRoZSBjb3B5cmlnaHQgbGF3IG9mIHRoZSBGZWRlcmFsIFJlcHVibGljIG9mIEdlcm1hbnkKICAvLwogIC8vICAgICAgICBUaGlzIHNvZnR3YXJlIGlzIHByb3ByaWV0YXJ5IHRvIGFuZCBlbWJvZGRpZXMgY29uZmlkZW50aWFsCiAgLy8gICAgICAgIHRlY2hub2xvZ3kgb2YgRFNDIFNvZnR3YXJlIEFHLiBQb3NzZXNzaW9uLCB1c2UgYW5kIGNvcHlpbmcKICAvLyAgICAgICAgb2YgdGhlIHNvZnR3YXJlIGFuZCBtZWRpYSBpcyBhdXRob3JpemVkIG9ubHkgcHVyc3VhbnQgdG8gYQogIC8vICAgICAgICB2YWxpZCB3cml0dGVuIGxpY2Vuc2UgZnJvbSBEU0MgU29mdHdhcmUgQUcuIFRoaXMgY29weXJpZ2h0CiAgLy8gICAgICAgIHN0YXRlbWVudCBtdXN0IGJlIHZpc2libHkgaW5jbHVkZWQgaW4gYWxsIGNvcGllcy4KICAvLwogIC8vKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKCiAgLy8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogIC8vCiAgLy8gICRSZXZpc2lvbjogNzQwMjQgJCAoJERhdGU6IDIwMTctMDUtMzEgMTQ6NDQ6MTYgKzAyMDAgKE1pLCAzMSBNYWkgMjAxNykgJCkKICAvLwogIC8vICBmaWxlbmFtZSAgICA6IE9tZkZsZENvcHlTdHJ1Y3QuamF2YQogIC8vCiAgLy8gIGNvbnRlbnRzICAgIDogQ29weSBhIGZvbGRlciBzdHJ1Y3R1cmUKICAvLwogIC8vICBjcmVhdGVkIGF0ICA6IFNlcHRlbWJlciwgMjAwOAogIC8vICBjcmVhdGVkIGJ5ICA6IEZQLCBEU0MgU29mdHdhcmUgQUcsIEthcmxzcnVoZSwgR2VybWFueQogIC8vCiAgLy8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoKcGFja2FnZSBwbG0ub21mOwoKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLk1hcDsKaW1wb3J0IGphdmEudXRpbC5WZWN0b3I7CmltcG9ydCBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnM7CgppbXBvcnQgcGxtLmJyb2JqLkJyRm9sZGVyOwppbXBvcnQgcGxtLmJyb2JqLkJyTWF0ZXJpYWw7CmltcG9ydCBwbG0uYnJvYmouQnJPYmpGYWN0b3J5OwppbXBvcnQgcGxtLmJyb2JqLkJyUGxtT2JqZWN0OwppbXBvcnQgcGxtLmJyb2JqLkJyUHNwRWxlbWVudDsKaW1wb3J0IHBsbS5ndWkuR3VpVXRpbHM7CmltcG9ydCBwbG0uZ3VpLmVycm9yZGlhbG9nLkVycm9yRGlhbG9nOwppbXBvcnQgcGxtLm1vZHVsZXMucHMuYnJvYmouQnJQU1Byb2plY3Q7CmltcG9ydCBwbG0uc2Vzcy5QbG1TZXNzaW9uTWFuYWdlcjsKaW1wb3J0IHBsbS51dGlscy5PbWZVdGlsczsKaW1wb3J0IHBsbS51dGlscy5QbG1Eb2N1bWVudFNhdmVBc1V0aWxzOwoKaW1wb3J0IGNhZGFnZW50LmNmYy5kaWMuRGljOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeEtleVZhbHVlOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmxvZy5EZWZhdWx0TG9nRXhjZXB0aW9uOwppbXBvcnQgY2FkYWdlbnQuY2ZjLnByZWYuUHJlZmVyZW5jZXM7CmltcG9ydCBjYWRhZ2VudC5jZmMudXRpbC5TdHJpbmdUb29sOwppbXBvcnQgY2FkYWdlbnQuY2ZjLnV0aWwuVHJhY2U7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLkRlZmF1bHRCcm93c2VPYmplY3Q7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLk9iamVjdE1hbmFnZXJHdWk7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLk9ick1vZGVsSW50ZXJmYWNlOwppbXBvcnQgY2FkYWdlbnQuZ3VpLm9ici5PYnJPYmplY3Q7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLk9iclByb3BlcnR5OwppbXBvcnQgY2FkYWdlbnQuZ3VpLm9ici5kbGcuT2JqZWN0RWRpdERpYWxvZzsKaW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuZm5jLk9ickZ1bmN0aW9uRXZlbnQ7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLmZuYy5PYnJGdW5jdGlvbkxpc3RlbmVyOwppbXBvcnQgY2FkYWdlbnQuZ3VpLm9ici50cmVlLk9ickV4dFRyZWVOb2RlOwppbXBvcnQgY2FkYWdlbnQub2JqbW9kLlBsbUFjY2VzczsKaW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsKaW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudENvbnRhaW5lcjsKaW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Gb2xkZXI7CmltcG9ydCBjYWRhZ2VudC5vYmptb2QuUGxtT2JqZWN0OwppbXBvcnQgY2FkYWdlbnQucHJvYy5EYXRhQ29udGFpbmVyOwppbXBvcnQgY2FkYWdlbnQucHJvYy5kb2MuUG9wRG9jTmV3VmVyc2lvbjsKaW1wb3J0IGNhZGFnZW50LnByb2MuZmxkLlByb2Nlc3NGb2xkZXJDb3B5U3RydWN0dXJlOwppbXBvcnQgY2FkYWdlbnQuc2FwLkJhcGlSZXR1cm5lZEVycm9yRXhjZXB0aW9uOwoKICAvKiogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAgICogQ29weSBhIGZvbGRlciBzdHJ1Y3R1cmUKICAgKgogICAqIEBhdXRob3IgRlAKICAgKiBAdmVyc2lvbiAkUmV2aXNpb246IDc0MDI0ICQgKCREYXRlOiAyMDE3LTA1LTMxIDE0OjQ0OjE2ICswMjAwIChNaSwgMzEgTWFpIDIwMTcpICQpCiAgICov</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlICBzZWxlY3RlZFRlbXBsYXRlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGtleSA9IG9iclByb3BlcnR5LmdldEtleSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVzLmFkZChuZXcgR3hLZXlWYWx1ZSgiZmVmZWZlZmVmZWYiLCAiZmVmZWFhYWFhYWFhYWFhYWFhYWFhYWEiKSk7Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5TGlzdDxTdHJpbmc+IHByZXNldFR5cGVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPiBzdHJpbmdTdHJpbmdFbnRyeSA6IHRlbXBsYXRlTmFtZXMuZW50cnlTZXQoKSkKICAgIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPiBzdHJpbmdTdHJpbmdFbnRyeSA6IHRlbXBsYXRlTmFtZXMuZW50cnlTZXQoKSkKICAgIHsKICAgICAgdmFsdWVzLmFkZChuZXcgR3hLZXlWYWx1ZSgiZmVmZWZlZmVmZWYiLCAiZmVmZWFhYWFhYWFhYWFhYWFhYWFhYWEiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
