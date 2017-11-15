@@ -45,9 +45,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GuiDesigner.QuickJavadoc" />
-  <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="shift n" />
-  </action>
+  <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
