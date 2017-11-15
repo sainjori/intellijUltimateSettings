@@ -102,11 +102,11 @@
         <mark key="^" line="7" column="57" />
         <mark key="." line="7" column="57" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/TemplateSelectionObrObject.java" timestamp="1510746653450">
-        <mark key="[" line="46" column="33" />
-        <mark key="]" line="46" column="53" />
-        <mark key="." line="46" column="53" />
-        <mark key="^" line="46" column="53" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/TemplateSelectionObrObject.java" timestamp="1510759079657">
+        <mark key="[" line="74" column="59" />
+        <mark key="]" line="74" column="75" />
+        <mark key="." line="74" column="75" />
+        <mark key="^" line="74" column="75" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1510688690453" />
       <file name="/a.sql" timestamp="1508751543353">
@@ -318,11 +318,11 @@
       <jump line="697" column="79" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCopyStruct.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Dic.get(&quot;SYSTEM.T.TYPE&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>Dic.get(&quot;SYSTEM.T.TYPE&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmpldHNDaGFyYWN0ZXJpc3RpY1w+</text>
