@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510762802525">
-        <mark key="'" line="175" column="70" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-        <mark key="^" line="195" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510765293427">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="213" column="3" />
+        <mark key="]" line="214" column="17" />
+        <mark key="." line="214" column="17" />
+        <mark key="^" line="214" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" timestamp="1510673278775">
         <mark key="'" line="915" column="29" />
@@ -135,8 +135,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/modules/fa/brobj/BrDNCFile.java" timestamp="1510657123251" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" timestamp="1510659292337">
-        <mark key="'" line="94" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" timestamp="1510764009960">
+        <mark key="'" line="122" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.module.ts" timestamp="1510326608345">
         <mark key="[" line="8" column="37" />
@@ -170,7 +170,7 @@
         <mark key="]" line="508" column="24" />
         <mark key="." line="508" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510745795927">
+      <file name="/Dummy.txt" timestamp="1510765162103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/DialogUtils.java" timestamp="1510680810239" />
@@ -180,7 +180,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="65" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1510743350008">
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1510765076961">
         <mark key="'" line="484" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/pom.xml" timestamp="1510255345777">
@@ -224,7 +224,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510762867657">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCopyInheritDestinationTraits.java" timestamp="1510764671881">
         <mark key="'" line="96" column="35" />
         <mark key="[" line="108" column="65" />
         <mark key="]" line="109" column="43" />
@@ -238,17 +238,15 @@
         <mark key="." line="21" column="45" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1510762608623">
+      <file name="/fragment.java" timestamp="1510765162085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/fld/ProcessFolderCopyStructure.java" timestamp="1510761378973" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/fld/ProcessFolderCopyStructure.java" timestamp="1510764591550" />
     </filemarks>
     <jumps>
-      <jump line="2" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.html" />
-      <jump line="3" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.html" />
       <jump line="170" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" />
       <jump line="123" column="44" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="38" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" />
@@ -347,49 +345,51 @@
       <jump line="115" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="71" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="175" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="122" column="6" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" />
+      <jump line="330" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9tZk9iamVjdFJlZnJlc2guCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;ffffffffffffffffffffffff&quot;);</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZFRlbXBsYXRlRm9sZGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGMuYWRkT2JqZWN0KFByb2Nlc3NGb2xkZXJDb3B5U3RydWN0dXJlLklOX0ZPTERFUiwgc2VsZWN0ZWRUZW1wbGF0ZUZvbGRlci5nZXRQbG1Gb2xkZXIoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>allChildrend</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9tZk9iamVjdFJlZnJlc2guCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9tZk9iamVjdFJlZnJlc2ggb21mT2JqZWN0UmVmcmVzaCA9IG5ldyBPbWZPYmplY3RSZWZyZXNoKCk7CiAgICBvbWZPYmplY3RSZWZyZXNoLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGZlZSA9IChCckZvbGRlcikgZm9sZGVyVGVtcGxhdGVzLnN0cmVhbSgpCg==</text>
+        <text encoding="base64">ICAgICAgZS5zZXRjCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IExpc3Q8UGxtRm9sZGVyPiBzdWJGb2xkZXJzID0gb2JqZWN0LmdldFN1YkZvbGRlcnMoKTsKCiAgICAgICAgZm9yIChQbG1Gb2xkZXIgc3ViRm9sZGVyIDogc3ViRm9sZGVycykKICAgICAgICB7CiAgICAgICAgICByZWFkRm9sZGVyQ2hpbGRyZW4oc3ViRm9sZGVyLCBhbGxDaGlsZHJlbmQpOwogICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC8vKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAvLwogIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvcHlyaWdodCAoYykgMjAwOAogIC8vICAgICAgICAgICAgICAgICAgICBEU0MgU29mdHdhcmUgQUcsIEthcmxzcnVoZSwgR2VybWFueQogIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFsbCByaWdodHMgcmVzZXJ2ZWQKICAvLwogIC8vICAgICAgICBUaGUgY29udGVudHMgb2YgdGhpcyBmaWxlIGlzIGFuIHVucHVibGlzaGVkIHdvcmsgcHJvdGVjdGVkCiAgLy8gICAgICAgIHVuZGVyIHRoZSBjb3B5cmlnaHQgbGF3IG9mIHRoZSBGZWRlcmFsIFJlcHVibGljIG9mIEdlcm1hbnkKICAvLwogIC8vICAgICAgICBUaGlzIHNvZnR3YXJlIGlzIHByb3ByaWV0YXJ5IHRvIGFuZCBlbWJvZGRpZXMgY29uZmlkZW50aWFsCiAgLy8gICAgICAgIHRlY2hub2xvZ3kgb2YgRFNDIFNvZnR3YXJlIEFHLiBQb3NzZXNzaW9uLCB1c2UgYW5kIGNvcHlpbmcKICAvLyAgICAgICAgb2YgdGhlIHNvZnR3YXJlIGFuZCBtZWRpYSBpcyBhdXRob3JpemVkIG9ubHkgcHVyc3VhbnQgdG8gYQogIC8vICAgICAgICB2YWxpZCB3cml0dGVuIGxpY2Vuc2UgZnJvbSBEU0MgU29mdHdhcmUgQUcuIFRoaXMgY29weXJpZ2h0CiAgLy8gICAgICAgIHN0YXRlbWVudCBtdXN0IGJlIHZpc2libHkgaW5jbHVkZWQgaW4gYWxsIGNvcGllcy4KICAvLwogIC8vKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKCiAgLy8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogIC8vCiAgLy8gICRSZXZpc2lvbjogNzQwMjQgJCAoJERhdGU6IDIwMTctMDUtMzEgMTQ6NDQ6MTYgKzAyMDAgKE1pLCAzMSBNYWkgMjAxNykgJCkKICAvLwogIC8vICBmaWxlbmFtZSAgICA6IE9tZkZsZENvcHlTdHJ1Y3QuamF2YQogIC8vCiAgLy8gIGNvbnRlbnRzICAgIDogQ29weSBhIGZvbGRlciBzdHJ1Y3R1cmUKICAvLwogIC8vICBjcmVhdGVkIGF0ICA6IFNlcHRlbWJlciwgMjAwOAogIC8vICBjcmVhdGVkIGJ5ICA6IEZQLCBEU0MgU29mdHdhcmUgQUcsIEthcmxzcnVoZSwgR2VybWFueQogIC8vCiAgLy8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoKcGFja2FnZSBwbG0ub21mOwoKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLk1hcDsKaW1wb3J0IGphdmEudXRpbC5WZWN0b3I7CmltcG9ydCBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnM7CgppbXBvcnQgcGxtLmJyb2JqLkJyRm9sZGVyOwppbXBvcnQgcGxtLmJyb2JqLkJyTWF0ZXJpYWw7CmltcG9ydCBwbG0uYnJvYmouQnJPYmpGYWN0b3J5OwppbXBvcnQgcGxtLmJyb2JqLkJyUGxtT2JqZWN0OwppbXBvcnQgcGxtLmJyb2JqLkJyUHNwRWxlbWVudDsKaW1wb3J0IHBsbS5ndWkuR3VpVXRpbHM7CmltcG9ydCBwbG0uZ3VpLmVycm9yZGlhbG9nLkVycm9yRGlhbG9nOwppbXBvcnQgcGxtLm1vZHVsZXMucHMuYnJvYmouQnJQU1Byb2plY3Q7CmltcG9ydCBwbG0uc2Vzcy5QbG1TZXNzaW9uTWFuYWdlcjsKaW1wb3J0IHBsbS51dGlscy5PbWZVdGlsczsKaW1wb3J0IHBsbS51dGlscy5QbG1Eb2N1bWVudFNhdmVBc1V0aWxzOwoKaW1wb3J0IGNhZGFnZW50LmNmYy5kaWMuRGljOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeEtleVZhbHVlOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmxvZy5EZWZhdWx0TG9nRXhjZXB0aW9uOwppbXBvcnQgY2FkYWdlbnQuY2ZjLnByZWYuUHJlZmVyZW5jZXM7CmltcG9ydCBjYWRhZ2VudC5jZmMudXRpbC5TdHJpbmdUb29sOwppbXBvcnQgY2FkYWdlbnQuY2ZjLnV0aWwuVHJhY2U7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLkRlZmF1bHRCcm93c2VPYmplY3Q7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLk9iamVjdE1hbmFnZXJHdWk7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLk9ick1vZGVsSW50ZXJmYWNlOwppbXBvcnQgY2FkYWdlbnQuZ3VpLm9ici5PYnJPYmplY3Q7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLk9iclByb3BlcnR5OwppbXBvcnQgY2FkYWdlbnQuZ3VpLm9ici5kbGcuT2JqZWN0RWRpdERpYWxvZzsKaW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuZm5jLk9ickZ1bmN0aW9uRXZlbnQ7CmltcG9ydCBjYWRhZ2VudC5ndWkub2JyLmZuYy5PYnJGdW5jdGlvbkxpc3RlbmVyOwppbXBvcnQgY2FkYWdlbnQuZ3VpLm9ici50cmVlLk9ickV4dFRyZWVOb2RlOwppbXBvcnQgY2FkYWdlbnQub2JqbW9kLlBsbUFjY2VzczsKaW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsKaW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudENvbnRhaW5lcjsKaW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Gb2xkZXI7CmltcG9ydCBjYWRhZ2VudC5vYmptb2QuUGxtT2JqZWN0OwppbXBvcnQgY2FkYWdlbnQucHJvYy5EYXRhQ29udGFpbmVyOwppbXBvcnQgY2FkYWdlbnQucHJvYy5kb2MuUG9wRG9jTmV3VmVyc2lvbjsKaW1wb3J0IGNhZGFnZW50LnByb2MuZmxkLlByb2Nlc3NGb2xkZXJDb3B5U3RydWN0dXJlOwppbXBvcnQgY2FkYWdlbnQuc2FwLkJhcGlSZXR1cm5lZEVycm9yRXhjZXB0aW9uOwoKICAvKiogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAgICogQ29weSBhIGZvbGRlciBzdHJ1Y3R1cmUKICAgKgogICAqIEBhdXRob3IgRlAKICAgKiBAdmVyc2lvbiAkUmV2aXNpb246IDc0MDI0ICQgKCREYXRlOiAyMDE3LTA1LTMxIDE0OjQ0OjE2ICswMjAwIChNaSwgMzEgTWFpIDIwMTcpICQpCiAgICov</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlICBzZWxlY3RlZFRlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgIG9tZk9iamVjdFJlZnJlc2guCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGtleSA9IG9iclByb3BlcnR5LmdldEtleSgpOwo=</text>
+        <text encoding="base64">ICAgIE9tZk9iamVjdFJlZnJlc2ggb21mT2JqZWN0UmVmcmVzaCA9IG5ldyBPbWZPYmplY3RSZWZyZXNoKCk7CiAgICBvbWZPYmplY3RSZWZyZXNoLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIGZlZSA9IChCckZvbGRlcikgZm9sZGVyVGVtcGxhdGVzLnN0cmVhbSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
