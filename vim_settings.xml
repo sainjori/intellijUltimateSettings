@@ -3,19 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510842866992">
-        <mark key="'" line="333" column="6" />
-        <mark key="[" line="102" column="4" />
-        <mark key="]" line="102" column="4" />
-        <mark key="^" line="102" column="72" />
-        <mark key="." line="102" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510846496919">
+        <mark key="'" line="380" column="45" />
+        <mark key="[" line="99" column="38" />
+        <mark key="]" line="100" column="34" />
+        <mark key="." line="100" column="34" />
+        <mark key="^" line="100" column="34" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" timestamp="1510673278775">
+        <mark key="'" line="915" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1510676454705" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1510679243058" />
       <file name="/a.dummy" timestamp="1510840354529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1510842149329" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1510847169939">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsPlmProcessGetMatShortTexts2.java" timestamp="1510666733571">
         <mark key="'" line="236" column="4" />
         <mark key="[" line="47" column="13" />
@@ -64,6 +72,7 @@
         <mark key="[" line="13" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsVendorCreate.java" timestamp="1510688481303" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" timestamp="1510847106621" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/LicenseChangeRequest.java" timestamp="1510333840484">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -86,6 +95,9 @@
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1508761897584">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1510845408633">
+        <mark key="'" line="643" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1510670711788" />
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/gui/browser/DirBrowsePanel.java" timestamp="1510768334659" />
@@ -124,6 +136,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/modules/fa/brobj/BrDNCFile.java" timestamp="1510657123251" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/objmod/PlmFolder.java" timestamp="1510765943494">
+        <mark key="'" line="66" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.module.ts" timestamp="1510326608345">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="57" />
@@ -151,7 +166,7 @@
       <file name="/dummy.sql" timestamp="1510324596741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1510691874037" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1510846966903" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsTemplateFld.java" timestamp="1510838983999">
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
@@ -160,7 +175,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510841415401">
+      <file name="/Dummy.txt" timestamp="1510847221830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/DialogUtils.java" timestamp="1510680810239" />
@@ -171,12 +186,21 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="65" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1510765076961">
+        <mark key="'" line="484" column="2" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1510827578525" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/prefill/PrefillFolderInfo.java" timestamp="1510659971873" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldUserRevoke.java" timestamp="1510827724900" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCopyStruct.java" timestamp="1510761517169">
+        <mark key="'" line="697" column="79" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/brobj/BrFolder.java" timestamp="1510765500308">
+        <mark key="'" line="215" column="2" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base2/dashboard/dashboard-backend/pom.xml" timestamp="1510249530580">
         <mark key="[" line="214" column="21" />
       </file>
@@ -218,13 +242,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/fld/ProcessFolderCopyStructure.java" timestamp="1510764591550" />
     </filemarks>
     <jumps>
-      <jump line="108" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/LicenseEndpointApi.ts" />
-      <jump line="0" column="35" filename="/LicenseEndpoint.java" />
-      <jump line="91" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/fefe.java" />
-      <jump line="30" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/fefe.java" />
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/LicenseEndpointApi.ts" />
-      <jump line="178" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
-      <jump line="36" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="177" column="62" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="26" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="165" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
@@ -318,59 +335,68 @@
       <jump line="485" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="359" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="336" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="313" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="69" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="223" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="365" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="366" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="367" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
+      <jump line="392" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>OBJECT_TYPE</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>OBJECT_TYPE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZE9ick9iamVjdHNcPg==</text>
+        <text encoding="base64">XDxidG5cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGF0YUNvbnRhaW5lckJhY2suYWRkQm9vbChuZXcgRENLZXlPYmplY3Q8PigiQ0FOQ0VMTEVEIiksIHRydWUp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgZmluYWwgc3RhdGljIFN0cmluZyBDSEFSQUNURVJJU1RJQ05BTUUgPSAiQ0hBUkFDVEVSSVNUSUNOQU1FIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>characteristicDialog.setObjectChoices(getBrBhsCharacteristics(), BrBhsCharacteristic.OBJECT_TYPE);
-      characteristicDialog.setVisible(true);</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgVGFibGVTZWxlY3Rpb25EaWFsb2c8QnJEb2N1bWVudD4gY2hhcmFjdGVyaXN0aWNEaWFsb2c7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNldFNpbmdsZVNlbGVjdGlvbihmYWxzZSk7Cg==</text>
+      <register name="3" type="8">
+        <text>templateSelectionDlg
+templateSelectionDlg
+templateSelectionDlg
+templateSelectionDlg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNldERyYWdBbGxvd2VkKGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFycmF5TGlzdDxCckJoc0NoYXJhY3RlcmlzdGljPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBmb3IgKFBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMgb2JqZWN0IDogcGxtT2JqZWN0cykKICAgIHsKICAgICAgQnJCaHNDaGFyYWN0ZXJpc3RpYyBjaGFyYWN0ZXJpc3RpY09iamVjdCA9IG5ldyBCckJoc0NoYXJhY3RlcmlzdGljKG9iamVjdCk7CiAgICAgIHJlc3VsdC5hZGQoY2hhcmFjdGVyaXN0aWNPYmplY3QpOwogICAgfQogICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNldENhbmNlbEJ1dHRvblRleHQoRGljLmdldCgiU1lTVEVNLlQuQlROX0NMT1NFIiwgIkNsb3NlIikpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsbUNsYXNzIHBsbUNsYXNzID0gbmV4dC5nZXRQbG1DbGFzcygpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">dGVtcGxhdGVTZWxlY3Rpb25EbGcuYWRkQ29tcG9uZW50TGlzdGVuZXIobmV3IENvbXBvbmVudEFkYXB0ZXIoKQogICAgewogICAgICBAU3VwcHJlc3NXYXJuaW5ncyAoInVuY2hlY2tlZCIpCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgdm9pZCBjb21wb25lbnRSZXNpemVkKENvbXBvbmVudEV2ZW50IGUpCiAgICAgIHsKICAgICAgICBPYmplY3QgbyA9IGUuZ2V0U291cmNlKCk7CiAgICAgICAgaWYgKG8gaW5zdGFuY2VvZiBUYWJsZVNlbGVjdGlvbkRpYWxvZykKICAgICAgICB7CiAgICAgICAgICBUYWJsZVNlbGVjdGlvbkRpYWxvZzxPYnJPYmplY3Q+IGRpYWxvZyA9IChUYWJsZVNlbGVjdGlvbkRpYWxvZzxPYnJPYmplY3Q+KSBvOwogICAgICAgICAgRGltZW5zaW9uIG5ld2RpbSA9IGRpYWxvZy5nZXRTaXplKCk7CiAgICAgICAgICAvLyAgICAgICAgICBQcmVmZXJlbmNlcy5zZXRVc2VyVmFsdWUoInBsbS5tYXNzLmNoYW5nZS50YWJsZS5ndWkuc2l6ZS4iK2dldEd1aU9iamVjdFR5cGUoKSwgKGludCkgbmV3ZGltLmdldFdpZHRoKCkrIngiKyhpbnQpIG5ld2RpbS5nZXRIZWlnaHQoKSk7CiAgICAgICAgfQogICAgICB9CiAgICB9KTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLmFkZGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChwbG1Eb2N1bWVudFRhcmdldEZvbGRlcikK</text>
+        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNraXBPa0J1dHRvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHBsbURvY3VtZW50VGFyZ2V0Owo=</text>
+        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNraXBPa0J1dHRvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZE9ick9iamVjdHNcPg==</last-search>
+      <last-search encoding="base64">XDxidG5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZE9ick9iamVjdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidG5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -388,6 +414,7 @@
         <entry encoding="base64">XDxvYmpldHNDaGFyYWN0ZXJpc3RpY1w+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFRlbXBsYXRlRm9sZGVyXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZE9ick9iamVjdHNcPg==</entry>
+        <entry encoding="base64">XDxidG5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
