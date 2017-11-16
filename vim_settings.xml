@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510860841645">
-        <mark key="'" line="381" column="45" />
-        <mark key="[" line="118" column="11" />
-        <mark key="]" line="118" column="29" />
-        <mark key="." line="118" column="29" />
-        <mark key="^" line="118" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" timestamp="1510864592089">
+        <mark key="'" line="382" column="45" />
+        <mark key="[" line="254" column="13" />
+        <mark key="]" line="254" column="17" />
+        <mark key="." line="254" column="17" />
+        <mark key="^" line="254" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfAssemCfgCreate.java" timestamp="1510673278775">
         <mark key="'" line="915" column="29" />
@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1510840354529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1510861327534">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1510864209826">
         <mark key="'" line="36" column="88" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="66" column="10" />
+        <mark key="[" line="43" column="119" />
+        <mark key="]" line="43" column="119" />
+        <mark key="." line="43" column="119" />
+        <mark key="^" line="44" column="123" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1510667204565" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrtemplateSelectionObrObject.java" timestamp="1510838952754">
@@ -347,11 +347,11 @@
       <jump line="39" column="88" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIHZhbHVlID0g</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5cPg==</text>
@@ -360,34 +360,34 @@
         <text encoding="base64">ICAgIHJldHVybiBwbG1DbGFzc0NoYXJhY3RlcmlzdGljLmdldFBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMoKS5nZXROYW1lKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBsbVZhbHVlW10gdmFsdWVzID0gcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlcygpOwogICAgUGxtVmFsdWUgcGxtVmFsdWUgPSBudWxsOwogICAgaWYgKHZhbHVlcyAhPSBudWxsICYmIHZhbHVlcy5sZW5ndGggPT0gMSkKICAgIHsKICAgICAgIHBsbVZhbHVlID0gdmFsdWVzWzBdOwogICAgfQoKICAgIFN0cmluZyB2YWx1ZSA9IE9wdGlvbmFsLm9mTnVsbGFibGUocGxtVmFsdWUpLm1hcChlIC0+IGUuZ2V0VmFsdWUoKSkub3JFbHNlKCIiKTsK</text>
+        <text encoding="base64">ICAgID4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gcGxtVmFsdWVBc3NpZ25tZW50LmdldFBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMoKS5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIG5hbWUgPSBwbG1WYWx1ZUFzc2lnbm1lbnQuZ2V0UGxtQ2xhc3NDaGFyYWN0ZXJpc3RpYygpLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIHBsbU9iamVjdHMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gZS5nZXROYW1lKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsbVZhbHVlQXNzaWdubWVudC4K</text>
+        <text encoding="base64">ICAgIGNsYXNzQWxsb2NhdGlvbnMuZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGxtVmFsdWUgPSBpdGVyYXRvci5uZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMuZ2V0TmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgIHBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMuZ2V0TmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgIFBsbUNsYXNzQWxsb2NhdGlvbiBuZXh0ID0gY2xhc3NBbGxvY2F0aW9ucy5pdGVyYXRvcigpLm5leHQoKTsKICAgIENvbGxlY3Rpb248UGxtVmFsdWVBc3NpZ25tZW50PiBwbG1WYWx1ZUFzc2lnbm1lbnRzID0gbmV4dC5nZXRQbG1WYWx1ZUFzc2lnbm1lbnRzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsbVZhbHVlQXNzaWdubWVudHMuc3RyZWFtKCkubWFwKGUgLT4gZS4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
