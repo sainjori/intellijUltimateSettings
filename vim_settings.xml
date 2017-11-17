@@ -152,6 +152,11 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/pom.xml" timestamp="1510926778253">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/WaWa.java" timestamp="1510838264631">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -378,8 +383,8 @@
       <jump line="30" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsTemplateFld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CHARACTERISTICVALUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CHARACTERISTICVALUE</text>
@@ -403,22 +408,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ly8gICAgUGxtVmFsdWVbXSB2YWx1ZXMgPSBwbG1WYWx1ZUFzc2lnbm1lbnQuZ2V0VmFsdWVzKCk7CiAgICAvLyAgICBQbG1WYWx1ZSBwbG1WYWx1ZSA9IG51bGw7CiAgICAvLyAgICBpZiAodmFsdWVzICE9IG51bGwgJiYgdmFsdWVzLmxlbmd0aCA9PSAxKQogICAgLy8gICAgewogICAgLy8gICAgICBwbG1WYWx1ZSA9IHZhbHVlc1swXTsKICAgIC8vICAgIH0KICAgIC8vICAgIHJldHVybiBPcHRpb25hbC5vZk51bGxhYmxlKHBsbVZhbHVlKS5tYXAoZSAtPiBlLmdldFZhbHVlKCkpLm9yRWxzZSgiIik7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBycC5zZXRGaWVsZFRhYmVUeXBlKFBsbURvY3VtZW50LlRBQkxFX1RZUEUpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHBycC5zZXRGaWVsZFRhYmVUeXBlKFBsbURvY3VtZW50LlRBQkxFX1RZUEUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHBycC5zZXRGaWVsZFRhYmVUeXBlKFBsbURvY3VtZW50LlRBQkxFX1RZUEUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
