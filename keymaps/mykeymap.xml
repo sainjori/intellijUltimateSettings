@@ -45,6 +45,10 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GuiDesigner.QuickJavadoc" />
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="alt #10000c4" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
