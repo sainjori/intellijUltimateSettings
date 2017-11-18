@@ -1,0 +1,17 @@
+<templateSet group="surround">
+  <template name="1" value="{$SELECTION$}" description="Surround with {}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="J" value="String s = String.join($SELECTION$)" description="String join" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

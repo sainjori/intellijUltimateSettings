@@ -58,11 +58,20 @@
       <file name="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/model/Persons.java" timestamp="1510784833103">
         <mark key="'" line="31" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/stream/IntStream.java" timestamp="1511016646732">
+        <mark key="'" line="116" column="18" />
+      </file>
       <file name="/dummy.sql" timestamp="1509123758834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1508761896017">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/StringIOOtherBitsMod4.java" timestamp="1511019190183">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+        <mark key="^" line="51" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/CollectorsExample.java" timestamp="1510787066325">
         <mark key="'" line="23" column="0" />
@@ -98,7 +107,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510785029695">
+      <file name="/fragment.java" timestamp="1511018410035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -144,46 +153,48 @@
       <jump line="8" column="4" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/CollectorsExample.java" />
       <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/model/Persons.java" />
       <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/model/Person.java" />
+      <jump line="116" column="18" filename="C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/stream/IntStream.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/learnJava8/src/org/barry/StringIOOtherBitsMod4.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toCollection(TreeSet::new)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>toCollection(TreeSet::new)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>exec</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgU2V0PFN0cmluZz4+IG1hcCA9IHBlcnNvbnMuc3RyZWFtKCkuCiAgICAgICAgICAgICAgICBjb2xsZWN0KAogICAgICAgICAgICAgICAgICAgICAgICBDb2xsZWN0b3JzLmdyb3VwaW5nQnkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGVyc29uOjpnZXRBZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVjdG9ycy5tYXBwaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGVyc29uOjpnZXROYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVjdG9ycy50b0NvbGxlY3Rpb24oVHJlZVNldDo6bmV3KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICJvbmUiLCAidHdvIiwgInRocmVlIiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0uZmlsdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5iYXJyeS5tb2RlbC5QZXJzb25zOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBqCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtPFN0cmluZz4gbGluZXMgPSBidWZmZXJlZFJlYWRlci5saW5lcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2pvaW5XaXRoSXRlcmFibGUgPSBqb2luMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cncK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cgo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8SW50ZWdlcj4gbGlzdCA9IEFycmF5cy5hc0xpc3QoMTAsMTAsMTApOwovLyAgICAgICAgTGlzdDxJbnRlZ2VyPiBsaXN0ID0gQXJyYXlzLmFzTGlzdCgxMCwxMCk7Ci8vICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuYXNMaXN0KCk7Ci8vICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuYXNMaXN0KDEwKTsKCiAgICAgICAgLy9Qcm9ibGVtOiBJIHdhbnQgdG8ga25vdyBmcm9tIHRoaXMgd2hhdGlzIG1heDogQnV0IDAgaXMgYWxzbyBpbnZvbHZlZCEKICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBBcnJheXMuYXNMaXN0KC0xMCwgLTEwKTsKCi8vICAgICAgICBsaXN0LnN0cmVhbSgpCi8vICAgICAgICAgICAgICAgIC5yZWR1Y2UoMCwgKGkxLCBpMikgLT4gaTEgKyBpMik7CiAgICAgICAgT3B0aW9uYWw8SW50ZWdlcj4gcmVkID0KICAgICAgICAgICAgICAgIGxpc3Quc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgLy9Tb2x1dGlvbjogcmVtb3ZlIGlkZW50aXR5IHZhbHVlCi8vICAgICAgICAgICAgICAgICAgICAgICAgLnJlZHVjZShJbnRlZ2VyOjptYXgpOyAvLyB0aGlzIHZlcnNpb24gZG9lc250IGNvbXBpbGUoY2hhbmdlIHJldHVybiB0byBvcHRpb25hbCkKICAgICAgICAgICAgICAgICAgICAgICAgLnJlZHVjZShJbnRlZ2VyOjptYXgpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVkKTsKICAgICAgICAvLyEhIE9wdGlvbmFscyBuZWVkZWQgYmVjYXVzZSBkZWZhdWx0IHZhbHVlcyBjYW50IGFsd2F5cyBiZSBkZWZpbmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAiLCAiLCAib25lIiwgInR3byIsICJ0aHJlZSIuc3RqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEludGVnZXIgYXBwbHkoSW50ZWdlciBpMSwgSW50ZWdlciBpMikKICAgIHsKICAgICAgICByZXR1cm4gaTEgKyBpMjsKICAgIH0K</text>
+        <text encoding="base64">V0wK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9uZSgpCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRpCg==</text>
       </register>
     </registers>
     <search>
