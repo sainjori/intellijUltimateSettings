@@ -127,10 +127,11 @@
         <mark key="." line="1065" column="36" />
         <mark key="^" line="1065" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511181390110">
-        <mark key="]" line="71" column="37" />
-        <mark key="^" line="71" column="37" />
-        <mark key="." line="71" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/proc/PlmProcessReadOmTree.java" timestamp="1511187100988" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511186515238">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/a.sql" timestamp="1508751543353">
         <mark key="[" line="0" column="0" />
@@ -165,7 +166,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511177904173">
+      <file name="/Dummy.txt" timestamp="1511186744444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1510951293892">
@@ -313,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTcGVjaWFsIHVzZSBvZiBhIGd1YXJkOgo=</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShQcmVmZXJlbmNlcy5zdHJpbmdMaXN0KCkpLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>if there are no pending changes, just allow deactivation; else confirm first</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJiZWRQYW5lXD4=</text>
@@ -325,31 +326,31 @@
         <text>OUT_CREATED_FOLDER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTcGVjaWFsIHVzZSBvZiBhIGd1YXJkOgo=</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShQcmVmZXJlbmNlcy5zdHJpbmdMaXN0KCkpLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTcGUK</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShQcmVmZXJlbmNlcy5zdHJpbmdMaXN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXNwb25zZUxpY2Vuc2VWYWxpZH0gZnJvbSAiLi4vLi4vc2VydmljZXMvbW9kZWwvUmVzcG9uc2VMaWNlbnNlVmFsaWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTcGVjaWFsIHVzZSBvZiBhIGd1YXJkOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gcHJvcGVydHlOYW1lTWFwPzogeyBbaWQ6IHN0cmluZ106IHN0cmluZyB9ID0ge307Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSZXNwb25zZUxpY2Vuc2VWYWxpZH0gZnJvbSAiLi4vLi4vc2VydmljZXMvbW9kZWwvUmVzcG9uc2VMaWNlbnNlVmFsaWQiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9sb2FkRGF0YSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gcHJvcGVydHlOYW1lTWFwPzogeyBbaWQ6IHN0cmluZ106IHN0cmluZyB9ID0ge307Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgY29uZmlnRGVmaW5pdGlvbkVuZHBvaW50QXBpOiBDb25maWdEZWZpbml0aW9uRW5kcG9pbnRBcGksCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9sb2FkRGF0YSgpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
