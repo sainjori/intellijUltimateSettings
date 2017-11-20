@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1510840354529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1511194173327">
-        <mark key="'" line="40" column="88" />
-        <mark key="[" line="57" column="72" />
-        <mark key="]" line="57" column="72" />
-        <mark key="^" line="57" column="72" />
-        <mark key="." line="57" column="72" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1511196555743">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="22" />
+        <mark key="." line="87" column="22" />
+        <mark key="^" line="87" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsPlmProcessGetMatShortTexts2.java" timestamp="1510666733571">
         <mark key="'" line="236" column="4" />
@@ -52,6 +52,7 @@
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfObjectRefresh.java" timestamp="1511197554281" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/test.java" timestamp="1510666983395">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="23" column="13" />
@@ -59,6 +60,8 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="15" />
       </file>
+      <file name="/BhsProcessCloneFolderInheritTraits.java" timestamp="1511197748318" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1511196483880" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1508761896017">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +97,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
+      <file name="/OmfBhsInheritFolderTraits.java" timestamp="1511200056224" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1510928607194">
         <mark key="'" line="640" column="0" />
         <mark key="[" line="675" column="29" />
@@ -114,12 +118,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1511194248877">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1511201021853">
         <mark key="'" line="65" column="85" />
-        <mark key="[" line="115" column="88" />
-        <mark key="]" line="115" column="88" />
-        <mark key="." line="115" column="88" />
-        <mark key="^" line="115" column="88" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="111" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" timestamp="1510941775472">
         <mark key="'" line="129" column="37" />
@@ -129,15 +133,16 @@
         <mark key="^" line="1065" column="36" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/proc/PlmProcessReadOmTree.java" timestamp="1511187721019" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511193356492">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="123" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511200679976">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="114" column="30" />
       </file>
       <file name="/a.sql" timestamp="1508751543353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/utils/PlmUtils.java" timestamp="1511198457875" />
       <file name="/JavaScript Console" timestamp="1508497814097">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,7 +167,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511188453105">
+      <file name="/Dummy.txt" timestamp="1511198894278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511190461447">
@@ -193,7 +198,7 @@
         <mark key="." line="71" column="32" />
         <mark key="^" line="71" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1511191754790">
+      <file name="/fragment.java" timestamp="1511200213117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="34" />
@@ -202,8 +207,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/fld/ProcessFolderCopyStructure.java" timestamp="1511191846940" />
     </filemarks>
     <jumps>
-      <jump line="117" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
-      <jump line="131" column="92" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="134" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="135" column="64" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="207" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
@@ -302,49 +305,51 @@
       <jump line="153" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" />
       <jump line="63" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" />
       <jump line="65" column="85" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
+      <jump line="46" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" />
+      <jump line="111" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICBMaXN0PE9ick9iamVjdD4gY2hpbGRyZW4gPSBvbV9tb2RlbC5nZXRDaGlsZHJlbihldmVudC5nZXRPYnJDb250ZXh0S2V5KCksIHNlbGVjdGVkRm9sZGVyLmdldE9iamVjdEtleSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>MODE_UPDATE_AND_ADDEMPTY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPVVRfQ1JFQVRFRF9GT0xERVJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBsbUZvbGRlciBvYmplY3QgPSBkYXRhLmdldE9iamVjdChQcm9jZXNzRm9sZGVyQ29weVN0cnVjdHVyZS5PVVRfRk9MREVSKTsK</text>
+        <text encoding="base64">ICAgIHBycC5zZXRCYWNrZ3JvdW5kQ29sb3IoamF2YS5hd3QuQ29sb3IuR1JBWSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQXJyYXlzLmFzTGlzdCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICBMaXN0PE9ick9iamVjdD4gY2hpbGRyZW4gPSBvbV9tb2RlbC5nZXRDaGlsZHJlbihldmVudC5nZXRPYnJDb250ZXh0S2V5KCksIHNlbGVjdGVkRm9sZGVyLmdldE9iamVjdEtleSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXJhY3RlcmlzdGljU2VsZWN0aW9uLnNldFNob3dQcmV2aWV3KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBjYW5jZWxsZWQgPSBvdXREYXRhLmdldEJvb2woIkNBTkNFTExFRCIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFDb250YWluZXJCYWNrLmFkZEJvb2wobmV3IERDS2V5T2JqZWN0PD4oIkNBTkNFTExFRCIpLAogICAgICAgICF0ZW1wbGF0ZVNlbGVjdGlvbkRpYWxvZy5pc09rUHJlc3NlZCgpIHx8IChjaGFyYWN0ZXJpc3RpY0RpYWxvZyA9PSBudWxsIHx8IGNoYXJhY3RlcmlzdGljRGlhbG9nLmlzT2tQcmVzc2VkKCkpID8KICAgICAgICAgICAgdHJ1ZSA6CiAgICAgICAgICAgIGZhbHNlKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgTGlzdDxPYnJPYmplY3Q+IGNoaWxkcmVuID0gb21fbW9kZWwuZ2V0Q2hpbGRyZW4oZXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpLCBzZWxlY3RlZEZvbGRlci5nZXRPYmplY3RLZXkoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb21fbW9kZWwucHV0T2JqZWN0KGV2ZW50LmdldE9ickNvbnRleHRLZXkoKSwgc2VsZWN0ZWRGb2xkZXIuZ2V0T2JqZWN0S2V5KCksIGNoaWxkcmVuLCBPYnJNb2RlbEludGVyZmFjZS5NT0RFX1VQREFURV9BTkRfQURERU1QVFkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb21fbW9kZWwucHV0T2JqZWN0KCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNPa1ByZXNzZWRPclNraXBwZWQoVGFibGVTZWxlY3Rpb25EaWFsb2c8QnJCaHNDaGFyYWN0ZXJpc3RpYz4gY2hhcmFjdGVyaXN0aWNEaWFsb2cpIHsKICAgIHJldHVybiBjaGFyYWN0ZXJpc3RpY0RpYWxvZy5pc09rUHJlc3NlZCgpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lID0gc3BsaXRbMF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgLy8gaW4gQmF1bSBlaW5iYXVlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChickJoc0NoYXJhY3RlcmlzdGljcy5zaXplKCkgPiAwKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKG91dENyZWF0ZWRGb2xkZXIuaGFzTm9FcnJvcnMoKSkKICAgICAgewogICAgICAgIG9tX21vZGVsLnB1dE9iamVjdChldmVudC5nZXRPYnJDb250ZXh0S2V5KCksIHNlbGVjdGVkRm9sZGVyLmdldE9iamVjdEtleSgpLCBicmZsZCk7CiAgICAgICAgb21fbW9kZWwucHV0T2JqZWN0KGV2ZW50LmdldE9ickNvbnRleHRLZXkoKSwgYnJmbGQuZ2V0T2JqZWN0S2V5KCksIEJyT2JqRW1wdHkuZ2V0SW5zdCgpKTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
