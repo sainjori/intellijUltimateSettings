@@ -75,11 +75,10 @@
         <mark key="." line="107" column="25" />
         <mark key="^" line="107" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/leavelicencepageGuard.ts" timestamp="1511179377707">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/leavelicencepageGuard.ts" timestamp="1511180892054">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/pom.xml" timestamp="1510928134232">
         <mark key="[" line="18" column="0" />
@@ -108,6 +107,12 @@
         <mark key="^" line="675" column="31" />
         <mark key="." line="675" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1511180979370">
+        <mark key="[" line="141" column="63" />
+        <mark key="]" line="141" column="63" />
+        <mark key="^" line="141" column="63" />
+        <mark key="." line="141" column="63" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/TemplateSelectionObrObject.java" timestamp="1510838539211">
         <mark key="'" line="69" column="49" />
         <mark key="[" line="12" column="41" />
@@ -122,7 +127,7 @@
         <mark key="." line="1065" column="36" />
         <mark key="^" line="1065" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1510952161396">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511181390110">
         <mark key="]" line="71" column="37" />
         <mark key="^" line="71" column="37" />
         <mark key="." line="71" column="37" />
@@ -308,10 +313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXNwb25zZUxpY2Vuc2VWYWxpZH0gZnJvbSAiLi4vLi4vc2VydmljZXMvbW9kZWwvUmVzcG9uc2VMaWNlbnNlVmFsaWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTcGVjaWFsIHVzZSBvZiBhIGd1YXJkOgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>if there are no pending changes, just allow deactivation; else confirm first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJiZWRQYW5lXD4=</text>
@@ -320,34 +325,34 @@
         <text>OUT_CREATED_FOLDER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXNwb25zZUxpY2Vuc2VWYWxpZH0gZnJvbSAiLi4vLi4vc2VydmljZXMvbW9kZWwvUmVzcG9uc2VMaWNlbnNlVmFsaWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTcGVjaWFsIHVzZSBvZiBhIGd1YXJkOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gcHJvcGVydHlOYW1lTWFwPzogeyBbaWQ6IHN0cmluZ106IHN0cmluZyB9ID0ge307Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSZXNwb25zZUxpY2Vuc2VWYWxpZH0gZnJvbSAiLi4vLi4vc2VydmljZXMvbW9kZWwvUmVzcG9uc2VMaWNlbnNlVmFsaWQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9sb2FkRGF0YSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gcHJvcGVydHlOYW1lTWFwPzogeyBbaWQ6IHN0cmluZ106IHN0cmluZyB9ID0ge307Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgY29uZmlnRGVmaW5pdGlvbkVuZHBvaW50QXBpOiBDb25maWdEZWZpbml0aW9uRW5kcG9pbnRBcGksCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9sb2FkRGF0YSgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgY29uZmlnRGVmaW5pdGlvbkVuZHBvaW50QXBpOiBDb25maWdEZWZpbml0aW9uRW5kcG9pbnRBcGksCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgLy8gaWdub3JlZEV2ZW50SURzOiBzdHJpbmdbXSA9IFtdOwogICAgLy8gcHJpdmF0ZSBfaWdub3JlZEV2ZW50SWRQcmVmOiBQcmVmZXJlbmNlUG9qbzsKICAgIC8vCiAgICAvLyBpbnB1dFR5cGVzOiB7IFtpZDogc3RyaW5nXTogc3RyaW5nIH0gPSB7CiAgICAvLyAgICAgJ2ludGVnZXInOiAnbnVtYmVyJywKICAgIC8vICAgICAnYm9vbGVhbic6ICdjaGVja2JveCcsCiAgICAvLyAgICAgJ3N0cmluZyc6ICd0ZXh0JwogICAgLy8gfTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
