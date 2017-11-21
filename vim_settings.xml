@@ -52,7 +52,6 @@
       <file name="/__dummy.as" timestamp="1508765272877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfObjectRefresh.java" timestamp="1511197554281" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/test.java" timestamp="1510666983395">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="23" column="13" />
@@ -60,8 +59,6 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="/BhsProcessCloneFolderInheritTraits.java" timestamp="1511197748318" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1511196483880" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1508761896017">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,7 +94,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="/OmfBhsInheritFolderTraits.java" timestamp="1511200056224" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1510928607194">
         <mark key="'" line="640" column="0" />
         <mark key="[" line="675" column="29" />
@@ -118,12 +114,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1511265096545">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1511266876793">
         <mark key="'" line="79" column="50" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-        <mark key="^" line="172" column="7" />
+        <mark key="[" line="355" column="33" />
+        <mark key="]" line="355" column="42" />
+        <mark key="." line="355" column="42" />
+        <mark key="^" line="355" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" timestamp="1510941775472">
         <mark key="'" line="129" column="37" />
@@ -132,7 +128,6 @@
         <mark key="." line="1065" column="36" />
         <mark key="^" line="1065" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/proc/PlmProcessReadOmTree.java" timestamp="1511187721019" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511264990318">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -142,10 +137,10 @@
       <file name="/a.sql" timestamp="1508751543353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/utils/PlmUtils.java" timestamp="1511198457875" />
       <file name="/JavaScript Console" timestamp="1508497814097">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" timestamp="1511266692142" />
       <file name="/HTML File.txt.ft" timestamp="1508761899129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,6 +164,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1511198894278">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1511266813530">
+        <mark key="'" line="844" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511190461447">
         <mark key="'" line="484" column="2" />
@@ -204,10 +202,8 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/sapbase/java/src/cadagent/proc/fld/ProcessFolderCopyStructure.java" timestamp="1511191846940" />
     </filemarks>
     <jumps>
-      <jump line="276" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="303" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="332" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="129" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
@@ -307,10 +303,11 @@
       <jump line="294" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
       <jump line="445" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
       <jump line="79" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
+      <jump line="844" column="21" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiRXJyb3IiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>throws ParentClassificationError</text>
@@ -322,46 +319,34 @@
         <text>bhs.select.template.dialog.label.dropdown</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiRXJyb3IiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8vICAgIE9iclByb3BlcnR5IHR5cGVQcm9wZXJ0eSA9IHVzZXJfaW5wdXQuZ2V0T2JyUHJvcGVydHkoT21mRmxkQ3JlYXRlLkJyQmhzVGVtcGxhdGVGbGQuVFlQRSk7CiAgICAvLyAgICB0eXBlUHJvcGVydHkuYWRkVmFsdWVDaGFuZ2VkTGlzdGVuZXIobmV3IE9iclByb3BlcnR5Q2hhbmdlZExpc3RlbmVySUYoKQogICAgLy8gICAgewogICAgLy8gICAgICBAT3ZlcnJpZGUKICAgIC8vICAgICAgcHVibGljIHZvaWQgdmFsdWVDaGFuZ2VkKE9iclByb3BlcnR5IHBycCwgT2JqZWN0IG9sZF92YWx1ZSwgT2JqZWN0IG5ld192YWx1ZSkKICAgIC8vICAgICAgewogICAgLy8gICAgICAgIHVzZXJfaW5wdXQuaGFuZGxlVHlwZVNwZWNpZmljUHJvcGVydHlDb25maWd1cmF0aW9uKCk7CiAgICAvLyAgICAgICAgT2JyUHJvcGVydHkgbmFtZVByb3BlcnR5ID0gdXNlcl9pbnB1dC5nZXRPYnJQcm9wZXJ0eShPbWZGbGRDcmVhdGUuQnJCaHNUZW1wbGF0ZUZsZC5OQU1FKTsKICAgIC8vICAgICAgICBvYmplY3RFZGl0RGlhbG9nLnVwZGF0ZVVJQ29tcG9uZW50KG5hbWVQcm9wZXJ0eSk7CiAgICAvLyAgICAgIH0KICAgIC8vICAgIH0pOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgdmFsdWUgPSBPcHRpb25hbC5vZk51bGxhYmxlKGZyb21QbG1DaGFyLmdldFZhbHVlcygpLml0ZXJhdG9yKCkubmV4dCgpKS5tYXAoZSAtPiBlLmdldFZhbHVlKCkpLm9yRWxzZSgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBUUkFjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBjbGFzc0FsbG9jYXRpb25zID0gcGxtRG9jdW1lbnRUYXJnZXRGb2xkZXIuZ2V0Q2xhc3NBbGxvY2F0aW9ucygpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>public class ParentClassificationError extends DefaultLogException
-  {
-    public ParentClassificationError(String key, String name)
-    {
-      super(key, name);
-    }
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IC8vICAgIE9iclByb3BlcnR5IHR5cGVQcm9wZXJ0eSA9IHVzZXJfaW5wdXQuZ2V0T2JyUHJvcGVydHkoT21mRmxkQ3JlYXRlLkJyQmhzVGVtcGxhdGVGbGQuVFlQRSk7CiAgICAvLyAgICB0eXBlUHJvcGVydHkuYWRkVmFsdWVDaGFuZ2VkTGlzdGVuZXIobmV3IE9iclByb3BlcnR5Q2hhbmdlZExpc3RlbmVySUYoKQogICAgLy8gICAgewogICAgLy8gICAgICBAT3ZlcnJpZGUKICAgIC8vICAgICAgcHVibGljIHZvaWQgdmFsdWVDaGFuZ2VkKE9iclByb3BlcnR5IHBycCwgT2JqZWN0IG9sZF92YWx1ZSwgT2JqZWN0IG5ld192YWx1ZSkKICAgIC8vICAgICAgewogICAgLy8gICAgICAgIHVzZXJfaW5wdXQuaGFuZGxlVHlwZVNwZWNpZmljUHJvcGVydHlDb25maWd1cmF0aW9uKCk7CiAgICAvLyAgICAgICAgT2JyUHJvcGVydHkgbmFtZVByb3BlcnR5ID0gdXNlcl9pbnB1dC5nZXRPYnJQcm9wZXJ0eShPbWZGbGRDcmVhdGUuQnJCaHNUZW1wbGF0ZUZsZC5OQU1FKTsKICAgIC8vICAgICAgICBvYmplY3RFZGl0RGlhbG9nLnVwZGF0ZVVJQ29tcG9uZW50KG5hbWVQcm9wZXJ0eSk7CiAgICAvLyAgICAgIH0KICAgIC8vICAgIH0pOw==</text>
       </register>
-      <register name="8" type="4">
-        <text>catch (BhsProcessCloneFolderInheritTraits.ParentClassificationError e)
-    {
-      if (e instanceof BhsProcessCloneFolderInheritTraits.ParentClassificationError)
-      {
-        GuiUtils.setStatusLineErrorText(e.getMessage());
-      }
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgdmFsdWUgPSBPcHRpb25hbC5vZk51bGxhYmxlKGZyb21QbG1DaGFyLmdldFZhbHVlcygpLml0ZXJhdG9yKCkubmV4dCgpKS5tYXAoZSAtPiBlLmdldFZhbHVlKCkpLm9yRWxzZSgiIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgIHNlbGVjdGVkVGVtcGxhdGUgPSBmb2xkZXJUZW1wbGF0ZXMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gZS5nZXRPYnJQcm9wZXJ0eShCckZvbGRlci5QUlBfTkFNRSkuZ2V0VmFsdWUoKS50b1N0cmluZygpLmVxdWFscyhrZXkxKSkuZmluZEFueSgpLmdldCgpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
