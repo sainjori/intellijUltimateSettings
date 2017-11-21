@@ -34,6 +34,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1510259885343">
         <mark key="[" line="80" column="14" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/utils/PlmClassHierarchyUtils.java" timestamp="1511280493158" />
       <file name="$USER_HOME$/IdeaProjects/untitled1/.gitignore" timestamp="1509554611335">
         <mark key="[" line="0" column="6" />
       </file>
@@ -73,16 +74,6 @@
         <mark key="." line="107" column="25" />
         <mark key="^" line="107" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/leavelicencepageGuard.ts" timestamp="1511180892054">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/pom.xml" timestamp="1510928134232">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/WaWa.java" timestamp="1510838264631">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -92,6 +83,7 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1508761897584">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/gui/CharacteristicFilterGui.java" timestamp="1511280526891" />
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
@@ -129,7 +121,7 @@
         <mark key="." line="1065" column="36" />
         <mark key="^" line="1065" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511280161054">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511280438273">
         <mark key="[" line="114" column="33" />
         <mark key="]" line="130" column="72" />
         <mark key="." line="130" column="72" />
@@ -163,7 +155,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511270859519">
+      <file name="/Dummy.txt" timestamp="1511280439298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1511266813530">
@@ -171,11 +163,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511190461447">
         <mark key="'" line="484" column="2" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.scss" timestamp="1511179089973">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1511180124811">
         <mark key="'" line="63" column="0" />
@@ -198,11 +185,11 @@
         <mark key="." line="71" column="32" />
         <mark key="^" line="71" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1511279034000">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
+      <file name="/fragment.java" timestamp="1511280711568">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="31" />
+        <mark key="." line="0" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -309,10 +296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>templateSelectionDialog</text>
+        <text>updateDisplay()</text>
       </register>
       <register name="-" type="4">
-        <text>templateSelectionDialog</text>
+        <text>updateDisplay()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJlbnRDbGFzc2lmaWNhdGlvbkVycm9yXD4=</text>
