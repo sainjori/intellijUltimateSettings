@@ -9,12 +9,12 @@
       <file name="/a.dummy" timestamp="1510840354529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1511287353592">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsCharacteristic.java" timestamp="1511289071971">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="87" column="19" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="22" />
-        <mark key="^" line="87" column="22" />
+        <mark key="[" line="76" column="83" />
+        <mark key="]" line="76" column="121" />
+        <mark key="." line="76" column="121" />
+        <mark key="^" line="76" column="121" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrModelInterface.java" timestamp="1511280155455" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1510259885343">
@@ -66,7 +66,7 @@
         <mark key="." line="105" column="27" />
         <mark key="^" line="105" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511286250371">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511289295197">
         <mark key="[" line="128" column="56" />
         <mark key="]" line="128" column="72" />
         <mark key="." line="128" column="72" />
@@ -116,11 +116,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base2/dashboard/dashboard-backend/pom.xml" timestamp="1510249530580">
         <mark key="[" line="214" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1511280711568">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
+      <file name="/fragment.java" timestamp="1511289108736">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="9" />
+        <mark key="." line="0" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -226,11 +226,11 @@
       <jump line="844" column="21" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>description</text>
       </register>
       <register name="-" type="4">
-        <text>contextKey</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJlbnRDbGFzc2lmaWNhdGlvbkVycm9yXD4=</text>
