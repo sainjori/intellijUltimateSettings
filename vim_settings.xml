@@ -23,6 +23,7 @@
         <mark key="." line="87" column="22" />
         <mark key="^" line="87" column="22" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrModelInterface.java" timestamp="1511280155455" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsPlmProcessGetMatShortTexts2.java" timestamp="1510666733571">
         <mark key="'" line="236" column="4" />
         <mark key="[" line="47" column="13" />
@@ -114,12 +115,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1511270857997">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1511279686426">
         <mark key="'" line="79" column="50" />
-        <mark key="[" line="355" column="33" />
-        <mark key="]" line="355" column="42" />
-        <mark key="." line="355" column="42" />
-        <mark key="^" line="355" column="42" />
+        <mark key="[" line="105" column="8" />
+        <mark key="]" line="105" column="27" />
+        <mark key="." line="105" column="27" />
+        <mark key="^" line="105" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" timestamp="1510941775472">
         <mark key="'" line="129" column="37" />
@@ -128,11 +129,11 @@
         <mark key="." line="1065" column="36" />
         <mark key="^" line="1065" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511270366135">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="114" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511280161054">
+        <mark key="[" line="114" column="33" />
+        <mark key="]" line="130" column="72" />
+        <mark key="." line="130" column="72" />
+        <mark key="^" line="130" column="72" />
       </file>
       <file name="/a.sql" timestamp="1508751543353">
         <mark key="[" line="0" column="0" />
@@ -186,6 +187,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" timestamp="1508872496834">
         <mark key="[" line="42" column="5" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/brobj/BrFolder.java" timestamp="1511279035939" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base2/dashboard/dashboard-backend/pom.xml" timestamp="1510249530580">
         <mark key="[" line="214" column="21" />
       </file>
@@ -196,7 +198,7 @@
         <mark key="." line="71" column="32" />
         <mark key="^" line="71" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1511270556876">
+      <file name="/fragment.java" timestamp="1511279034000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="34" />
@@ -306,50 +308,50 @@
       <jump line="844" column="21" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiRXJyb3IiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>templateSelectionDialog</text>
       </register>
       <register name="-" type="4">
-        <text>throws ParentClassificationError</text>
+        <text>templateSelectionDialog</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJlbnRDbGFzc2lmaWNhdGlvbkVycm9yXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>bhs.select.template.dialog.label.dropdown</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICh0ZW1wbGF0ZVNlbGVjdGlvbkRpYWxvZyAhPSBudWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiRXJyb3IiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbV9tb2RlbCA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwogICAgICAgIG9tX21vZGVsLnB1dE9iamVjdChldmVudC5nZXRPYnJDb250ZXh0S2V5KCksIHNlbGVjdGVkRm9sZGVyLmdldE9iamVjdEtleSgpLCBicmZsZCwgT2JyTW9kZWxJbnRlcmZhY2UuTU9ERV9VUERBVEVfQU5EX0FEREVNUFRZKTsKICAgICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7CiAgICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoInBsbS5vbWYuMDAxMiIsICJGb2xkZXIgJTEgY3JlYXRlZCBpbiBmb2xkZXIgJTIuIiwgb3V0Q3JlYXRlZEZvbGRlci5nZXREZXNjcmlwdGlvbigpLCBzZWxlY3RlZEZvbGRlci5nZXREZXNjcmlwdGlvbigpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUUkFjCg==</text>
+        <text encoding="base64">ICAgICAgICA3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBjbGFzc0FsbG9jYXRpb25zID0gcGxtRG9jdW1lbnRUYXJnZXRGb2xkZXIuZ2V0Q2xhc3NBbGxvY2F0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vICAgIE9iclByb3BlcnR5IHR5cGVQcm9wZXJ0eSA9IHVzZXJfaW5wdXQuZ2V0T2JyUHJvcGVydHkoT21mRmxkQ3JlYXRlLkJyQmhzVGVtcGxhdGVGbGQuVFlQRSk7CiAgICAvLyAgICB0eXBlUHJvcGVydHkuYWRkVmFsdWVDaGFuZ2VkTGlzdGVuZXIobmV3IE9iclByb3BlcnR5Q2hhbmdlZExpc3RlbmVySUYoKQogICAgLy8gICAgewogICAgLy8gICAgICBAT3ZlcnJpZGUKICAgIC8vICAgICAgcHVibGljIHZvaWQgdmFsdWVDaGFuZ2VkKE9iclByb3BlcnR5IHBycCwgT2JqZWN0IG9sZF92YWx1ZSwgT2JqZWN0IG5ld192YWx1ZSkKICAgIC8vICAgICAgewogICAgLy8gICAgICAgIHVzZXJfaW5wdXQuaGFuZGxlVHlwZVNwZWNpZmljUHJvcGVydHlDb25maWd1cmF0aW9uKCk7CiAgICAvLyAgICAgICAgT2JyUHJvcGVydHkgbmFtZVByb3BlcnR5ID0gdXNlcl9pbnB1dC5nZXRPYnJQcm9wZXJ0eShPbWZGbGRDcmVhdGUuQnJCaHNUZW1wbGF0ZUZsZC5OQU1FKTsKICAgIC8vICAgICAgICBvYmplY3RFZGl0RGlhbG9nLnVwZGF0ZVVJQ29tcG9uZW50KG5hbWVQcm9wZXJ0eSk7CiAgICAvLyAgICAgIH0KICAgIC8vICAgIH0pOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGJyRm9sZGVyLmkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgdmFsdWUgPSBPcHRpb25hbC5vZk51bGxhYmxlKGZyb21QbG1DaGFyLmdldFZhbHVlcygpLml0ZXJhdG9yKCkubmV4dCgpKS5tYXAoZSAtPiBlLmdldFZhbHVlKCkpLm9yRWxzZSgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgT2JyTW9kZWxJbnRlcmZhY2Ugb21fbW9kZWwgPSBQbG1TZXNzaW9uTWFuYWdlci5nZXRJbnN0KCkuZ2V0T2JyTW9kZWxJbnRlcmZhY2UoKTsKICAgICAgb21fbW9kZWwucHV0T2JqZWN0KGV2ZW50LmdldE9ickNvbnRleHRLZXkoKSwgc2VsZWN0ZWRGb2xkZXIuZ2V0T2JqZWN0S2V5KCksIGJyZmxkLCBPYnJNb2RlbEludGVyZmFjZS5NT0RFX1VQREFURV9BTkRfQURERU1QVFkpOwogICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>102</text>
+        <text>217</text>
       </register>
     </registers>
     <search>
@@ -386,6 +388,7 @@
         <entry>253</entry>
         <entry>291</entry>
         <entry>102</entry>
+        <entry>217</entry>
       </history-cmd>
       <history-expr />
       <history-input />
