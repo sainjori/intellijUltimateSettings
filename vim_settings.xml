@@ -87,6 +87,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1511285316958" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1510928607194">
         <mark key="'" line="640" column="0" />
         <mark key="[" line="675" column="29" />
@@ -121,11 +122,11 @@
         <mark key="." line="1065" column="36" />
         <mark key="^" line="1065" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511280438273">
-        <mark key="[" line="114" column="33" />
-        <mark key="]" line="130" column="72" />
-        <mark key="." line="130" column="72" />
-        <mark key="^" line="130" column="72" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1511286250371">
+        <mark key="[" line="128" column="56" />
+        <mark key="]" line="128" column="72" />
+        <mark key="." line="128" column="72" />
+        <mark key="^" line="128" column="72" />
       </file>
       <file name="/a.sql" timestamp="1508751543353">
         <mark key="[" line="0" column="0" />
@@ -161,7 +162,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1511266813530">
         <mark key="'" line="844" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511190461447">
+      <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511285239802">
         <mark key="'" line="484" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1511180124811">
@@ -295,11 +296,11 @@
       <jump line="844" column="21" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updateDisplay()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>updateDisplay()</text>
+        <text>contextKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJlbnRDbGFzc2lmaWNhdGlvbkVycm9yXD4=</text>
@@ -308,34 +309,34 @@
         <text encoding="base64">ICAgIGlmICh0ZW1wbGF0ZVNlbGVjdGlvbkRpYWxvZyAhPSBudWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbV9tb2RlbCA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwogICAgICAgIG9tX21vZGVsLnB1dE9iamVjdChldmVudC5nZXRPYnJDb250ZXh0S2V5KCksIHNlbGVjdGVkRm9sZGVyLmdldE9iamVjdEtleSgpLCBicmZsZCwgT2JyTW9kZWxJbnRlcmZhY2UuTU9ERV9VUERBVEVfQU5EX0FEREVNUFRZKTsKICAgICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7CiAgICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoInBsbS5vbWYuMDAxMiIsICJGb2xkZXIgJTEgY3JlYXRlZCBpbiBmb2xkZXIgJTIuIiwgb3V0Q3JlYXRlZEZvbGRlci5nZXREZXNjcmlwdGlvbigpLCBzZWxlY3RlZEZvbGRlci5nZXREZXNjcmlwdGlvbigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkudXBkYXRlRGlzcGxheSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA3Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbV9tb2RlbC5yZXBhaW50RGlzcGxheSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBvbV9tb2RlbC5wdXRPYmplY3QoZXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpLCBicmZsZC5nZXRPYmplY3RLZXkoKSwgQnJPYmpFbXB0eS5nZXRJbnN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGJyRm9sZGVyLmkpCg==</text>
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbV9tb2RlbCA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwogICAgICAgIG9tX21vZGVsLnB1dE9iamVjdChldmVudC5nZXRPYnJDb250ZXh0S2V5KCksIHNlbGVjdGVkRm9sZGVyLmdldE9iamVjdEtleSgpLCBicmZsZCwgT2JyTW9kZWxJbnRlcmZhY2UuTU9ERV9VUERBVEVfQU5EX0FEREVNUFRZKTsKICAgICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7CiAgICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoInBsbS5vbWYuMDAxMiIsICJGb2xkZXIgJTEgY3JlYXRlZCBpbiBmb2xkZXIgJTIuIiwgb3V0Q3JlYXRlZEZvbGRlci5nZXREZXNjcmlwdGlvbigpLCBzZWxlY3RlZEZvbGRlci5nZXREZXNjcmlwdGlvbigpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgT2JyTW9kZWxJbnRlcmZhY2Ugb21fbW9kZWwgPSBQbG1TZXNzaW9uTWFuYWdlci5nZXRJbnN0KCkuZ2V0T2JyTW9kZWxJbnRlcmZhY2UoKTsKICAgICAgb21fbW9kZWwucHV0T2JqZWN0KGV2ZW50LmdldE9ickNvbnRleHRLZXkoKSwgc2VsZWN0ZWRGb2xkZXIuZ2V0T2JqZWN0S2V5KCksIGJyZmxkLCBPYnJNb2RlbEludGVyZmFjZS5NT0RFX1VQREFURV9BTkRfQURERU1QVFkpOwogICAgICBvbV9tb2RlbC51cGRhdGVEaXNwbGF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
