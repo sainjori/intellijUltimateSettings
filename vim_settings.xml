@@ -93,7 +93,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/license.txt" timestamp="1510333527086">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportOnDTypeChange.java" timestamp="1511438907155" />
       <file name="/Dummy.txt" timestamp="1511361972593">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,11 +110,11 @@
         <mark key="]" line="156" column="22" />
         <mark key="." line="156" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1511441434542">
-        <mark key="[" line="54" column="2" />
-        <mark key="]" line="66" column="28" />
-        <mark key="." line="54" column="2" />
-        <mark key="^" line="54" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1511445341203">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/WaWa.java" timestamp="1510838264631">
         <mark key="[" line="12" column="13" />
@@ -132,7 +131,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base2/dashboard/dashboard-backend/pom.xml" timestamp="1510249530580">
         <mark key="[" line="214" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/omf/OmfSapUserParameterMaintain.java" timestamp="1511436920959" />
       <file name="/fragment.java" timestamp="1511432122297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -244,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGJ1aWxkPgogICAgPHBsdWdpbnM+CiAgICAgIDxwbHVnaW4+CiAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICA8dGFyZ2V0PjEuODwvdGFyZ2V0PgogICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgPC9wbHVnaW4+CiAgICA8L3BsdWdpbnM+CiAgPC9idWlsZD4KICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPg==</text>
+        <text>core</text>
       </register>
       <register name="-" type="4">
-        <text>TRUNK-SNAPSHOT</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlQ2hvb3Nlclw+</text>
