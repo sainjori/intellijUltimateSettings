@@ -1,12 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="annotations-1.1.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/dscsag/devtools/annotations/1.1.0/annotations-1.1.0.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="mysql-connector-java-5.1.40-bin">
       <CLASSES>
         <root url="jar://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/mysql-connector-java-5.1.40-bin.jar!/" />
