@@ -6,6 +6,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/test/java/MainControllerTest.java" timestamp="1508500506867">
         <mark key="[" line="12" column="42" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/grgg.java" timestamp="1511519556808">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom2.xml" timestamp="1511357573617">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -105,6 +112,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1511266813530">
         <mark key="'" line="844" column="21" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/resources/META-INF/services/cadagent.gui.obr.ObrFunctionManagerInterface" timestamp="1511519449234">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="32" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/fa/gui/FaSelectSingleToolDataDialog.java" timestamp="1511361998176">
         <mark key="'" line="80" column="23" />
       </file>
@@ -137,10 +150,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base2/dashboard/dashboard-backend/pom.xml" timestamp="1510249530580">
         <mark key="[" line="214" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatcDataImport.java" timestamp="1511517327193">
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/pst/omf/OmFunction.java" timestamp="1511519640722" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatcDataImport.java" timestamp="1511519848557">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="89" />
+        <mark key="^" line="6" column="89" />
+        <mark key="." line="6" column="89" />
       </file>
       <file name="/fragment.java" timestamp="1511517144786">
         <mark key="[" line="0" column="0" />
@@ -150,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="69" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="223" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="365" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
@@ -250,13 +264,14 @@
       <jump line="293" column="18" filename="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/fa/gui/FaSelectSingleToolDataDialog.java" />
       <jump line="299" column="22" filename="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/fa/gui/FaSelectSingleToolDataDialog.java" />
       <jump line="80" column="23" filename="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/fa/gui/FaSelectSingleToolDataDialog.java" />
+      <jump line="80" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/grgg.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.1.10.0</text>
+        <text>Roman Borgens</text>
       </register>
       <register name="-" type="4">
-        <text>5.1.10.0</text>
+        <text>Roman Borgens</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlQ2hvb3Nlclw+</text>
@@ -265,34 +280,80 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5iYXNlPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj48L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>import cadagent.cfc.util.Trace;
+import cadagent.gui.obr.ObrFunctionManagerInterface;
+import cadagent.gui.obr.fnc.ObrFunction;
+import cadagent.gui.obr.fnc.ObrFunctionListener;
+import cadagent.gui.obr.omf.StandardFunctions;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICA8IS0tPGdyb3VwSWQ+Y29tLmRzY3NhZy5kZXZ0b29sczwvZ3JvdXBJZD4tLT4KICAgICAgPCEtLTxhcnRpZmFjdElkPmFubm90YXRpb25zPC9hcnRpZmFjdElkPi0tPgogICAgICA8IS0tPHZlcnNpb24+MS4xLjA8L3ZlcnNpb24+LS0+CiAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
+        <text>//*****************************************************************************
+//
+//                            Copyright (c) 2015
+//                    DSC Software AG, Karlsruhe, Germany
+//                            All rights reserved
+//
+//        The contents of this file is an unpublished work protected
+//        under the copyright law of the Federal Republic of Germany
+//
+//        This software is proprietary to and emboddies confidential
+//        technology of DSC Software AG. Possession, use and copying
+//        of the software and media is authorized only pursuant to a
+//        valid written license from DSC Software AG. This copyright
+//        statement must be visibly included in all copies.
+//
+//*****************************************************************************
+
+//*****************************************************************************
+//
+// $Revision$ ($Date$)
+//
+// filename : OmFunction.java
+//
+// contents :
+//
+// created at : 11.09.2015
+// created by : Roman Borgens, DSC Software AG, Karlsruhe, Germany
+//
+//*****************************************************************************</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtwYXJlbnQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+      <register name="5" type="4">
+        <text>plm.modules.ruleeditor.omf.OmFunctionDocEditRulesets
+plm.modules.convert.omf.ConvertOmFunctions
+plm.modules.ps.omf.PsOmfFunctions
+plm.modules.apm.omf.ApmOmFunctions
+plm.modules.ug.omf.UgStructOmFunctions
+plm.modules.insplan.omf.IrOmFunctions
+plm.modules.sim.omf.SimOmfFunctions
+plm.prm.omf.PrmOmFunctions
+plm.omf.OmfDoc3DPreviewOmFunctions
+plm.recordsmng.omf.RecordsMngOMFunctions
+plm.modules.dataexchange.omf.DataExcOmFunctions
+plm.modules.pst.omf.OmFunction
+plm.modules.qualitymanagement.omf.QualityManagementOmFunctions
+plm.modules.sapsettings.omf.SapSettingsOmFunctions
+plm.modules.variantconfiguration.omf.VariantConfigurationOmFunctions</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+NS4xLjEwLjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj48L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGJ1aWxkPgogICAgPHBsdWdpbnM+CiAgICAgIDxwbHVnaW4+CiAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICA8dGFyZ2V0PjEuODwvdGFyZ2V0PgogICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgPC9wbHVnaW4+CiAgICA8L3BsdWdpbnM+CiAgPC9idWlsZD4KICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPg==</text>
+        <text encoding="base64">PCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICA8IS0tPGdyb3VwSWQ+Y29tLmRzY3NhZy5kZXZ0b29sczwvZ3JvdXBJZD4tLT4KICAgICAgPCEtLTxhcnRpZmFjdElkPmFubm90YXRpb25zPC9hcnRpZmFjdElkPi0tPgogICAgICA8IS0tPHZlcnNpb24+MS4xLjA8L3ZlcnNpb24+LS0+CiAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
@@ -395,6 +456,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
