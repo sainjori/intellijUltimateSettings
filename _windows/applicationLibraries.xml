@@ -1,17 +1,25 @@
 <application>
   <component name="libraryTable">
-    <library name="com.sun.xml.bind:jaxb-xjc:2.2.11" type="repository">
-      <properties maven-id="com.sun.xml.bind:jaxb-xjc:2.2.11" />
+    <library name="com.sun.xml.bind:jaxb-impl:2.2.7" type="repository">
+      <properties maven-id="com.sun.xml.bind:jaxb-impl:2.2.7" />
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-xjc/2.2.11/jaxb-xjc-2.2.11.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jaxb-impl-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jaxb-core-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jaxb-api-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/istack-commons-runtime-2.16.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/FastInfoset-1.2.12.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jsr173_api-1.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="com.sun.xml.bind:jaxb-xjc:2.2.111" type="repository">
-      <properties maven-id="com.sun.xml.bind:jaxb-xjc:2.2.11" />
+    <library name="com.sun.xml.bind:jaxb-xjc:2.2.7" type="repository">
+      <properties maven-id="com.sun.xml.bind:jaxb-xjc:2.2.7" />
       <CLASSES>
-        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/lib/jaxb-xjc-2.2.11.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jaxb-xjc-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jaxb-core-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/jaxb-api-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/lib/istack-commons-runtime-2.16.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
