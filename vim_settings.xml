@@ -9,6 +9,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/schemas/plmxmlschema/InertiaType.java" timestamp="1511814931179">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaProxyEndpoint.java" timestamp="1511177456188">
         <mark key="'" line="47" column="24" />
       </file>
@@ -83,6 +89,9 @@
         <mark key="]" line="33" column="78" />
         <mark key="^" line="33" column="78" />
         <mark key="." line="33" column="78" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/schemas/plmxmlschema/SetFilterType.java" timestamp="1511814941157">
+        <mark key="'" line="58" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/TCClassificationMappingProcess.java" timestamp="1511812589951">
         <mark key="'" line="58" column="2" />
@@ -204,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="4" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/ObjectEditDialog.java" />
       <jump line="125" column="19" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/ObjectEditDialog.java" />
       <jump line="126" column="18" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/dlg/ObjectEditDialog.java" />
       <jump line="181" column="8" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" />
@@ -304,13 +312,14 @@
       <jump line="30" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/doWorkProcess.java" />
       <jump line="114" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/doWorkProcess.java" />
       <jump line="121" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/DoWorkProcess.java" />
+      <jump line="64" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/schemas/plmxmlschema/SetFilterType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kfef</text>
+        <text>PropertyBase</text>
       </register>
       <register name="-" type="4">
-        <text>kfef</text>
+        <text>PropertyBase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZXNcPg==</text>
