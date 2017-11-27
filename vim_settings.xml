@@ -37,6 +37,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/StringTokenizer.java" timestamp="1511348193937">
         <mark key="'" line="219" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/samples/character-escape/src/Main.java" timestamp="1511800600868">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/sapbase/java/src/cadagent/proc/doc/ProcessDocGetList.java" timestamp="1511782299996">
         <mark key="'" line="570" column="32" />
       </file>
@@ -147,7 +152,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/samples/src/main/samples/modify-marshal/classes/Main.class" timestamp="1511797508687" />
-      <file name="/fragment.java" timestamp="1511797965123">
+      <file name="/fragment.java" timestamp="1511800699799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="34" />
@@ -260,11 +265,11 @@
       <jump line="570" column="32" filename="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/sapbase/java/src/cadagent/proc/doc/ProcessDocGetList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PurchaseOrderType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmJpbmQubWFyc2hhbGxlci5DaGFyYWN0ZXJFc2NhcGVIYW5kbGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>PurchaseOrderType</text>
+        <text>marshaller.CharacterEscapeHandler;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZXNcPg==</text>
@@ -273,80 +278,34 @@
         <text encoding="base64">ICAgICAgICAgICAgSkFYQkVsZW1lbnQgcG9lID0gCiAgICAgICAgICAgICAgICAoSkFYQkVsZW1lbnQpdS51bm1hcnNoYWwoIG5ldyBGaWxlSW5wdXRTdHJlYW0oICJwby54bWwiICkgKTsKCSAgICBQdXJjaGFzZU9yZGVyVHlwZSBwbyA9IChQdXJjaGFzZU9yZGVyVHlwZSlwb2UuZ2V0VmFsdWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFB1cmNoYXNlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmJpbmQubWFyc2hhbGxlci5DaGFyYWN0ZXJFc2NhcGVIYW5kbGVyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlVHJhbnNpdGl2ZT50cnVlPC9leGNsdWRlVHJhbnNpdGl2ZT4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmJpbmQubWFyc2hhbGxlci5DaGFyYWN0ZXJFc2NhcGVIYW5kbGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidHd3dyIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5iaW5kLk1hcnNoYWxsZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmJpbmQubWFyc2hhbGxlci5DaGFyYWN0ZXJFc2NhcGVIYW5kbGVyOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>import cadagent.cfc.util.Trace;
-import cadagent.gui.obr.ObrFunctionManagerInterface;
-import cadagent.gui.obr.fnc.ObrFunction;
-import cadagent.gui.obr.fnc.ObrFunctionListener;
-import cadagent.gui.obr.omf.StandardFunctions;</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmJpbmQubWFyc2hhbGxlci5DaGFyYWN0ZXJFc2NhcGVIYW5kbGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEN1c3RvbUNoYXJhY3RlckVzY2FwZUhhbmRsZXI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>//*****************************************************************************
-//
-//                            Copyright (c) 2015
-//                    DSC Software AG, Karlsruhe, Germany
-//                            All rights reserved
-//
-//        The contents of this file is an unpublished work protected
-//        under the copyright law of the Federal Republic of Germany
-//
-//        This software is proprietary to and emboddies confidential
-//        technology of DSC Software AG. Possession, use and copying
-//        of the software and media is authorized only pursuant to a
-//        valid written license from DSC Software AG. This copyright
-//        statement must be visibly included in all copies.
-//
-//*****************************************************************************
-
-//*****************************************************************************
-//
-// $Revision$ ($Date$)
-//
-// filename : OmFunction.java
-//
-// contents :
-//
-// created at : 11.09.2015
-// created by : Roman Borgens, DSC Software AG, Karlsruhe, Germany
-//
-//*****************************************************************************</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IFB1cmNoYXNlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>plm.modules.ruleeditor.omf.OmFunctionDocEditRulesets
-plm.modules.convert.omf.ConvertOmFunctions
-plm.modules.ps.omf.PsOmfFunctions
-plm.modules.apm.omf.ApmOmFunctions
-plm.modules.ug.omf.UgStructOmFunctions
-plm.modules.insplan.omf.IrOmFunctions
-plm.modules.sim.omf.SimOmfFunctions
-plm.prm.omf.PrmOmFunctions
-plm.omf.OmfDoc3DPreviewOmFunctions
-plm.recordsmng.omf.RecordsMngOMFunctions
-plm.modules.dataexchange.omf.DataExcOmFunctions
-plm.modules.pst.omf.OmFunction
-plm.modules.qualitymanagement.omf.QualityManagementOmFunctions
-plm.modules.sapsettings.omf.SapSettingsOmFunctions
-plm.modules.variantconfiguration.omf.VariantConfigurationOmFunctions</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlVHJhbnNpdGl2ZT50cnVlPC9leGNsdWRlVHJhbnNpdGl2ZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj48L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidHd3dyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
