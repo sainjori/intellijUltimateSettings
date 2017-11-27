@@ -70,6 +70,12 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/sandbox/jaxb-v2/jaxb-ri/pom.xml" timestamp="1511791453668">
+        <mark key="[" line="272" column="66" />
+        <mark key="]" line="272" column="65" />
+        <mark key="." line="272" column="65" />
+        <mark key="^" line="272" column="65" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/CharacteristicObject.java" timestamp="1510838334545">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="23" column="32" />
@@ -133,7 +139,7 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1511786594550">
+      <file name="/fragment.java" timestamp="1511791684196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="34" />
@@ -246,11 +252,11 @@
       <jump line="570" column="32" filename="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/sapbase/java/src/cadagent/proc/doc/ProcessDocGetList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidHd3dyIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>version</text>
       </register>
       <register name="-" type="4">
-        <text>OmfFatcDataImport</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZXNcPg==</text>
