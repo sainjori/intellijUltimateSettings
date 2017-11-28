@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/org/plmxml/schemas/plmxmlschema/DocumentHeaderType.java" timestamp="1511867215687" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom2.xml" timestamp="1511357573617">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -15,6 +16,7 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/mapping/ValueAbbreviator.java" timestamp="1511816459455" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsingException.java" timestamp="1511813325837">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="12" />
@@ -153,11 +155,8 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1511866251921">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
+      <file name="/fragment.java" timestamp="1511867427616">
         <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -263,11 +262,11 @@
       <jump line="192" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ProductDefTypeParsingProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZG9Xb3JrUHJvY2Vzcy5nZXREYXRhKCkuYWRkT2JqZWN0KERvV29ya1Byb2Nlc3MuSU5fQ09OVEVYVCwgcGFyc2VyQ29udGV4dCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmlsdGVyKGUgLT4gZS5nZXRJZCgpLmVxdWFscygiaWQ4Iik=</text>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text encoding="base64">ZmlsdGVyKGUgLT4gZS5nZXRJZCgpLmVxdWFscygiaWQ4Iik=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZXNcPg==</text>
