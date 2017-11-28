@@ -91,11 +91,11 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511874923484">
-        <mark key="[" line="100" column="50" />
-        <mark key="]" line="98" column="104" />
-        <mark key="^" line="98" column="104" />
-        <mark key="." line="98" column="104" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511879650954">
+        <mark key="[" line="100" column="24" />
+        <mark key="]" line="100" column="24" />
+        <mark key="." line="100" column="24" />
+        <mark key="^" line="100" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1511872868884">
         <mark key="[" line="0" column="0" />
@@ -207,11 +207,11 @@
       <jump line="59" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/DoWorkProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>forEach</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2hpbGRyZW4ucGFyYWxsZWxTdHJlYW0oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZXNcPg==</text>
@@ -220,7 +220,7 @@
         <text encoding="base64">ICAgICAgIC5tYXAoSkFYQkVsZW1lbnQ6OmdldFZhbHVlKQogICAgICAgLmZpbHRlcihQcm9kdWN0Vmlld1R5cGUuY2xhc3M6OmlzSW5zdGFuY2UpCiAgICAgICAubWFwKFByb2R1Y3RWaWV3VHlwZS5jbGFzczo6Y2FzdCkKICAgICAgIC5maWx0ZXIoZSAtPiAoKE9jdXJyZW5jZVR5cGUpIGUuZ2V0UHJpbWFyeU9jY3VycmVuY2VSZWYoKSkuKQogICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hpbGRyZW4ucGFyYWxsZWxTdHJlYW0oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -229,28 +229,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIDxSPiBSIGdldE9jY3VyZW5jZShQcm9kdWN0Vmlld1R5cGUgcHJvZHVjdFZpZXdUeXBlKQogIHsKICAgIHJldHVybiBudWxsOwogIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSA8Uj4gUiBnZXRPY2N1cmVuY2UoU3RyaW5nIHMpCiAgewogICAgcmV0dXJuIG51bGw7CiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5tYXAodGhpczo6Z2V0UHJvZHVjdFZpZXdUeXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3RWaWV3VHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAubWFwKHRoaXM6OmdldE9jY3VyZW5jZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlICBnZXRQcm9kdWN0VmlldlR5cGUoU3RyaW5nIHMpCiAgewogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuZmxhdE1hcChlIC0+IHsKICAgICAgICAgICAgIHJldHVybiBjaGlsZHJlbi5zdHJlYW0oKQogICAgICAgICAgICAgICAgIC5tYXAoSkFYQkVsZW1lbnQ6OmdldFZhbHVlKQogICAgICAgICAgICAgICAgIC5maWx0ZXIoUHJvZHVjdFZpZXdUeXBlLmNsYXNzOjppc0luc3RhbmNlKQogICAgICAgICAgICAgICAgIC5tYXAoUHJvZHVjdFZpZXdUeXBlLmNsYXNzOjpjYXN0KQovLyAgICAgICAgICAgICAgICAgLmZpbHRlcihlIC0+ICgoT2N1cnJlbmNlVHlwZSkgZS5nZXRQcmltYXJ5T2NjdXJyZW5jZVJlZigpKSkKICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICB9KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHJpdmF0ZSA8Uj4gUiBnZXRPY2N1cmVuY2UoU3RyaW5nIHMpCiAgewogICAgcmV0dXJuIG51bGw7CiAgfQ==</text>
       </register>
-      <register name="9" type="4">
-        <text>children.stream().map(JAXBElement::getValue)
-    .filter(ProductViewType.class::isInstance)
-    .map(ProductViewType.class::cast)
-    .collect(Collectors.toList());</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFByb2R1Y3RWaWV3VHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
