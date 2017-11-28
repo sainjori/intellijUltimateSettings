@@ -112,12 +112,12 @@
         <mark key="^" line="141" column="63" />
         <mark key="." line="141" column="63" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/DoWorkProcess.java" timestamp="1511866207894">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="94" column="50" />
-        <mark key="]" line="94" column="63" />
-        <mark key="." line="94" column="63" />
-        <mark key="^" line="94" column="63" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/DoWorkProcess.java" timestamp="1511868022224">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="101" column="63" />
+        <mark key="." line="101" column="63" />
+        <mark key="^" line="101" column="63" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatCDataImport.java" timestamp="1511517323248">
         <mark key="[" line="6" column="30" />
@@ -155,8 +155,11 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1511867427616">
+      <file name="/fragment.java" timestamp="1511868017282">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="0" column="34" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -262,8 +265,8 @@
       <jump line="192" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ProductDefTypeParsingProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmlsdGVyKGUgLT4gZS5nZXRJZCgpLmVxdWFscygiaWQ4Iik=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5maWx0ZXIoZSAtPiBlLmdldFByaW1hcnlPY2N1cnJlbmNlUmVmKCkuZXF1YWxzKCJpZDgiKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZmlsdGVyKGUgLT4gZS5nZXRJZCgpLmVxdWFscygiaWQ4Iik=</text>
@@ -275,35 +278,35 @@
         <text encoding="base64">ICAgIFN0cmluZyBmaWxlbmFtZSA9IGRhdGFDb250YWluZXIuZ2V0T2JqZWN0KElOX0ZJTEUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZG9Xb3JrUHJvY2Vzcy5nZXREYXRhKCkuYWRkT2JqZWN0KERvV29ya1Byb2Nlc3MuSU5fQ09OVEVYVCwgcGFyc2VyQ29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIoZSAtPiBlLmdldFByaW1hcnlPY2N1cnJlbmNlUmVmKCkuZXF1YWxzKCJpZDgiKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZG9Xb3JrUHJvY2Vzcy5nZXREYXRhKCkuYWRkT2JqZWN0KERvV29ya1Byb2Nlc3MuSU5fQ09OVEVYVCwgcGFyc2VyQ29udGV4dCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>ParserContext parserContext = new ParserContext(new RenkNameMappingConfig(new File(&quot;viewid_mapping.txt&quot;)), new ValueAbbreviator(new File(&quot;abbreviations.txt&quot;)),
         Paths.get(&quot;tool_hierarchy&quot;, &quot;tool_hierarchy&quot;));</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgT21mRmF0Y0RhdGFJbXBvcnQuY2xhc3MuCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5jb252ZXJzaW9uLkltYWdlUmVuYW1pbmdSdWxlczsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQWxsb2NhdGVkQ2xhc3NDaGFyYWN0ZXJpc3RpYzsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2xhc3NEZWZpbml0aW9uOwppbXBvcnQgY29tLmRzY3NhZy5wcm9qZWN0cy5yZW5rLnRlYW1jZW50ZXJfY2xhc3NpZmljYXRpb25fbWFwcGVyLm91dHB1dF9tb2RlbC5DbGFzc0Rlc2NyaXB0aW9uRW50cnk7CmltcG9ydCBjb20uZHNjc2FnLnByb2plY3RzLnJlbmsudGVhbWNlbnRlcl9jbGFzc2lmaWNhdGlvbl9tYXBwZXIub3V0cHV0X21vZGVsLkNsYXNzSW1hZ2U7CmltcG9ydCBjb20uZHNjc2FnLnByb2plY3RzLnJlbmsudGVhbWNlbnRlcl9jbGFzc2lmaWNhdGlvbl9tYXBwZXIucmVuYW1pbmcuTmFtZU1hcHBpbmdDb25maWc7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlbmFtZVV0aWxzOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQWxsb2NhdGVkQ2xhc3NDaGFyYWN0ZXJpc3RpYzsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2hhckdyb3VwQWxsb2NhdGlvbjsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2hhckdyb3VwRGVzY3JpcHRpb247CmltcG9ydCBjb20uZHNjc2FnLnByb2plY3RzLnJlbmsudGVhbWNlbnRlcl9jbGFzc2lmaWNhdGlvbl9tYXBwZXIub3V0cHV0X21vZGVsLkNsYXNzRGVmaW5pdGlvbjsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2xhc3NEZXNjcmlwdGlvbkVudHJ5OwppbXBvcnQgY29tLmRzY3NhZy5wcm9qZWN0cy5yZW5rLnRlYW1jZW50ZXJfY2xhc3NpZmljYXRpb25fbWFwcGVyLm91dHB1dF9tb2RlbC5DbGFzc0ltYWdlOwppbXBvcnQgY29tLmRzY3NhZy5wcm9qZWN0cy5yZW5rLnRlYW1jZW50ZXJfY2xhc3NpZmljYXRpb25fbWFwcGVyLnBhcnNpbmcuUGFyc2VyQ29udGV4dDsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci51dGlscy50cmVlbW9kZWwuTm9kZTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2hhckdyb3VwQWxsb2NhdGlvbjsKaW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2hhckdyb3VwRGVzY3JpcHRpb247CmltcG9ydCBjb20uZHNjc2FnLnByb2plY3RzLnJlbmsudGVhbWNlbnRlcl9jbGFzc2lmaWNhdGlvbl9tYXBwZXIucmVuYW1pbmcuTmFtZU1hcHBpbmdDb25maWc7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2xhc3NJbWFnZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlVXRpbHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcucHJvamVjdHMucmVuay50ZWFtY2VudGVyX2NsYXNzaWZpY2F0aW9uX21hcHBlci5vdXRwdXRfbW9kZWwuQ2xhc3NJbWFnZTsK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
