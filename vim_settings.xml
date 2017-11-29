@@ -108,12 +108,12 @@
         <mark key="'" line="71" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/fa/tool/AssembledToolCreator.java" timestamp="1511898243461" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511959584150">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511961531349">
         <mark key="'" line="52" column="29" />
-        <mark key="[" line="126" column="48" />
-        <mark key="]" line="126" column="48" />
-        <mark key="." line="126" column="48" />
-        <mark key="^" line="126" column="48" />
+        <mark key="[" line="126" column="5" />
+        <mark key="]" line="125" column="40" />
+        <mark key="." line="125" column="40" />
+        <mark key="^" line="125" column="40" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/xml/bind/annotation/XmlType.java" timestamp="1511808039443">
         <mark key="'" line="385" column="18" />
@@ -423,10 +423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhU2V0VHlwZS5nZXQK</text>
+        <text encoding="base64">ICAgIGZvciAoZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>renkCustomDocuwment</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5rQ3VzdG9tTWF0ZXJpYWxcPg==</text>
@@ -435,34 +435,34 @@
         <text encoding="base64">ICBwcml2YXRlIFJlbmtDdXN0b21NYXRlcmlhbCByZW5rQ3VzdG9tTWF0ZXJpYWwgPSBuZXcgUmVua0N1c3RvbU1hdGVyaWFsKHBsbUFjY2Vzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhU2V0VHlwZS5nZXQK</text>
+        <text encoding="base64">ICAgIGZvciAoZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChvY2N1cnJlbmNlVHlwZS4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG9jY3VycmVuY2VUeXBlLmdldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBjb2xsZWN0ID0gY2hpbGRyZW4uc3RyZWFtKCkubWFwKGUgLT4gZS5nZXRWYWx1ZSgpLmdldElkKCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsdWUuZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3RWaWV3VHlwZSBwcm9kdWN0Vmlld1R5cGUgPSBnZXRQcm9kdWN0VmlldyhjaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnRIZWFkZXJUeXBlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
