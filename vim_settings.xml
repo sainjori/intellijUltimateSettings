@@ -108,12 +108,12 @@
         <mark key="'" line="71" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/fa/tool/AssembledToolCreator.java" timestamp="1511898243461" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511961531349">
-        <mark key="'" line="52" column="29" />
-        <mark key="[" line="126" column="5" />
-        <mark key="]" line="125" column="40" />
-        <mark key="." line="125" column="40" />
-        <mark key="^" line="125" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511966551538">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="89" column="29" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/xml/bind/annotation/XmlType.java" timestamp="1511808039443">
         <mark key="'" line="385" column="18" />
@@ -207,12 +207,12 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1511958318850">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1511966775023">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="48" column="38" />
-        <mark key="]" line="49" column="3" />
-        <mark key="." line="49" column="3" />
-        <mark key="^" line="49" column="3" />
+        <mark key="[" line="126" column="69" />
+        <mark key="]" line="128" column="5" />
+        <mark key="." line="128" column="5" />
+        <mark key="^" line="128" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/schemas/plmxmlschema/SetFilterType.java" timestamp="1511814941157">
         <mark key="'" line="58" column="25" />
@@ -320,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessSelectTemplateWithGui.java" />
       <jump line="184" column="4" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" />
       <jump line="213" column="6" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" />
       <jump line="219" column="6" filename="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/base/java/src/cadagent/gui/obr/ObrPropertyDisplay.java" />
@@ -420,49 +419,50 @@
       <jump line="51" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" />
       <jump line="67" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" />
       <jump line="52" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" />
+      <jump line="108" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAoZCkK</text>
+        <text encoding="base64">ICAgICAgZS5nZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>.get();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5rQ3VzdG9tTWF0ZXJpYWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJlbmtDdXN0b21NYXRlcmlhbCByZW5rQ3VzdG9tTWF0ZXJpYWwgPSBuZXcgUmVua0N1c3RvbU1hdGVyaWFsKHBsbUFjY2Vzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8UHJvZHVjdERlZlR5cGU+IGdlbmVyaWNUeXBlID0gSkFYQlV0aWxzLmdldEdlbmVyaWNUeXBlKFByb2R1Y3REZWZUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoZCkK</text>
+        <text encoding="base64">ICAgICAgZS5nZXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChvY2N1cnJlbmNlVHlwZS4pCg==</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8UHJvZHVjdERlZlR5cGU+IGdlbmVyaWNUeXBlID0gSkFYQlV0aWxzLmdldEdlbmVyaWNUeXBlKFByb2R1Y3REZWZUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9jY3VycmVuY2VUeXBlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8UHJvZHVjdERlZlR5cGU+IGdlbmVyaWNUeXBlID0gSkFYQlV0aWxzLmdldEdlbmVyaWNUeXBlKFByb2R1Y3REZWZUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2gK</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIGdldEdlbmVyaWNUeXBlKENsYXNzPFByb2R1Y3REZWZUeXBlPiBwcm9kdWN0RGVmVHlwZUNsYXNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWUuZ2V0Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRIZWFkZXJUeXBlLgo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
