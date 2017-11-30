@@ -13,6 +13,7 @@
         <mark key="'" line="111" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/mapping/ValueAbbreviator.java" timestamp="1511816459455" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.2/plm-5.1.7.2-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1512057517653" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/StringTokenizer.java" timestamp="1511348193937">
         <mark key="'" line="219" column="11" />
       </file>
@@ -80,12 +81,12 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512056828374">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512057554579">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-        <mark key="^" line="224" column="44" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
+        <mark key="^" line="217" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1511180979370">
         <mark key="[" line="141" column="63" />
@@ -416,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc0FsbG9jYXRpb24uYXNzaWduVmFsdWUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>(&quot;</text>
@@ -428,41 +429,34 @@
         <text encoding="base64">ICAgICAgYm9vbGVhbiBiID0gcGxtQ2xhc3MuZXhpc3RlbmNlQ2hlY2soKTsKICAgICAgYm9vbGVhbiBiMSA9IHBsbUNsYXNzLmV4aXN0c0luU2FwKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc0FsbG9jYXRpb24uYXNzaWduVmFsdWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWZlcmVuY2UuYWRkVmFsdWUodmFsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1WYWx1ZSB2YWwgPSBuZXcgUGxtVmFsdWUodmFsdWUsIGF0dHJpYnV0ZUlkLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWZlcmVuY2UuYWRkVmFsdWUodmFsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc0FsbG9jYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBQbG1WYWx1ZSB2YWwgPSBuZXcgUGxtVmFsdWUodmFsdWUsIGF0dHJpYnV0ZUlkLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgaWNvUmVmID0gaWNvUHJvcGVydHlUeXBlLmdldEljb1JlZigpOwogICAgICAgIEJpZ0ludGVnZXIgYXR0cmlidXRlSWQgPSBpY29Qcm9wZXJ0eVR5cGUuZ2V0QXR0cmlidXRlSWQoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc0FsbG9jYXRpb24uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgY2xvbmUgPSByZWZlcmVuY2UuY2xvbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgaWNvUmVmID0gaWNvUHJvcGVydHlUeXBlLmdldEljb1JlZigpOwogICAgICAgIEJpZ0ludGVnZXIgYXR0cmlidXRlSWQgPSBpY29Qcm9wZXJ0eVR5cGUuZ2V0QXR0cmlidXRlSWQoKTsKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Object icoRef = icoPropertyType.getIcoRef();
-      BigInteger attributeId = icoPropertyType.getAttributeId();
-
-      String value = icoPropertyType.getValue().stream().findAny().map(ValueType::getValue).orElse(&quot;&quot;);
-
-      PlmClassCharacteristic plmClassCharacteristic = new PlmClassCharacteristic(attributeId.toString());
-      PlmValue val = new PlmValue(value, attributeId.toString());
-      plmClassCharacteristic.addValue(val);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QgY2xvbmUgPSByZWZlcmVuY2UuY2xvbmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
