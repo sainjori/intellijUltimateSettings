@@ -50,6 +50,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/parsing/ParserContext.java" timestamp="1511526225164">
         <mark key="'" line="256" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/psm/brobj/BrPsmVariant.java" timestamp="1512056451861" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ProductType.java" timestamp="1511815451987">
         <mark key="'" line="68" column="36" />
       </file>
@@ -59,6 +60,7 @@
         <mark key="^" line="25" column="53" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.10.0/sapbase-5.1.10.0-sources.jar!/cadagent/objmod/PlmClassAllocation.java" timestamp="1512057021202" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" timestamp="1512040365708">
         <mark key="'" line="93" column="4" />
         <mark key="[" line="60" column="112" />
@@ -78,12 +80,12 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512051294196">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="167" column="65" />
-        <mark key="]" line="167" column="65" />
-        <mark key="." line="167" column="65" />
-        <mark key="^" line="168" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512056828374">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+        <mark key="^" line="224" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1511180979370">
         <mark key="[" line="141" column="63" />
@@ -271,7 +273,7 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512046943844">
+      <file name="/Dummy.txt" timestamp="1512056319617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511285239802">
@@ -300,7 +302,7 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="41" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1512048320247">
+      <file name="/fragment.java" timestamp="1512057022907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -413,11 +415,11 @@
       <jump line="181" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;LMA_T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;LMA_T</text>
+        <text>(&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5rQ3VzdG9tTWF0ZXJpYWxcPg==</text>
@@ -431,32 +433,36 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>PlmClass plmClass = classAllocation.getPlmClass();
-      boolean b1 = plmClass.existsInSap();
-      readDetails(plmClass);
-      boolean b1a = plmClass.existsInSap();</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBiMjMgPSBwbG1DbGFzcy5leGlzdGVuY2VDaGVjaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBiID0gcGxtQ2xhc3MuZXhpc3RlbmNlQ2hlY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICByZWZlcmVuY2UuYWRkVmFsdWUodmFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzQWxsb2NhdGlvbi5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBQbG1WYWx1ZSB2YWwgPSBuZXcgUGxtVmFsdWUodmFsdWUsIGF0dHJpYnV0ZUlkLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc0FsbG9jYXRpb24uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgaWNvUmVmID0gaWNvUHJvcGVydHlUeXBlLmdldEljb1JlZigpOwogICAgICAgIEJpZ0ludGVnZXIgYXR0cmlidXRlSWQgPSBpY29Qcm9wZXJ0eVR5cGUuZ2V0QXR0cmlidXRlSWQoKTsKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Lm1hcChlIC0+IHsKICAgICAgCiAgICAgIAogICAgICAKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QgY2xvbmUgPSByZWZlcmVuY2UuY2xvbmUoKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICByZXR1cm4gbnVsbDsgCg==</text>
+      <register name="9" type="4">
+        <text>Object icoRef = icoPropertyType.getIcoRef();
+      BigInteger attributeId = icoPropertyType.getAttributeId();
+
+      String value = icoPropertyType.getValue().stream().findAny().map(ValueType::getValue).orElse(&quot;&quot;);
+
+      PlmClassCharacteristic plmClassCharacteristic = new PlmClassCharacteristic(attributeId.toString());
+      PlmValue val = new PlmValue(value, attributeId.toString());
+      plmClassCharacteristic.addValue(val);</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
