@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1512034210532">
+      <file name="/a.dummy" timestamp="1512121058742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/mapping/ValueAbbreviator.java" timestamp="1511816459455" />
@@ -71,12 +71,12 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512059348183">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512121681684">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="110" column="11" />
-        <mark key="]" line="110" column="11" />
-        <mark key="." line="110" column="11" />
-        <mark key="^" line="101" column="20" />
+        <mark key="[" line="70" column="93" />
+        <mark key="]" line="70" column="122" />
+        <mark key="." line="70" column="122" />
+        <mark key="^" line="70" column="122" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1511180979370">
         <mark key="[" line="141" column="63" />
@@ -123,6 +123,7 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/plmobj/RenkCustomMaterial.java" timestamp="1512120977716" />
       <file name="/CreateMaterialProcess.java" timestamp="1511973672659" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/OccurrenceType.java" timestamp="1511953120121" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/App.java" timestamp="1511810458253">
@@ -162,12 +163,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1512037396770">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1512121869827">
         <mark key="'" line="23" column="13" />
-        <mark key="[" line="204" column="28" />
-        <mark key="]" line="204" column="28" />
-        <mark key="." line="204" column="28" />
-        <mark key="^" line="204" column="28" />
+        <mark key="[" line="210" column="16" />
+        <mark key="]" line="210" column="16" />
+        <mark key="." line="210" column="16" />
+        <mark key="^" line="214" column="75" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/TCClassificationMappingProcess.java" timestamp="1511812589951">
         <mark key="'" line="58" column="2" />
@@ -356,46 +357,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new PlmMaterial();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>new PlmMaterial();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5rQ3VzdG9tTWF0ZXJpYWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRWYWx1ZXMucHV0KCJwcm9kdWN0X2lkIiwgcHJvZHVjdElkKTsK</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiwgUmVua0N1c3RvbU1hdGVyaWFsPiBleHRyYWN0UGxtTWF0ZXJpYWwgPSBjbGFzc2lmaWNhdGlvbi5hbmRUaGVuKGFkZFJldmlzaW9uQW5kRGVzYykKICAgICAgICAuYW5kVGhlbihhZGRQcm9kdWN0SWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVua0N1c3RvbURvY3VtZW50LnNldFByb2R1Y3RJZChwcm9kdWN0SWQpOwo=</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPE9wdGlvbmFsPFByb2R1Y3RSZXZpc2lvblR5cGU+LCBPcHRpb25hbDxQcm9kdWN0VHlwZT4+IGFkZFJldmlzaW9uQW5kRGVzYyA9IHRoaXM6OmdldFJldmlzaW9uQW5kRGVzYzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVua0N1c3RvbU1hdGVyaWFsLnNldERlc2NyaXB0aW9uKGRlc2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPE9wdGlvbmFsPFByb2R1Y3RUeXBlPiwgUmVua0N1c3RvbU1hdGVyaWFsPiBhZGRQcm9kdWN0SWQgPSB0aGlzOjpnZXRQcm9kdWN0SWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVua0N1c3RvbU1hdGVyaWFsLnNldFByb2R1Y3RJZChwcm9kdWN0SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2F2ZWRWYWx1ZXMucHV0KCJkZXNjdHJpcHRpb24iLCBlLmdldERlc2NyaXB0aW9uKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBQbG1DbGFzc0FsbG9jYXRpb24gcGxtQ2xhc3NBbGxvY2F0aW9uID0gbmV3IFBsbUNsYXNzQWxsb2NhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgc2F2ZWRWYWx1ZXMucHV0KCJwcm9kdWN0X2lkIiwgZS5nZXRQcm9kdWN0SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwbG1BY2Nlc3MubQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVua0N1c3RvbU1hdGVyaWFsLnNldENsYXNzQWxsb2NhdGlvbnMocGxtQ2xhc3NBbGxvY2F0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVua0N1c3RvbURvY3VtZW50LnNldFByb2R1Y3RJZChwcm9kdWN0SWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgcmVua0N1c3RvbU1hdGVyaWFsLnNldERlc2NyaXB0aW9uKGRlc2NyaXB0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
