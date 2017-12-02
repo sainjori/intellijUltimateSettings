@@ -105,8 +105,8 @@
         <mark key="." line="190" column="37" />
         <mark key="^" line="189" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/Component.java" timestamp="1512242324436">
-        <mark key="[" line="9" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/Component.java" timestamp="1512243339514">
+        <mark key="[" line="22" column="20" />
         <mark key="]" line="7" column="37" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
@@ -141,12 +141,12 @@
         <mark key="^" line="217" column="38" />
         <mark key="." line="217" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" timestamp="1512242389474">
-        <mark key="'" line="165" column="66" />
-        <mark key="[" line="95" column="19" />
-        <mark key="]" line="95" column="22" />
-        <mark key="." line="95" column="22" />
-        <mark key="^" line="95" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" timestamp="1512244622408">
+        <mark key="'" line="116" column="27" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="79" column="29" />
+        <mark key="^" line="79" column="29" />
+        <mark key="." line="79" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatcDataImport.java" timestamp="1512238737467">
         <mark key="[" line="52" column="49" />
@@ -154,11 +154,11 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1512241387205">
-        <mark key="[" line="148" column="11" />
-        <mark key="]" line="148" column="26" />
-        <mark key="." line="148" column="26" />
-        <mark key="^" line="148" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1512244393815">
+        <mark key="[" line="184" column="22" />
+        <mark key="]" line="184" column="33" />
+        <mark key="." line="184" column="33" />
+        <mark key="^" line="184" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/schemas/plmxmlschema/SetFilterType.java" timestamp="1511814941157">
         <mark key="'" line="58" column="25" />
@@ -295,11 +295,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/parsing/TCClassificationMappingProcess.java" timestamp="1511902209127">
         <mark key="'" line="71" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/KomplettWerkzeug.java" timestamp="1512242315896">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="44" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/KomplettWerkzeug.java" timestamp="1512244200024">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/5.1.9.1_ectr/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1511285239802">
         <mark key="'" line="484" column="2" />
@@ -351,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
-      <jump line="452" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
       <jump line="294" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
       <jump line="445" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
       <jump line="79" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" />
@@ -451,13 +449,15 @@
       <jump line="140" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" />
       <jump line="69" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" />
       <jump line="152" column="66" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" />
+      <jump line="157" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" />
+      <jump line="117" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Component</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>KomplettWerkzeug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbkNsYXNzXD4=</text>
@@ -466,37 +466,37 @@
         <text encoding="base64">ICAgICAgaWYgKEpBWEJVdGlscy5pc0NvbXBvbmVudCgpICYmIG9jY3VyZW5jZVR5cGVQcmltYXJ5LmlzUHJlc2VudCgpKQogICAgICB7CiAgICAgICAgUGxtTWF0ZXJpYWwgY29tcG9uZW50ID0gY3JlYXRlTWF0ZXJpYWxQcm9jZXNzKG9jY3VyZW5jZVR5cGVQcmltYXJ5LmdldCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8Q29tcG9uZW50PiBjb21wb25lbnQgPSBKQVhCVXRpbHMuaXNDb21wb25lbnQoKS5mbGF0TWFwKHRoaXM6OmNyZWF0ZUNvbXBvbmVudCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsbU1hdGVyaWFsLnNldExhc3RFcnJvcnMobnVsbCk7IAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gY3JlYXRlRG9jdW1lbnRQcm9jZXNzKHBsbU1hdGVyaWFsLCBvY2N1cmVuY2VDb21wKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IFBsbU1hdGVyaWFsIG1hdFRvQWRkRm9sZGVyID0gY29tcG9uZW50cy5nZXQoMCkuZ2V0TWF0ZXJpYWwoKTsKICAgIG1hdFRvQWRkRm9sZGVyLnNldExhc3RFcnJvcnMobnVsbCk7CiAgICBUZXN0VXRpbHMyIGFkZFRvQWN0aXZlRm9sZGVyID0gbmV3IFRlc3RVdGlsczIoKTsKICAgIGFkZFRvQWN0aXZlRm9sZGVyLnNldFBsbWF0ZXJpYWxzKEFycmF5cy5hc0xpc3QobWF0VG9BZGRGb2xkZXIpKTsKICAgIGFkZFRvQWN0aXZlRm9sZGVyLmFjdGlvblBlcmZvcm1lZChPbWZGYXRjRGF0YUltcG9ydC5vYnJGdW5jdGlvbkV2ZW50Mik7</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8RG9jdW1lbnRIZWFkZXJUeXBlPiBkb2N1bWVudEhlYWRlclR5cGUgPSBKQVhCVXRpbHMuZ2V0R2VuZXJpY1R5cGUoRG9jdW1lbnRIZWFkZXJUeXBlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBLb21wbGV0dFdlcmt6ZXVnIGtvbXBsZXR0V2Vya3pldWcgPSBuZXcgS29tcGxldHRXZXJremV1ZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8T2NjdXJyZW5jZVR5cGU+IG9jY3VyZW5jZVR5cGVQcmltYXJ5ID0gZG9jdW1lbnRIZWFkZXJUeXBlLmZsYXRNYXAodGhpczo6Z2V0T2NjdXJlbmNlVHlwZVByaW1hcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVLb21wbGV0dFdlcmt6ZXVnKG9jY3VyZW5jZVR5cGVQcmltYXJ5KTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>217</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
@@ -535,6 +535,7 @@
         <entry>291</entry>
         <entry>102</entry>
         <entry>217</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
