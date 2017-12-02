@@ -1,7 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://enunciate.webcohesion.com/schemas/enunciate-2.7.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/433ecc38_enunciate-2.7.0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/C:/Users/bya/.IntelliJIdea2017.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/C:/Users/bya/.IntelliJIdea2017.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="C:/WINDOWS/System32/file:/C:/Users/bya/.IntelliJIdea2017.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="C:/WINDOWS/System32/file:/C:/Users/bya/.IntelliJIdea2017.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
   </component>
 </application>
