@@ -135,18 +135,24 @@
         <mark key="^" line="217" column="38" />
         <mark key="." line="217" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" timestamp="1512167235754">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/ParsePLMXMLProcess.java" timestamp="1512231203241">
         <mark key="'" line="88" column="4" />
-        <mark key="[" line="161" column="50" />
-        <mark key="]" line="161" column="53" />
-        <mark key="." line="161" column="53" />
-        <mark key="^" line="161" column="53" />
+        <mark key="[" line="96" column="53" />
+        <mark key="]" line="96" column="62" />
+        <mark key="." line="96" column="62" />
+        <mark key="^" line="96" column="62" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatcDataImport.java" timestamp="1512154456695">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatcDataImport.java" timestamp="1512231061366">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="45" column="43" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/JAXBUtils.java" timestamp="1512231188251">
+        <mark key="[" line="195" column="69" />
+        <mark key="]" line="195" column="68" />
+        <mark key="^" line="195" column="68" />
+        <mark key="." line="195" column="68" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/schemas/plmxmlschema/SetFilterType.java" timestamp="1511814941157">
         <mark key="'" line="58" column="25" />
@@ -182,12 +188,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512167543009">
-        <mark key="'" line="222" column="2" />
-        <mark key="[" line="227" column="75" />
-        <mark key="]" line="227" column="75" />
-        <mark key="." line="227" column="75" />
-        <mark key="^" line="227" column="75" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" timestamp="1512231509044">
+        <mark key="'" line="220" column="2" />
+        <mark key="[" line="49" column="49" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="225" column="75" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/utils/StringUtils.java" timestamp="1511886109237">
         <mark key="[" line="14" column="44" />
@@ -436,11 +442,11 @@
       <jump line="222" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMaterialProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwxID0gcGxtTWF0ZXJpYWwuZ2V0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbkNsYXNzXD4=</text>
@@ -449,34 +455,34 @@
         <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQcm9jZXNzTWF0Q3JlYXRlRGFyay5QTE1NQVQsIHBsbU1hdGVyaWFsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQcm9jZXNzTWF0Q3JlYXRlRGFyay5JTl9DTEFTUywgY2xhc3Nlcy5nZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwxID0gcGxtTWF0ZXJpYWwuZ2V0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQcm9jZXNzTWF0Q3JlYXRlRGFyay5JTl9DTEFTUywgcGxtTWF0ZXJpYWwuZ2V0Yyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGxtTWF0ZXJpYWwxLnNldFNob3J0VGV4dCgiREUiLCAiQUFBIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbG1NYXRlcmlhbDEuc2V0TGFzdEVycm9ycyhudWxsKTsK</text>
+        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQcm9jZXNzTWF0Q3JlYXRlRGFyay5JTl9DTEFTUywgY2xhc3Nlcy5nZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB0eXBlID0gRkFVdGlscy5nZXREZWZhdWx0TWF0VG9vbFR5cGUoKTsK</text>
+        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQcm9jZXNzTWF0Q3JlYXRlRGFyay5JTl9DTEFTUywgcGxtTWF0ZXJpYWwuZ2V0Yyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ld01hdGVyaWFsLnNldERlc2NyaXB0aW9uKGRlc2NyKTsK</text>
+        <text encoding="base64">ICAgICAgICBwbG1NYXRlcmlhbDEuc2V0TGFzdEVycm9ycyhudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0eXBlID0gRkFVdGlscy5nZXREZWZhdWx0TWF0VG9vbFR5cGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIG5ld01hdGVyaWFsLnNldERlc2NyaXB0aW9uKGRlc2NyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhdGNoIChEZWZhdWx0TG9nRXhjZXB0aW9uIGUpCg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
