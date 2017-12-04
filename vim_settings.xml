@@ -216,12 +216,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMatAndDocProcess.java" timestamp="1512415660754">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/CreateMatAndDocProcess.java" timestamp="1512417341189">
         <mark key="'" line="83" column="2" />
-        <mark key="[" line="113" column="45" />
-        <mark key="]" line="113" column="45" />
-        <mark key="." line="113" column="45" />
-        <mark key="^" line="113" column="45" />
+        <mark key="[" line="129" column="11" />
+        <mark key="]" line="130" column="33" />
+        <mark key="." line="130" column="33" />
+        <mark key="^" line="130" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrBhsTemplateFld.java" timestamp="1511265137000">
         <mark key="[" line="19" column="29" />
@@ -383,46 +383,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERUeXBlQ29udGFpbmVyLmdldEluc3QoKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIE9wdGlvbmFsPFByb2R1Y3RSZXZpc2lvblR5cGU+IHByb2R1Y3RSZXZpc2lvblR5cGUgPSBKQVhCVXRpbHMuZ2V0UHJvZHVjdFJldmlzaW9uVHlwZShvY2N1cmVuY2VUeXBlQ29tcG9uZW50KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>PlmMaterial.Description errorsReadingDetailsList;</text>
+        <text>productRevisionType1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbkNsYXNzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>errorsReadingDetailsList</text>
+        <text>JAXBUtils.getProductRevisionType(occurenceTypeComponent);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERUeXBlQ29udGFpbmVyLmdldEluc3QoKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIE9wdGlvbmFsPFByb2R1Y3RSZXZpc2lvblR5cGU+IHByb2R1Y3RSZXZpc2lvblR5cGUgPSBKQVhCVXRpbHMuZ2V0UHJvZHVjdFJldmlzaW9uVHlwZShvY2N1cmVuY2VUeXBlQ29tcG9uZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5lbXB0eSgpO2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZigpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb21wb25lbnQyOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGlmICghcHJvZHVjdFJldmlzaW9uVHlwZS5pc1ByZXNlbnQoKSAmJiAhY29tcG9uZW50LmlzUHJlc2VudCgpKQogICAgLy8gICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsKCiAgICAvLyAgICBQcm9kdWN0UmV2aXNpb25UeXBlIHByb2R1Y3RSZXZpc2lvblR5cGUxID0gcHJvZHVjdFJldmlzaW9uVHlwZS5nZXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2ZOdWxsYWJsZShudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gZG9jdW1lbnQgPSB0b29sMS5nZXREb2N1bWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2UK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBkb2N1bWVudC5nZXQoMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
