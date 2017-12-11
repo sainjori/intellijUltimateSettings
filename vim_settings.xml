@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1513018238486" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom2.xml" timestamp="1511357573617">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -44,13 +45,6 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" timestamp="1512856962317">
-        <mark key="'" line="288" column="28" />
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="88" />
-        <mark key="." line="42" column="88" />
-        <mark key="^" line="42" column="88" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1513006526984">
         <mark key="'" line="89" column="12" />
@@ -97,19 +91,12 @@
         <mark key="^" line="211" column="103" />
         <mark key="." line="211" column="103" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateComponentToolProcess.java" timestamp="1512856851136">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="69" column="52" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1513000040742">
-        <mark key="'" line="120" column="20" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="84" column="26" />
-        <mark key="." line="86" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1513020745960">
+        <mark key="'" line="121" column="20" />
+        <mark key="[" line="155" column="105" />
+        <mark key="]" line="155" column="111" />
+        <mark key="^" line="155" column="111" />
+        <mark key="." line="155" column="111" />
       </file>
       <file name="/CreateComponentToolProcess.java" timestamp="1512654059164" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/WaWa.java" timestamp="1510838264631">
@@ -167,13 +154,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmDocumentSaveAsUtils.java" timestamp="1513013701490" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513011780388">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmDocumentSaveAsUtils.java" timestamp="1513018068969" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513021188839">
         <mark key="'" line="373" column="6" />
-        <mark key="[" line="168" column="66" />
-        <mark key="]" line="168" column="69" />
-        <mark key="." line="168" column="69" />
-        <mark key="^" line="168" column="69" />
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="122" column="25" />
+        <mark key="." line="122" column="25" />
+        <mark key="^" line="122" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
@@ -247,7 +234,7 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512996945819">
+      <file name="/Dummy.txt" timestamp="1513020351995">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocCreate.java" timestamp="1513011029005">
@@ -415,10 +402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBlbmRlbnREb2NcPg==</text>
@@ -427,37 +414,38 @@
         <text encoding="base64">ICAgIGRlcGVuZGVudERvYy5zZXRDYWREZXNrdG9wSUQoUGxtRG9jdW1lbnRVdGlscy5nZXRJbnN0KCkuZ2V0UmVzNChkdC5nZXRBcHBsVHlwZSgpLCBkdHlwZS5nZXRTZWN0aW9uKCksIGR0eXBlLmdldEFwcGxSb2xlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlRGVwZW5kZW50RG9jU3RydWN0dXJlKGFzc2VtYmx5Q29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgIGlmIChkZXBlbmRlbnREb2MgPT0gbnVsbCkKICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRNYXRlcmlhbE9iamVjdExpbmsocGxtRG9jdW1lbnQsIG1hdGVyaWFsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgbWF0ZXJpYWxFeGlzdHNEb2MgPSBwbG1BY2Nlc3MubWF0ZXJpYWxGaW5kKG1hdGVyaWFsLmdldE51bWJlcigpKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0TWF0ZXJpYWxPYmplY3RMaW5rKFBsbURvY3VtZW50IGRvY3VtZW50LCBQbG1NYXRlcmlhbCBtYXRlcmlhbCkKICB7CgogIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1Eb2N1bWVudCBleGlzdGluZ0RvYyA9IHBsbUFjY2Vzcy5kb2N1bWVudEZpbmQocGxtRG9jdW1lbnQuZ2V0U2FwS2V5KCkpOwo=</text>
+      <register name="4" type="4">
+        <text>PlmObjectLink link = new PlmAccess().objectLinkNew(material);
+    document.addPlmObjectLink(link);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBjbGFzc0FsbG9jYXRpb25zID0gbWF0ZXJpYWwuZ2V0Q2xhc3NBbGxvY2F0aW9ucygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50TWFzdGVyLmNoYW5nZUNhZERlc2t0b3BJRHRvQXNzZW1ibHkoKTsK</text>
+        <text encoding="base64">ICAgIG1hdGVyaWFsLmV4aXN0ZW5jZUNoZWNrKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVudERvYy5zZXRNYXN0ZXIoIk4iKTsK</text>
+        <text encoding="base64">ICAgIHBsbU1hdGVyaWFsLnNldEV4aXN0c0luU2FwKHRydWUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsbU1hdGVyaWFsLnNldEV4aXN0c0luU2FwKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRNYXRlcmlhbE9iamVjdExpbmsocGxtRG9jdW1lbnQsIG1hdGVyaWFsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
