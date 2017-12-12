@@ -155,12 +155,13 @@
         <mark key="." line="6" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmDocumentSaveAsUtils.java" timestamp="1513018068969" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513075331506">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513081610792">
+        <mark key="a" line="155" column="13" />
         <mark key="'" line="283" column="4" />
-        <mark key="[" line="156" column="39" />
-        <mark key="]" line="149" column="49" />
-        <mark key="." line="149" column="49" />
-        <mark key="^" line="149" column="49" />
+        <mark key="[" line="157" column="78" />
+        <mark key="]" line="157" column="52" />
+        <mark key="." line="157" column="52" />
+        <mark key="^" line="157" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
@@ -234,7 +235,7 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513020351995">
+      <file name="/Dummy.txt" timestamp="1513078483766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocCreate.java" timestamp="1513011029005">
@@ -260,6 +261,7 @@
         <mark key="." line="291" column="2" />
         <mark key="^" line="297" column="47" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/plugins/environment/rfc/PlmProcessRfcExecutor.java" timestamp="1513078550053" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1512651916450">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="27" />
@@ -294,7 +296,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/PlmProcessMaterialSetAll.java" timestamp="1512666490959" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfAlternativesChangeOriginal.java" timestamp="1513013468491" />
       <file name="/CustomerPlmParsePLMXMLProcess.java" timestamp="1512661071735" />
-      <file name="/fragment.java" timestamp="1513075167015">
+      <file name="/fragment.java" timestamp="1513080919672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -414,65 +416,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>classId</text>
+        <text>stringValue</text>
       </register>
       <register name="-" type="4">
-        <text>classId</text>
+        <text>stringValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbkNoYW5nZU51bWJlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwaVBhcmFtZXRlci5hZGRJbXBvcnQoIklWX01BVE5SIiwgY2xhc3NJZCk7Cg==</text>
+        <text encoding="base64">ICAgIGludCB3ZWVrWWVhciA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkuZ2V0V2Vla1llYXIoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>extNumber);
-    apiParameter.addImport(&quot;IV_REVISION&quot;, classI</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQcm9jZXNzTWF0Q3JlYXRlRGFyay5JTl9DSEFOR0VfTlVNQkVSLCBjaGFuZ2VOdW1iZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNoYW5nZU51bWJlciA9IGFzc2VtYmx5Q29tcG9uZW50LmdldENoYW5nZU51bWJlcigpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzYXBDbGFzc05hbWUgPSAoU3RyaW5nKSBhcGlQYXJhbWV0ZXIuZ2V0RXhwb3J0cygpLmdldChSRVRVUk5fS0VZKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>public String getChangeNumber()
-  {
-    String API = &quot;Z_CUST_CREATE_REVISION&quot;;
-    String RETURN_KEY = &quot;EV_SAP_CLASS_NAME&quot;;
-
-    ApiParameter apiParameter = new ApiParameter();
-    apiParameter.addImport(&quot;IV_MATNR&quot;, classId);
-    apiParameter.addImport(&quot;IV_REVISION&quot;, classId);
-    executeApi(API, apiParameter);
-    String sapClassName = (String) apiParameter.getExports().get(RETURN_KEY);
-    if (StringTool.hasContent(sapClassName))
-    {
-      return Optional.of(sapClassName);
-    }
-    return Optional.ofNullable(null);
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjaGFuZ2VOdW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBSRVRVUk5fS0VZID0gIkVWX1NBUF9DTEFTU19OQU1FIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGFwaVBhcmFtZXRlci5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV2aXNpb24gPSBwcm9kdWN0UmV2aXNpb25UeXBlLmdldFJldmlzaW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIEFwaVBhcmFtZXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdElkID0gcHJvZHVjdFR5cGUuZ2V0UHJvZHVjdElkKCk7Cg==</text>
+        <text encoding="base64">ICAgIEFwaVBhcmFtZXRlclRvb2wuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUHJvZHVjdFJldmlzaW9uVHlwZSBwcm9kdWN0UmV2aXNpb25UeXBlOwo=</text>
+        <text encoding="base64">ICAgIEFwaVBhcmFtZXRlci50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3RSZXZpc2lvblR5cGUgcHJvZHVjdFJldmlzaW9uVHlwZTsK</text>
+        <text encoding="base64">ICAgIGFwaVBhcmFtZXRlci4K</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
