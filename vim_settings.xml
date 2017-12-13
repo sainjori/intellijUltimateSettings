@@ -59,7 +59,7 @@
         <mark key="." line="42" column="88" />
         <mark key="^" line="42" column="88" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1513006526984">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1513184056766">
         <mark key="'" line="89" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/App.java" timestamp="1511810458253">
@@ -202,7 +202,7 @@
         <mark key="." line="6" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmDocumentSaveAsUtils.java" timestamp="1513018068969" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513182695654">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513183502361">
         <mark key="a" line="155" column="13" />
         <mark key="'" line="156" column="42" />
         <mark key="[" line="121" column="19" />
@@ -237,8 +237,8 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="55" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1513182847728">
-        <mark key="[" line="111" column="68" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1513184061761">
+        <mark key="[" line="112" column="31" />
         <mark key="]" line="112" column="31" />
         <mark key="^" line="112" column="31" />
         <mark key="." line="112" column="31" />
@@ -475,11 +475,11 @@
       <jump line="561" column="40" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib21Vc2FnZVw+</text>
