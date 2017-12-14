@@ -45,12 +45,11 @@
         <mark key="." line="339" column="0" />
         <mark key="^" line="339" column="57" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513260361623">
-        <mark key="'" line="106" column="23" />
-        <mark key="[" line="177" column="51" />
-        <mark key="]" line="177" column="58" />
-        <mark key="^" line="177" column="58" />
-        <mark key="." line="177" column="58" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513262189942">
+        <mark key="'" line="176" column="31" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
@@ -173,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatCreateDark.java" />
       <jump line="327" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatCreateDark.java" />
       <jump line="350" column="53" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatCreateDark.java" />
       <jump line="119" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatCreateDark.java" />
@@ -250,7 +248,6 @@
       <jump line="318" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="183" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="282" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="176" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="77" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
       <jump line="424" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="446" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
@@ -273,10 +270,12 @@
       <jump line="103" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="69" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/ecm/ProcessEcmChange.java" />
       <jump line="56" column="1" filename="/CustomerPlmParsePLMXMLProcess.java" />
+      <jump line="136" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
+      <jump line="176" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">T3B0aW9uYWw8U3RyaW5nPiA=</text>
@@ -288,38 +287,38 @@
         <text>ProcessEcmChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGV2X2Flbm5yKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>String statusBefore = Preferences.stringValue(&quot;customer.pref.changenumber.status.before&quot;, &quot;10&quot;);
     changeChangeNumberStatus(statusBefore);</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzdGF0dXNGb3JQcm9kdWN0aW9uID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImN1c3RvbWVyLmNoYW5nZW51bWJlci5zdGF0dXMubWF0Ym9tLmNyZWF0ZWQuYWZ0ZXIiLCAiMzUiKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBCb29sZWFuIGNoYW5nZWQgPSBwcm9jZXNzRWNtQ2hhbmdlTXVsdGkuZ2V0RGF0YSgpLmdldE9iamVjdChQcm9jZXNzRWNtQ2hhbmdlLkVDTV9DSEFOR0VEKTsKICAgIGlmKCFjaGFuZ2VkKQogICAgdGhyb3cgbmV3CgogIERlZmF1bHRMb2dFeGNlcHRpb24oRGljLmdldFRleHQoImJlZixlZmVrZS5mZWZlIiwgImVmZWYiKSk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzdGF0dXNGb3JQcm9kdWN0aW9uID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImN1c3RvbWVyLmNoYW5nZW51bWJlci5zdGF0dXMubWF0Ym9tLmNyZWF0ZWQuYWZ0ZXIiLCAiMzUiKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpbnB1dE1hdGVyaWFsICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">ICBCb29sZWFuIGNoYW5nZWQgPSBwcm9jZXNzRWNtQ2hhbmdlTXVsdGkuZ2V0RGF0YSgpLmdldE9iamVjdChQcm9jZXNzRWNtQ2hhbmdlLkVDTV9DSEFOR0VEKTsKICAgIGlmKCFjaGFuZ2VkKQogICAgdGhyb3cgbmV3CgogIERlZmF1bHRMb2dFeGNlcHRpb24oRGljLmdldFRleHQoImJlZixlZmVrZS5mZWZlIiwgImVmZWYiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
