@@ -22,6 +22,7 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocBomMaintain.java" timestamp="1513354430443" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/component/classification.java" timestamp="1512035849941">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="12" />
@@ -94,12 +95,12 @@
         <mark key="." line="33" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/omf/OmfDocOpenWithPlantDataReporter.java" timestamp="1513335778220" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513349129472">
-        <mark key="'" line="570" column="36" />
-        <mark key="[" line="361" column="3" />
-        <mark key="]" line="362" column="71" />
-        <mark key="^" line="362" column="71" />
-        <mark key="." line="362" column="71" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513355401616">
+        <mark key="'" line="566" column="36" />
+        <mark key="[" line="126" column="55" />
+        <mark key="]" line="127" column="5" />
+        <mark key="^" line="127" column="5" />
+        <mark key="." line="127" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
@@ -122,12 +123,19 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1513353984356">
+        <mark key="'" line="114" column="43" />
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="35" />
+        <mark key="." line="116" column="8" />
+      </file>
       <file name="/AssemblyComponent.java" timestamp="1513175837149">
         <mark key="'" line="26" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMaterial.java" timestamp="1513253268332">
         <mark key="'" line="1824" column="79" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocBomMaintain3.java" timestamp="1513354313454" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/FAPreferences.java" timestamp="1512997068055" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/parsing/CreateMaterialProcess.java" timestamp="1511981119765">
         <mark key="[" line="33" column="13" />
@@ -493,54 +501,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGxtRG9jdW1lbnQgUGxtRG9jdW1lbnQg</text>
+        <text>material</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGxtRG9jdW1lbnQgUGxtRG9jdW1lbnQg</text>
+        <text>material</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">T3B0aW9uYWw8UHJvZHVjdFJldmlzaW9uVHlwZT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRhdGFDb250YWluZXIuYWRkT2JqZWN0KFBvcERvY0NyZWF0ZS5JTl9DUkVBVEVfV0lUSF9HVUksIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtZW1iZXJSZWZzLmZsYXRNYXAoSkFYQlV0aWxzOjpnZXRKQVhCRWxlbWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudC5hZGRQbG1PYmplY3RMaW5rKHBsbUFjY2Vzcy5vYmplY3RMaW5rTmV3KG1hdGVyaWFsKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGFTZXRUeXBlczsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUuZ2V0TmFtZSgpLmVxdWFscygiIikpCiAgICAgIFN0cmluZyBkZXNjID0gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>PlmMaterial material = component.getMaterial();
-
-      if (material.getDescription().equals(&quot;&quot;))
-      {
-        material.setDescription(productRevisionType.getName());
-      }</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gICAgICAgIGFzc2VtYmx5VG9vbC5nZW5lcmF0ZURvY0JvbShhc3NlbWJseVRvb2wuZ2V0RG9jdW1lbnRNYXN0ZXIoKSk7CiAgICAgICAgLy8gICAgICAgIG1haW50YWluRG9jQm9tKGFzc2VtYmx5VG9vbC5nZXREb2N1bWVudE1hc3RlcigpKTsKCiAgICAgICAgLy8gICAgICAgIFBsbU1hdEJvbUhlYWRlciBwbG1NYXRCb21IZWFkZXIgPSBhc3NlbWJseVRvb2wuZ2VuZXJhdGVNYXRCb21IZWFkZXIobWF0ZXJpYWwpOwogICAgICAgIC8vICAgICAgICBtYWludGFpbk1hdGVyaWFsQm9tKHBsbU1hdEJvbUhlYWRlcik7</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRhdGFDb250YWluZXIuYWRkT2JqZWN0KFBvcERvY0NyZWF0ZS5JTl9DUkVBVEVfV0lUSF9HVUksIGZhbHNlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGFzc2VtYmx5Q29tcG9uZW50LmdldERlcGVuZGVudERvYygpICE9IG51bGwpCiAgICAgICAgY3JlYXRlRGVwZW5kZW50RG9jU3RydWN0dXJlKGFzc2VtYmx5Q29tcG9uZW50KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgQXIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBtZW1iZXJSZWZzLmZsYXRNYXAoSkFYQlV0aWxzOjpnZXRKQVhCRWxlbWVudHMpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBQbG1Eb2N1bWVudCBib21Db21wb25lbnRUb0RvYyhPY2N1cnJlbmNlVHlwZSBvY2N1cnJlbmNlVHlwZSkgdGhyb3dzIERlZmF1bHRMb2dFeGNlcHRpb24KICB7CiAgICBPcHRpb25hbDxQcm9kdWN0UmV2aXNpb25UeXBlPiBwcm9kdWN0UmV2aXNpb25UeXBlT3B0ID0gSkFYQlV0aWxzLmdldFByb2R1Y3RSZXZpc2lvblR5cGUob2NjdXJyZW5jZVR5cGUpOwogICAgT3B0aW9uYWw8UHJvZHVjdFR5cGU+IHByb2R1Y3RUeXBlT3B0ID0gSkFYQlV0aWxzLmdldFByb2R1Y3RUeXBlKG9jY3VycmVuY2VUeXBlKTsKCiAgICBTdHJpbmcgcmV2aXNpb24gPSAiIjsKICAgIFN0cmluZyBwcm9kdWN0SWQgPSAiIjsKCiAgICBpZiAocHJvZHVjdFJldmlzaW9uVHlwZU9wdC5pc1ByZXNlbnQoKSAmJiBwcm9kdWN0VHlwZU9wdC5pc1ByZXNlbnQoKSkKICAgIHsKICAgICAgcmV2aXNpb24gPSBwcm9kdWN0UmV2aXNpb25UeXBlT3B0LmdldCgpLmdldFJldmlzaW9uKCk7CiAgICAgIHByb2R1Y3RJZCA9IHByb2R1Y3RUeXBlT3B0LmdldCgpLmdldFByb2R1Y3RJZCgpOwoKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBwbG1BY2Nlc3MKICAgICAgICAgIC5kb2N1bWVudE5ldyhwcm9kdWN0SWQsIGNvbXBvbmVudE1hc3RlckR0eXBlLmdldERvY1R5cGUoKSwgY29tcG9uZW50TWFzdGVyRHR5cGUuZ2V0RG9jUGFydCgpLCByZXZpc2lvbik7CiAgICAgIGlmIChwbG1Eb2N1bWVudCAhPSBudWxsICYmIHBsbURvY3VtZW50LmV4aXN0ZW5jZUNoZWNrKCkpCiAgICAgICAgcmV0dXJuIHBsbURvY3VtZW50OwogICAgfQoKICAgIHRocm93IG5ldyBEZWZhdWx0TG9nRXhjZXB0aW9uKAogICAgICAgIERpYy5nZXRUZXh0KCJjdXN0b21lci5leGNlcHRpb25zLmRvY3VtZW50Lm1pc3NpbmcuZm9yLmFzc2VtYmx5IiwgIkRvY3VtZW50ICUxICUyICUzICU0IG1pc3NpbmcuIENhbm5vdCBjcmVhdGUgZG9jdW1lbnQgQm9tIiwKICAgICAgICAgICAgcHJvZHVjdElkLAogICAgICAgICAgICBjb21wb25lbnRNYXN0ZXJEdHlwZS5nZXREb2NUeXBlKCksIGNvbXBvbmVudE1hc3RlckR0eXBlLmdldERvY1BhcnQoKSwgcmV2aXNpb24pKTsKICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGFTZXRUeXBlczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIExpc3Q8T2NjdXJyZW5jZVR5cGU+IG9jY3VyZW5jZVR5cGVzQ29tcG9uZW50cyA9IG9jY3VyZW5jZUNvbXBvbmVudHMuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGUuZ2V0TmFtZSgpLmVxdWFscygiIikpCiAgICAgIFN0cmluZyBkZXNjID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
