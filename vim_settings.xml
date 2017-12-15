@@ -349,12 +349,11 @@
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1513369017553">
-        <mark key="'" line="175" column="2" />
-        <mark key="[" line="253" column="6" />
-        <mark key="]" line="253" column="6" />
-        <mark key="^" line="253" column="4" />
-        <mark key="." line="253" column="6" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1513371285357">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="250" column="4" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/plugins/environment/rfc/PlmProcessRfcExecutor.java" timestamp="1513078550053" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1512651916450">
@@ -401,8 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="51" filename="/AssemblyComponent.java" />
-      <jump line="23" column="35" filename="/AssemblyComponent.java" />
       <jump line="26" column="30" filename="/AssemblyComponent.java" />
       <jump line="64" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
       <jump line="207" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
@@ -501,67 +498,68 @@
       <jump line="114" column="99" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="82" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="393" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocBomMaintain.java" />
+      <jump line="66" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
+      <jump line="39" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Arrays.asList(assemblyComponent.getDocumentMaster(), assemblyComponent.getDependentDoc()))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmaW5hbCBEVHlwZSBjb21wb25lbnRNYXN0ZXJEdHlwZTsK</text>
       </register>
       <register name="-" type="4">
         <text>Arrays.asList(assemblyComponent.getDocumentMaster(), assemblyComponent.getDependentDoc()))</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTl9DSEFOR0VfRE9DVU1FTlRTVFJVQ1RVUkVcPg==</text>
+        <text encoding="base64">XDxjb21wb25lbnRNYXN0ZXJEdHlwZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYXNzZW1ibHlDb21wb25lbnQuZ2V0RG9jdW1lbnRzKCkuc3RyZWFtKCkuZm9yRWFjaChlIC0+IGUuYWRkUGxtT2JqZWN0TGluayhwbG1BY2Nlc3Mub2JqZWN0TGlua05ldyhhc3NlbWJseUNvbXBvbmVudC5nZXRNYXRlcmlhbCgpKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBmaW5hbCBEVHlwZSBjb21wb25lbnRNYXN0ZXJEdHlwZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXBsbURvY3VtZW50LmV4aXN0ZW5jZUNoZWNrKCkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVQcmV2aW91c09yaWdpbmFscyhwbG1Eb2N1bWVudCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBvbmVudE1hc3RlckR0eXBlID0gRFR5cGVDb250YWluZXIuZ2V0SW5zdCgpLmdldERUeXBlKFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJjdXN0b21lci5jb21wb25lbnQuZHR5cGUuZG9jdW1lbnQubWFzdGVyIiwgIlBFWFQiKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmIChjaGFuZ2VOdW1iZXIgIT0gbnVsbCkKICAgICAgewogICAgICAgIGFzc2VtYmx5Q29tcG9uZW50LmdldERvY3VtZW50cygpLmZvckVhY2goZG9jdW1lbnQgLT4gewogICAgICAgICAgZG9jdW1lbnQuYWRkUGxtT2JqZWN0TGluayhwbG1BY2Nlc3Mub2JqZWN0TGlua05ldyhwbG1BY2Nlc3MuY2hhbmdlTWFzdGVyTmV3KGNoYW5nZU51bWJlcikpKTsKICAgICAgICB9KTsKICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIXBsbURvY3VtZW50LmV4aXN0ZW5jZUNoZWNrKCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZW1vdmVQcmV2aW91c09yaWdpbmFscyhwbG1Eb2N1bWVudCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldExpbmtlZEVjbXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2hhCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJTl9DSEFOR0VfRE9DVU1FTlRTVFJVQ1RVUkVcPg==</last-search>
+      <last-search encoding="base64">XDxjb21wb25lbnRNYXN0ZXJEdHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTl9DSEFOR0VfRE9DVU1FTlRTVFJVQ1RVUkVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wb25lbnRNYXN0ZXJEdHlwZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpblJldmlzaW9uTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxQcm9jZXNzTWF0Qm9tTWFpbnRhaW5cPg==</entry>
         <entry>changePre</entry>
         <entry encoding="base64">XDxWRVJXRU5EVU5HXD4=</entry>
@@ -581,6 +579,7 @@
         <entry encoding="base64">XDxDTEFTU19UWVBFXD4=</entry>
         <entry encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</entry>
         <entry encoding="base64">XDxJTl9DSEFOR0VfRE9DVU1FTlRTVFJVQ1RVUkVcPg==</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRNYXN0ZXJEdHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
