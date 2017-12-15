@@ -95,12 +95,12 @@
         <mark key="." line="33" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/omf/OmfDocOpenWithPlantDataReporter.java" timestamp="1513335778220" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513355401616">
-        <mark key="'" line="566" column="36" />
-        <mark key="[" line="126" column="55" />
-        <mark key="]" line="127" column="5" />
-        <mark key="^" line="127" column="5" />
-        <mark key="." line="127" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1513356703004">
+        <mark key="'" line="567" column="36" />
+        <mark key="[" line="141" column="8" />
+        <mark key="]" line="141" column="47" />
+        <mark key="." line="141" column="47" />
+        <mark key="^" line="141" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
@@ -501,16 +501,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>material</text>
+        <text>checkinFiles</text>
       </register>
       <register name="-" type="4">
-        <text>material</text>
+        <text>checkinFiles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFDb250YWluZXIuYWRkT2JqZWN0KFBvcERvY0NyZWF0ZS5JTl9DUkVBVEVfV0lUSF9HVUksIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgYXNzZW1ibHlDb21wb25lbnQuZ2V0RG9jdW1lbnRzKCkuc3RyZWFtKCkuZm9yRWFjaChlIC0+IGUuYWRkUGxtT2JqZWN0TGluayhwbG1BY2Nlc3Mub2JqZWN0TGlua05ldyhhc3NlbWJseUNvbXBvbmVudC5nZXRNYXRlcmlhbCgpKSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudC5hZGRQbG1PYmplY3RMaW5rKHBsbUFjY2Vzcy5vYmplY3RMaW5rTmV3KG1hdGVyaWFsKSk7Cg==</text>
