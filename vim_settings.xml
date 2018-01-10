@@ -132,11 +132,11 @@
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1515596580239">
-        <mark key="[" line="215" column="24" />
-        <mark key="]" line="215" column="24" />
-        <mark key="." line="215" column="24" />
-        <mark key="^" line="215" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1515597229003">
+        <mark key="[" line="214" column="16" />
+        <mark key="]" line="214" column="20" />
+        <mark key="^" line="214" column="20" />
+        <mark key="." line="214" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1515584197063">
         <mark key="[" line="40" column="21" />
@@ -267,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>(String)referencesUnrepaired.toArray()[2]</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>(String)referencesUnrepaired.toArray()[2]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRCb21MaW5rXD4=</text>
