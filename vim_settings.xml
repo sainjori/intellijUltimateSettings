@@ -6,7 +6,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1513268510471">
         <mark key="'" line="848" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512729048263">
+      <file name="/a.dummy" timestamp="1515616174122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/ecm/ProcessEcmCreate2.java" timestamp="1513094983356">
@@ -59,12 +59,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatChange.java" timestamp="1512598603220">
         <mark key="'" line="102" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1515585988947">
-        <mark key="'" line="498" column="4" />
-        <mark key="[" line="467" column="5" />
-        <mark key="]" line="468" column="3" />
-        <mark key="^" line="468" column="3" />
-        <mark key="." line="468" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1515619317354">
+        <mark key="'" line="586" column="4" />
+        <mark key="[" line="320" column="3" />
+        <mark key="]" line="321" column="1" />
+        <mark key="^" line="321" column="1" />
+        <mark key="." line="321" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
@@ -98,7 +98,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1515421344561" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" timestamp="1515590770365" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyTool.java" timestamp="1515598328394" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1515601576364" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1515618242121" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/utils/ECTRClientRequestUtils.java" timestamp="1515419509539" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1513182231405">
         <mark key="'" line="510" column="21" />
@@ -132,13 +132,6 @@
         <mark key="]" line="44" column="31" />
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1515602890550">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="289" column="71" />
-        <mark key="]" line="290" column="27" />
-        <mark key="." line="290" column="27" />
-        <mark key="^" line="290" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1515584197063">
         <mark key="[" line="40" column="21" />
@@ -269,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>boolean prt =</text>
+        <text>inCreateDocStructure</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRCb21MaW5rXD4=</text>
@@ -281,37 +274,44 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZXh0ZW5zaW9uID0gRmlsZVV0aWxzLmdldEV4dGVuc2lvbihsb2NhdGlvblJlZik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlTmFtZVswXSA9IEZpbGVVdGlscy5nZXRGaWxlbmFtZShsb2NhdGlvblJlZik7Cg==</text>
+      <register name="3" type="4">
+        <text>private void repairPartFileReferences(File mainOriginal) throws DefaultLogException
+  {
+    
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29tcG9uZW50LmNyZWF0ZVRvb2xEb2N1bWVudHNGaWxlcyhkYXRhU2V0VHlwZSwgZXh0ZXJuYWxGaWxlVHlwZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXh0ZXJuYWxGaWxlVHlwZXMuZ2UK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGV4dGVybmFsRmlsZVR5cGVzLmdldExvY2F0aW9uUmVmKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGV4dGVybmFsRmlsZVR5cGVzLmdldExvY2F0aW9uUmVmKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>catch (DefaultLogException e)
+      {
+        //todo
+        e.printStackTrace();
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>528</text>
