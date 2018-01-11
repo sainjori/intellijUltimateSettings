@@ -53,12 +53,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatChange.java" timestamp="1512598603220">
         <mark key="'" line="102" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1515677864225">
-        <mark key="'" line="588" column="4" />
-        <mark key="[" line="311" column="39" />
-        <mark key="]" line="311" column="46" />
-        <mark key="." line="311" column="46" />
-        <mark key="^" line="311" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1515689703633">
+        <mark key="'" line="622" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
@@ -129,13 +125,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocCreate.java" timestamp="1513011029005">
         <mark key="'" line="86" column="13" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataImport.java" timestamp="1515492496012">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="72" column="20" />
-        <mark key="]" line="44" column="31" />
-        <mark key="^" line="44" column="31" />
-        <mark key="." line="44" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1515584197063">
         <mark key="[" line="40" column="21" />
@@ -266,19 +255,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5vZih0b29sKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>inCreateDocStructure</text>
+        <text>createMappingRenameRefPairs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRCb21MaW5rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZXh0ZW5zaW9uID0gRmlsZVV0aWxzLmdldEV4dGVuc2lvbihsb2NhdGlvblJlZik7Cg==</text>
+        <text encoding="base64">ICAgIHJlZmVyZW5jZXNVbnJlcGFpcmVkLnN0cmVhbSgpLmZvckVhY2gocmVmZXJlbmNlcyAtPiBjcmVhdGVNYXBwaW5nUmVuYW1lUmVmUGFpcnMocmVmZXJlbmNlcywgaW5SZW5hbWVSZWZQYWlyTWFwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5vZih0b29sKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -287,22 +276,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKHRvb2wpOwo=</text>
+        <text encoding="base64">ICAgIHJlZmVyZW5jZXNVbnJlcGFpcmVkLnN0cmVhbSgpLmZvckVhY2gocmVmZXJlbmNlcyAtPiBjcmVhdGVNYXBwaW5nUmVuYW1lUmVmUGFpcnMocmVmZXJlbmNlcywgaW5SZW5hbWVSZWZQYWlyTWFwKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZmVyZW5jZXNVbnJlcGFpcmVkLnN0cmVhbSgpLmZvckVhY2gocmVmZXJlbmNlcyAtPiBjcmVhdGVNYXBwaW5nUmVuYW1lUmVmUGFpcnMocmVmZXJlbmNlcywgaW5SZW5hbWVSZWZQYWlyTWFwKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private void repairPartFileReferences(File mainOriginal) throws DefaultLogException
-  {
-    
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0Fzc2VtYmx5ICYmICFwbG1Eb2N1bWVudC5pc01hc3RlcigpKQogICAgICByZXBhaXJSZWZlcmVuY2VzSW5EcmF3aW5nRmlsZShtYWluT3JpZ2luYWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgcmVwYWlyUmVmZXJlbmNlc0luRHJhd2luZ0ZpbGUoRmlsZSBtYWluT3JpZ2luYWwpCiAgewogICAgQ29sbGVjdGlvbjxTdHJpbmc+IHJlZmVyZW5jZXNVbnJlcGFpcmVkID0gZ2V0UmVmZXJlbmNlc05hbWVzRnJvbVBhcnRGaWxlKG1haW5PcmlnaW5hbCk7CgogICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gaW5SZW5hbWVSZWZQYWlyTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgcmVmZXJlbmNlc1VucmVwYWlyZWQuc3RyZWFtKCkuZm9yRWFjaChyZWZlcmVuY2VzIC0+IGNyZWF0ZU1hcHBpbmdSZW5hbWVSZWZQYWlycyhyZWZlcmVuY2VzLCBpblJlbmFtZVJlZlBhaXJNYXApKTsKCiAgICBpZiAoaW5SZW5hbWVSZWZQYWlyTWFwLnNpemUoKSA9PSAwKQogICAgICByZXR1cm47CgogICAgUGxtUHJvY2Vzc1VnUmVuYW1lUmVmIHBsbVByb2Nlc3NVZ1JlbmFtZVJlZiA9IG5ldyBQbG1Qcm9jZXNzVWdSZW5hbWVSZWYoKTsKICAgIERhdGFDb250YWluZXIgZGF0YSA9IG5ldyBEYXRhQ29udGFpbmVyKCk7CgogICAgZGF0YS5hZGRPYmplY3QoUGxtUHJvY2Vzc0NhZFByZXBhcmVPcmlnaW5hbEZvckNoZWNraW4uQVBQTF9JTlBVVF9QQVJUX05BTUUsIG1haW5PcmlnaW5hbC5nZXRBYnNvbHV0ZVBhdGgoKSk7CiAgICBkYXRhLmFkZE9iamVjdChQbG1Qcm9jZXNzQ2FkUHJlcGFyZU9yaWdpbmFsRm9yQ2hlY2tpbi5JTl9SRU5BTUVfUkVGX1BBSVJTLCBpblJlbmFtZVJlZlBhaXJNYXApOwoKICAgIHBsbVByb2Nlc3NVZ1JlbmFtZVJlZi5zZXREYXRhKGRhdGEpOwogICAgcGxtUHJvY2Vzc1VnUmVuYW1lUmVmLmV4ZWN1dGUoKTsKICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -311,7 +297,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>547</text>
