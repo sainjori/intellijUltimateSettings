@@ -21,6 +21,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/license/LicenseValidator.java" timestamp="1516047477552" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1515775744058">
         <mark key="[" line="111" column="17" />
         <mark key="]" line="111" column="35" />
@@ -30,6 +31,7 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1515676800007" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/ectr_statsuploader_5.1.6.0/src/main/java/cadagent/modules/statuploader2/LogUploader.java" timestamp="1515421298896" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.10.0/sapbase-5.1.10.0-sources.jar!/cadagent/sap/ApiReturnHandler.java" timestamp="1516020430108" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/license/license.component.ts" timestamp="1516046497159" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/modules/fa/FAUtils.java" timestamp="1515584930955">
         <mark key="'" line="185" column="24" />
       </file>
@@ -43,6 +45,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.10.0/sapbase-5.1.10.0-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1515495344214" />
       <file name="/DummyFile.xpath" timestamp="1511811755798">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" timestamp="1516047466694">
+        <mark key="'" line="156" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/variantconfiguration/DefaultVariantConfigurator.java" timestamp="1516030324351" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1515421344561" />
@@ -83,14 +88,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/Beispielwerkzeuge Augsburg/myTest/Komponente 2 Schneidplatte/ConfiguredDataFilesExportDefault/Beide Sprachen/8191415313_A_3-Schaftfraeser.xml" timestamp="1516039290829" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1515773359379" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/websockets/ECTRClientWebsocketAccessor.java" timestamp="1515421503145" />
-      <file name="/fragment.java" timestamp="1515675781273">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
       <jump line="271" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
       <jump line="273" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
       <jump line="284" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
@@ -190,6 +189,7 @@
       <jump line="2511" column="51" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="64" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
       <jump line="129" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/cuttingdata/csv/CSVReader.java" />
+      <jump line="156" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
