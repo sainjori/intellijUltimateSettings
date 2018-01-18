@@ -78,12 +78,16 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/cuttingdata/csv/CSVReader.java" timestamp="1515667061168">
         <mark key="'" line="129" column="46" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/querying/MySQLQueryParser.java" timestamp="1516284986358" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516268451365">
         <mark key="'" line="624" column="43" />
         <mark key="[" line="146" column="30" />
         <mark key="]" line="146" column="33" />
         <mark key="." line="146" column="33" />
         <mark key="^" line="146" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/SelectQueryImpl.java" timestamp="1516285014657">
+        <mark key="'" line="1865" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
@@ -171,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="53" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMaterial.java" />
       <jump line="91" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMaterial.java" />
       <jump line="965" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMaterial.java" />
       <jump line="1213" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMaterial.java" />
@@ -271,6 +274,7 @@
       <jump line="1996" column="12" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="2014" column="15" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="2271" column="49" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="1865" column="30" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/SelectQueryImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
