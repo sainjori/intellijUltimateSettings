@@ -12,5 +12,12 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ToggleBreakpointEnabled" icon="$USER_HOME$/Desktop/snippets/debugger/muteBreakpoints_dark.png" />
   </component>
 </application>
