@@ -141,7 +141,7 @@
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/QueryParam.java" timestamp="1515418349489">
         <mark key="'" line="90" column="29" />
       </file>
-      <file name="/AssemblyComponent.java" timestamp="1513175837149">
+      <file name="/AssemblyComponent.java" timestamp="1516638296246">
         <mark key="'" line="26" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMaterial.java" timestamp="1513253268332">
@@ -358,6 +358,12 @@
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1516637916246">
+        <mark key="[" line="222" column="20" />
+        <mark key="]" line="222" column="20" />
+        <mark key="^" line="222" column="65" />
+        <mark key="." line="222" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.3.9.v20160517/websocket-common-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/websocket/common/WebSocketSession.java" timestamp="1515421023023">
         <mark key="'" line="295" column="25" />
       </file>
@@ -502,10 +508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isComponent != null</text>
+        <text>Optional.of(filePrimary.exists() ? filePrimary).orElse(alternativeFileLocation);</text>
       </register>
       <register name="-" type="4">
-        <text>isComponent != null</text>
+        <text>Optional.of(filePrimary.exists() ? filePrimary).orElse(alternativeFileLocation);</text>
       </register>
       <register name="/" type="4">
         <text>maintain</text>
@@ -514,37 +520,40 @@
         <text encoding="base64">ICAgIGlmIChpc0NvbXBvbmVudCAmJiBvY2N1cmVuY2VUeXBlUHJpbWFyeS5pc1ByZXNlbnQoKSkKICAgIHsKICAgICAgcmV0dXJuIG9jY3VyZW5jZVR5cGVQcmltYXJ5OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IGdldE9jY3VyZW5jZVR5cGVQcmltYXJ5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2FsdGVybmF0aXZlRmlsZUxvY2F0aW9uIGlzIGNhc2Ugd2hlbiBsb2NhdGlvbnJlZiBkb2VzIG5vdCBwcm92aWRlIHRoZSBmb2xkZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpcykK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGFsdGVybmF0aXZlRmlsZUxvY2F0aW9uID0gbmV3IEZpbGUobmV3IEZpbGUocGFyZW50LCBGaWxlVXRpbHMucmVtb3ZlRXh0ZW5zaW9uKHNvdXJjZUZpbGUuZ2V0TmFtZSgpKSksCiAgICAgICAgICAgIGV4dGVybmFsRmlsZVR5cGUuZ2V0TG9jYXRpb25SZWYoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IGdldE9jY3VyZW5jZVR5cGVQcmltYXJ5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlMS5leGlzdHMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUyID0gbmV3IEZpbGUobmV3IEZpbGUocGFyZW50LCBGaWxlVXRpbHMucmVtb3ZlRXh0ZW5zaW9uKHNvdXJjZUZpbGUuZ2V0TmFtZSgpKSksIGV4dGVybmFsRmlsZVR5cGUuZ2V0TG9jYXRpb25SZWYoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShwYXJlbnQsIGV4dGVybmFsRmlsZVR5cGUuZ2V0TG9jYXRpb25SZWYoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gYXJlSWRlbnRpY2FsID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="8" type="4">
+        <text>else if (file2.exists())
+        {
+
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8U3RyaW5nPiBzID0gSkFYQlV0aWxzLmdldFByb2R1Y3RUeXBlKGUpLm1hcChlIC0+IGUuZ2V0UHJvZHVjdElkKCkpCg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IGdldE9jY3VyZW5jZVR5cGVQcmltYXJ5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>222</text>
