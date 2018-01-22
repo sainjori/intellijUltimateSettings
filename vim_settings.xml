@@ -106,8 +106,8 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516616893876">
-        <mark key="'" line="228" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516635185159">
+        <mark key="'" line="199" column="20" />
         <mark key="[" line="642" column="93" />
         <mark key="]" line="642" column="96" />
         <mark key="." line="642" column="96" />
@@ -193,11 +193,12 @@
         <mark key="'" line="155" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/TC_Werkzeugexport/Komponenten/05_Fräsen_o/TC_MILL_10_o/TC_MILL_10_10_o/TC_MILL_10_10_110/8191417193_B_1-Schaftfraeser.xml" timestamp="1516614154549" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" timestamp="1516629597972">
-        <mark key="[" line="350" column="5" />
-        <mark key="]" line="352" column="0" />
-        <mark key="^" line="308" column="39" />
-        <mark key="." line="352" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" timestamp="1516635307745">
+        <mark key="'" line="204" column="2" />
+        <mark key="[" line="201" column="32" />
+        <mark key="]" line="325" column="29" />
+        <mark key="." line="325" column="29" />
+        <mark key="^" line="325" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/App.java" timestamp="1511810458253">
         <mark key="[" line="30" column="118" />
@@ -205,7 +206,7 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyTool.java" timestamp="1516620883646" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyTool.java" timestamp="1516634795417" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/resources/META-INF/services/cadagent.gui.obr.ObrFunctionManagerInterface" timestamp="1511555679798">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="41" />
@@ -217,6 +218,9 @@
         <mark key="]" line="211" column="103" />
         <mark key="^" line="211" column="103" />
         <mark key="." line="211" column="103" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1516634446019">
+        <mark key="'" line="176" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseAuthTokenDao.java" timestamp="1516201225070">
         <mark key="'" line="72" column="59" />
@@ -387,7 +391,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1513195423252">
         <mark key="'" line="185" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1516616497223">
+      <file name="/fragment.java" timestamp="1516634286792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -395,10 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="151" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="145" column="81" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="114" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="111" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="106" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="104" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
@@ -495,52 +495,56 @@
       <jump line="565" column="46" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
       <jump line="285" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="228" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
+      <jump line="646" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
+      <jump line="176" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
+      <jump line="202" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" />
+      <jump line="199" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FERT</text>
+        <text>isComponent != null</text>
       </register>
       <register name="-" type="4">
-        <text>FERT</text>
+        <text>isComponent != null</text>
       </register>
       <register name="/" type="4">
         <text>maintain</text>
       </register>
-      <register name="0" type="4">
-        <text>productTypeRefOptional</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0NvbXBvbmVudCAmJiBvY2N1cmVuY2VUeXBlUHJpbWFyeS5pc1ByZXNlbnQoKSkKICAgIHsKICAgICAgcmV0dXJuIG9jY3VyZW5jZVR5cGVQcmltYXJ5OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IGdldE9jY3VyZW5jZVR5cGVQcmltYXJ5KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KFByb2R1Y3RUeXBlIGVsKSAtPiB7CiAgICAgICAgICBTdHJpbmcgaWQgPSBlbC5nZXRJZCgpOwogICAgICAgICAgUHJvZHVjdFR5cGUgcHJvZHVjdFR5cGUgPSBvY2N1cmVuY2VUeXBlUHJpbWFyeS5mbGF0TWFwKEpBWEJVdGlsczo6Z2V0UHJvZHVjdFR5cGUpLmdldCgpOwogICAgICAgICAgcmV0dXJuICFwcm9kdWN0VHlwZS5nZXRJZCgpLmVxdWFscyhpZCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIChpcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IGdldE9jY3VyZW5jZVR5cGVQcmltYXJ5KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKG51bGwpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KFByb2R1Y3RUeXBlIGVsKSAtPiB7CiAgICAgICAgICBTdHJpbmcgaWQgPSBlbC5nZXRJZCgpOwogICAgICAgICAgUHJvZHVjdFR5cGUgcHJvZHVjdFR5cGUgPSBvY2N1cmVuY2VUeXBlUHJpbWFyeS5mbGF0TWFwKEpBWEJVdGlsczo6Z2V0UHJvZHVjdFR5cGUpLmdldCgpOwogICAgICAgICAgcmV0dXJuICFwcm9kdWN0VHlwZS5nZXRJZCgpLmVxdWFscyhpZCk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gYXJlSWRlbnRpY2FsID0gZmFsc2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYW55MS5pc1ByZXNlbnQoKSkKICAgICAgICB7CiAgICAgICAgICBQcm9kdWN0VHlwZSBwcm9kdWN0VHlwZSA9IGFueTEuZ2V0KCk7CiAgICAgICAgICByZXR1cm4gcHJvZHVjdFR5cGU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8U3RyaW5nPiBzID0gSkFYQlV0aWxzLmdldFByb2R1Y3RUeXBlKGUpLm1hcChlIC0+IGUuZ2V0UHJvZHVjdElkKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>222</text>
