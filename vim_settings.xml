@@ -24,7 +24,7 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/TC_Werkzeugexport/Komplettwerkzeuge/04_Fräsen_o/TA_MILL_10/TA_MILL_10_10/97000116_A_1-Schaftfraeser.xml" timestamp="1516736781245" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/TC_Werkzeugexport/Komplettwerkzeuge/04_Fräsen_o/TA_MILL_10/TA_MILL_10_10/97000116_A_1-Schaftfraeser.xml" timestamp="1516737814965" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/brobj/BrtemplateSelectionObrObject.java" timestamp="1510838952754">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -44,7 +44,12 @@
         <mark key="." line="325" column="29" />
         <mark key="^" line="325" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1516711600701" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1516740249091">
+        <mark key="[" line="209" column="101" />
+        <mark key="]" line="207" column="35" />
+        <mark key="." line="207" column="35" />
+        <mark key="^" line="207" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/App.java" timestamp="1511810458253">
         <mark key="[" line="30" column="118" />
         <mark key="]" line="31" column="24" />
@@ -106,6 +111,7 @@
         <mark key="^" line="217" column="50" />
         <mark key="." line="217" column="50" />
       </file>
+      <file name="C:/tesingTooLongPathRenk/TC_Werkzeugexport/Komplettwerkzeuge/04_Fräsen_o/TA_MILL_10/TA_MILL_10_10/97000116_A_1-Schaftfraeser.xml" timestamp="1516739451075" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/omf/OmfFatcDataImport.java" timestamp="1512582300710">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -142,12 +148,12 @@
         <mark key="^" line="250" column="50" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516734837824">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516739076685">
         <mark key="'" line="199" column="20" />
-        <mark key="[" line="314" column="44" />
-        <mark key="]" line="314" column="44" />
-        <mark key="." line="314" column="44" />
-        <mark key="^" line="314" column="44" />
+        <mark key="[" line="314" column="74" />
+        <mark key="]" line="314" column="82" />
+        <mark key="." line="314" column="82" />
+        <mark key="^" line="314" column="82" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
@@ -272,6 +278,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.10.0/sapbase-5.1.10.0-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1516722122017" />
       <file name="/CustomerPlmParsePLMXMLProcess.java" timestamp="1516726659732" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.10.0/base-5.1.10.0-sources.jar!/cadagent/cfc/util/FileUtils.java" timestamp="1516738766531" />
       <file name="/fragment.java" timestamp="1516721742878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -391,11 +398,11 @@
       <jump line="254" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFpc0NvbXBvbmVudCgpLmlzUHJlc2VudCgpICYmICFwbG1Eb2N1bWVudC5pc01hc3RlcigpICYmIHJlZmVyZW5jZXNSZXBhaXJlZCA9PSBudWxsKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Q2Fubm90IGNyZWF0ZSBkb2N1bWVudCBCT00uIE9uZSBvciBtb3JlIGRvY3VtZW50cyBhcmUgbWlzc2luZzog</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlZmVyZW5jZXNSZXBhaXJlZCAhPSBudWxsICYmIHJlZmVyZW5jZXNSZXBhaXJlZC5leGlzdHMoKSA/IHJlZmVyZW5jZXNSZXBhaXJlZCA6IG1haW5PcmlnaW5hbCk7</text>
+        <text encoding="base64">Q2Fubm90IGNyZWF0ZSBkb2N1bWVudCBCT00uIE9uZSBvciBtb3JlIGRvY3VtZW50cyBhcmUgbWlzc2luZzog</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50RGlyZWN0b3J5XD4=</text>
@@ -404,37 +411,37 @@
         <text encoding="base64">ICAgIGRhdGEuYWRkT2JqZWN0KEN1c3RvbWVyUHJvY2Vzc0NoZWNraW5HZW5lcmF0ZU1ldGFpbmZEYXRhLklOX01BSU5fT1JJR0lOQUwsIG1haW5PcmlnaW5hbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFpc0NvbXBvbmVudCgpLmlzUHJlc2VudCgpICYmICFwbG1Eb2N1bWVudC5pc01hc3RlcigpICYmIHJlZmVyZW5jZXNSZXBhaXJlZCA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIGFwcGxQYXJ0LmNvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghaXNDb21wb25lbnQoKS5pc1ByZXNlbnQoKSAmJiAhcGxtRG9jdW1lbnQuaXNNYXN0ZXIoKSAmJiByZWZlcmVuY2VzUmVwYWlyZWQgPT0gbnVsbCkKICAgICAgdGhyb3cgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oRGljLmdldFRleHQoImN1c3RvbWVyLmV4Y2VwdGlvbnMucmVwYWlyLnJlZmVyZW5jZXMuZmFpbGVkIiwKICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsCiAgICAgICAgICAgICAgIldhcm5pbmc6IENvdWxkIG5vdCBkZWxldGUgdGVtcG9yYXJ5IGZvbGRlciBhbmQgZmlsZSB3aXRoIHJlcGFpciByZWZlcmVuY2VzLiBGaWxlOiAiICsgcmVmZXJlbmNlc1JlcGFpcmVkLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlZmVyZW5jZXNSZXBhaXJlZC5kZWxldGUoKSB8fCAhbmV3IEZpbGUocmVmZXJlbmNlc1JlcGFpcmVkLmdldFBhcmVudCgpKS5kZWxldGUoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFpc0NvbXBvbmVudCgpLmlzUHJlc2VudCgpICYmICFwbG1Eb2N1bWVudC5pc01hc3RlcigpICYmIHJlZmVyZW5jZXNSZXBhaXJlZCA9PSBudWxsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpblJlbmFtZVJlZlBhaXJNYXAuc2l6ZSgpID09IDAgfHwgIXRlbXBGaWxlUG9zLmV4aXN0cygpICYmICF0ZW1wRmlsZVBvcy5ta2RpcigpKQogICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgIGlmICghaXNDb21wb25lbnQoKS5pc1ByZXNlbnQoKSAmJiAhcGxtRG9jdW1lbnQuaXNNYXN0ZXIoKSAmJiByZWZlcmVuY2VzUmVwYWlyZWQgPT0gbnVsbCkKICAgICAgdGhyb3cgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oRGljLmdldFRleHQoImN1c3RvbWVyLmV4Y2VwdGlvbnMucmVwYWlyLnJlZmVyZW5jZXMuZmFpbGVkIiwKICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmICghaXNDb21wb25lbnQoKS5pc1ByZXNlbnQoKSAmJiAhcGxtRG9jdW1lbnQuaXNNYXN0ZXIoKSAmJiByZWZlcmVuY2VzUmVwYWlyZWQgPT0gbnVsbCkKICAgICAgdGhyb3cgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oRGljLmdldFRleHQoImN1c3RvbWVyLmV4Y2VwdGlvbnMucmVwYWlyLnJlZmVyZW5jZXMuZmFpbGVkIiwKICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAoIWlzQ29tcGxldGVUb29sKCkuaXNQcmVzZW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJFcnJvcjogUmVwYWlyaW5nIHJlZmVyZW5jZXMgZmFpbGVkIHdpdGggZG9jdW1lbnQgJTEgYW5kIGZpbGUgJTIiLCBwbG1Eb2N1bWVudC5nZXROdW1iZXIoKSwgbWFpbk9yaWdpbmFsLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAoIWlzQ29tcGxldGVUb29sKCkuaXNQcmVzZW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
