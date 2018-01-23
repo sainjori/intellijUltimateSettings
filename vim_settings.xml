@@ -139,12 +139,12 @@
         <mark key="^" line="250" column="50" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516704898694">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516706073033">
         <mark key="'" line="199" column="20" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
+        <mark key="[" line="293" column="4" />
+        <mark key="]" line="293" column="4" />
         <mark key="^" line="641" column="96" />
-        <mark key="." line="293" column="0" />
+        <mark key="." line="293" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
@@ -380,11 +380,11 @@
       <jump line="254" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0Fzc2VtYmx5KQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>productID</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50RGlyZWN0b3J5XD4=</text>
