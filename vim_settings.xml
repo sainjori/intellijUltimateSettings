@@ -36,6 +36,7 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1516798720499" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/teamcenter-classification-mapper/src/main/java/com/dscsag/projects/renk/teamcenter_classification_mapper/App.java" timestamp="1511810458253">
         <mark key="[" line="30" column="118" />
         <mark key="]" line="31" column="24" />
@@ -138,7 +139,12 @@
         <mark key="^" line="250" column="50" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516795735871" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516800725956">
+        <mark key="[" line="421" column="10" />
+        <mark key="]" line="421" column="27" />
+        <mark key="." line="421" column="27" />
+        <mark key="^" line="421" column="27" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Component.java" timestamp="1512856818131">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="22" />
@@ -181,6 +187,7 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="C:/tesingTooLongPathRenk/TC_Werkzeugexport/Komplettwerkzeuge/03_Drehen_o/TA_TURN_10/TA_TURN_10_10/82000240_A_2-Drehwerkzeug.xml" timestamp="1516799245279" />
       <file name="/AssemblyComponent.java" timestamp="1516638296246">
         <mark key="'" line="26" column="30" />
       </file>
@@ -205,7 +212,7 @@
       <file name="/dummy.sql" timestamp="1515418653975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516753116088">
+      <file name="/Dummy.txt" timestamp="1516798955444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcesParsePLMXMLProcess.java" timestamp="1512589186727">
@@ -382,56 +389,54 @@
       <jump line="294" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbW92ZVByZXZpb3VzT3JpZ2luYWxzKHBsbURvY3VtZW50KTsK</text>
+      <register name="&quot;" type="4">
+        <text>renameRefPairs</text>
       </register>
       <register name="-" type="4">
-        <text>isCompleteTool().isPresent()</text>
+        <text>renameRefPairs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbm93bkNvbXBvbmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEuYWRkT2JqZWN0KEN1c3RvbWVyUHJvY2Vzc0NoZWNraW5HZW5lcmF0ZU1ldGFpbmZEYXRhLklOX01BSU5fT1JJR0lOQUwsIG1haW5PcmlnaW5hbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVNYXBwaW5nUmVuYW1lUmVmUGFpcnMocmVmZXJlbmNlcywgaW5SZW5hbWVSZWZQYWlyTWFwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbW92ZVByZXZpb3VzT3JpZ2luYWxzKHBsbURvY3VtZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY3JlYXRlTWFwcGluZ1JlbmFtZVJlZlBhaXJzKHJlZmVyZW5jZXMsIGluUmVuYW1lUmVmUGFpck1hcCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVNYXBwaW5nUmVuYW1lUmVmUGFpcnNEcmF3aW5nKHJlZmVyZW5jZXMsIGluUmVuYW1lUmVmUGFpck1hcCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlbW92ZVByZXZpb3VzT3JpZ2luYWxzKHBsbURvY3VtZW50KTsK</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
         <text>catch (DefaultLogException e)
     {
       Trace.println(Trace.DEBUG, String.format(&quot;Error: ProcessCheckinGenerateMetainfData failed. %s&quot;, e.getMessage()));
       throw e;
     }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmICghcGxtRG9jdW1lbnQuaXNNYXN0ZXIoKSkKICAgICAgcmV0dXJuIG51bGw7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (!plmDocument.isMaster())
-      return;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="4">
-        <text>if (!plmDocument.isMaster())
-      return null;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
