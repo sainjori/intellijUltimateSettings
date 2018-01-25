@@ -32,8 +32,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.10.0/sapbase-5.1.10.0-sources.jar!/cadagent/objmod/PlmClassAllocation.java" timestamp="1516806604707" />
       <file name="C:/tesingTooLongPathRenk/TC_Werkzeugexport/Komponenten/04_Drehen_o/TC_TURN_20_00_o/TC_TURN_20_00_120/8191417800_A_2-Klemmhalter.xml" timestamp="1516791981495" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516807645019">
-        <mark key="'" line="373" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1516884381696">
+        <mark key="'" line="381" column="26" />
         <mark key="[" line="419" column="0" />
         <mark key="]" line="419" column="0" />
         <mark key="." line="419" column="0" />
@@ -65,6 +65,13 @@
         <mark key="." line="98" column="50" />
         <mark key="^" line="98" column="50" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1516883975320">
+        <mark key="'" line="254" column="0" />
+        <mark key="[" line="282" column="23" />
+        <mark key="]" line="282" column="33" />
+        <mark key="^" line="282" column="33" />
+        <mark key="." line="282" column="33" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicFileChooserUI.java" timestamp="1516652443181">
         <mark key="'" line="609" column="32" />
       </file>
@@ -75,7 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
       <jump line="191" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
       <jump line="90" column="29" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/QueryParam.java" />
       <jump line="588" column="4" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URI.java" />
@@ -175,6 +181,7 @@
       <jump line="373" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="215" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
       <jump line="1064" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/utils/DataExcUtils.java" />
+      <jump line="381" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
