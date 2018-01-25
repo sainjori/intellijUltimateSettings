@@ -49,6 +49,12 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="GuiDesigner.QuickJavadoc" />
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
@@ -90,6 +96,9 @@
   </action>
   <action id="StepOver">
     <mouse-shortcut keystroke="shift button142" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
