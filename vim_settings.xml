@@ -54,6 +54,15 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JFileChooser.java" timestamp="1516652044217">
         <mark key="'" line="561" column="61" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1516966829824">
+        <mark key="[" line="40" column="129" />
+        <mark key="]" line="40" column="145" />
+        <mark key="." line="40" column="145" />
+        <mark key="^" line="40" column="145" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/simple-line-icons.css" timestamp="1516966802708">
+        <mark key="'" line="67" column="16" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1516806194096">
         <mark key="'" line="18" column="14" />
       </file>
@@ -80,7 +89,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
       <jump line="90" column="29" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/QueryParam.java" />
       <jump line="588" column="4" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URI.java" />
       <jump line="295" column="25" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.3.9.v20160517/websocket-common-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/websocket/common/WebSocketSession.java" />
@@ -180,19 +188,20 @@
       <jump line="215" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
       <jump line="1064" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/utils/DataExcUtils.java" />
       <jump line="381" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
+      <jump line="67" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/simple-line-icons.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>removeDuplicatesSet</text>
+        <text>Dashboards</text>
       </register>
       <register name="-" type="4">
-        <text>removeDuplicatesSet</text>
+        <text>Dashboards</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbm93bkNvbXBvbmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjSGVhZGVyLmFkZChTVEFSVFNJR05BVFVSRV9OWCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgW3JvdXRlckxpbmtdPSJbJy9raWJhbmEnXSI+PGkgY2xhc3M9Imljb24tc3BlZWRvbWV0ZXIiPjwvaT4gRGFzaGJvYXJkczwvYT4KICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
