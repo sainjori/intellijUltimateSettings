@@ -12,6 +12,9 @@
         <mark key="]" line="419" column="0" />
         <mark key="." line="419" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" timestamp="1516969928175">
+        <mark key="'" line="339" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1515616174122">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,6 +37,12 @@
         <mark key="]" line="282" column="33" />
         <mark key="^" line="282" column="33" />
         <mark key="." line="282" column="33" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1516970561487">
+        <mark key="[" line="125" column="48" />
+        <mark key="]" line="125" column="53" />
+        <mark key="^" line="125" column="53" />
+        <mark key="." line="125" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1516892723827">
         <mark key="[" line="121" column="0" />
@@ -89,10 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="29" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/QueryParam.java" />
-      <jump line="588" column="4" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URI.java" />
-      <jump line="295" column="25" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.3.9.v20160517/websocket-common-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/websocket/common/WebSocketSession.java" />
-      <jump line="364" column="0" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.3.9.v20160517/websocket-common-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/websocket/common/WebSocketRemoteEndpoint.java" />
       <jump line="185" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/modules/fa/FAUtils.java" />
       <jump line="2511" column="51" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="64" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
@@ -189,78 +194,75 @@
       <jump line="1064" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/utils/DataExcUtils.java" />
       <jump line="381" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="67" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/simple-line-icons.css" />
+      <jump line="158" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
+      <jump line="116" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
+      <jump line="339" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" />
+      <jump line="129" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dashboards</text>
+        <text>midways</text>
       </register>
       <register name="-" type="4">
-        <text>Dashboards</text>
+        <text>midways</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrbm93bkNvbXBvbmVudHNcPg==</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgW3JvdXRlckxpbmtdPSJbJy9raWJhbmEnXSI+PGkgY2xhc3M9Imljb24tc3BlZWRvbWV0ZXIiPjwvaT4gRGFzaGJvYXJkczwvYT4KICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwYXRoOiAnY29uZmlndXJhdGlvbicsCiAgICAgICAgICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvYWRtaW5pc3RyYXRpb24vY29uZmlndXJhdGlvbi9jb25maWd1cmF0aW9uLm1vZHVsZSNDb25maWd1cmF0aW9uTW9kdWxlJywKICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICBwYWdlVGl0bGU6ICdDb25maWd1cmF0aW9uJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGF0aDogJ3VzZXJtYW5hZ2VtZW50JywKICAgICAgICAgICAgICAgIGxvYWRDaGlsZHJlbjogJ2FwcC9hZG1pbmlzdHJhdGlvbi91c2VyLW1hbmFnZW1lbnQvdXNlci1tYW5hZ2VtZW50Lm1vZHVsZSNVc2VyTWFuYWdlbWVudE1vZHVsZScsCiAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgcGFnZVRpdGxlOiAnVXNlcnMnCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwYXRoOiAnbGljZW5zZScsCiAgICAgICAgICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvYWRtaW5pc3RyYXRpb24vbGljZW5zZS9saWNlbnNlLm1vZHVsZSNMaWNlbnNlTW9kdWxlJywKICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICBwYWdlVGl0bGU6ICdMaWNlbnNlJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGF0aDogJ3N0YXRpc3RpYy1zZXR0aW5ncycsCiAgICAgICAgICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvYWRtaW5pc3RyYXRpb24vc3RhdGlzdGljLXNldHRpbmdzL3N0YXRpc3RpYy1zZXR0aW5ncy5tb2R1bGUjU3RhdGlzdGljU2V0dGluZ3NNb2R1bGUnLAogICAgICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgICAgIHBhZ2VUaXRsZTogJ1N0YXRpc3RpYyBTZXR0aW5ncycKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGF0aDogJ2NvbmZpZ3VyYXRpb24nLAogICAgICAgICAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2FkbWluaXN0cmF0aW9uL2NvbmZpZ3VyYXRpb24vY29uZmlndXJhdGlvbi5tb2R1bGUjQ29uZmlndXJhdGlvbk1vZHVsZScsCiAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgcGFnZVRpdGxlOiAnQ29uZmlndXJhdGlvbicKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHBhdGg6ICd1c2VybWFuYWdlbWVudCcsCiAgICAgICAgICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvYWRtaW5pc3RyYXRpb24vdXNlci1tYW5hZ2VtZW50L3VzZXItbWFuYWdlbWVudC5tb2R1bGUjVXNlck1hbmFnZW1lbnRNb2R1bGUnLAogICAgICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgICAgIHBhZ2VUaXRsZTogJ1VzZXJzJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGF0aDogJ2xpY2Vuc2UnLAogICAgICAgICAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2FkbWluaXN0cmF0aW9uL2xpY2Vuc2UvbGljZW5zZS5tb2R1bGUjTGljZW5zZU1vZHVsZScsCiAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgcGFnZVRpdGxlOiAnTGljZW5zZScKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHBhdGg6ICdzdGF0aXN0aWMtc2V0dGluZ3MnLAogICAgICAgICAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2FkbWluaXN0cmF0aW9uL3N0YXRpc3RpYy1zZXR0aW5ncy9zdGF0aXN0aWMtc2V0dGluZ3MubW9kdWxlI1N0YXRpc3RpY1NldHRpbmdzTW9kdWxlJywKICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICBwYWdlVGl0bGU6ICdTdGF0aXN0aWMgU2V0dGluZ3MnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICBdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlzYWJsZUJyZWFkY3J1bWJMaW5rOiB0cnVlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>for (byte b : buffer)
           {
             String s = 0x + Integer.toHexString(b);
           }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>(byte) 0xD0, (byte) 0xCF, 0x11, (byte) 0xe0, (byte) 0xa1, (byte) 0xb1, 0x1a,
         (byte) 0xe1</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>(byte) 0xD0, (byte) 0xCF, 0x11, (byte) 0xe0, (byte) 0xa1, (byte) 0xb1, 0x1a,
-    (byte) 0xe1</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGYK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdE5vID0gOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>attern MY_PATTERN = Pattern.compile(&quot;([0-9]+)&quot;);
-        Matcher m = MY_PATTERN.matcher(productType.getProductId());
-        while (m.find())
-        {
-          String s = m.group(1);
-          // s now contains &quot;BAR&quot;
-        }</text>
+        <text>(byte) 0xD0, (byte) 0xCF, 0x11, (byte) 0xe0, (byte) 0xa1, (byte) 0xb1, 0x1a,
+    (byte) 0xe1</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrbm93bkNvbXBvbmVudHNcPg==</last-search>
+      <last-search>]</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrbm93bkNvbXBvbmVudHNcPg==</last-pattern>
+      <last-pattern>]</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtU2hvcnRUZXh0XD4=</entry>
         <entry>setshort</entry>
         <entry encoding="base64">XDxjaGFuZ2VOdW1iZXJcPg==</entry>
         <entry>execut</entry>
@@ -280,6 +282,7 @@
         <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50RGlyZWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxrbm93bkNvbXBvbmVudHNcPg==</entry>
+        <entry>]</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
