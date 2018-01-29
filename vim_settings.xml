@@ -6,7 +6,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" timestamp="1516969928175">
         <mark key="'" line="339" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1517233100494" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1517237122886" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1517230962617">
         <mark key="'" line="143" column="4" />
       </file>
@@ -17,7 +17,8 @@
         <mark key="[" line="56" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/auth/login-component/login-component.component.ts" timestamp="1517226496119" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1517229392355">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1517237675343">
+        <mark key="'" line="161" column="22" />
         <mark key="[" line="130" column="44" />
         <mark key="]" line="130" column="56" />
         <mark key="." line="130" column="56" />
@@ -42,20 +43,24 @@
         <mark key="." line="40" column="145" />
         <mark key="^" line="40" column="145" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1517233132841">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/column-select-dialog/column-select-dialog.component.ts" timestamp="1517240691866" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1517237697774">
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="64" column="29" />
+        <mark key="." line="64" column="29" />
+        <mark key="^" line="64" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview-routing.module.ts" timestamp="1517227878288" />
       <file name="/dummy.sql" timestamp="1515418653975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517232915770">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" timestamp="1517236912958">
+        <mark key="'" line="317" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517241003652">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1517229689287">
         <mark key="[" line="0" column="0" />
@@ -90,11 +95,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/simple-line-icons.css" timestamp="1516966802708">
         <mark key="'" line="67" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" timestamp="1517232975937">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component_old.html" timestamp="1517241702911" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" timestamp="1517242082078">
+        <mark key="[" line="0" column="81" />
+        <mark key="]" line="0" column="82" />
+        <mark key="^" line="0" column="80" />
+        <mark key="." line="0" column="82" />
       </file>
       <file name="/fragment.java" timestamp="1516891201296">
         <mark key="[" line="0" column="0" />
@@ -116,14 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2511" column="51" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
-      <jump line="64" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
-      <jump line="129" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/cuttingdata/csv/CSVReader.java" />
-      <jump line="156" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" />
-      <jump line="155" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LicenseEndpoint.java" />
-      <jump line="130" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="79" column="40" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/container/ContainerRequestFilter.java" />
-      <jump line="52" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/content_migrations/ContentMigrationTask.java" />
       <jump line="72" column="59" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseAuthTokenDao.java" />
       <jump line="434" column="16" filename="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" />
       <jump line="140" column="36" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/UUID.java" />
@@ -216,52 +214,70 @@
       <jump line="339" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" />
       <jump line="129" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
       <jump line="143" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" />
+      <jump line="96" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="268" column="103" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="272" column="89" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="307" column="39" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="309" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="310" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="317" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="161" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TW9kYWxEaXJlY3RpdmUsIA==</text>
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TW9kYWxEaXJlY3RpdmUsIA==</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJzTW9kYWxTZXJ2aWNlLnNob3codGhpcy5hZGRGaWx0ZXJEaWFsb2dNb2RhbDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vZGFsU2VydmljZSgpCg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6MThlbTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9J21vZGFsLWRpYWxvZyBtb2RhbC1tZCc+Cg==</text>
+      <register name="2" type="4">
+        <text>this.data.columnDefinitions = [{
+            selected: true,
+            cellTemplate: any,
+            draggable: true,
+            filterable: true,
+            flexGrow: 30,
+            name: &quot;fef&quot;,
+            prop: &quot;fefe&quot;,
+            sortable: true,
+            width: 22
+        }]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kYWxNb2R1bGUgfSBmcm9tICJuZ3gtYm9vdHN0cmFwIjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmF1dG9TaG93bk1vZGFsLnNob3coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RhbE1vZHVsZS5mb3JSb290KCksCg==</text>
+        <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2F1dG9TaG93bk1vZGFsJykgYXV0b1Nob3duTW9kYWw6IE1vZGFsRGlyZWN0aXZlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyRGlhbG9nRGF0YSB9IGZyb20gJy4vZmlsdGVyLWRpYWxvZy1kYXRhJzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PG5nLXRlbXBsYXRlICN0ZW1wbGF0ZT4KICA8ZGl2IGNsYXNzPSJtb2RhbC1oZWFkZXIiPgogICAgPGg0IGNsYXNzPSJtb2RhbC10aXRsZSBwdWxsLWxlZnQiPk1vZGFsPC9oND4KICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iY2xvc2UgcHVsbC1yaWdodCIgYXJpYS1sYWJlbD0iQ2xvc2UiIChjbGljayk9Im1vZGFsUmVmLmhpZGUoKSI+CiAgICAgIDxzcGFuIGFyaWEtaGlkZGVuPSJ0cnVlIj4mdGltZXM7PC9zcGFuPgogICAgPC9idXR0b24+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0ibW9kYWwtYm9keSI+CiAgICBUaGlzIGlzIGEgbW9kYWwuCiAgPC9kaXY+CjwvbmctdGVtcGxhdGU+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9kYWxEaXJlY3RpdmUsIEJzTW9kYWxTZXJ2aWNlICB9IGZyb20gJ25neC1ib290c3RyYXAvbW9kYWwnOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtLaWJhbmFDb21wb25lbnR9IGZyb20gIi4uL2tpYmFuYS9raWJhbmEuY29tcG9uZW50IjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZEZpbHRlckRpYWxvZ01vZGFsLnNob3coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVmaW5lQ29tcG9uZW50IH0gZnJvbSAnLi9zcmMvYXBwL2FuYWx5c2lzL2RlZmluZS9kZWZpbmUuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lb3V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
