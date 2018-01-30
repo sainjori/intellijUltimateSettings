@@ -1,4 +1,4 @@
-<code_scheme name="monitoring-base my" version="173">
+<code_scheme name="monitoring-base my copyMyChanges" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
     <value />
@@ -15,7 +15,11 @@
     </option>
   </JavaCodeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="170" />
+    <option name="RIGHT_MARGIN" value="500" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BRACE_STYLE" value="2" />
