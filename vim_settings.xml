@@ -33,8 +33,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/StatsUploadEndpoint.java" timestamp="1517413432536" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/model/RawStatObject.ts" timestamp="1517411762113" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517413394341">
-        <mark key="'" line="53" column="64" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/ElasticsearchStatsUploader.java" timestamp="1517414723675" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517414450158">
+        <mark key="'" line="122" column="0" />
         <mark key="[" line="206" column="30" />
         <mark key="]" line="193" column="33" />
         <mark key="^" line="193" column="33" />
@@ -261,8 +262,8 @@
       <jump line="33" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="184" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="189" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="122" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="53" column="64" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
+      <jump line="122" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
