@@ -55,12 +55,12 @@
         <mark key="^" line="40" column="145" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/column-select-dialog/column-select-dialog.component.ts" timestamp="1517240691866" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517396663813">
-        <mark key="'" line="184" column="13" />
-        <mark key="[" line="189" column="9" />
-        <mark key="]" line="189" column="9" />
-        <mark key="." line="189" column="9" />
-        <mark key="^" line="189" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517397989749">
+        <mark key="'" line="189" column="9" />
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="59" />
+        <mark key="^" line="46" column="59" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-dropdown/filter-dropdown.component.html" timestamp="1517251265398" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/spinkit/examples/10-fading-circle.html" timestamp="1517251857849" />
@@ -69,11 +69,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.component.ts" timestamp="1517230573979" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517343080727">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="36" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="36" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517399114084">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subject.js" timestamp="1517323704803">
         <mark key="[" line="0" column="0" />
@@ -110,7 +110,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1517395135349">
         <mark key="'" line="121" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517344057223">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517398757460">
         <mark key="'" line="204" column="26" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Observable.js" timestamp="1517328121007">
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="934" column="29" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicFileChooserUI.java" />
       <jump line="1134" column="40" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicFileChooserUI.java" />
       <jump line="72" column="63" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicFileChooserUI.java" />
       <jump line="86" column="61" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicFileChooserUI.java" />
@@ -317,13 +316,14 @@
       <jump line="87" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="33" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="184" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
+      <jump line="189" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmxlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>define</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>define</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVw+</text>
