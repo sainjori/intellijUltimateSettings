@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1517433792508" />
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/mergeMap.js" timestamp="1517324401980">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,7 +19,7 @@
       <file name="/a.dummy" timestamp="1515616174122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1517431129595">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1517433257422">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -44,11 +45,11 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517431448705">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517434163671">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subject.js" timestamp="1517323704803">
         <mark key="[" line="0" column="0" />
@@ -283,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dashboard</text>
+        <text>define</text>
       </register>
       <register name="-" type="4">
-        <text>Dashboard</text>
+        <text>define</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
@@ -295,39 +296,39 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy50YWJsZS5zZXRSb3dzKHRlc3QuZWxlbWVudHMpOwogICAgICAgICAgICB0aGlzLnRhYmxlLnNldE9iamVjdENvdW50KHRlc3QudG90YWxJdGVtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBSb3V0aW5nTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZWFyY2hpbmcgPSBmYWxzZTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKICAgICAgICBwYXRoOiAnJywKICAgICAgICByZWRpcmVjdFRvOiAnZGVmaW5lJwogICAgfSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBBcHBSb3V0aW5nTW9kdWxlLAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZWFyY2hpbmcgPSBmYWxzZTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        path: ':asdf/asdf'
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">X3R5cGU6ICJBTkQiLAogICAgICAgICAgICAgICAgc3ViZXhwcnM6IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaGluZyA9IHRydWU7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>{
+        path: ':asdf/asdf'
+    }</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
