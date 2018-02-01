@@ -79,8 +79,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1517395135349">
         <mark key="'" line="121" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517500988403">
-        <mark key="'" line="83" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517512584898">
+        <mark key="'" line="193" column="63" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="^" line="83" column="31" />
@@ -180,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" />
-      <jump line="99" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataImport.java" />
-      <jump line="373" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="215" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
       <jump line="1064" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/utils/DataExcUtils.java" />
       <jump line="381" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
@@ -280,6 +277,9 @@
       <jump line="204" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
       <jump line="113" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
       <jump line="190" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
+      <jump line="185" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="192" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="193" column="63" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -289,7 +289,7 @@
         <text>'static'</text>
       </register>
       <register name="/" type="4">
-        <text>hideBack</text>
+        <text encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy50YWJsZS5zZXRSb3dzKHRlc3QuZWxlbWVudHMpOwogICAgICAgICAgICB0aGlzLnRhYmxlLnNldE9iamVjdENvdW50KHRlc3QudG90YWxJdGVtcyk7Cg==</text>
@@ -332,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hideBack</last-search>
+      <last-search encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>hideBack</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZEZpbGVcPg==</entry>
         <entry encoding="base64">XDxkaXJcPg==</entry>
         <entry encoding="base64">XDxkaXJlY3RvcnlTZWxlY3RlZFw+</entry>
         <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
@@ -362,6 +361,7 @@
         <entry encoding="base64">XDxNb2RhbEJhY2tkcm9wQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDxzaG93QmFja2Ryb3BcPg==</entry>
         <entry>hideBack</entry>
+        <entry encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
