@@ -6,12 +6,6 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/mergeMap.js" timestamp="1517324401980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" timestamp="1516969928175">
-        <mark key="'" line="339" column="28" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1517230962617">
-        <mark key="'" line="143" column="4" />
-      </file>
       <file name="/fragment.js" timestamp="1517520647585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -26,15 +20,21 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/util/subscribeToResult.js" timestamp="1517327466703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517482252598">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="71" column="16" />
-        <mark key="." line="82" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517565859319">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="72" column="16" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517565837223">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subject.js" timestamp="1517518115190">
         <mark key="[" line="0" column="0" />
@@ -62,13 +62,7 @@
       <file name="/" timestamp="1517327600641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/user-management/user-management.component.ts" timestamp="1517394036196">
-        <mark key="'" line="107" column="21" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/KibanaDashboardEndpointApi.ts" timestamp="1517517840332" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1517395135349">
-        <mark key="'" line="121" column="8" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517564702946">
         <mark key="'" line="435" column="57" />
         <mark key="[" line="483" column="66" />
@@ -78,12 +72,6 @@
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Observable.js" timestamp="1517328121007">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.module.ts" timestamp="1517431211026">
-        <mark key="'" line="34" column="16" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1517312888498">
-        <mark key="'" line="137" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
@@ -101,11 +89,8 @@
       <file name="/dummy.sql" timestamp="1517501108103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" timestamp="1517481774959">
-        <mark key="'" line="190" column="13" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLParser.ts" timestamp="1517520663603" />
-      <file name="/Dummy.txt" timestamp="1517514829204">
+      <file name="/Dummy.txt" timestamp="1517566004609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -124,8 +109,8 @@
         <mark key="^" line="282" column="33" />
         <mark key="." line="282" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1517480063861">
-        <mark key="'" line="362" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1517565316584">
+        <mark key="'" line="98" column="4" />
         <mark key="[" line="139" column="14" />
         <mark key="]" line="139" column="18" />
         <mark key="." line="139" column="18" />
@@ -139,9 +124,6 @@
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517518124488">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/simple-line-icons.css" timestamp="1517339981518">
-        <mark key="'" line="38" column="21" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/core/@angular/core.es5.js" timestamp="1517518136075">
         <mark key="[" line="0" column="0" />
@@ -164,13 +146,8 @@
       <file name="/DummyFile.xpath" timestamp="1511811755798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1517482442977">
-        <mark key="'" line="30" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/simple-line-icons.css" />
-      <jump line="158" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
       <jump line="116" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
       <jump line="339" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" />
       <jump line="129" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
@@ -207,7 +184,6 @@
       <jump line="129" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" />
       <jump line="109" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" />
       <jump line="30" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" />
-      <jump line="98" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="115" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="143" column="31" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="364" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -269,16 +245,19 @@
       <jump line="286" column="64" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="273" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="435" column="57" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="194" column="45" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
+      <jump line="98" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="47" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ra</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ra</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</text>
+        <text encoding="base64">XDxyb3V0ZXJMaW5rc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgYWRkTGlua2VkUmVzb3VyY2VGaWx0ZXJUb0Rhc2hib2FyZChsaW5rZWRSZXNvdXJjZU5hbWU6IHN0cmluZywgbGlua2VkUmVzb3VyY2VWYWx1ZTogc3RyaW5nKSB7CiAgICAgICAgY29uc3Qga2liYW5hVVJMUXVlcnkgPSBLaWJhbmFVUkxQYXJzZXIucGFyc2VVUkwodGhpcy5fZ2V0S2liYW5hSWZyYW1lVXJsKCkpOwogICAgICAgIGNvbnN0IHF1ZXJ5TW9kaWZpZXIgPSBuZXcgS2liYW5hVVJMTW9kaWZpZXIoa2liYW5hVVJMUXVlcnkpOwogICAgICAgIGNvbnN0IHNob3VsZE1hdGNoUHJvcGVydHlzID0gWydjbGllbnQnLCAnSG9zdG5hbWUnLCAnYmVhdC5ob3N0bmFtZSddOwogICAgICAgIGlmIChsaW5rZWRSZXNvdXJjZU5hbWUgPT09ICdob3N0bmFtZScpIHsKICAgICAgICAgICAgcXVlcnlNb2RpZmllci5hZGRTaG91bGRGaWx0ZXJGb3JTaW5nbGVUZXJtKHNob3VsZE1hdGNoUHJvcGVydHlzLCAnc2VydmVyJywgbGlua2VkUmVzb3VyY2VWYWx1ZSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnlNb2RpZmllci5hZGRUZXJtRmlsdGVyKCcqJywgJ2NsaWVudCcsIGxpbmtlZFJlc291cmNlVmFsdWUpOwogICAgICAgIH0KICAgICAgICB0aGlzLl9lbmNvZGVBbmRBc3NpZ25RdWVyeShxdWVyeU1vZGlmaWVyLmdldFF1ZXJ5KCkpOwogICAgfQo=</text>
@@ -321,9 +300,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxyb3V0ZXJMaW5rc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb3V0ZXJMaW5rc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -340,7 +319,6 @@
         <entry encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</entry>
         <entry encoding="base64">XDxxdWVyeVJlc29sdmVyXD4=</entry>
         <entry encoding="base64">XDxfaW5pdFByb21pc2VcPg==</entry>
-        <entry encoding="base64">XDxyb3V0ZXJMaW5rc1w+</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q2VsbFRlbXBsYXRlXD4=</entry>
         <entry>fla</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
@@ -351,6 +329,7 @@
         <entry encoding="base64">XDxzaG93QmFja2Ryb3BcPg==</entry>
         <entry>hideBack</entry>
         <entry encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxyb3V0ZXJMaW5rc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
