@@ -63,7 +63,7 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517593034899">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517597987536">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="45" />
         <mark key="^" line="22" column="45" />
@@ -72,7 +72,7 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subject.js" timestamp="1517518115190">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis.module.ts" timestamp="1517595518757">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis.module.ts" timestamp="1517595528490">
         <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="40" />
         <mark key="^" line="24" column="40" />
@@ -89,8 +89,15 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1517570261555" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/KibanaDashboardEndpointApi.ts" timestamp="1517517840332" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517593560957">
-        <mark key="'" line="217" column="50" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.ts" timestamp="1517598841736">
+        <mark key="'" line="38" column="3" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517598550459">
+        <mark key="'" line="179" column="36" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="^" line="79" column="58" />
@@ -106,11 +113,22 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="/raw_stat_obj_repo_test.json" timestamp="1517571705921" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.html" timestamp="1517598214195">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
       </file>
       <file name="http://localhost:4200/main.bundle.js" timestamp="1517585745272">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.html" timestamp="1517597562578">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboardJustRender/dashboard.component.ts" timestamp="1517592308596">
         <mark key="[" line="32" column="31" />
@@ -157,11 +175,10 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517595507139">
-        <mark key="[" line="13" column="119" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517598981261">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517518124488">
         <mark key="[" line="0" column="0" />
@@ -187,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" />
-      <jump line="26" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" />
       <jump line="140" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
       <jump line="52" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="125" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
@@ -287,13 +302,15 @@
       <jump line="76" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/QueryInterfaces.ts" />
       <jump line="138" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaProxyEndpoint.java" />
       <jump line="217" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="179" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="21" column="3" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DashRe</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnZpZXdDb250YWluZXJSZWYuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DashRe</text>
+        <text>RendererComponent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmZXJlbmNlRW5kcG9pbnRBcGlcPg==</text>
@@ -302,62 +319,56 @@
         <text encoding="base64">ICAgIHByaXZhdGUgX2xvYWREYXNoYm9hcmREYXRhMihkYXNoYm9hcmROYW1lOiBzdHJpbmcpIHsKICAgICAgICByZXR1cm4gdGhpcy5raWJhbmFEYXNoYm9hcmRFbmRwb2ludEFwaS5nZXREYXNoYm9hcmRGb3JOYW1lKGRhc2hib2FyZE5hbWUpCiAgICAgICAgICAgIC5tYXAoZGFzaGJvYXJkID0+IHsKICAgICAgICAgICAgICAgIGlmIChkYXNoYm9hcmQpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZCA9IGRhc2hib2FyZDsKICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgbGlua2VkUmVzb3VyY2VOYW1lID0gdGhpcy5mcm9tTGlua2VkUmVzb3VyY2UocGFyYW1zKTsKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGZyb21SYXdEYXRhQW5hbHlzaXMgPSB0aGlzLmZyb21SYXdEYXRhQW5hbHlzaXMocGFyYW1zKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhcmFtc1sna2liYW5hU3RhdGUnXSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gV2UgbmVlZCB0byByZXBsYWNlIGFsbCBicmFja2V0cyB3aXRoIGFub3RoZXIgc3RyaW5nIGFzIGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBBbmd1bGFyIDIgb3BlbmluZyBhbmQgY2xvc2luZyBicmFja2V0cyBhcmUgcmVzZXJ2ZWQgY2hhcmFjdGVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgZGVjb2RlZFVSTCA9IGRlY29kZVVSSUNvbXBvbmVudChwYXJhbXNbJ2tpYmFuYVN0YXRlJ10pLnJlcGxhY2UoL1x7L2csICcoJykucmVwbGFjZSgvXH0vZywgJyknKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHF1ZXJ5ID0gS2liYW5hVVJMUGFyc2VyLmRlY29kZVF1ZXJ5RnJvbVJpc29uKGRlY29kZWRVUkwpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5fZW5jb2RlQW5kQXNzaWduUXVlcnkocXVlcnkpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGZyb21SYXdEYXRhQW5hbHlzaXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWRkTGlua2VkUmVzb3VyY2VGaWx0ZXJUb0Rhc2hib2FyZDIocGFyYW1zWyd0eXBlJ10sIHBhcmFtc1snbmFtZSddKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChsaW5rZWRSZXNvdXJjZU5hbWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGxpbmtlZFJlc291cmNlVmFsdWUgPSBwYXJhbXNbbGlua2VkUmVzb3VyY2VOYW1lXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWRkTGlua2VkUmVzb3VyY2VGaWx0ZXJUb0Rhc2hib2FyZChsaW5rZWRSZXNvdXJjZU5hbWUsIGxpbmtlZFJlc291cmNlVmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5fYXNzaWduRGFzaGJvYXJkVVJMKHRoaXMuX2dldEtpYmFuYUlmcmFtZVVybCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJ3BhZ2VzJywgJzQwNCcsIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogJ1RoZSBkYXNoYm9hcmQgeW91IHNwZWNpZmllZCBkb2VzIG5vdCBleGlzdCEnCiAgICAgICAgICAgICAgICAgICAgfV0sIHtyZXBsYWNlVXJsOiB0cnVlfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLnRvUHJvbWlzZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVuZGVyZXJDb21wb25lbnQgfSBmcm9tICcuL3NyYy9hcHAva2liYW5hL2Rhc2hib2FyZC9yZW5kZXJlci9yZW5kZXJlci5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZpZXdDb250YWluZXJSZWYuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGlmICh0aGlzLl9lbmFibGVMaW5rUmV3cml0aW5nKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBpZiAodGhpcy5fZXZlbnRMaXN0ZW5lckFkZGVkKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5fbGFzdERvY3VtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgdGhpcy5fZXZlbnRMaXN0ZW5lcik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb25zdCBpZnJhbWUgPSB0aGlzLl9nZXRJZnJhbWUoKTsKICAgICAgICAgICAgICAgIGNvbnN0IGlubmVyV2luZG93ID0gaWZyYW1lLmNvbnRlbnRXaW5kb3c7CgogICAgICAgICAgICAgICAgaW5uZXJXaW5kb3cuZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCB0aGlzLl9ldmVudExpc3RlbmVyKTsKICAgICAgICAgICAgICAgIHRoaXMuX2V2ZW50TGlzdGVuZXJBZGRlZCA9IHRydWU7CiAgICAgICAgICAgICAgICB0aGlzLl9sYXN0RG9jdW1lbnQgPSBpbm5lcldpbmRvdy5kb2N1bWVudDsKICAgICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICAgICAgY29uc29sZS5lcnJvcignQW4gZXJyb3Igb2NjdXJlZCB3aGVuIHRyeWluZyB0byBhZGQgYSBjbGljayBsaXN0ZW5lciB0byB0aGUga2liYW5hIGlmcmFtZS5cbicgKwogICAgICAgICAgICAgICAgICAgICdQbGVhc2UgY2hlY2sgeW91ciBwcm94eSBjb25maWd1cmF0aW9uLiBZb3UgY2FuIGFsc28gZGlzYWJsZSBsaW5rIHJld3JpdGluZyBpbiB0aGUgY29uZmlndXJhdGlvbi5cbicgKwogICAgICAgICAgICAgICAgICAgICdFcnJvciB3YXM6ICcgKyBlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0aGlzLl9hZGRJZnJhbWVMb2NhdGlvbk9ic2VydmVyKCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgZGQgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFwcFZpZXdTZXJ2aWNlLm5vUGFkZGluZyA9IGZhbHNlOwo=</text>
+      <register name="3" type="4">
+        <text>currentURLInfo: URLInfo;
+
+    private _lastState: KibanaURLQuery;
+    private _eventListenerAdded = false;
+    private _lastDocument: HTMLDocument;
+    // private _eventListener = this._handleIframeClick.bind(this);
+    private _enableLinkRewriting = true;
+    private _hashChangeListenerAdded = false;
+    private _lastTimeSettings: TimeSettings;
+
+    private _lastDashboardName: string;
+
+    private _timeDropdown: ActionButtonDef = {
+        displayName: 'Adjust Time',
+        listeners: [],
+        type: 'DROPDOWN',
+        additionalOptions: {
+            items: []
+        }
+    };</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dGhpcy5hcHBWaWV3U2VydmljZS5ub1BhZGRpbmcgPSB0cnVlOwogICAgICAgIHRoaXMuY3VycmVudFVSTEluZm8gPSBVUkxQYXJzZXIucGFyc2VVUkwoTG9jYXRpb25VdGlscy5nZXRDdXJyZW50VVJMKCkpOwogICAgICAgIHRoaXMuX2V2ZW50TGlzdGVuZXJBZGRlZCA9IGZhbHNlOwogICAgICAgIGNvbnN0IHBhcmFtcyA9IHRoaXMuYWN0aXZhdGVkUm91dGUuc25hcHNob3QucGFyYW1zOwogICAgICAgIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLmdldFN5c3RlbVByZWZlcmVuY2VzKFsna2liYW5hLmVuYWJsZS5saW5rLnJld3JpdGluZyddKS5zdWJzY3JpYmUocmV3cml0ZVByZWZzID0+IHsKICAgICAgICAgICAgaWYgKHJld3JpdGVQcmVmcy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgIHRoaXMuX2VuYWJsZUxpbmtSZXdyaXRpbmcgPSByZXdyaXRlUHJlZnNbMF0ucHJlZmVyZW5jZVZhbHVlID09PSAndHJ1ZSc7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gTG9hZCBkYXNoYm9hcmRzIGFmdGVyIHByZWZlcmVuY2VzIGhhdmUgYmVlbiBsb2FkZWQgdG8gYmUgc3VyZSB0aGF0IHRoZSBwcmVmZXJlbmNlIGlzIHByZXNlbnQKICAgICAgICAgICAgLy8gV2hlbiBjaGVja2luZyB3aGV0aGVyIGxpbmsgcmV3cml0aW5nIGlzIGVuYWJsZWQKICAgICAgICAgICAgY29uc3QgZGJCeU5hbWUgPSBwYXJhbXNbJ25hbWUnXTsKICAgICAgICAgICAgY29uc3QgZGJVcmwgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LmRhdGFbJ2Rhc2hib2FyZFVybCddOwogICAgICAgICAgICBpZiAoZGJCeU5hbWUpIHsKICAgICAgICAgICAgICAgIHRoaXMuX2xvYWREYXNoYm9hcmREYXRhKGRiQnlOYW1lKS50aGVuKCgpID0+IHRoaXMuX3NldHVwQWN0aW9uQmFyKCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgaWYgKGRiVXJsKSB7CiAgICAgICAgICAgICAgICB0aGlzLmxvYWREYkJ5VXJsKGRiVXJsKS50aGVuKCgpID0+IHRoaXMuX3NldHVwQWN0aW9uQmFyMigpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwoJ3BhZ2VzLzQwNCcpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">dGVzdGluZwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGtpYmFuYURhc2hib2FyZDogS2liYW5hRGFzaGJvYXJkUG9qbyA9IHt9OwogICAgY3VycmVudFVSTEluZm86IFVSTEluZm87CgogICAgcHJpdmF0ZSBfbGFzdFN0YXRlOiBLaWJhbmFVUkxRdWVyeTsKICAgIHByaXZhdGUgX2V2ZW50TGlzdGVuZXJBZGRlZCA9IGZhbHNlOwogICAgcHJpdmF0ZSBfbGFzdERvY3VtZW50OiBIVE1MRG9jdW1lbnQ7CiAgICBwcml2YXRlIF9ldmVudExpc3RlbmVyID0gdGhpcy5faGFuZGxlSWZyYW1lQ2xpY2suYmluZCh0aGlzKTsKICAgIHByaXZhdGUgX2VuYWJsZUxpbmtSZXdyaXRpbmcgPSB0cnVlOwogICAgcHJpdmF0ZSBfaGFzaENoYW5nZUxpc3RlbmVyQWRkZWQgPSBmYWxzZTsKICAgIHByaXZhdGUgX2xhc3RUaW1lU2V0dGluZ3M6IFRpbWVTZXR0aW5nczsKCiAgICBwcml2YXRlIF9sYXN0RGFzaGJvYXJkTmFtZTogc3RyaW5nOwoKICAgIHByaXZhdGUgX3RpbWVEcm9wZG93bjogQWN0aW9uQnV0dG9uRGVmID0gewogICAgICAgIGRpc3BsYXlOYW1lOiAnQWRqdXN0IFRpbWUnLAogICAgICAgIGxpc3RlbmVyczogW10sCiAgICAgICAgdHlwZTogJ0RST1BET1dOJywKICAgICAgICBhZGRpdGlvbmFsT3B0aW9uczogewogICAgICAgICAgICBpdGVtczogW10KICAgICAgICB9CiAgICB9Ow==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>import {KibanaURLParser} from './../../utils/kibana/KibanaURLParser';
-import {DashboardFilter} from './../../services/model/DashboardFilter';
-import {ObjectEqualityChecker} from './../../utils/ObjectEqualityChecker';
-import {Observable} from 'rxjs/Observable';
-import {PreferencesUtil} from './../../utils/PreferencesUtil';
-import {
-    RangeOptions, QuickTimeSettings, TimeSettings,
-    AbsoluteTimeSettings, KibanaURLQuery
-} from './../../utils/kibana/QueryInterfaces';
-import {FilterDialogData} from '../../common-components/dialogs/add-filter-dialog/filter-dialog-data';
-import {KibanaDateUtils} from '../../utils/kibana/KibanaDateUtils';
-import {DateRangeDialogData} from '../../common-components/dialogs/date-range-dialog/daterange-dialog-data';
-import {URLInfo} from '../../utils/URLParser';
-import {DialogService} from '../../services/DialogService';
-import {KibanaURLModifier} from '../../utils/kibana/KibanaURLModifier';
-import {ActionTabService, ActionButtonDef} from '../../services/ActionTabService';
-import {PreferenceEndpointApi} from '../../services/api/PreferenceEndpointApi';
-import {LocationUtils} from '../../utils/LocationUtils';
-import {URLParser} from '../../utils/URLParser';
-import {Component, OnInit, Renderer, NgZone, OnDestroy, AfterViewInit} from '@angular/core';
-import {ActivatedRoute, Params, Router} from '@angular/router';
-import {SafeResourceUrl, DomSanitizer} from '@angular/platform-browser';
-import {KibanaDashboardEndpointApi} from '../../services/api/KibanaDashboardEndpointApi';
-import {KibanaDashboardPojo, TableFilterEndpointApi} from '../../services';
-import {Location} from '@angular/common';
-import {AppViewService} from '../../services/AppViewService';</text>
+        <text encoding="base64">PHA+CiAgZGFzaGJvYXJkLWZpbHRlcmVkIHdvcmtzIQo8L3A+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGFzaGJvYXJkRmlsdGVyZWRDb21wb25lbnQgfSBmcm9tICcuL3NyYy9hcHAvYW5hbHlzaXMvZGFzaGJvYXJkLWZpbHRlcmVkL2Rhc2hib2FyZC1maWx0ZXJlZC5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVuZGVyZXJDb21wb25lbnQgfSBmcm9tICcuL3NyYy9hcHAva2liYW5hL2Rhc2hib2FyZC9yZW5kZXJlci9yZW5kZXJlci5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGFzaGJvYXJkQ29tcG9uZW50IH0gZnJvbSAnLi9zcmMvYXBwL2FuYWx5c2lzL2Rhc2hib2FyZC9kYXNoYm9hcmQuY29tcG9uZW50JzsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGlmICh0aGlzLl9lbmFibGVMaW5rUmV3cml0aW5nKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBpZiAodGhpcy5fZXZlbnRMaXN0ZW5lckFkZGVkKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5fbGFzdERvY3VtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgdGhpcy5fZXZlbnRMaXN0ZW5lcik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb25zdCBpZnJhbWUgPSB0aGlzLl9nZXRJZnJhbWUoKTsKICAgICAgICAgICAgICAgIGNvbnN0IGlubmVyV2luZG93ID0gaWZyYW1lLmNvbnRlbnRXaW5kb3c7CgogICAgICAgICAgICAgICAgaW5uZXJXaW5kb3cuZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCB0aGlzLl9ldmVudExpc3RlbmVyKTsKICAgICAgICAgICAgICAgIHRoaXMuX2V2ZW50TGlzdGVuZXJBZGRlZCA9IHRydWU7CiAgICAgICAgICAgICAgICB0aGlzLl9sYXN0RG9jdW1lbnQgPSBpbm5lcldpbmRvdy5kb2N1bWVudDsKICAgICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICAgICAgY29uc29sZS5lcnJvcignQW4gZXJyb3Igb2NjdXJlZCB3aGVuIHRyeWluZyB0byBhZGQgYSBjbGljayBsaXN0ZW5lciB0byB0aGUga2liYW5hIGlmcmFtZS5cbicgKwogICAgICAgICAgICAgICAgICAgICdQbGVhc2UgY2hlY2sgeW91ciBwcm94eSBjb25maWd1cmF0aW9uLiBZb3UgY2FuIGFsc28gZGlzYWJsZSBsaW5rIHJld3JpdGluZyBpbiB0aGUgY29uZmlndXJhdGlvbi5cbicgKwogICAgICAgICAgICAgICAgICAgICdFcnJvciB3YXM6ICcgKyBlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB0aGlzLl9hZGRJZnJhbWVMb2NhdGlvbk9ic2VydmVyKCk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFwcFZpZXdTZXJ2aWNlLm5vUGFkZGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
