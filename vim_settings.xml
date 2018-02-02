@@ -17,10 +17,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaProxyEndpoint.java" timestamp="1517580008315" />
       <file name="/a.dummy" timestamp="1515616174122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/map.js" timestamp="1517518104128">
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/map.js" timestamp="1517579403824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/util/subscribeToResult.js" timestamp="1517327466703">
@@ -28,6 +29,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1517570225327">
         <mark key="'" line="67" column="62" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/QueryInterfaces.ts" timestamp="1517579276598">
+        <mark key="'" line="76" column="16" />
       </file>
       <file name="/full-layout.component.html" timestamp="1517568153144" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1517568162967">
@@ -44,11 +48,11 @@
         <mark key="^" line="17" column="119" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517573361360">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="48" column="74" />
-        <mark key="]" line="48" column="77" />
-        <mark key="^" line="48" column="77" />
-        <mark key="." line="48" column="77" />
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="47" column="74" />
+        <mark key="]" line="47" column="77" />
+        <mark key="^" line="47" column="77" />
+        <mark key="." line="47" column="77" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
@@ -72,7 +76,7 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/AsyncSubject.js" timestamp="1517518115304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subscriber.js" timestamp="1517518095307">
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subscriber.js" timestamp="1517579096093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1517327600641">
@@ -89,7 +93,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1517395135349">
         <mark key="'" line="121" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517578369923">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517579616795">
         <mark key="'" line="76" column="51" />
         <mark key="[" line="85" column="43" />
         <mark key="]" line="85" column="85" />
@@ -118,13 +122,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" timestamp="1517570240816">
         <mark key="'" line="40" column="28" />
       </file>
-      <file name="http://localhost:4200/main.bundle.js" timestamp="1517520597579">
+      <file name="http://localhost:4200/main.bundle.js" timestamp="1517579264575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/RawStatObjectAPI.java" timestamp="1517416514407">
         <mark key="[" line="45" column="41" />
       </file>
-      <file name="/JavaScript Console" timestamp="1517563242724">
+      <file name="/JavaScript Console" timestamp="1517578786028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1517568337053">
@@ -140,7 +144,7 @@
         <mark key="'" line="190" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLParser.ts" timestamp="1517520663603" />
-      <file name="/Dummy.txt" timestamp="1517574117517">
+      <file name="/Dummy.txt" timestamp="1517579053225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -181,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
-      <jump line="74" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="12" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis.module.ts" />
       <jump line="0" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" />
       <jump line="26" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" />
@@ -281,6 +283,8 @@
       <jump line="74" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="76" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="18" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-name-resolver.service.ts" />
+      <jump line="76" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/QueryInterfaces.ts" />
+      <jump line="138" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaProxyEndpoint.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
