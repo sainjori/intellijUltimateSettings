@@ -53,11 +53,11 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517574469658">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="38" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="25" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" timestamp="1517578366339">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="33" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subject.js" timestamp="1517518115190">
         <mark key="[" line="0" column="0" />
@@ -89,7 +89,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1517395135349">
         <mark key="'" line="121" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517574357830">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517578369923">
         <mark key="'" line="76" column="51" />
         <mark key="[" line="85" column="43" />
         <mark key="]" line="85" column="85" />
@@ -284,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KibanaDashboardPojo</text>
+        <text>dashboardName</text>
       </register>
       <register name="-" type="4">
-        <text>KibanaDashboardPojo</text>
+        <text>dashboardName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmZXJlbmNlRW5kcG9pbnRBcGlcPg==</text>
