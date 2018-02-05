@@ -94,12 +94,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517835303157">
-        <mark key="'" line="256" column="145" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="190" column="25" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517836234096">
+        <mark key="'" line="257" column="145" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Observable.js" timestamp="1517328121007">
         <mark key="[" line="0" column="0" />
@@ -119,7 +118,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
       </file>
-      <file name="http://localhost:4200/main.bundle.js" timestamp="1517585745272">
+      <file name="http://localhost:4200/main.bundle.js" timestamp="1517835928603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.html" timestamp="1517609633512">
@@ -139,7 +138,7 @@
       <file name="/fragment.ts" timestamp="1517614090501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1517834830756">
+      <file name="/JavaScript Console" timestamp="1517835428214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1517568337053">
@@ -157,7 +156,7 @@
       <file name="/dummy.sql" timestamp="1517588480476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517834529454">
+      <file name="/Dummy.txt" timestamp="1517835706922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -324,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>RendererComponent</text>
@@ -336,39 +335,39 @@
         <text encoding="base64">ICAgICAgICAoPFJlbmRlcmVyQ29tcG9uZW50PnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXROb1BhZGRpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAoPERhc2hib2FyZFJlbmRlcmVyPnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXROb1BhZGRpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>// private componentResolver: ComponentFactoryResolver,
     // private actionTabService: ActionTabService,
     // private viewContainerRef: ViewContainerRef) {</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpdmF0ZSBsb2FkRGJCeVVybChkYlVybDogc3RyaW5nKSB7CiAgICAgICAgcmV0dXJuIE9ic2VydmFibGUub2YodW5kZWZpbmVkKS5tYXAoKCkgPT4gewogICAgICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCA9IGRiVXJsOwogICAgICAgICAgICBjb25zdCBwYXJhbXMgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LnBhcmFtcwogICAgICAgICAgICBjb25zdCBsaW5rZWRSZXNvdXJjZU5hbWUgPSB0aGlzLmZyb21MaW5rZWRSZXNvdXJjZShwYXJhbXMpOwogICAgICAgICAgICBpZiAocGFyYW1zWydraWJhbmFTdGF0ZSddKSB7CiAgICAgICAgICAgICAgICAvLyBXZSBuZWVkIHRvIHJlcGxhY2UgYWxsIGJyYWNrZXRzIHdpdGggYW5vdGhlciBzdHJpbmcgYXMgaW4KICAgICAgICAgICAgICAgIC8vIEFuZ3VsYXIgMiBvcGVuaW5nIGFuZCBjbG9zaW5nIGJyYWNrZXRzIGFyZSByZXNlcnZlZCBjaGFyYWN0ZXJzCiAgICAgICAgICAgICAgICBjb25zdCBkZWNvZGVkVVJMID0gZGVjb2RlVVJJQ29tcG9uZW50KHBhcmFtc1sna2liYW5hU3RhdGUnXSkucmVwbGFjZSgvXHsvZywgJygnKS5yZXBsYWNlKC9cfS9nLCAnKScpOwogICAgICAgICAgICAgICAgY29uc3QgcXVlcnkgPSBLaWJhbmFVUkxQYXJzZXIuZGVjb2RlUXVlcnlGcm9tUmlzb24oZGVjb2RlZFVSTCk7CiAgICAgICAgICAgICAgICB0aGlzLl9lbmNvZGVBbmRBc3NpZ25RdWVyeShxdWVyeSk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAobGlua2VkUmVzb3VyY2VOYW1lKSB7CiAgICAgICAgICAgICAgICBjb25zdCBsaW5rZWRSZXNvdXJjZVZhbHVlID0gcGFyYW1zW2xpbmtlZFJlc291cmNlTmFtZV07CiAgICAgICAgICAgICAgICB0aGlzLmFkZExpbmtlZFJlc291cmNlRmlsdGVyVG9EYXNoYm9hcmQobGlua2VkUmVzb3VyY2VOYW1lLCBsaW5rZWRSZXNvdXJjZVZhbHVlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRoaXMuX2Fzc2lnbkRhc2hib2FyZFVSTCh0aGlzLl9nZXRLaWJhbmFJZnJhbWVVcmwoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KS50b1Byb21pc2UoKTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
