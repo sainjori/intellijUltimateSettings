@@ -6,6 +6,12 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/mergeMap.js" timestamp="1517324401980">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1517866625175">
+        <mark key="[" line="103" column="25" />
+        <mark key="]" line="104" column="40" />
+        <mark key="." line="104" column="40" />
+        <mark key="^" line="104" column="40" />
+      </file>
       <file name="/fragment.js" timestamp="1517520647585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -14,9 +20,6 @@
       <file name="/a.dummy" timestamp="1515616174122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dashboard.component.ts" timestamp="1517833281033">
-        <mark key="'" line="447" column="56" />
-      </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/map.js" timestamp="1517858059388">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,8 +27,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dashboard-filtered.component.ts" timestamp="1517861090304" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517844213185">
-        <mark key="'" line="43" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1517865907615">
+        <mark key="[" line="93" column="30" />
+        <mark key="]" line="94" column="24" />
+        <mark key="." line="94" column="24" />
+        <mark key="^" line="94" column="24" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/DialogService.ts" timestamp="1517866430456">
+        <mark key="[" line="50" column="66" />
+        <mark key="]" line="50" column="66" />
+        <mark key="." line="50" column="66" />
+        <mark key="^" line="50" column="66" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
@@ -47,24 +59,22 @@
       <file name="/" timestamp="1517591184264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1517843582426">
-        <mark key="'" line="90" column="19" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.ts" timestamp="1517849094358">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517860889542">
-        <mark key="'" line="253" column="47" />
-        <mark key="[" line="436" column="4" />
-        <mark key="]" line="436" column="13" />
-        <mark key="." line="436" column="13" />
-        <mark key="^" line="436" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/confirm-dialog/confirm-dialog.component.ts" timestamp="1517864945409" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517864457757">
+        <mark key="'" line="445" column="27" />
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="66" column="17" />
       </file>
       <file name="webpack://(webpack)-dev-server/client" timestamp="1517859264563">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/info-dialog/info-dialog.component.ts" timestamp="1517865738553">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Observable.js" timestamp="1517328121007">
         <mark key="[" line="0" column="0" />
@@ -92,14 +102,20 @@
       <file name="/fragment.ts" timestamp="1517614090501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1517857753199">
+      <file name="/JavaScript Console" timestamp="1517866332545">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/info-dialog/info-dialog.component.html" timestamp="1517866686317">
+        <mark key="[" line="14" column="95" />
+        <mark key="]" line="14" column="96" />
+        <mark key="." line="14" column="96" />
+        <mark key="^" line="14" column="96" />
       </file>
       <file name="/dummy.sql" timestamp="1517588480476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLParser.ts" timestamp="1517860046988" />
-      <file name="/Dummy.txt" timestamp="1517860013680">
+      <file name="/Dummy.txt" timestamp="1517865863917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -110,16 +126,22 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517864117446">
-        <mark key="[" line="40" column="57" />
-        <mark key="]" line="52" column="22" />
-        <mark key="." line="52" column="22" />
-        <mark key="^" line="52" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517865405622">
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="65" column="27" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="65" column="27" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517858083684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.html" timestamp="1517858586328" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1517865668118">
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="84" />
+        <mark key="." line="14" column="84" />
+        <mark key="^" line="14" column="84" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517584369011">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="0" />
@@ -148,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" />
       <jump line="213" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="203" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
@@ -248,54 +269,53 @@
       <jump line="96" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="120" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="445" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Yes</text>
       </register>
       <register name="-" type="4">
-        <text>privip</text>
+        <text>Yes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdGltZURyb3Bkb3duXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFwcFZpZXdTZXJ2aWNlLm5vUGFkZGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">PGFwcC1lZGl0LWZpbHRlci1kaWFsb2cgI2VkaXRGaWx0ZXJEaWFsb2cgKG9rQ2xpY2tlZCk9IihkYXRhPSRldmVudCkgJiYgb25PSygpIiAoY2FuY2VsQ2xpY2tlZCk9IihkYXRhPSRldmVudCkgJiYgb25DYW5jZWwoKSI+PC9hcHAtZWRpdC1maWx0ZXItZGlhbG9nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZmZmZmZmxvcmVtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheU5hbWU6ICdPcGVuIGluIEtpYmFuYScsCiAgICAgICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lcnM6IFsoKSA9PiB0aGlzLl9vcGVuSW5LaWJhbmEoKV0sCiAgICAgICAgICAgICAgICAgICAgICAgICBpY29uQ2xhc3NJZGVudGlmaWVyOiAnZmEgZmEtZXh0ZXJuYWwtbGluaycKICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHRoaXMuX2J1aWxkRmlsdGVyRHJvcGRvd24oKS5zdWJzY3JpYmUoZmlsdGVyQnV0dG9uID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LiBBY2N1c2FtdXMgYWxpYXMgYW5pbWkgZWxpZ2VuZGkgZW9zIGZhY2VyZSBxdWFzPyBBbGlhcyBhbGlxdWlkIGFtZXQgYW5pbWkgYXQgY3VtIGRpZ25pc3NpbW9zIGRvbG9ydW0gZWEgZXQgZXhwZWRpdGEgaGFydW0gaWxsdW0gbW9sbGl0aWEgbmlzaSBub2JpcyBwb3JybyBxdWlidXNkYW0sIHF1b2QgcmVjdXNhbmRhZSByZXB1ZGlhbmRhZSBzZWQgc3VudCBzdXNjaXBpdCB1dCB2ZWxpdCwgdm9sdXB0YXRpYnVzPyBDb21tb2RpIGN1bHBhIGRvbG9yaWJ1cyBlcnJvciBldCBpcHNhIG1vbGxpdGlhIG5hbSBuZXNjaXVudCBuaWhpbCBudW1xdWFtIG9iY2FlY2F0aSBxdWksIHNpbWlsaXF1ZSEgQXV0LCBjdWxwYSBlYSBmYWNpbGlzIGlsbG8gbmlzaSByZXB1ZGlhbmRhZSB2b2x1cHRhdGUgdm9sdXB0YXR1bS4gQSBhbGlxdWlkIGNvcnBvcmlzIGRlbGVuaXRpIGRlc2VydW50IGRpc3RpbmN0aW8gZWFydW0gZWl1cyBlcnJvciBpbnZlbnRvcmUsIGxhdWRhbnRpdW0gbmVxdWUgbmlzaSBudW1xdWFtIHBvcnJvIHF1aWEgcmVtIHRlbXBvcmEgdG90YW0sIHZlbGl0LiBBIGF0IGRlbGVuaXRpLCBkaWduaXNzaW1vcyBkb2xvciBkb2xvcmVtcXVlIGR1Y2ltdXMgZW9zIGZ1Z2EgaWQgaWxsdW0gaW1wZWRpdCBtYXhpbWUsIG9kaXQgb21uaXMgb3B0aW8gcmVpY2llbmRpcyByZXB1ZGlhbmRhZSB0ZW1wb3JpYnVzIHZvbHVwdGF0ZW0uIEFkIGFzcGVybmF0dXIgZGVsZWN0dXMgZWEgZXQgZnVnaWF0IGl1c3RvIG1vZGkgbmVzY2l1bnQgbm9uIHBhcmlhdHVyLCBzZWQgdG90YW0gdm9sdXB0YXMuIEEgYWIgYWxpcXVhbSBhbWV0IGFzcGVybmF0dXIgYXNzdW1lbmRhIGNvcnBvcmlzIGRlbGVjdHVzIGRvbG9ydW0gZHVjaW11cyBlb3MsIGV1bSBpZCBsYXVkYW50aXVtIG1hZ25pIG1pbnVzIG5hbSBuaWhpbCBwb3NzaW11cyBxdWFzaSBxdWlzcXVhbSBxdW8gcmVwdWRpYW5kYWUgcmVydW0gc2VxdWkgdmVybywgdm9sdXB0YXMhIEFiIGVvcyBmYWNpbGlzIGlsbG8gaXBzdW0gaXVyZSBpdXN0byBsYXVkYW50aXVtIHBsYWNlYXQgcXVvZCB0ZW1wb3JlIHZlbGl0PyBBcGVyaWFtIGRvbG9yZSBkb2xvcmVtIHByb3ZpZGVudCByZXJ1bSB0ZW1wb3JhIHZlbmlhbT8gRG9sb3JlbXF1ZSBkdWNpbXVzIGluIG1vbGxpdGlhIHJlbSBzaW50LiBBZGlwaXNjaSBhcmNoaXRlY3RvIGFzcGVybmF0dXIgY29uc2VxdXVudHVyIGN1bSBkb2xvciBlc3QgZXhjZXB0dXJpIGltcGVkaXQgbGFib3JlLCBsYXVkYW50aXVtIG1hZ25pLCBuYW0sIG5hdHVzIG51bXF1YW0gb2RpbyBvbW5pcyBwZXJzcGljaWF0aXMgcXVpZGVtIHJlcGVsbGVuZHVzIHNlcXVpIHNpbWlsaXF1ZSB0ZW1wb3JhIHRlbXBvcmUhIEFuaW1pIGFzcGVyaW9yZXMgYXNzdW1lbmRhIGJlYXRhZSBjb25zZWN0ZXR1ciBjb25zZXF1YXR1ciBjb25zZXF1dW50dXIgZGViaXRpcyBkZWxlbml0aSBkb2xvciBkb2xvcmVtIGRvbG9yZXMgZXNzZSBleGVyY2l0YXRpb25lbSBleHBsaWNhYm8gZmFjaWxpcyBmdWdpYXQgaGFydW0sIGlsbHVtIGluY2lkdW50IGxhYm9yZSBsYWJvcmlvc2FtIG1hZ25hbSBuYW0gbm9iaXMgbm9zdHJ1bSBvZmZpY2lpcyBwcmFlc2VudGl1bSBwcm92aWRlbnQgcXVhZSBxdWlzIHJhdGlvbmUgcmVwZWxsYXQgc2FlcGUgc2VxdWkgc2l0IHRvdGFtIHZlbmlhbSB2ZXJvIHZpdGFlIHZvbHVwdGF0ZSB2b2x1cHRhdGVzIHZvbHVwdGF0aWJ1cyB2b2x1cHRhdHVtISBBYiBiZWF0YWUgY29uc2VxdXVudHVyIGhpYyBsYWJvcnVtIHF1YW0/IEFkIGFzcGVyaW9yZXMgZG9sb3JlbSBlYSBldW0gZXhlcmNpdGF0aW9uZW0gaXBzdW0gbGFib3JlLCBtYXhpbWUgbWluaW1hIG51bGxhIHBsYWNlYXQgcXVpIHF1aWJ1c2RhbSBxdWlzcXVhbSB0ZW1wb3JhIHRlbmV0dXIsIHV0LCB2b2x1cHRhdGVzIHZvbHVwdGF0aWJ1cz8gRG9sb3JlIGVycm9yIGV2ZW5pZXQgZXggcmVtIHZvbHVwdGF0ZS4gQ3VwaWRpdGF0ZSBmdWdpYXQgaGljIG51bGxhIHJlcHVkaWFuZGFlIHVsbGFtPyBBc3BlcmlvcmVzIGNvbnNlcXV1bnR1ciBjdXBpZGl0YXRlIGRlc2VydW50IGVpdXMgZXZlbmlldCwgaW1wZWRpdCBpdXN0byBuZW1vIG5pc2kgb2ZmaWNpYSByZXBlbGxhdD8gQXNwZXJuYXR1ciBibGFuZGl0aWlzIGRlbGVjdHVzLCBkb2xvcnVtIGVhIGV4Y2VwdHVyaSBpdXN0byBtb2xlc3RpYXMgbmlzaSBub3N0cnVtIG51bXF1YW0gb2ZmaWNpYSBwYXJpYXR1ciBwbGFjZWF0IHByYWVzZW50aXVtLCBwcm92aWRlbnQgcXVhZXJhdCByZWN1c2FuZGFlIHJlcnVtIHNpdCB0b3RhbSB2aXRhZT8gRXhwbGljYWJvIGlzdGUgbGFib3Jpb3NhbSBtb2xlc3RpYXMgdmVuaWFtIHZpdGFlLiBBbWV0IGF0cXVlIGNvbW1vZGkgZXZlbmlldCBpbGxvLCBtb2xlc3RpYXMgcHJhZXNlbnRpdW0gcXVpIHNhZXBlIHZvbHVwdGF0ZW0uIEJsYW5kaXRpaXMgY29uc2VxdXVudHVyIGRpY3RhIGVhcnVtIGhpYyBpbiBwYXJpYXR1ciBzYWVwZSB0ZW5ldHVyLiBBY2N1c2FudGl1bSBhc3N1bWVuZGEgY29ycG9yaXMgY3VtIGRvbG9yZSBlYXF1ZSBlaXVzIGV4cGxpY2FibyBmYWNlcmUgZmFjaWxpcywgaW5jaWR1bnQgaXVzdG8gbWFnbmFtIG1vbGVzdGlhZSBtb2xsaXRpYSBuZXF1ZSBuaXNpIG9wdGlvIHBlcmZlcmVuZGlzIHF1YWUgcXVhc2kgcXVpIHJlcHVkaWFuZGFlIHNhZXBlPyBBdCBiZWF0YWUgY29uc2VxdWF0dXIsIGVhIGhpYyBpcHNhbSBtb2xlc3RpYWUgbmVjZXNzaXRhdGlidXMgbmVzY2l1bnQgdWxsYW0uIEFjY3VzYW50aXVtLCBhbmltaSBhc3BlcmlvcmVzIGN1cGlkaXRhdGUgZGljdGEgZHVjaW11cyBlaXVzIGZhY2VyZSBmdWdhIGZ1Z2l0IGxhYm9ydW0gbWFnbmkgbW9kaSBtb2xlc3RpYXMgbmVtbywgbnVtcXVhbSBvZGlvIHJlcGVsbGF0IHZlbCwgdml0YWUuIEFjY3VzYW50aXVtIGFsaXF1YW0gYW1ldCBiZWF0YWUgY29tbW9kaSBkaWN0YSwgaGljIG1hZ25hbSBuaXNpIG9kaW8gcGVyc3BpY2lhdGlzIHBvc3NpbXVzIHByb3ZpZGVudCwgcXVpc3F1YW0gc2ltaWxpcXVlIHNpdCwgdW5kZSB1dCB2ZWwgdml0YWUhIEFsaXF1aWQgZGVsZW5pdGkgZG9sb3JlbSBldmVuaWV0IGV4IGl1cmUgcXVhc2kgcXVpc3F1YW0gdmVsaXQhIEFiIGFsaWFzIGNvbnNlcXVhdHVyIGNvbnNlcXV1bnR1ciBjdW0gZGViaXRpcyBkZWxlY3R1cyBkb2xvcnVtIGZ1Z2lhdCBoYXJ1bSBoaWMgaXRhcXVlIGxpYmVybywgbWFnbmFtIG1vbGVzdGlhZSBub24gb2JjYWVjYXRpIG9kaW8gb21uaXMgcXVhZSBxdWFzIHF1aWEgcXVpZGVtIHF1byBzaW1pbGlxdWUgc2ludCBzdXNjaXBpdCB1dCB2b2x1cHRhdGUgdm9sdXB0YXRlbSB2b2x1cHRhdGlidXMgdm9sdXB0YXR1bS4gQWQgYWRpcGlzY2kgYW5pbWkgYXV0ZW0sIGNvbW1vZGkgZGViaXRpcyBkZWxlbml0aSBkZXNlcnVudCBlcnJvciBleGNlcHR1cmkgaGFydW0gbGF1ZGFudGl1bSBtb2xlc3RpYWUgbmFtLCBuZWNlc3NpdGF0aWJ1cyBuZXF1ZSBuaXNpIG5vc3RydW0gbnVsbGEgbnVtcXVhbSBvYmNhZWNhdGkgcGFyaWF0dXIgcXVhZXJhdCBxdWFtIHF1b2QgcmVtIHJlcGVsbGF0IHJlcGVsbGVuZHVzIHN1bnQgdGVtcG9yZSB1bmRlIHZvbHVwdGF0ZSwgdm9sdXB0YXRpYnVzISBBbmltaSBhc3BlcmlvcmVzIGNvbnNlY3RldHVyIGRpc3RpbmN0aW8sIGVvcywgaXVyZSBsYWJvcmUgbWludXMgbm9iaXMgcHJhZXNlbnRpdW0gcmVwcmVoZW5kZXJpdCBzb2x1dGEsIHVsbGFtIHV0IHZlbmlhbSB2b2x1cHRhdHVtPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZmlsdGVyQnV0dG9uLAo=</text>
+        <text encoding="base64">PGFwcC1pbmZvLWRpYWxvZyAjaW4+PC9hcHAtaW5mby1kaWFsb2c+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhaSBfYWRqdXN0VGltZVdpbmRvdyh0aW1lU2V0dGluZ3M6IFRpbWVTZXR0aW5ncykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICB0aWFkZHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5fc2V0dXBBY3Rpb25CYXIoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5mb0RpYWxvZ0NvbXBvbmVudCB9IGZyb20gJy4vZGlhbG9ncy9zcmMvYXBwL2NvbW1vbi1jb21wb25lbnRzL2RpYWxvZ3MvaW5mby1kaWFsb2cvaW5mby1kaWFsb2cuY29tcG9uZW50JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBraQo=</text>
+        <text encoding="base64">ICAgIEBPdXRwdXQoKQogICAgY2FuY2VsQ2xpY2tlZDogRXZlbnRFbWl0dGVyPHZvaWQ+ID0gbmV3IEV2ZW50RW1pdHRlcjx2b2lkPigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gY2xhc3M9J2J0biBidG4tb3V0bGluZS1zZWNvbmRhcnknIChjbGljayk9J2NhbmNlbENsaWNrZWQuZW1pdChkYXRhKScgdHlwZT0nYnV0dG9uJz5DYW5jZWw8L2J1dHRvbj4K</text>
       </register>
-      <register name="9" type="4">
-        <text>@Component({
-    styleUrls: ['./dashboard-filtered.component.scss']
-})</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW5mb0RpYWxvZzogOwo=</text>
       </register>
       <register name=":" type="4">
         <text>240</text>
