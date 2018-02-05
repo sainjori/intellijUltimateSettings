@@ -138,7 +138,7 @@
       <file name="/fragment.ts" timestamp="1517614090501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1517840331336">
+      <file name="/JavaScript Console" timestamp="1517840376387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1517568337053">
@@ -178,11 +178,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517833488448">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="21" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517841068461">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="37" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="39" column="37" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517518124488">
         <mark key="[" line="0" column="0" />
@@ -316,11 +316,11 @@
       <jump line="263" column="44" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(true);</text>
       </register>
       <register name="-" type="4">
-        <text>RendererComponent</text>
+        <text>(true);</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
@@ -329,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAoPFJlbmRlcmVyQ29tcG9uZW50PnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXROb1BhZGRpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVuZGVyZXJDb21wb25lbnRDb21wb25lbnRSZWYgPSB0aGlzLnZpZXdDb250YWluZXJSZWYuY3JlYXRlQ29tcG9uZW50KGZhY3RvcnksIDAsIGluamVjdG9yKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -344,10 +344,10 @@
         <text encoding="base64">ICAgICAgICAoPERhc2hib2FyZFJlbmRlcmVyPnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXROb1BhZGRpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAoPERhc2hib2FyZFJlbmRlcmVyPnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXROb1BhZGRpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
@@ -356,12 +356,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>// private componentResolver: ComponentFactoryResolver,
-    // private actionTabService: ActionTabService,
-    // private viewContainerRef: ViewContainerRef) {</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
