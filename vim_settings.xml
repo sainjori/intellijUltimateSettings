@@ -87,18 +87,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.ts" timestamp="1517823795678">
-        <mark key="'" line="41" column="8" />
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+        <mark key="'" line="36" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517823811263">
-        <mark key="'" line="248" column="9" />
-        <mark key="[" line="269" column="32" />
-        <mark key="]" line="248" column="9" />
-        <mark key="^" line="248" column="9" />
-        <mark key="." line="248" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517825273964">
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="." line="277" column="0" />
+        <mark key="^" line="277" column="37" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Observable.js" timestamp="1517328121007">
         <mark key="[" line="0" column="0" />
@@ -121,11 +116,7 @@
       <file name="http://localhost:4200/main.bundle.js" timestamp="1517585745272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.scss" timestamp="1517824319921">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/renderer/renderer.component.scss" timestamp="1517824319921" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.html" timestamp="1517609633512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -161,7 +152,7 @@
       <file name="/dummy.sql" timestamp="1517588480476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517823345320">
+      <file name="/Dummy.txt" timestamp="1517825191122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -179,9 +170,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.scss" timestamp="1517824316911">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517614265548">
         <mark key="[" line="21" column="30" />
@@ -322,10 +313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJSAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJlckNvbXBvbmVudENvbXBvbmVudFJlZi4K</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
@@ -334,43 +325,43 @@
         <text encoding="base64">ICAgICAgICAoPFJlbmRlcmVyQ29tcG9uZW50PnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXROb1BhZGRpbmcodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJSAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJlckNvbXBvbmVudENvbXBvbmVudFJlZi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAoPFJlbmRlcmVyQ29tcG9uZW50PnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmluc3RhbmNlKS5zZXRMaXN0ZW5lcih0aGlzLmlmcmFtZUxvYWRlZC5iaW5kKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB3aWR0aDogMTAwJSAhaW1wb3J0YW50Owo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJSAhaW1wb3J0YW50Owo=</text>
+      </register>
+      <register name="5" type="4">
         <text>:host{
   display: flex;
   flex-basis: 100%;
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>:host{
   display: flex;
   flex-basis: 100%;
 }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldHVwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb21wb2VudC5pZnJhbWVMb2FkZWQoZXZlbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jb21wb2VudCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldHVwCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXJlckNvbXBvbmVudENvbXBvbmVudFJlZi5ob3N0Vmlldy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb21wb2VudC5pZnJhbWVMb2FkZWQoZXZlbnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jb21wb2VudCkK</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
