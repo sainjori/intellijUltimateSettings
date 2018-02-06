@@ -58,7 +58,7 @@
         <mark key="." line="50" column="66" />
         <mark key="^" line="50" column="66" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-name-resolver.service.ts" timestamp="1517920462443">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-name-resolver.service.ts" timestamp="1517925581953">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -167,7 +167,7 @@
         <mark key="." line="73" column="24" />
         <mark key="^" line="72" column="31" />
       </file>
-      <file name="/dummy.sql" timestamp="1517925016630">
+      <file name="/dummy.sql" timestamp="1517925771154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLParser.ts" timestamp="1517860046988" />
@@ -176,6 +176,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/rxjs/src/operator/map.ts" timestamp="1517925870581" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/ffe/ffe.component.ts" timestamp="1517603569571">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="25" />
@@ -188,12 +189,12 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517924879832">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517928919426">
         <mark key="'" line="12" column="15" />
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="41" />
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517858083684">
         <mark key="[" line="0" column="0" />
@@ -335,8 +336,8 @@
       <jump line="101" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMua2liYW5hRGFzaGJvYXJkLmtpYmFuYVJlbGF0aXZlVXJsID0gdGhpcy5hY3RpdmF0ZWRSb3V0ZS5zbmFwc2hvdC5kYXRhWydkYXNoYm9hcmRVcmwnXQo=</text>
       </register>
       <register name="-" type="4">
         <text>value</text>
@@ -348,36 +349,36 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCA9IHRoaXMuYWN0aXZhdGVkUm91dGUuc25hcHNob3QuZGF0YVsnZGFzaGJvYXJkVXJsJ10KICAgICAgICBzdXBlci5fYXNzaWduRGFzaGJvYXJkVVJMKHRoaXMuX2dldEtpYmFuYUlmcmFtZVVybCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV2ZW50IGluc3RhbmNlb2YgTmF2aWdhdGlvbkVuZCkgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMua2liYW5hRGFzaGJvYXJkLmtpYmFuYVJlbGF0aXZlVXJsID0gdGhpcy5hY3RpdmF0ZWRSb3V0ZS5zbmFwc2hvdC5kYXRhWydkYXNoYm9hcmRVcmwnXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQgaW5zdGFubwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLl9hc3NpZ25EYXNoYm9hcmRVUkwodGhpcy5fZ2V0S2liYW5hSWZyYW1lVXJsKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV2ZW50IGluc3RhbmNlb2YgTmF2aWdhdGlvbkVuZCkgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if(query){
-            this._lastState = query;
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQgaW5zdGFubwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
+      <register name="8" type="4">
+        <text>if(query){
+            this._lastState = query;
+        }</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
