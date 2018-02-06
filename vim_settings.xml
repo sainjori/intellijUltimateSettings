@@ -39,6 +39,11 @@
         <mark key="." line="50" column="66" />
         <mark key="^" line="50" column="66" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-name-resolver.service.ts" timestamp="1517920462443">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1517919593747">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="53" column="0" />
@@ -67,11 +72,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/confirm-dialog/confirm-dialog.component.ts" timestamp="1517864945409" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517864457757">
-        <mark key="'" line="445" column="27" />
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="66" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1517921922268">
+        <mark key="'" line="488" column="15" />
+        <mark key="[" line="201" column="78" />
+        <mark key="]" line="201" column="78" />
+        <mark key="." line="201" column="78" />
         <mark key="^" line="66" column="17" />
       </file>
       <file name="webpack://(webpack)-dev-server/client" timestamp="1517859264563">
@@ -106,7 +111,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/RawStatObjectAPI.java" timestamp="1517416514407">
         <mark key="[" line="20" column="41" />
       </file>
-      <file name="/fragment.ts" timestamp="1517614090501">
+      <file name="/fragment.ts" timestamp="1517920873651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1517866332545">
@@ -133,11 +138,12 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517920069492">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="82" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1517921982568">
+        <mark key="'" line="12" column="15" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="6" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517858083684">
         <mark key="[" line="0" column="0" />
@@ -177,12 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis-routing.module.ts" />
-      <jump line="213" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="203" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="198" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="206" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="212" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="42" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="119" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="120" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
@@ -277,61 +277,70 @@
       <jump line="120" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="445" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="79" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
+      <jump line="34" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="82" column="90" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="488" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="30" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
+      <jump line="12" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>§</text>
+        <text>this.activatedRoute.snapshot.data['dashboardUrl']</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdGltZURyb3Bkb3duXD4=</text>
+        <text>subscribe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGFwcC1lZGl0LWZpbHRlci1kaWFsb2cgI2VkaXRGaWx0ZXJEaWFsb2cgKG9rQ2xpY2tlZCk9IihkYXRhPSRldmVudCkgJiYgb25PSygpIiAoY2FuY2VsQ2xpY2tlZCk9IihkYXRhPSRldmVudCkgJiYgb25DYW5jZWwoKSI+PC9hcHAtZWRpdC1maWx0ZXItZGlhbG9nPgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCA9IHRoaXMuYWN0aXZhdGVkUm91dGUuc25hcHNob3QuZGF0YVsnZGFzaGJvYXJkVXJsJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZmZmZmZmxvcmVtCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRoaXMuYWN0aXZhdGVkUm91dGUuZGF0YS5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgICAgICAgIGlmIChkYXRhWydkYXNoYm9hcmRVcmwnXSl7CiAgICAgICAgICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCA9IGRhdGFbJ2Rhc2hib2FyZFVybCddOwogICAgICAgICAgICAgICAgc3VwZXIuX2Fzc2lnbkRhc2hib2FyZFVSTCh0aGlzLl9nZXRLaWJhbmFJZnJhbWVVcmwoKSkKICAgICAgICAgICAgfQogICAgICAgIH0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGhpcy5sYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LiBBY2N1c2FtdXMgYWxpYXMgYW5pbWkgZWxpZ2VuZGkgZW9zIGZhY2VyZSBxdWFzPyBBbGlhcyBhbGlxdWlkIGFtZXQgYW5pbWkgYXQgY3VtIGRpZ25pc3NpbW9zIGRvbG9ydW0gZWEgZXQgZXhwZWRpdGEgaGFydW0gaWxsdW0gbW9sbGl0aWEgbmlzaSBub2JpcyBwb3JybyBxdWlidXNkYW0sIHF1b2QgcmVjdXNhbmRhZSByZXB1ZGlhbmRhZSBzZWQgc3VudCBzdXNjaXBpdCB1dCB2ZWxpdCwgdm9sdXB0YXRpYnVzPyBDb21tb2RpIGN1bHBhIGRvbG9yaWJ1cyBlcnJvciBldCBpcHNhIG1vbGxpdGlhIG5hbSBuZXNjaXVudCBuaWhpbCBudW1xdWFtIG9iY2FlY2F0aSBxdWksIHNpbWlsaXF1ZSEgQXV0LCBjdWxwYSBlYSBmYWNpbGlzIGlsbG8gbmlzaSByZXB1ZGlhbmRhZSB2b2x1cHRhdGUgdm9sdXB0YXR1bS4gQSBhbGlxdWlkIGNvcnBvcmlzIGRlbGVuaXRpIGRlc2VydW50IGRpc3RpbmN0aW8gZWFydW0gZWl1cyBlcnJvciBpbnZlbnRvcmUsIGxhdWRhbnRpdW0gbmVxdWUgbmlzaSBudW1xdWFtIHBvcnJvIHF1aWEgcmVtIHRlbXBvcmEgdG90YW0sIHZlbGl0LiBBIGF0IGRlbGVuaXRpLCBkaWduaXNzaW1vcyBkb2xvciBkb2xvcmVtcXVlIGR1Y2ltdXMgZW9zIGZ1Z2EgaWQgaWxsdW0gaW1wZWRpdCBtYXhpbWUsIG9kaXQgb21uaXMgb3B0aW8gcmVpY2llbmRpcyByZXB1ZGlhbmRhZSB0ZW1wb3JpYnVzIHZvbHVwdGF0ZW0uIEFkIGFzcGVybmF0dXIgZGVsZWN0dXMgZWEgZXQgZnVnaWF0IGl1c3RvIG1vZGkgbmVzY2l1bnQgbm9uIHBhcmlhdHVyLCBzZWQgdG90YW0gdm9sdXB0YXMuIEEgYWIgYWxpcXVhbSBhbWV0IGFzcGVybmF0dXIgYXNzdW1lbmRhIGNvcnBvcmlzIGRlbGVjdHVzIGRvbG9ydW0gZHVjaW11cyBlb3MsIGV1bSBpZCBsYXVkYW50aXVtIG1hZ25pIG1pbnVzIG5hbSBuaWhpbCBwb3NzaW11cyBxdWFzaSBxdWlzcXVhbSBxdW8gcmVwdWRpYW5kYWUgcmVydW0gc2VxdWkgdmVybywgdm9sdXB0YXMhIEFiIGVvcyBmYWNpbGlzIGlsbG8gaXBzdW0gaXVyZSBpdXN0byBsYXVkYW50aXVtIHBsYWNlYXQgcXVvZCB0ZW1wb3JlIHZlbGl0PyBBcGVyaWFtIGRvbG9yZSBkb2xvcmVtIHByb3ZpZGVudCByZXJ1bSB0ZW1wb3JhIHZlbmlhbT8gRG9sb3JlbXF1ZSBkdWNpbXVzIGluIG1vbGxpdGlhIHJlbSBzaW50LiBBZGlwaXNjaSBhcmNoaXRlY3RvIGFzcGVybmF0dXIgY29uc2VxdXVudHVyIGN1bSBkb2xvciBlc3QgZXhjZXB0dXJpIGltcGVkaXQgbGFib3JlLCBsYXVkYW50aXVtIG1hZ25pLCBuYW0sIG5hdHVzIG51bXF1YW0gb2RpbyBvbW5pcyBwZXJzcGljaWF0aXMgcXVpZGVtIHJlcGVsbGVuZHVzIHNlcXVpIHNpbWlsaXF1ZSB0ZW1wb3JhIHRlbXBvcmUhIEFuaW1pIGFzcGVyaW9yZXMgYXNzdW1lbmRhIGJlYXRhZSBjb25zZWN0ZXR1ciBjb25zZXF1YXR1ciBjb25zZXF1dW50dXIgZGViaXRpcyBkZWxlbml0aSBkb2xvciBkb2xvcmVtIGRvbG9yZXMgZXNzZSBleGVyY2l0YXRpb25lbSBleHBsaWNhYm8gZmFjaWxpcyBmdWdpYXQgaGFydW0sIGlsbHVtIGluY2lkdW50IGxhYm9yZSBsYWJvcmlvc2FtIG1hZ25hbSBuYW0gbm9iaXMgbm9zdHJ1bSBvZmZpY2lpcyBwcmFlc2VudGl1bSBwcm92aWRlbnQgcXVhZSBxdWlzIHJhdGlvbmUgcmVwZWxsYXQgc2FlcGUgc2VxdWkgc2l0IHRvdGFtIHZlbmlhbSB2ZXJvIHZpdGFlIHZvbHVwdGF0ZSB2b2x1cHRhdGVzIHZvbHVwdGF0aWJ1cyB2b2x1cHRhdHVtISBBYiBiZWF0YWUgY29uc2VxdXVudHVyIGhpYyBsYWJvcnVtIHF1YW0/IEFkIGFzcGVyaW9yZXMgZG9sb3JlbSBlYSBldW0gZXhlcmNpdGF0aW9uZW0gaXBzdW0gbGFib3JlLCBtYXhpbWUgbWluaW1hIG51bGxhIHBsYWNlYXQgcXVpIHF1aWJ1c2RhbSBxdWlzcXVhbSB0ZW1wb3JhIHRlbmV0dXIsIHV0LCB2b2x1cHRhdGVzIHZvbHVwdGF0aWJ1cz8gRG9sb3JlIGVycm9yIGV2ZW5pZXQgZXggcmVtIHZvbHVwdGF0ZS4gQ3VwaWRpdGF0ZSBmdWdpYXQgaGljIG51bGxhIHJlcHVkaWFuZGFlIHVsbGFtPyBBc3BlcmlvcmVzIGNvbnNlcXV1bnR1ciBjdXBpZGl0YXRlIGRlc2VydW50IGVpdXMgZXZlbmlldCwgaW1wZWRpdCBpdXN0byBuZW1vIG5pc2kgb2ZmaWNpYSByZXBlbGxhdD8gQXNwZXJuYXR1ciBibGFuZGl0aWlzIGRlbGVjdHVzLCBkb2xvcnVtIGVhIGV4Y2VwdHVyaSBpdXN0byBtb2xlc3RpYXMgbmlzaSBub3N0cnVtIG51bXF1YW0gb2ZmaWNpYSBwYXJpYXR1ciBwbGFjZWF0IHByYWVzZW50aXVtLCBwcm92aWRlbnQgcXVhZXJhdCByZWN1c2FuZGFlIHJlcnVtIHNpdCB0b3RhbSB2aXRhZT8gRXhwbGljYWJvIGlzdGUgbGFib3Jpb3NhbSBtb2xlc3RpYXMgdmVuaWFtIHZpdGFlLiBBbWV0IGF0cXVlIGNvbW1vZGkgZXZlbmlldCBpbGxvLCBtb2xlc3RpYXMgcHJhZXNlbnRpdW0gcXVpIHNhZXBlIHZvbHVwdGF0ZW0uIEJsYW5kaXRpaXMgY29uc2VxdXVudHVyIGRpY3RhIGVhcnVtIGhpYyBpbiBwYXJpYXR1ciBzYWVwZSB0ZW5ldHVyLiBBY2N1c2FudGl1bSBhc3N1bWVuZGEgY29ycG9yaXMgY3VtIGRvbG9yZSBlYXF1ZSBlaXVzIGV4cGxpY2FibyBmYWNlcmUgZmFjaWxpcywgaW5jaWR1bnQgaXVzdG8gbWFnbmFtIG1vbGVzdGlhZSBtb2xsaXRpYSBuZXF1ZSBuaXNpIG9wdGlvIHBlcmZlcmVuZGlzIHF1YWUgcXVhc2kgcXVpIHJlcHVkaWFuZGFlIHNhZXBlPyBBdCBiZWF0YWUgY29uc2VxdWF0dXIsIGVhIGhpYyBpcHNhbSBtb2xlc3RpYWUgbmVjZXNzaXRhdGlidXMgbmVzY2l1bnQgdWxsYW0uIEFjY3VzYW50aXVtLCBhbmltaSBhc3BlcmlvcmVzIGN1cGlkaXRhdGUgZGljdGEgZHVjaW11cyBlaXVzIGZhY2VyZSBmdWdhIGZ1Z2l0IGxhYm9ydW0gbWFnbmkgbW9kaSBtb2xlc3RpYXMgbmVtbywgbnVtcXVhbSBvZGlvIHJlcGVsbGF0IHZlbCwgdml0YWUuIEFjY3VzYW50aXVtIGFsaXF1YW0gYW1ldCBiZWF0YWUgY29tbW9kaSBkaWN0YSwgaGljIG1hZ25hbSBuaXNpIG9kaW8gcGVyc3BpY2lhdGlzIHBvc3NpbXVzIHByb3ZpZGVudCwgcXVpc3F1YW0gc2ltaWxpcXVlIHNpdCwgdW5kZSB1dCB2ZWwgdml0YWUhIEFsaXF1aWQgZGVsZW5pdGkgZG9sb3JlbSBldmVuaWV0IGV4IGl1cmUgcXVhc2kgcXVpc3F1YW0gdmVsaXQhIEFiIGFsaWFzIGNvbnNlcXVhdHVyIGNvbnNlcXV1bnR1ciBjdW0gZGViaXRpcyBkZWxlY3R1cyBkb2xvcnVtIGZ1Z2lhdCBoYXJ1bSBoaWMgaXRhcXVlIGxpYmVybywgbWFnbmFtIG1vbGVzdGlhZSBub24gb2JjYWVjYXRpIG9kaW8gb21uaXMgcXVhZSBxdWFzIHF1aWEgcXVpZGVtIHF1byBzaW1pbGlxdWUgc2ludCBzdXNjaXBpdCB1dCB2b2x1cHRhdGUgdm9sdXB0YXRlbSB2b2x1cHRhdGlidXMgdm9sdXB0YXR1bS4gQWQgYWRpcGlzY2kgYW5pbWkgYXV0ZW0sIGNvbW1vZGkgZGViaXRpcyBkZWxlbml0aSBkZXNlcnVudCBlcnJvciBleGNlcHR1cmkgaGFydW0gbGF1ZGFudGl1bSBtb2xlc3RpYWUgbmFtLCBuZWNlc3NpdGF0aWJ1cyBuZXF1ZSBuaXNpIG5vc3RydW0gbnVsbGEgbnVtcXVhbSBvYmNhZWNhdGkgcGFyaWF0dXIgcXVhZXJhdCBxdWFtIHF1b2QgcmVtIHJlcGVsbGF0IHJlcGVsbGVuZHVzIHN1bnQgdGVtcG9yZSB1bmRlIHZvbHVwdGF0ZSwgdm9sdXB0YXRpYnVzISBBbmltaSBhc3BlcmlvcmVzIGNvbnNlY3RldHVyIGRpc3RpbmN0aW8sIGVvcywgaXVyZSBsYWJvcmUgbWludXMgbm9iaXMgcHJhZXNlbnRpdW0gcmVwcmVoZW5kZXJpdCBzb2x1dGEsIHVsbGFtIHV0IHZlbmlhbSB2b2x1cHRhdHVtPwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGFwcC1pbmZvLWRpYWxvZyAjaW4+PC9hcHAtaW5mby1kaWFsb2c+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0aWFkZHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5mb0RpYWxvZ0NvbXBvbmVudCB9IGZyb20gJy4vZGlhbG9ncy9zcmMvYXBwL2NvbW1vbi1jb21wb25lbnRzL2RpYWxvZ3MvaW5mby1kaWFsb2cvaW5mby1kaWFsb2cuY29tcG9uZW50JzsK</text>
+      <register name="7" type="4">
+        <text>_getKibanaIframeUrl(): string {
+        const start = Location.joinWithSlash(LocationUtils.getBasePath(), 'kibana');
+        return Location.joinWithSlash(start, this.kibanaDashboard.kibanaRelativeUrl);
+    }</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdXRwdXQoKQogICAgY2FuY2VsQ2xpY2tlZDogRXZlbnRFbWl0dGVyPHZvaWQ+ID0gbmV3IEV2ZW50RW1pdHRlcjx2b2lkPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCA9IHRoaXMuYWN0aXZhdGVkUm91dGUuc25hcHNob3QuZGF0YVsnZGFzaGJvYXJkVXJsJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gY2xhc3M9J2J0biBidG4tb3V0bGluZS1zZWNvbmRhcnknIChjbGljayk9J2NhbmNlbENsaWNrZWQuZW1pdChkYXRhKScgdHlwZT0nYnV0dG9uJz5DYW5jZWw8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>240</text>
+        <text>202</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdGltZURyb3Bkb3duXD4=</last-search>
+      <last-search>subscribe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdGltZURyb3Bkb3duXD4=</last-pattern>
+      <last-pattern>subscribe</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</entry>
         <entry encoding="base64">XDxxdWVyeVJlc29sdmVyXD4=</entry>
         <entry encoding="base64">XDxfaW5pdFByb21pc2VcPg==</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q2VsbFRlbXBsYXRlXD4=</entry>
@@ -359,6 +367,7 @@
         <entry encoding="base64">XDxzYXZlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxfdGltZURyb3Bkb3duXD4=</entry>
+        <entry>subscribe</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
@@ -379,6 +388,7 @@
         <entry>210</entry>
         <entry>208</entry>
         <entry>240</entry>
+        <entry>202</entry>
       </history-cmd>
       <history-expr />
       <history-input />
