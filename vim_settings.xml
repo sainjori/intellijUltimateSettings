@@ -78,13 +78,20 @@
       <file name="/fragment.ts" timestamp="1517920873651">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statstuploader_5.0.x/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" timestamp="1518004694982">
+        <mark key="'" line="78" column="90" />
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="11" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/DialogService.ts" timestamp="1517866430456">
         <mark key="[" line="50" column="66" />
         <mark key="]" line="50" column="66" />
         <mark key="." line="50" column="66" />
         <mark key="^" line="50" column="66" />
       </file>
-      <file name="/JavaScript Console" timestamp="1517948765725">
+      <file name="/JavaScript Console" timestamp="1518011152654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-name-resolver.service.ts" timestamp="1517951781044">
@@ -178,7 +185,8 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517341072759">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/xccc.java" timestamp="1518005086396" />
+      <file name="/fragment.java" timestamp="1518005043465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1511811755798">
@@ -189,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="31" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="8" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
       <jump line="204" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
       <jump line="113" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
       <jump line="190" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
@@ -289,6 +294,9 @@
       <jump line="117" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" />
       <jump line="16" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
       <jump line="90" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
+      <jump line="59" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statstuploader_5.0.x/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
+      <jump line="76" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statstuploader_5.0.x/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
+      <jump line="78" column="90" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statstuploader_5.0.x/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -298,7 +306,7 @@
         <text>subscript</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkaW5nXD4=</text>
+        <text encoding="base64">XDxzdGF0Q29uZmlnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBwYXJhbXMgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LnBhcmFtcwo=</text>
@@ -356,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxzdGF0Q29uZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0Q29uZmlnXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaW5pdFByb21pc2VcPg==</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q2VsbFRlbXBsYXRlXD4=</entry>
         <entry>fla</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
@@ -386,6 +393,7 @@
         <entry>subscribe</entry>
         <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
+        <entry encoding="base64">XDxzdGF0Q29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
