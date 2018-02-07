@@ -155,12 +155,12 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518013855434">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="85" column="50" />
-        <mark key="]" line="85" column="50" />
-        <mark key="." line="85" column="50" />
-        <mark key="^" line="85" column="50" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518014500029">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="33" />
+        <mark key="." line="85" column="33" />
+        <mark key="^" line="85" column="33" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517858083684">
         <mark key="[" line="0" column="0" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ngx-bootstrap/modal/modal.component.js" />
       <jump line="185" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="192" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="193" column="63" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
@@ -301,13 +300,14 @@
       <jump line="78" column="90" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statstuploader_5.0.x/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
       <jump line="29" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="183" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/core/src/change_detection/change_detector_ref.d.ts" />
+      <jump line="80" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZW5kZXJlckNvbXBvbmVudENvbXBvbmVudFJlZi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.rendererComponentComponentRef.hostView.reattach()</text>
+        <text>element.nativeElement as ElementRef)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0Q29uZmlnXD4=</text>
@@ -316,38 +316,37 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLmluc2VydCh0aGlzLnJlbmRlcmVyQ29tcG9uZW50Q29tcG9uZW50UmVmLmhvc3RWaWV3KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZW5kZXJlckNvbXBvbmVudENvbXBvbmVudFJlZi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHRoaXMudmlld0NvbnRhaW5lclJlZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHRoaXMudmlld0NvbnRhaW5lclJlZi5lbGVtZW50Lm5hdGl2ZUVsZW1lbnQgYXMgRWxlbWVudFJlZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLmVsZW1lbnQubmF0aXZlRWxlbWVudC4K</text>
       </register>
-      <register name="6" type="4">
-        <text>this.viewContainerRef.insert(this.rendererComponentComponentRef.hostView);
-            this.viewContainerRef.createComponent()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChodG1sRWxlbWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZW5kZXJlckNvbXBvbmVudENvbXBvbmVudFJlZi4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LmNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52aWV3Q29udGFpbmVyUmVmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
