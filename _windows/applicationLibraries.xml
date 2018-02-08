@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="com.sun.xml.bind:jaxb-impl:2.2.7" type="repository">
       <properties maven-id="com.sun.xml.bind:jaxb-impl:2.2.7" />
       <CLASSES>
