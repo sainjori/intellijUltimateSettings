@@ -56,18 +56,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-api/src/main/java/com/dscsag/monitoring/dashboard_api/RawStatObjectAPIApi.java" timestamp="1518021643188">
         <mark key="'" line="99" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/default-dashboard-resolver.service.ts" timestamp="1518184439309">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="23" column="62" />
-        <mark key="^" line="23" column="62" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518187115259">
-        <mark key="'" line="37" column="37" />
-        <mark key="[" line="59" column="81" />
-        <mark key="]" line="59" column="81" />
-        <mark key="." line="59" column="81" />
-        <mark key="^" line="59" column="81" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518187908944">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="138" column="3" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
@@ -169,7 +163,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/router/@angular/router.es5.js" timestamp="1518183153312">
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/router/@angular/router.es5.js" timestamp="1518188523845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/angular2-notifications/dist/src/simple-notifications/services/notifications.service.js" timestamp="1518185619849">
@@ -232,8 +226,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1518020815165" />
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-name-resolver.service.ts" />
-      <jump line="76" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/QueryInterfaces.ts" />
       <jump line="138" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaProxyEndpoint.java" />
       <jump line="217" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="179" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
@@ -332,52 +324,58 @@
       <jump line="98" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="58" column="31" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="37" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
+      <jump line="22" column="3" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
+      <jump line="23" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uLmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLm5vdGlmaWNhdGlvbiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9yYXctZGF0YS1hbmFseXNpcyddKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Notification</text>
+        <text>.root;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3V0ZXJMaW5rc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtOb3RpZmljYXRpb25zU2VydmljZX0gZnJvbSAnYW5ndWxhcjItbm90aWZpY2F0aW9ucy9kaXN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9yYXctZGF0YS1hbmFseXNpcyddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uLmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLm5vdGlmaWNhdGlvbiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9yYXctZGF0YS1hbmFseXNpcyddKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9yYXctZGF0YS1hbmFseXNpcyddKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJvdXRlci51Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3Vic2NyaXB0aW9uOiBTdWJzY3JpcHRpb247Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLmRhdGEuc3Vic2NyaWJlKGRhdGEgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwogICAgICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwogICAgICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwogICAgICAgICAgICBjb25zb2xlLmxvZygndGVzdCcpOwogICAgICAgIH0pOwogICAgICAgIHRoaXMuYWN0aXZhdGVkUm91dGUucGFyYW1zLnN1YnNjcmliZShkYXRhID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsKICAgICAgICB9KTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>ngOnDestroy(): void {
+        if (this.subscription) {
+            this.subscription.unsubscribe();
+        }
+    }</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LnVybAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWJzY3JpcHRpb24udW5zdWJzY3JpYmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
