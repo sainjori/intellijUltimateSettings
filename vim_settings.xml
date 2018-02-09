@@ -28,11 +28,11 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/operator/map.js" timestamp="1518022762678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1518181540641">
-        <mark key="[" line="20" column="71" />
-        <mark key="]" line="20" column="78" />
-        <mark key="^" line="20" column="78" />
-        <mark key="." line="20" column="78" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1518183068843">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="61" />
+        <mark key="." line="20" column="38" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/util/subscribeToResult.js" timestamp="1517327466703">
         <mark key="[" line="0" column="0" />
@@ -68,17 +68,18 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-api/src/main/java/com/dscsag/monitoring/dashboard_api/RawStatObjectAPIApi.java" timestamp="1518021643188">
         <mark key="'" line="99" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/default-dashboard-resolver.service.ts" timestamp="1518182178892">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/default-dashboard-resolver.service.ts" timestamp="1518183457950">
+        <mark key="[" line="28" column="63" />
+        <mark key="]" line="28" column="63" />
+        <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518181276615">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518183624937">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="60" column="10" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
@@ -157,7 +158,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@types/node/index.d.ts" timestamp="1518106196968" />
-      <file name="/JavaScript Console" timestamp="1518177334740">
+      <file name="/JavaScript Console" timestamp="1518182432955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/info-dialog/info-dialog.component.html" timestamp="1517931552379">
@@ -172,12 +173,12 @@
       <file name="/dummy.sql" timestamp="1518175306580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518180710619">
+      <file name="/Dummy.txt" timestamp="1518182780555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/router/@angular/router.es5.js" timestamp="1518177488248">
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/router/@angular/router.es5.js" timestamp="1518183153312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="http://localhost:4200/7.chunk.js" timestamp="1517929091424">
@@ -199,7 +200,7 @@
         <mark key="^" line="94" column="6" />
         <mark key="." line="94" column="6" />
       </file>
-      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1517858083684">
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1518182621270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1517865668118">
@@ -345,50 +346,50 @@
       <jump line="98" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZVVybDogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>RawStatObjectAPIApi</text>
       </register>
       <register name="-" type="4">
-        <text>navigateByUrl</text>
+        <text>RawStatObjectAPIApi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3V0ZXJMaW5rc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgcmF3U3RhdGlzdGljc0VuZHBvaW50OiBSYXdTdGF0T2JqZWN0QVBJQXBpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZVVybDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZVVybDogdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmxlLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtEYXNoYm9hcmRVcmxSZXNvbHZlcn0gZnJvbSAnLi9kYXNoYm9hcmQtbmFtZS1yZXNvbHZlci5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmxlLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHtEYXNoYm9hcmRVcmxSZXNvbHZlcn0gZnJvbSAnLi9kYXNoYm9hcmQtbmFtZS1yZXNvbHZlci5zZXJ2aWNlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEYXNoYm9hcmRVcmxSZXNvbHZlcn0gZnJvbSAnLi9kYXNoYm9hcmQtbmFtZS1yZXNvbHZlci5zZXJ2aWNlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcmVmc1swXS5wcmVmZXJlbmNlVmFsdWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcmVmc1swXS5wcmVmZXJlbmNlVmFsdWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRlbXBsYXRlVXJsOiAnc3JjL2FwcC9raWJhbmEvZGFzaGJvYXJkL2Rhc2hib2FyZC5jb21wb25lbnQuaHRtbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
