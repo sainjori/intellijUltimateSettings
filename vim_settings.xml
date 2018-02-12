@@ -184,12 +184,12 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518431489543">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518445003435">
         <mark key="'" line="73" column="4" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="86" column="139" />
+        <mark key="[" line="59" column="52" />
+        <mark key="]" line="58" column="46" />
+        <mark key="." line="58" column="46" />
+        <mark key="^" line="58" column="46" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1518182621270">
         <mark key="[" line="0" column="0" />
@@ -344,11 +344,11 @@
       <jump line="73" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>hide</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>hide</text>
       </register>
       <register name="/" type="4">
         <text>cons</text>
