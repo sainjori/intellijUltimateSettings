@@ -32,6 +32,7 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/util/subscribeToResult.js" timestamp="1517327466703">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1518447049987" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1517950344406">
         <mark key="[" line="94" column="4" />
         <mark key="]" line="94" column="4" />
@@ -184,12 +185,11 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1517520712047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518445003435">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="59" column="52" />
-        <mark key="]" line="58" column="46" />
-        <mark key="." line="58" column="46" />
-        <mark key="^" line="58" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518447161662">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1518182621270">
         <mark key="[" line="0" column="0" />
@@ -344,11 +344,11 @@
       <jump line="73" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hide</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hide</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>cons</text>
@@ -357,40 +357,40 @@
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgZGVmaW5lQ29tcG9uZW50OiBEZWZpbmVDb21wb25lbnQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHsKICAgICAgICAgICAgLy8gICAgIGRpc3BsYXlOYW1lOiAnSW5mb3JtYXRpb24nLAogICAgICAgICAgICAvLyAgICAgICAgIGljb25DbGFzc0lkZW50aWZpZXI6ICdpY29uLWluZm8nLAogICAgICAgICAgICAvLyAgICAgdG9vbHRpcDogJ1Nob3cgaW5mb3JtYXRpb24gZm9yIHNlbGVjdGlvbicsCiAgICAgICAgICAgIC8vICAgICBsaXN0ZW5lcnM6IFsoKSA9PiB0aGlzLl9zaG93SW5mb3JtYXRpb25EaWFsb2coKV0KICAgICAgICAgICAgLy8gfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>// const shouldMatchPropertys = ['client', 'Hostname', 'beat.hostname'];
         // if (linkedResourceName === 'hostname') {
         //     queryModifier.addShouldFilterForSingleTerm(shouldMatchPropertys, 'server', linkedResourceValue);
         // } else {</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZWZpbmVDb21wb25lbnR9IGZyb20gIi4uLy4uL2FuYWx5c2lzL2RlZmluZS9kZWZpbmUuY29tcG9uZW50IjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3RlY3RlZCByZW5kZXJlcjogUmVuZGVyZXIyLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZpZXdDb250YWluZXJSZWYuaW5qZWN0b3IuCg==</text>
+        <text encoding="base64">aW1wb3J0IHtEZWZpbmVDb21wb25lbnR9IGZyb20gIi4uLy4uL2FuYWx5c2lzL2RlZmluZS9kZWZpbmUuY29tcG9uZW50IjsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3RlY3RlZCByZW5kZXJlcjogUmVuZGVyZXIyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdUeXBlJywK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
