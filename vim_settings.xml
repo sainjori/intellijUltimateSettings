@@ -32,7 +32,6 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/util/subscribeToResult.js" timestamp="1517327466703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1518447049987" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1517950344406">
         <mark key="[" line="94" column="4" />
         <mark key="]" line="94" column="4" />
@@ -75,6 +74,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/core/src/render/api.d.ts" timestamp="1518209038436">
         <mark key="'" line="120" column="30" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocMassUploadAdditional.java" timestamp="1518610047910">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/Subject.js" timestamp="1517858061373">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,7 +115,6 @@
       <file name="webpack://(webpack)-dev-server/client" timestamp="1517859264563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1518606984097" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/info-dialog/info-dialog.component.ts" timestamp="1517931532357">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="11" column="45" />
@@ -173,6 +176,7 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/angular2-notifications/dist/src/simple-notifications/services/notifications.service.js" timestamp="1518185619849">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocMassUpload.java" timestamp="1518610338292" />
       <file name="http://localhost:4200/7.chunk.js" timestamp="1517929091424">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,11 +213,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/pom.xml" timestamp="1518432944608">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/pom.xml" timestamp="1518610451691">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/core/@angular/core.es5.js" timestamp="1518015369458">
         <mark key="[" line="0" column="0" />
@@ -349,7 +352,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -361,40 +364,40 @@
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgZGVmaW5lQ29tcG9uZW50OiBEZWZpbmVDb21wb25lbnQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIHsKICAgICAgICAgICAgLy8gICAgIGRpc3BsYXlOYW1lOiAnSW5mb3JtYXRpb24nLAogICAgICAgICAgICAvLyAgICAgICAgIGljb25DbGFzc0lkZW50aWZpZXI6ICdpY29uLWluZm8nLAogICAgICAgICAgICAvLyAgICAgdG9vbHRpcDogJ1Nob3cgaW5mb3JtYXRpb24gZm9yIHNlbGVjdGlvbicsCiAgICAgICAgICAgIC8vICAgICBsaXN0ZW5lcnM6IFsoKSA9PiB0aGlzLl9zaG93SW5mb3JtYXRpb25EaWFsb2coKV0KICAgICAgICAgICAgLy8gfQ==</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPmNvbS5nb29nbGUuY29kZS5maW5kYnVnczwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anNyMzA1PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uTm9ubnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHsKICAgICAgICAgICAgLy8gICAgIGRpc3BsYXlOYW1lOiAnSW5mb3JtYXRpb24nLAogICAgICAgICAgICAvLyAgICAgICAgIGljb25DbGFzc0lkZW50aWZpZXI6ICdpY29uLWluZm8nLAogICAgICAgICAgICAvLyAgICAgdG9vbHRpcDogJ1Nob3cgaW5mb3JtYXRpb24gZm9yIHNlbGVjdGlvbicsCiAgICAgICAgICAgIC8vICAgICBsaXN0ZW5lcnM6IFsoKSA9PiB0aGlzLl9zaG93SW5mb3JtYXRpb25EaWFsb2coKV0KICAgICAgICAgICAgLy8gfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text>// const shouldMatchPropertys = ['client', 'Hostname', 'beat.hostname'];
-        // if (linkedResourceName === 'hostname') {
-        //     queryModifier.addShouldFilterForSingleTerm(shouldMatchPropertys, 'server', linkedResourceValue);
-        // } else {</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZWZpbmVDb21wb25lbnR9IGZyb20gIi4uLy4uL2FuYWx5c2lzL2RlZmluZS9kZWZpbmUuY29tcG9uZW50IjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3RlY3RlZCByZW5kZXJlcjogUmVuZGVyZXIyLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbgo=</text>
+      <register name="9" type="4">
+        <text>// const shouldMatchPropertys = ['client', 'Hostname', 'beat.hostname'];
+        // if (linkedResourceName === 'hostname') {
+        //     queryModifier.addShouldFilterForSingleTerm(shouldMatchPropertys, 'server', linkedResourceValue);
+        // } else {</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
