@@ -91,6 +91,9 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="SmartStepInto" />
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
