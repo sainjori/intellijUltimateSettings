@@ -105,6 +105,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/omf/OmfDocStatusChange.java" timestamp="1518700378638">
         <mark key="'" line="280" column="39" />
       </file>
+      <file name="/__dummy.scss" timestamp="1518796417510">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis.module.ts" timestamp="1518176410796">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="64" />
@@ -210,7 +213,7 @@
       <file name="/1.groovy" timestamp="1518700609223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/__dummy.ts" timestamp="1518791566315">
+      <file name="/__dummy.ts" timestamp="1518796403709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1518783598487">
@@ -235,6 +238,9 @@
       <file name="http://localhost:4200/7.chunk.js" timestamp="1517929091424">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/__dummy.css" timestamp="1518796403696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/http/@angular/http.es5.js" timestamp="1517858079102">
         <mark key="[" line="0" column="0" />
       </file>
@@ -251,6 +257,7 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1518182621270">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/style.css" timestamp="1518796385091" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1517865668118">
         <mark key="[" line="14" column="84" />
         <mark key="]" line="14" column="84" />
@@ -271,10 +278,11 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/core/@angular/core.es5.js" timestamp="1518015369458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.scss" timestamp="1518795862666">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.scss" timestamp="1518796919031">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" timestamp="1518795451296">
         <mark key="[" line="1" column="148" />
@@ -401,13 +409,11 @@
       <jump line="40" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.modal.fade.in{
-  position: static;
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[style.position]=&quot;getPosition()&quot;</text>
+        <text>$break-large</text>
       </register>
       <register name="/" type="4">
         <text>destro</text>
@@ -415,10 +421,8 @@
       <register name="0" type="4">
         <text>setCustomClass</text>
       </register>
-      <register name="1" type="4">
-        <text>.modal.fade.in{
-  position: static;
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -426,29 +430,33 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBzdDsK</text>
+      <register name="3" type="4">
+        <text>@media screen and (min-width: 892px) {
+  float: right;
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>.modal.fade.in{
+  position: static;
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHR5cGUgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LnBhcmFtc1tTVEFUSVNUSUNfVFlQRV07Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBzdDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxhc3RGaWx0ZXJOYW1lID0gbmFtZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0eXBlID0gdGhpcy5hY3RpdmF0ZWRSb3V0ZS5zbmFwc2hvdC5wYXJhbXNbU1RBVElTVElDX1RZUEVdOwogICAgICAgIGNvbnN0IG5hbWUgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LnBhcmFtc1snc3RhdGlzdGljX25hbWUnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHR5cGUgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LnBhcmFtc1tTVEFUSVNUSUNfVFlQRV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmFkZEZpbHRlclRvRGFzaGJvYXJkQW5kU2hvdygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1378</text>
