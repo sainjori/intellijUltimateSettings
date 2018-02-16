@@ -84,8 +84,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1518776170316">
         <mark key="'" line="106" column="54" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518795412191">
-        <mark key="'" line="33" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518798438904">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="164" column="8" />
+        <mark key="]" line="164" column="31" />
+        <mark key="^" line="164" column="31" />
+        <mark key="." line="164" column="31" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/core-js/modules/_parse-int.js" timestamp="1517313168412">
         <mark key="[" line="0" column="0" />
@@ -247,8 +251,8 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rison-node/build/rison.js" timestamp="1518606888835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518794557031">
-        <mark key="'" line="106" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" timestamp="1518798391876">
+        <mark key="'" line="107" column="47" />
         <mark key="[" line="93" column="71" />
         <mark key="]" line="93" column="84" />
         <mark key="." line="93" column="87" />
@@ -278,17 +282,17 @@
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/core/@angular/core.es5.js" timestamp="1518015369458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.scss" timestamp="1518796919031">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.scss" timestamp="1518799946463">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="13" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" timestamp="1518795451296">
-        <mark key="[" line="1" column="148" />
-        <mark key="]" line="1" column="148" />
-        <mark key="^" line="1" column="178" />
-        <mark key="." line="1" column="148" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.html" timestamp="1518798452080">
+        <mark key="[" line="1" column="153" />
+        <mark key="]" line="1" column="163" />
+        <mark key="^" line="1" column="163" />
+        <mark key="." line="1" column="163" />
       </file>
       <file name="webpack://webpack/bootstrap d2a6a6266eda4685dea0" timestamp="1518014576492">
         <mark key="[" line="0" column="0" />
@@ -307,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="445" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="79" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
@@ -407,19 +410,20 @@
       <jump line="83" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
       <jump line="97" column="47" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
       <jump line="40" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" />
+      <jump line="42" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$break-large</text>
+        <text encoding="base64">ICFpbXBvcnRhbnQ=</text>
       </register>
       <register name="/" type="4">
         <text>destro</text>
       </register>
-      <register name="0" type="4">
-        <text>setCustomClass</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAubW9kYWwuZmFkZS5pbnsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -431,32 +435,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>@media screen and (min-width: 892px) {
-  float: right;
-}</text>
+        <text>position: absolute;
+    left: 0;</text>
       </register>
-      <register name="4" type="4">
-        <text>.modal.fade.in{
-  position: static;
-}</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>@media only screen and (min-width: 892px) and (max-width: 1023px) {
+      .modal.fade.in.my-class{
+        position: absolute;
+        left: 0;
+      }
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBzdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHR5cGUgPSB0aGlzLmFjdGl2YXRlZFJvdXRlLnNuYXBzaG90LnBhcmFtc1tTVEFUSVNUSUNfVFlQRV07Cg==</text>
+        <text encoding="base64">ICAgICAgZmxvYXQ6IHA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1378</text>
