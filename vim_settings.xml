@@ -77,6 +77,9 @@
       <file name="vm:360" timestamp="1518606921489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1518776170316">
+        <mark key="'" line="106" column="54" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" timestamp="1518211284437">
         <mark key="'" line="33" column="5" />
       </file>
@@ -105,9 +108,9 @@
         <mark key="." line="9" column="64" />
         <mark key="^" line="9" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/plm/KsbPlmConstants.java" timestamp="1518710839882">
-        <mark key="[" line="61" column="65" />
-        <mark key="]" line="61" column="134" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/plm/KsbPlmConstants.java" timestamp="1518776428961">
+        <mark key="[" line="55" column="69" />
+        <mark key="]" line="55" column="86" />
       </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/AsyncSubject.js" timestamp="1517858064638">
         <mark key="[" line="0" column="0" />
@@ -119,6 +122,7 @@
       <file name="/" timestamp="1517591184264">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/doc/ProcessDocGetWhereusedAllVersions.java" timestamp="1518774007498" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/File.java" timestamp="1518693451973" />
       <file name="http://localhost:4200/5.chunk.js" timestamp="1518606227472">
         <mark key="[" line="0" column="0" />
@@ -156,8 +160,8 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1518711653742">
-        <mark key="'" line="235" column="4" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1518776228444">
+        <mark key="'" line="155" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
@@ -170,11 +174,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" timestamp="1518711903019">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="38" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" timestamp="1518776436159">
+        <mark key="'" line="69" column="52" />
+        <mark key="[" line="69" column="48" />
+        <mark key="]" line="69" column="66" />
+        <mark key="." line="69" column="48" />
+        <mark key="^" line="68" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/RawStatObjectAPI.java" timestamp="1517416514407">
         <mark key="[" line="20" column="41" />
@@ -206,7 +211,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/sess/PlmSessionManager.java" timestamp="1518699077017" />
-      <file name="/Dummy.txt" timestamp="1518710068602">
+      <file name="/Dummy.txt" timestamp="1518712208906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -269,7 +274,7 @@
       <file name="webpack://webpack/bootstrap d2a6a6266eda4685dea0" timestamp="1518014576492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1518711620343">
+      <file name="/fragment.java" timestamp="1518776196607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1511811755798">
@@ -283,11 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="41" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
-      <jump line="55" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
-      <jump line="61" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
-      <jump line="67" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
       <jump line="89" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
       <jump line="92" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
       <jump line="90" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
@@ -383,61 +383,66 @@
       <jump line="171" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
       <jump line="121" column="53" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
       <jump line="235" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
+      <jump line="73" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
+      <jump line="496" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/PLMProcess.java" />
+      <jump line="106" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/PLMProcess.java" />
+      <jump line="155" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
+      <jump line="69" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>ksb.dta.dtype</text>
       </register>
       <register name="-" type="4">
-        <text>doc_stat</text>
+        <text>ksb.dta.dtype</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQ1JfYmVmb3JlRmlsbFRhYmxlXD4=</text>
+        <text>constant</text>
       </register>
       <register name="0" type="4">
-        <text>ksb.released.status</text>
+        <text>ksb.register.dtype</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGxtU3RhdHVzQ29udGFpbmVyIGRvY19zdGF0MiA9IFBsbVN0YXR1c1Rvb2wuZ2V0RG9jU3RhdHVzKGNoYW5nZVN0YXR1c0RvY3VtZW50LmdldERUeXBlSWQoKSwgY2hhbmdlU3RhdHVzRG9jdW1lbnQuZ2V0U3RhdHVzKCkpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldERhdGEoKS5hZGRPYmplY3QoUGxtUHJvY2Vzc0RvY3VtZW50U3RhdHVzQ2hhbmdlLk9VVF9ET0NVTUVOVFNfREFESSwgb3V0RG9jdW1lbnRzRGFkaSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dERvY3VtZW50c0RhZGkuYWRkKGNoYW5nZVN0YXR1c0RvY3VtZW50KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuZG9jLlByb2Nlc3NEb2NHZXRBbGxWZXJzaW9uc0Zhc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLmFkZEluZGVudFdpZHRoKDQpOwogICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgU3RyaW5nLmZvcm1hdCgiUHJlIFN0YXR1czoiKSk7CiAgICBmb3IgKFN0cmluZyBzIDogc3RhdHVzQ29udGFpbmVyLmdldFByZVN0YXR1cygpKQogICAge2trCiAgICAgIFRyYWNlCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dERvY3VtZW50c0RhZGkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dERvY3VtZW50c0RhZGkuYWRkKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhbmdlU3RhdHVzRG9jdW1lbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhQ29udGFpbmVyIGRhdGFDb250YWluZXIgPSBuZXcgRGF0YUNvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1378</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQ1JfYmVmb3JlRmlsbFRhYmxlXD4=</last-search>
+      <last-search>constant</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQ1JfYmVmb3JlRmlsbFRhYmxlXD4=</last-pattern>
+      <last-pattern>constant</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93QmFja2Ryb3BcPg==</entry>
         <entry>hideBack</entry>
         <entry encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</entry>
         <entry>ngon</entry>
@@ -465,6 +469,7 @@
         <entry encoding="base64">XDxkYXRhVGFibGVcPg==</entry>
         <entry>cons</entry>
         <entry encoding="base64">XDxEQ1JfYmVmb3JlRmlsbFRhYmxlXD4=</entry>
+        <entry>constant</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
