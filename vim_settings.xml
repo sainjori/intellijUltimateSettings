@@ -9,7 +9,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1518699664687">
         <mark key="'" line="226" column="3" />
       </file>
-      <file name="/fragment.js" timestamp="1518193200486">
+      <file name="/fragment.js" timestamp="1520950967782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,10 +117,6 @@
         <mark key="." line="9" column="64" />
         <mark key="^" line="9" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/plm/KsbPlmConstants.java" timestamp="1518778701237">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="86" />
-      </file>
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/rxjs/AsyncSubject.js" timestamp="1517858064638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,6 +174,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1518776228444">
         <mark key="'" line="155" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/Programme/elasticsearch-kopf/_site/kopf_external_settings.json" timestamp="1520951714704">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/ParsePLMXMLProcess.java" timestamp="1512589133983">
         <mark key="[" line="56" column="13" />
       </file>
@@ -204,7 +205,7 @@
       <file name="/fragment.ts" timestamp="1518091124763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1518803956602">
+      <file name="/JavaScript Console" timestamp="1520951328538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/info-dialog/info-dialog.component.html" timestamp="1517931552379">
@@ -225,7 +226,7 @@
       <file name="/dummy.sql" timestamp="1518783598487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518791555489">
+      <file name="/Dummy.txt" timestamp="1520950476419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -247,6 +248,7 @@
       <file name="/__dummy.css" timestamp="1518796403696">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/Programme/elasticsearch-kopf/_site/dist/kopf.js" timestamp="1520951168895" />
       <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/http/@angular/http.es5.js" timestamp="1517858079102">
         <mark key="[" line="0" column="0" />
       </file>
@@ -291,7 +293,7 @@
       <file name="webpack://webpack/bootstrap d2a6a6266eda4685dea0" timestamp="1518014576492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1518776196607">
+      <file name="/fragment.java" timestamp="1520950503016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1511811755798">
@@ -407,8 +409,8 @@
       <jump line="161" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZCAobWF4LXdpZHRoOiAxMjc1cHgpIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJsb2NhdGlvbiI6ICJodHRwOi8vbG9jYWxob3N0OjkyMDAiLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGFuZCAobWF4LXdpZHRoOiAxMjc1cHgpIA==</text>
@@ -420,25 +422,28 @@
         <text>dialog-analysis-class</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDEwJTsK</text>
+        <text encoding="base64">ICAgICJsb2NhdGlvbiI6ICJodHRwOi8vbG9jYWxob3N0OjkyMDAiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlZnQ6IDEwJTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>position: absolute;
     left: 0;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>@media only screen and (min-width: 892px) and (max-width: 1023px) {
       .modal.fade.in.my-class{
         position: absolute;
@@ -446,17 +451,14 @@
       }
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmxvYXQ6IHA7Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICBsZWZ0OiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1378</text>
