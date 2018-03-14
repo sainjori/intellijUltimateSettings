@@ -34,9 +34,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/utils/StatusChangeUtils.java" timestamp="1521023803839" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1521045595378" />
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/cfc/log/LogInfo.java" timestamp="1521023645623" />
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/dadi/eplan/ConvEplanCreateInputXml.java" timestamp="1521023692445" />
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/ext/FileWriter.java" timestamp="1521023733615" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/modules/stats/StatisticsImpl.java" timestamp="1521045083471" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/pom.xml" timestamp="1521022861826" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1521023334740" />
       <file name="webpack://(webpack)-dev-server/client" timestamp="1517859264563">
@@ -134,7 +136,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/utils/BusyTracker.java" timestamp="1521023789020" />
-      <file name="/Dummy.txt" timestamp="1521040631449">
+      <file name="/Dummy.txt" timestamp="1521044942030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,31 +156,22 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/dadi/initial.java" timestamp="1521023677990" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1521045372805">
+        <mark key="'" line="270" column="18" />
+      </file>
       <file name="webpack://webpack/bootstrap d2a6a6266eda4685dea0" timestamp="1518014576492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521040593763">
+      <file name="/fragment.java" timestamp="1521045597015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521042019992" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521045288904">
+        <mark key="'" line="114" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="30" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="12" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="101" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="34" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="37" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="46" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="454" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="15" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="277" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="35" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="22" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
-      <jump line="13" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" />
-      <jump line="124" column="22" filename="/app.routing.ts" />
       <jump line="81" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" />
       <jump line="36" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="117" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" />
@@ -265,6 +258,20 @@
       <jump line="318" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocCheckout.java" />
       <jump line="377" column="25" filename="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/sap/ConversionObserver.java" />
       <jump line="413" column="10" filename="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/sap/ConversionObserver.java" />
+      <jump line="1154" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1149" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="178" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
+      <jump line="177" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
+      <jump line="37" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
+      <jump line="50" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
+      <jump line="114" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
+      <jump line="115" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1191" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1197" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1199" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1201" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="141" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="270" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +281,7 @@
         <text encoding="base64">Q291bGQgbm90IHBhcnNlIEVDVFIgaW5pdGlhbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>destro</text>
+        <text encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</text>
       </register>
       <register name="0" type="4">
         <text>dialog-analysis-class</text>
@@ -323,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>destro</last-search>
+      <last-search encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</last-search>
       <last-offset />
-      <last-pattern>destro</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5rZWRSZXNvdXJjZU5hbWVcPg==</entry>
         <entry>ngon</entry>
         <entry encoding="base64">XDxwcmVmZXJlbmNlRW5kcG9pbnRBcGlcPg==</entry>
         <entry encoding="base64">XDxLaWJhbmFDb21wb25lbnRcPg==</entry>
@@ -353,6 +359,7 @@
         <entry encoding="base64">XDxEQ1JfYmVmb3JlRmlsbFRhYmxlXD4=</entry>
         <entry>constant</entry>
         <entry>destro</entry>
+        <entry encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
