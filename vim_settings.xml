@@ -223,7 +223,7 @@
       <file name="/__dummy.ts" timestamp="1518796403709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1518783598487">
+      <file name="/dummy.sql" timestamp="1520954045164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1520950476419">
@@ -264,10 +264,10 @@
         <mark key="." line="14" column="84" />
         <mark key="^" line="14" column="84" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1518783602941">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520961467169">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/pom.xml" timestamp="1518615684866">
         <mark key="[" line="19" column="17" />
@@ -409,11 +409,11 @@
       <jump line="161" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsb2NhdGlvbiI6ICJodHRwOi8vbG9jYWxob3N0OjkyMDAiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCAobWF4LXdpZHRoOiAxMjc1cHgpIA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>destro</text>
