@@ -146,7 +146,7 @@
       <file name="webpack://webpack/bootstrap d2a6a6266eda4685dea0" timestamp="1518014576492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521115822710">
+      <file name="/fragment.java" timestamp="1521130622260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -154,12 +154,12 @@
       <file name="/DummyFile.xpath" timestamp="1511811755798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521129952673">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521131232971">
         <mark key="'" line="110" column="44" />
-        <mark key="[" line="95" column="132" />
-        <mark key="]" line="95" column="132" />
-        <mark key="^" line="95" column="132" />
-        <mark key="." line="95" column="132" />
+        <mark key="[" line="95" column="100" />
+        <mark key="]" line="95" column="100" />
+        <mark key="^" line="95" column="100" />
+        <mark key="." line="95" column="100" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/stats/StatisticsService.java" timestamp="1521123076651" />
     </filemarks>
@@ -267,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>: Could not parse ECTR initial starttime.</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>: Could not parse ECTR initial starttime.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</text>
