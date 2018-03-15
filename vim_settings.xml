@@ -154,11 +154,12 @@
       <file name="/DummyFile.xpath" timestamp="1511811755798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521129260635">
-        <mark key="'" line="105" column="44" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521129952673">
+        <mark key="'" line="110" column="44" />
+        <mark key="[" line="95" column="132" />
+        <mark key="]" line="95" column="132" />
+        <mark key="^" line="95" column="132" />
+        <mark key="." line="95" column="132" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/stats/StatisticsService.java" timestamp="1521123076651" />
     </filemarks>
@@ -265,55 +266,47 @@
       <jump line="104" column="44" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICE9IG51bGw=</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ECTR_INITIAL_STARTTIME</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkFMV0FZUywgIkVudmlyb25tZW50IHZhcmlhYmxlICIgKyBFQ1RSX0lOSVRJQUxfU1RBUlRUSU1FICsgIm5vdCBzZXQuIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>catch (NullPointerException e)
-    {
-      Trace.println(Trace.ALWAYS, &quot;Could not parse ECTR initial starttime: &quot; + e.getMessage());
-      Trace.printlnStackTrace(Trace.ALWAYS, e);
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHNjcmlwdFN0YXJ0VGltZUVudlZhclZhbHVlID0gZ2V0U2NyaXB0U3RhcnRUaW1lRW52VmFyVmFsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>String scriptStartTimeEnvVarValue = getScriptStartTimeEnvVarValue();
-      if (scriptStartTimeEnvVarValue == null)
-      {
-        
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkFMV0FZUywgIkNvdWxkIG5vdCBwYXJzZSBFQ1RSIGluaXRpYWwgc3RhcnR0aW1lOiAiICsgZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJsb2NhdGlvbiI6ICJodHRwOi8vbG9jYWxob3N0OjkyMDAiLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDEwJTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
