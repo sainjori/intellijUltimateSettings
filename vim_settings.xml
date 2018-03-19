@@ -11,9 +11,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/sap/ConversionObserver.java" timestamp="1521038159469">
         <mark key="'" line="413" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/sap/man/SapConnection.java" timestamp="1521456971276">
-        <mark key="j" line="158" column="2" />
-      </file>
       <file name="C:/ENTWICKLUNG/Programme/elasticsearch-kopf/_site/kopf_external_settings.json" timestamp="1520951714704">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -27,7 +24,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm-api/5.1.9.2/plm-api-5.1.9.2-sources.jar!/com/dscsag/plm/spi/interfaces/landscape/connections/PlmBaseConnection.java" timestamp="1521467842667" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sap-r3/5.1.9.2/sap-r3-5.1.9.2-sources.jar!/plm/sap/r3/SapR3BackendService.java" timestamp="1521471788987" />
-      <file name="/Dummy.txt" timestamp="1521459764133">
+      <file name="/Dummy.txt" timestamp="1521480438604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -37,9 +34,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521479403572">
+        <mark key="'" line="94" column="26" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocCheckout.java" timestamp="1521024799027">
         <mark key="'" line="318" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SyncUtils.java" timestamp="1521478913163" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/logon/ProcessSapLogonWithGui.java" timestamp="1521461807266">
         <mark key="'" line="225" column="0" />
       </file>
@@ -48,6 +49,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/landscape-provider/target/landscape-provider.jar!/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnection.class" timestamp="1521467872020" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/landscape-provider/src/main/java/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnection.java" timestamp="1521468291012" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateAfter.java" timestamp="1521480447616" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520961467169">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -59,12 +61,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikChangeRecord.java" timestamp="1521453131836">
         <mark key="'" line="63" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1521454929916">
-        <mark key="[" line="101" column="61" />
-        <mark key="]" line="102" column="68" />
-        <mark key="^" line="102" column="68" />
-        <mark key="." line="102" column="68" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrDataExchangeObjFactory.java" timestamp="1521479340335" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessSessionUpdate.java" timestamp="1521191453209">
         <mark key="'" line="171" column="2" />
       </file>
@@ -83,7 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" />
       <jump line="28" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" />
       <jump line="77" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="79" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
@@ -183,6 +179,7 @@
       <jump line="71" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/logon/LandscapeProviderHelper.java" />
       <jump line="1375" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" />
       <jump line="1734" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" />
+      <jump line="94" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
