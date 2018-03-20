@@ -16,13 +16,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1521454823654">
-        <mark key="'" line="634" column="23" />
-        <mark key="[" line="671" column="70" />
-        <mark key="]" line="673" column="35" />
-        <mark key="^" line="673" column="35" />
-        <mark key="." line="673" column="35" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sap-r3/5.1.10.0/sap-r3-5.1.10.0-sources.jar!/plm/sap/r3/SapR3BackendService.java" timestamp="1521470944631" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.html" timestamp="1517609633512">
         <mark key="[" line="0" column="0" />
@@ -30,13 +23,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm-api/5.1.9.2/plm-api-5.1.9.2-sources.jar!/com/dscsag/plm/spi/interfaces/landscape/connections/PlmBaseConnection.java" timestamp="1521467842667" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikCharacteristic.java" timestamp="1521453533864">
-        <mark key="'" line="38" column="1" />
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="62" column="45" />
-        <mark key="^" line="62" column="45" />
-        <mark key="." line="62" column="45" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sap-r3/5.1.9.2/sap-r3-5.1.9.2-sources.jar!/plm/sap/r3/SapR3BackendService.java" timestamp="1521471788987" />
       <file name="/Dummy.txt" timestamp="1521480438604">
         <mark key="[" line="0" column="0" />
@@ -93,12 +79,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521542364773">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521543616360">
         <mark key="'" line="43" column="2" />
-        <mark key="[" line="181" column="90" />
-        <mark key="]" line="181" column="92" />
-        <mark key="^" line="181" column="92" />
-        <mark key="." line="181" column="92" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="89" column="47" />
+        <mark key="." line="106" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -205,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ECTR_INITIAL_STARTTIME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRTdGFydFRpbWVcPg==</text>
@@ -217,37 +203,41 @@
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBFQ1RSX0lOSVRJQUxfU1RBUlRUSU1FID0gIkVDVFJfSU5JVElBTF9TVEFSVFRJTUUiOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuQUxXQVlTLCBlKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNjcmlwdFN0YXJ0VGltZUVudlZhclZhbHVlIHx8ZGF0ZVRpbWVGb3JtYXR0ZXIgKQo=</text>
+      <register name="5" type="4">
+        <text>catch (DateTimeParseException e)
+    {
+      Trace.println(Trace.ALWAYS, &quot;Could not parse ECTR initial starttime: &quot; + e.getMessage());
+      Trace.printlnStackTrace(Trace.ALWAYS, e);
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
