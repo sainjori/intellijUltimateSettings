@@ -16,6 +16,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1521454823654">
+        <mark key="'" line="634" column="23" />
+        <mark key="[" line="671" column="70" />
+        <mark key="]" line="673" column="35" />
+        <mark key="^" line="673" column="35" />
+        <mark key="." line="673" column="35" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sap-r3/5.1.10.0/sap-r3-5.1.10.0-sources.jar!/plm/sap/r3/SapR3BackendService.java" timestamp="1521470944631" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.html" timestamp="1517609633512">
         <mark key="[" line="0" column="0" />
@@ -23,6 +30,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm-api/5.1.9.2/plm-api-5.1.9.2-sources.jar!/com/dscsag/plm/spi/interfaces/landscape/connections/PlmBaseConnection.java" timestamp="1521467842667" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikCharacteristic.java" timestamp="1521453533864">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="62" column="45" />
+        <mark key="^" line="62" column="45" />
+        <mark key="." line="62" column="45" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sap-r3/5.1.9.2/sap-r3-5.1.9.2-sources.jar!/plm/sap/r3/SapR3BackendService.java" timestamp="1521471788987" />
       <file name="/Dummy.txt" timestamp="1521480438604">
         <mark key="[" line="0" column="0" />
@@ -34,6 +48,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Objects.java" timestamp="1521541794747" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521479403572">
         <mark key="'" line="94" column="26" />
       </file>
@@ -78,9 +93,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521542364773">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="181" column="90" />
+        <mark key="]" line="181" column="92" />
+        <mark key="^" line="181" column="92" />
+        <mark key="." line="181" column="92" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" />
       <jump line="77" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="79" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
       <jump line="33" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
@@ -180,13 +201,14 @@
       <jump line="1375" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" />
       <jump line="1734" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" />
       <jump line="94" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
+      <jump line="43" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>ECTR_INITIAL_STARTTIME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRTdGFydFRpbWVcPg==</text>
@@ -195,37 +217,37 @@
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c2FwLXIzPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj41LjEuOS4yPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBFQ1RSX0lOSVRJQUxfU1RBUlRUSU1FID0gIkVDVFJfSU5JVElBTF9TVEFSVFRJTUUiOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5kc2NzYWc8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnNhcC1yMzwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+NS4xLjkuMjwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QmFja2VuZCBjaGVja2VyIGlzIG1hbmRhdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuQUxXQVlTLCBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHNjcmlwdFN0YXJ0VGltZUVudlZhclZhbHVlIHx8ZGF0ZVRpbWVGb3JtYXR0ZXIgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5BTFdBWVMsICJDb3VsZCBub3QgcGFyc2UgRUNUUiBpbml0aWFsIHN0YXJ0dGltZTogIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuQUxXQVlTLCBlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
