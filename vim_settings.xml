@@ -17,10 +17,14 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateDocumentBefore.java" timestamp="1521566268114">
         <mark key="'" line="80" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1521630831300">
+        <mark key="'" line="925" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/ExportChildrenDisplay.java" timestamp="1521561083633">
         <mark key="'" line="311" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrDataExchangeObjFactory.java" timestamp="1521479340335" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/doc/ProcessDocGetList3.java" timestamp="1521628240532" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/pom.xml" timestamp="1521472346651">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -29,6 +33,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1521631197533" />
       <file name="C:/ENTWICKLUNG/Programme/elasticsearch-kopf/_site/kopf_external_settings.json" timestamp="1520951714704">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -57,12 +62,12 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1521561093267" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521627722925">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521631379723">
         <mark key="'" line="94" column="26" />
-        <mark key="[" line="126" column="83" />
-        <mark key="]" line="127" column="50" />
-        <mark key="." line="127" column="50" />
-        <mark key="^" line="127" column="50" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="58" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" timestamp="1521559226694">
         <mark key="'" line="473" column="47" />
@@ -86,7 +91,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
         <mark key="'" line="2021" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1521626571778">
+      <file name="/fragment.java" timestamp="1521628556414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -101,22 +106,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.2/addons-5.1.9.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1521560428892" />
     </filemarks>
     <jumps>
-      <jump line="89" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="59" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
-      <jump line="83" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocMassUploadAdditional.java" />
-      <jump line="226" column="3" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
-      <jump line="280" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/omf/OmfDocStatusChange.java" />
-      <jump line="109" column="69" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
-      <jump line="200" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/plm/PlmStatusContainer.java" />
-      <jump line="171" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="121" column="53" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
-      <jump line="235" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
-      <jump line="73" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
-      <jump line="496" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/PLMProcess.java" />
-      <jump line="106" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/PLMProcess.java" />
-      <jump line="155" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" />
-      <jump line="69" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
-      <jump line="64" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
       <jump line="37" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
       <jump line="97" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
       <jump line="111" column="118" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/dadi/DocStatusChangeBeforeFillTable.java" />
@@ -201,61 +190,77 @@
       <jump line="80" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateDocumentBefore.java" />
       <jump line="414" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" />
       <jump line="525" column="3" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" />
+      <jump line="955" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="956" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="961" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="969" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="970" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="972" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="80" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="872" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="880" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="890" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="891" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="903" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="904" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="922" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="923" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
+      <jump line="925" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgdUxldmVscyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;plm.import.create.document.before&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getcustomer</text>
+        <text encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJmZWYiLCAiZmVmZWYiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgdUxldmVscyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgIEd4S2V5VmFsdWUgZ3hLZXlWYWx1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8R3hLZXlWYWx1ZT4gdUxldmVscyA9IFN5bmNVdGlscy5nZXRVTGV2ZWxMaXN0KCk7CiAgICB1TGV2ZWxzLmFkZChuZXcgR3hLZXlWYWx1ZSgiZmVmIiwgImZlZmVmIiwgImZlZmVmIikpOwogICAgdUxldmVscy5hZGQobmV3IEd4S2V5VmFsdWUoImFhYSIsICJjY2NjY2MiLCAiYWZhZWZlZiIpKTsKICAgIGlmIChoYXNJdGVtcyh1TGV2ZWxzKSkKICAgIHsKICAgICAgR3hLZXlWYWx1ZSBkZWZhdWx0VUxldmVsID0gU3luY1V0aWxzLmdldERlZmF1bHRVTGV2ZWwodUxldmVscyk7CiAgICAgIE9iclByb3BlcnR5IHBycCA9IGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eShTYW5kdmlrU2VhcmNoQ29uc3RhbnRzLlBSUF9VTEVWRUwsIERpYy5nZXQoInNhbmR2aWsubGFiZWwuZG9jdW1lbnQudWxldmVsIiwKICAgICAgICAgICJMZXZlbCBvZiBVc2FiaWxpdHkiKSwgZGVmYXVsdFVMZXZlbCwgdHJ1ZSwgdHJ1ZSwgdUxldmVscykpOwogICAgICBwcnAuc2V0V2lkdGgoOCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IGN1c3RfcHJvcF91bGV2ZWwgPSBnZXRQbG1Eb2N1bWVudCgpLmdldEN1c3RvbVZhbHVlKCJDVVNUX1BST1BfVUxFVkVMIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCA9IGdldFBsbURvY3VtZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8R3hLZXlWYWx1ZT4gdUxldmVscyA9IFN5bmNVdGlscy5nZXRVTGV2ZWxMaXN0KCk7CiAgICB1TGV2ZWxzLmFkZChuZXcgR3hLZXlWYWx1ZSgiZmVmIiwgImZlZmVmIiwgImZlZmVmIikpOwogICAgdUxldmVscy5hZGQobmV3IEd4S2V5VmFsdWUoImFhYSIsICJjY2NjY2MiLCAiYWZhZWZlZiIpKTsKICAgIGlmIChoYXNJdGVtcyh1TGV2ZWxzKSkKICAgIHsKICAgICAgR3hLZXlWYWx1ZSBkZWZhdWx0VUxldmVsID0gU3luY1V0aWxzLmdldERlZmF1bHRVTGV2ZWwodUxldmVscyk7CiAgICAgIE9iclByb3BlcnR5IHBycCA9IGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eShTYW5kdmlrU2VhcmNoQ29uc3RhbnRzLlBSUF9VTEVWRUwsIERpYy5nZXQoInNhbmR2aWsubGFiZWwuZG9jdW1lbnQudWxldmVsIiwKICAgICAgICAgICJMZXZlbCBvZiBVc2FiaWxpdHkiKSwgZGVmYXVsdFVMZXZlbCwgdHJ1ZSwgdHJ1ZSwgdUxldmVscykpOwogICAgICBwcnAuc2V0V2lkdGgoOCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0IGN1c3RfcHJvcF91bGV2ZWwgPSBnZXRQbG1Eb2N1bWVudCgpLmdldEN1c3RvbVZhbHVlKCJDVVNUX1BST1BfVUxFVkVMIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCA9IGdldFBsbURvY3VtZW50KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
       </register>
     </registers>
     <search>
-      <last-search>getcustomer</last-search>
+      <last-search encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>getcustomer</last-pattern>
+      <last-pattern encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -263,7 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdGltZURyb3Bkb3duXD4=</entry>
         <entry>subscribe</entry>
         <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
@@ -283,6 +287,7 @@
         <entry encoding="base64">XDxidG5BblN0cnVjdFw+</entry>
         <entry encoding="base64">XDxpbXBPYmpNYXBcPg==</entry>
         <entry>getcustomer</entry>
+        <entry encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
