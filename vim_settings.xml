@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521647590737">
-        <mark key="'" line="177" column="2" />
-        <mark key="[" line="99" column="57" />
-        <mark key="]" line="101" column="59" />
-        <mark key="." line="101" column="59" />
-        <mark key="^" line="101" column="59" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521651373222">
+        <mark key="'" line="175" column="2" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="110" column="106" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/LogonMain.java" timestamp="1521650569995" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" timestamp="1521559226694">
@@ -22,6 +22,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/PlmMultiDetailProcessFast.java" timestamp="1521648199576">
         <mark key="'" line="177" column="29" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/utils/CustomerDataHelper.java" timestamp="1521650716913">
+        <mark key="'" line="90" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1521647053528">
         <mark key="'" line="925" column="10" />
@@ -41,12 +44,17 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
         <mark key="'" line="2021" column="40" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PlmMultiDetailProcessFast.java" timestamp="1521650941046">
+        <mark key="[" line="234" column="46" />
+        <mark key="]" line="234" column="46" />
+        <mark key="^" line="234" column="46" />
+        <mark key="." line="234" column="46" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="47" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
       <jump line="40" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" />
       <jump line="42" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
       <jump line="86" column="44" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/dashboard-filtered/dashboard-filtered.component.ts" />
@@ -146,13 +154,14 @@
       <jump line="925" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="175" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="177" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/PlmMultiDetailProcessFast.java" />
+      <jump line="90" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/utils/CustomerDataHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5Db250YWluZXJUb29sLmZpcnN0Tm9uTnVsbDsK</text>
+        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJhYWEiLCAiY2NjY2NjIiwgImFmYWVmZWYiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ULEVELS</text>
+        <text>equals</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXN0b21lckRhdGFIZWxwZXJcPg==</text>
@@ -161,37 +170,37 @@
         <text encoding="base64">ICAgICAgICAvL1RyYWNlLnByaW50bG5TdGFja1RyYWNlKDQsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5Db250YWluZXJUb29sLmZpcnN0Tm9uTnVsbDsK</text>
+        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJhYWEiLCAiY2NjY2NjIiwgImFmYWVmZWYiKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKCJCWUEiLCBUcmFjZS5ERUJVRywgIltJbmZvIHZhbHVlOiB1TGV2ZWxQbG1Eb2N1bWVudF0gIiArIHVMZXZlbFBsbURvY3VtZW50KTsK</text>
+        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJmZWYiLCAiZmVmZWYiLCAiZmVmZWYiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtLmdldFRhYmxlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHVMZXZlbFBsbURvY3VtZW50ID0gKFN0cmluZykgcGxtRG9jLmdldEN1c3RvbVZhbHVlKENVU1RfUFJPUF9VTEVWRUwpOwogICAgICBUcmFjZS5wcmludGxuKCJCWUEiLCBUcmFjZS5ERUJVRywgIltJbmZvIHZhbHVlOiB1TGV2ZWxQbG1Eb2N1bWVudF0gIiArIHVMZXZlbFBsbURvY3VtZW50KTsKICAgICAgaWYgKHVMZXZlbFBsbURvY3VtZW50ICE9IG51bGwpCiAgICAgIHsKICAgICAgICBPcHRpb25hbDxHeEtleVZhbHVlPiB1TGV2ZWwgPSB1TGV2ZWxzLnN0cmVhbSgpLmZpbHRlcihneEtleSAtPiBneEtleS5nZXRWYWx1ZSgpLmVxdWFscyh1TGV2ZWxQbG1Eb2N1bWVudCkpLmZpbmRBbnkoKTsKICAgICAgICBpZiAodUxldmVsLmlzUHJlc2VudCgpKQogICAgICAgIHsKICAgICAgICAgIFRyYWNlLnByaW50bG4oIkJZQSIsIFRyYWNlLkRFQlVHLCAiW0luZm86IG5ldyBWYWx1ZV0iICsgdUxldmVsLmdldCgpKTsKICAgICAgICAgIGRlZmF1bHRVTGV2ZWwgPSB1TGV2ZWwuZ2V0KCk7CiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5Db250YWluZXJUb29sLmZpcnN0Tm9uTnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBsbURvYyAmIGZsZ0luU2FwKQo=</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKCJCWUEiLCBUcmFjZS5ERUJVRywgIltJbmZvIHZhbHVlOiB1TGV2ZWxQbG1Eb2N1bWVudF0gIiArIHVMZXZlbFBsbURvY3VtZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICB7CiAgICAgICAgLy9UcmFjZS5wcmludGxuU3RhY2tUcmFjZSg0LCBlKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHVMZXZlbFBsbURvY3VtZW50ID0gKFN0cmluZykgcGxtRG9jLmdldEN1c3RvbVZhbHVlKENVU1RfUFJPUF9VTEVWRUwpOwogICAgICBUcmFjZS5wcmludGxuKCJCWUEiLCBUcmFjZS5ERUJVRywgIltJbmZvIHZhbHVlOiB1TGV2ZWxQbG1Eb2N1bWVudF0gIiArIHVMZXZlbFBsbURvY3VtZW50KTsKICAgICAgaWYgKHVMZXZlbFBsbURvY3VtZW50ICE9IG51bGwpCiAgICAgIHsKICAgICAgICBPcHRpb25hbDxHeEtleVZhbHVlPiB1TGV2ZWwgPSB1TGV2ZWxzLnN0cmVhbSgpLmZpbHRlcihneEtleSAtPiBneEtleS5nZXRWYWx1ZSgpLmVxdWFscyh1TGV2ZWxQbG1Eb2N1bWVudCkpLmZpbmRBbnkoKTsKICAgICAgICBpZiAodUxldmVsLmlzUHJlc2VudCgpKQogICAgICAgIHsKICAgICAgICAgIFRyYWNlLnByaW50bG4oIkJZQSIsIFRyYWNlLkRFQlVHLCAiW0luZm86IG5ldyBWYWx1ZV0iICsgdUxldmVsLmdldCgpKTsKICAgICAgICAgIGRlZmF1bHRVTGV2ZWwgPSB1TGV2ZWwuZ2V0KCk7CiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHBsbURvYyAmIGZsZ0luU2FwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
