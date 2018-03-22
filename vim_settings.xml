@@ -18,6 +18,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
         <mark key="'" line="72" column="20" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/.gitignore" timestamp="1521743374947">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1521711569067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +40,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateDocumentBefore.java" timestamp="1521566268114">
         <mark key="'" line="80" column="53" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1521742882807">
+        <mark key="'" line="233" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" timestamp="1521566417780">
         <mark key="'" line="525" column="3" />
@@ -73,18 +81,19 @@
         <mark key="'" line="2021" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/omf/OmfCreateUrl.java" timestamp="1521719657274" />
-      <file name="/fragment.java" timestamp="1521716492103">
+      <file name="/fragment.java" timestamp="1521742700592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1521718332826" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" timestamp="1521743047722">
+        <mark key="'" line="104" column="25" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521742724802" />
     </filemarks>
     <jumps>
-      <jump line="37" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
-      <jump line="50" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
-      <jump line="114" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
       <jump line="115" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
       <jump line="172" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
       <jump line="44" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
@@ -182,10 +191,13 @@
       <jump line="970" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
       <jump line="972" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
       <jump line="72" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" />
+      <jump line="233" column="40" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="119" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" />
+      <jump line="104" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PREPEND_URL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IS9lY3RyX3N0YXRzdXBsb2FkZXJfNS4xLjYuMC8K</text>
       </register>
       <register name="-" type="4">
         <text>PREPEND_URL</text>
@@ -197,37 +209,37 @@
         <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc191cmwuCg==</text>
+        <text encoding="base64">IS9lY3RyX3N0YXRzdXBsb2FkZXJfNS4xLjYuMC8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwaWQ+PC9ncm91cGlkPgo=</text>
+        <text encoding="base64">IS9zdGF0dXBsb2FkZXItYmFzZS8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbiggVHJhY2UuREVCVUcsICJMZXZlbCBvZiB1c2FiaWxpdHkgZmllbGQgY3VzdG9tZXIgZGF0YSBzZXQgdmFsdWUgZnJvbSBTQVAgWyIgKyB1TGV2ZWwuZ2V0KCkgKyAiXSIpOwo=</text>
+        <text encoding="base64">ICAgICAgc191cmwuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiW0xldmVsIG9mIFVzYWJpbGl0eSBmcm9tIFBsbURvY3VtZW50ICIgK3BsbURvYy5nZXRDdXN0b21WYWx1ZShDVVNUX1BST1BfVUxFVkVMKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwaWQ+PC9ncm91cGlkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50TGlzdChUcmFjZS5ERUJVRywgIltJbmZvOiBMaXN0IG9mIFVMRVZFTCBvcHRpb25zXSAiLCAgdUxldmVscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbiggVHJhY2UuREVCVUcsICJMZXZlbCBvZiB1c2FiaWxpdHkgZmllbGQgY3VzdG9tZXIgZGF0YSBzZXQgdmFsdWUgZnJvbSBTQVAgWyIgKyB1TGV2ZWwuZ2V0KCkgKyAiXSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJhYWEiLCAiY2NjY2NjIiwgImFmYWVmZWYiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiW0xldmVsIG9mIFVzYWJpbGl0eSBmcm9tIFBsbURvY3VtZW50ICIgK3BsbURvYy5nZXRDdXN0b21WYWx1ZShDVVNUX1BST1BfVUxFVkVMKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJmZWYiLCAiZmVmZWYiLCAiZmVmZWYiKSk7Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50TGlzdChUcmFjZS5ERUJVRywgIltJbmZvOiBMaXN0IG9mIFVMRVZFTCBvcHRpb25zXSAiLCAgdUxldmVscyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtLmdldFRhYmxlKCkK</text>
+        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJhYWEiLCAiY2NjY2NjIiwgImFmYWVmZWYiKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5Db250YWluZXJUb29sLmZpcnN0Tm9uTnVsbDsK</text>
+        <text encoding="base64">ICAgIHVMZXZlbHMuYWRkKG5ldyBHeEtleVZhbHVlKCJmZWYiLCAiZmVmZWYiLCAiZmVmZWYiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
