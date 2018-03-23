@@ -91,15 +91,14 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521800841778">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="27" />
-        <mark key="^" line="71" column="27" />
-        <mark key="." line="71" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521802287248">
+        <mark key="'" line="66" column="58" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
       <jump line="172" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
       <jump line="44" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
       <jump line="596" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
@@ -199,49 +198,50 @@
       <jump line="233" column="40" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
       <jump line="119" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" />
       <jump line="104" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" />
+      <jump line="66" column="58" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getJavaStartTime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getJavaStartTime</text>
+        <text>PLM_ADD_DIR_CUT_EXTENSIONS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnR1cFRpbWVzLnB1dCgiU0NSSVBUX1RJTUUiLCBDaHJvbm9Vbml0Lk5BTk9TLmJldHdlZW4oZ2V0U2NyaXB0U3RhcnRUaW1lKCksIGdldEphdmFTdGFydFRpbWUoKSkpOwo=</text>
+      <register name="0" type="4">
+        <text>ChronoUnit.NANOS.between(getAfterLogonTime(), getBeforeObjectManagerVisible())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyZWFtLm9mKCJTIikK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBzdGFydHVwVGltZXMucHV0KCJTQ1JJUFRfVElNRSIsIENocm9ub1VuaXQuTkFOT1MuYmV0d2VlbihnZXRTY3JpcHRTdGFydFRpbWUoKSwgZ2V0SmF2YVN0YXJ0VGltZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgZm9yICgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">Ly8gICAgICBzdGFydHVwVGltZXMucHV0KCJQT1NUX0xPR09OX1RJTUUiLCBDaHJvbm9Vbml0Lk5BTk9TLmJldHdlZW4oZ2V0QWZ0ZXJMb2dvblRpbWUoKSwgZ2V0QmVmb3JlT2JqZWN0TWFuYWdlclZpc2libGUoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJpRnVuY3Rpb24gY2FuQ2FsY3VsYXRlU2NyaXB0VGltZSA9ICgpCg==</text>
+        <text encoding="base64">Ly8gICAgICBzdGFydHVwVGltZXMucHV0KCJQUkVfTE9HT05fVElNRSIsIENocm9ub1VuaXQuTkFOT1MuYmV0d2VlbihnZXRKYXZhU3RhcnRUaW1lKCksIGdldEJlZm9yZUxvZ29uVGltZSgpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICBzdGFydHVwVGltZXMucHV0KCJTQ1JJUFRfVElNRSIsIENocm9ub1VuaXQuTkFOT1MuYmV0d2VlbihnZXRTY3JpcHRTdGFydFRpbWUoKSwgZ2V0SmF2YVN0YXJ0VGltZSgpKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnR1cFRpbWVzLmNvCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHsK</text>
