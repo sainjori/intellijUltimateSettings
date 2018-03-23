@@ -91,7 +91,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521800081496" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521800841778">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="71" column="27" />
+        <mark key="^" line="71" column="27" />
+        <mark key="." line="71" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="115" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
@@ -196,17 +201,17 @@
       <jump line="104" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyZWFtLm9mKCJTIikK</text>
+      <register name="&quot;" type="4">
+        <text>getJavaStartTime</text>
       </register>
       <register name="-" type="4">
-        <text>apply</text>
+        <text>getJavaStartTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ChronoUnit.NANOS.between(getScriptStartTime(), getJavaStartTime())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc3RhcnR1cFRpbWVzLnB1dCgiU0NSSVBUX1RJTUUiLCBDaHJvbm9Vbml0Lk5BTk9TLmJldHdlZW4oZ2V0U2NyaXB0U3RhcnRUaW1lKCksIGdldEphdmFTdGFydFRpbWUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgU3RyZWFtLm9mKCJTIikK</text>
