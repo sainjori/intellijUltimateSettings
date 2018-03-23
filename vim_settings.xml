@@ -91,12 +91,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521798560925">
-        <mark key="[" line="188" column="33" />
-        <mark key="]" line="188" column="33" />
-        <mark key="." line="188" column="33" />
-        <mark key="^" line="188" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1521800081496" />
     </filemarks>
     <jumps>
       <jump line="115" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" />
@@ -201,50 +196,50 @@
       <jump line="104" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU3RyZWFtLm9mKCJTIikK</text>
       </register>
       <register name="-" type="4">
-        <text>String value</text>
+        <text>apply</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnR1cFRpbWVzLmNvbXB1dGUoIlNDUklQVF9USU1FIiwgKGUpIC0+IDNMKTsK</text>
+      <register name="0" type="4">
+        <text>ChronoUnit.NANOS.between(getScriptStartTime(), getJavaStartTime())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExvbmcgY29tcHV0ZVNjcmlwdFRpbWUoU3RyaW5nIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgU3RyZWFtLm9mKCJTIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgewo=</text>
+        <text encoding="base64">Ly8gICAgICBzdGFydHVwVGltZXMucHV0KCJTQ1JJUFRfVElNRSIsIENocm9ub1VuaXQuTkFOT1MuYmV0d2VlbihnZXRTY3JpcHRTdGFydFRpbWUoKSwgZ2V0SmF2YVN0YXJ0VGltZSgpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKGFsbFRpbWVzdGFtcHNTZXQoKSkK</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICBzdGFydHVwVGltZXMuY29tcHV0ZSgiU0NSSVBUX1RJTUUiLCAoZSwgZ2V0SmF2YVN0YXJ0VGltZSgpKSAtPiAzTCk7Ci8vICAgICAgc3RhcnR1cFRpbWVzLmNvbXB1dGVJZlByZXNlbnQoIlNDUklQVF9USU1FIiwgKGUpIC0+IDNMKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDaHJvbm9Vbml0Lk5BTk9TLmJldHdlZW4oZ2V0U2NyaXB0U3RhcnRUaW1lKCksIGdldEphdmFTdGFydFRpbWUoKSkK</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IS9lY3RyX3N0YXRzdXBsb2FkZXJfNS4xLjYuMC8K</text>
+        <text encoding="base64">ICAgIEJpRnVuY3Rpb24gY2FuQ2FsY3VsYXRlU2NyaXB0VGltZSA9ICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IS9zdGF0dXBsb2FkZXItYmFzZS8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc191cmwuCg==</text>
+        <text encoding="base64">ICAgICAgc3RhcnR1cFRpbWVzLmNvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwaWQ+PC9ncm91cGlkPgo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
