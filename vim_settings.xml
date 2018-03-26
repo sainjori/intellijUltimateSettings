@@ -80,6 +80,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
         <mark key="'" line="2021" column="40" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522068098846">
+        <mark key="[" line="596" column="32" />
+        <mark key="]" line="596" column="32" />
+        <mark key="." line="596" column="32" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/Format.java" timestamp="1522055004920" />
       <file name="/fragment.java" timestamp="1522067175190">
         <mark key="[" line="0" column="0" />
@@ -202,11 +207,11 @@
       <jump line="549" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQRVJTT05BTF9OT1w+</text>
