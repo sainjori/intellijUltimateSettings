@@ -16,10 +16,10 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522251119957">
         <mark key="'" line="235" column="38" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
         <mark key="^" line="243" column="57" />
-        <mark key="." line="244" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
         <mark key="'" line="72" column="20" />
@@ -57,25 +57,15 @@
         <mark key="'" line="989" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivityConfirmation.java" timestamp="1522067242839" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1522244301403">
-        <mark key="[" line="76" column="5" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormatSymbols.java" timestamp="1522234779784">
         <mark key="'" line="218" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1522056659105" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SandvikProcessF4SyncDataHelp.java" timestamp="1521559885726">
         <mark key="'" line="180" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsNetworkConfirmationAdd.java" timestamp="1522084034047" />
       <file name="/OmfPsConfirmation.java" timestamp="1522244295817" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" timestamp="1522251505193">
-        <mark key="'" line="129" column="12" />
-        <mark key="[" line="79" column="19" />
-        <mark key="]" line="80" column="19" />
-        <mark key="." line="80" column="19" />
-        <mark key="^" line="80" column="19" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" timestamp="1522251505193" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/test/src/plm/sess/ECTRStartupTimeStatisticsTest.java" timestamp="1522229033923">
         <mark key="'" line="71" column="56" />
         <mark key="[" line="74" column="0" />
@@ -90,8 +80,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PsNetActConfirmationAdd.java" timestamp="1521818067032">
         <mark key="'" line="59" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522249199201">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1522254185375">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521711009044">
         <mark key="'" line="175" column="2" />
@@ -124,7 +116,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" timestamp="1521743047722">
         <mark key="'" line="104" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1522234373540" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1522068783895" />
     </filemarks>
     <jumps>
@@ -230,8 +221,8 @@
       <jump line="128" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgT2JyUHJvcGVydHlVdGlscy5pbml0aWFsaXplTnVtYmVyV2l0aG91dENvbW1hUHJvcGVydHkocHJwKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IGI4MDY1MjMp</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -242,38 +233,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50LmZvcm1hdChvYmosIHRvQXBwZW5kVG8sIHBvcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgT2JyUHJvcGVydHlVdGlscy5pbml0aWFsaXplTnVtYmVyV2l0aG91dENvbW1hUHJvcGVydHkocHJwKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IGI4MDY1MjMp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBsaW1pdCA9IDc1MDA7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IGZlNDI2YzIp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IDAzNTJjZWYp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Ly8gICAgT2JyUHJvcGVydHlVdGlscy5pbml0aWFsaXplTnVtYmVyV2l0aG91dENvbW1hUHJvcGVydHkocHJwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFyZW50IGluc3RhbmNlb2YgRGVjaW1hbEZvcm1hdCkK</text>
+        <text encoding="base64">ICAgIGludCBsaW1pdCA9IDc1MDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTnVtYmVyVXRpbHMuCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFyZW50IGluc3RhbmNlb2YgRGVjaW1hbEZvcm1hdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9iago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>758</text>
