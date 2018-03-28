@@ -22,11 +22,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1522056659105" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1521817970480" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522240560822">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522243553489">
         <mark key="'" line="117" column="33" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="134" column="3" />
+        <mark key="." line="134" column="3" />
+        <mark key="^" line="134" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SandvikProcessF4SyncDataHelp.java" timestamp="1521559885726">
         <mark key="'" line="180" column="34" />
@@ -109,11 +110,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
         <mark key="'" line="2021" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522241661882">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522243140864">
         <mark key="'" line="683" column="17" />
-        <mark key="[" line="1057" column="0" />
-        <mark key="]" line="1057" column="0" />
-        <mark key="." line="1057" column="0" />
+        <mark key="[" line="1056" column="0" />
+        <mark key="]" line="1056" column="0" />
+        <mark key="." line="1056" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/Format.java" timestamp="1522055004920" />
       <file name="/fragment.java" timestamp="1522240375701">
@@ -233,7 +234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEd4TWVhc3VyZVVuaXRGaWVsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -242,31 +243,31 @@
         <text encoding="base64">XDxtTnVtZXJpY0Zvcm1hdHRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGd4RmxkID0gbmV3IEd4TnVtZXJpY0ZpZWxkKG5rcywgdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlTGluZUJvcmRlcihDb2xvci5SRUQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEd4TWVhc3VyZVVuaXRGaWVsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlTGluZUJvcmRlcihDb2xvci5SRUQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlRW1wdHlCb3JkZXIoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIEd4TWVhc3VyZVVuaXRGaWVsZChpbnQgbmtzLCBTdHJpbmcgZGVmVW5pdEtleSwgTGlzdDxHeEtleVZhbHVlPiBjVW5pdExpc3QpCiAgewogICAgdGhpcyhua3MsICIiLCBkZWZVbml0S2V5LCBjVW5pdExpc3QpOwoKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyeQogICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCkpOwogICAgZ3hGbGQgPSBuZXcgR3hOdW1lcmljRmllbGQobmtzLCB2YWx1ZSk7CgogICAgYWRkKGd4RmxkKTsKCiAgICBHeEtleVZhbHVlIGRlZkt2ID0gbnVsbDsKICAgIGZvciAoR3hLZXlWYWx1ZSBrdiA6IGNVbml0TGlzdCkKICAgIHsKICAgICAgaWYgKGt2LmdldEtleSgpLmVxdWFscyhkZWZVbml0S2V5KSkKICAgICAgewogICAgICAgIGRlZkt2ID0ga3Y7CiAgICAgICAgYnJlYWs7CiAgICAgIH0KICAgIH0KCiAgICBpZiAoZGVmS3YgPT0gbnVsbCkKICAgICAgZGVmS3YgPSBjVW5pdExpc3QuZ2V0KDApOwoKICAgIGd4Q21iID0gbmV3IEd4Q29tYm9Cb3g8R3hLZXlWYWx1ZT4oY1VuaXRMaXN0LnRvQXJyYXkobmV3IEd4S2V5VmFsdWVbY1VuaXRMaXN0LnNpemUoKV0pKTsKICAgIGd4Q21iLnNldFNlbGVjdGVkSXRlbShkZWZLdik7CiAgICBhZGQoZ3hDbWIsIEJvcmRlckxheW91dC5FQVNUKTsK</text>
+        <text encoding="base64">ICAgIGlmIChvID09IG51bGwpewogICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG8gIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgRG91YmxlLnZhbHVlT2YobnVsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWx1ZSAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgbmV3IEd4TWVhc3VyZVVuaXRGaWVsZCgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -275,7 +276,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>758</text>
