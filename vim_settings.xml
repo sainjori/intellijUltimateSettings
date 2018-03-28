@@ -16,16 +16,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522251449909">
         <mark key="'" line="117" column="33" />
         <mark key="[" line="133" column="20" />
-        <mark key="]" line="134" column="3" />
-        <mark key="." line="134" column="3" />
-        <mark key="^" line="134" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522251119957">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522261281490">
         <mark key="'" line="235" column="38" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="^" line="243" column="57" />
-        <mark key="." line="243" column="0" />
+        <mark key="[" line="243" column="54" />
+        <mark key="]" line="243" column="70" />
+        <mark key="." line="243" column="70" />
+        <mark key="^" line="243" column="70" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
         <mark key="'" line="72" column="20" />
@@ -65,6 +62,7 @@
         <mark key="." line="81" column="28" />
         <mark key="^" line="81" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxAttributeTextField.java" timestamp="1522261244805" />
       <file name="/GxNumericField.java" timestamp="1522244185622" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" timestamp="1522232889493" />
       <file name="/BrConfirmation.java" timestamp="1522247959802" />
@@ -83,7 +81,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsNetworkConfirmationAdd.java" timestamp="1522084034047" />
       <file name="/OmfPsConfirmation.java" timestamp="1522244295817" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" timestamp="1522251505193" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/test/src/plm/sess/ECTRStartupTimeStatisticsTest.java" timestamp="1522229033923">
         <mark key="'" line="71" column="56" />
         <mark key="[" line="74" column="0" />
@@ -98,8 +95,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PsNetActConfirmationAdd.java" timestamp="1521818067032">
         <mark key="'" line="59" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522258903343">
-        <mark key="[" line="0" column="30" />
+      <file name="/Dummy.txt" timestamp="1522261015135">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
@@ -130,11 +127,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
         <mark key="'" line="2021" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522250075771">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522261965370">
         <mark key="'" line="683" column="17" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/Format.java" timestamp="1522055004920" />
-      <file name="/fragment.java" timestamp="1522248749292">
+      <file name="/fragment.java" timestamp="1522261763421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" timestamp="1521743047722">
@@ -252,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCBjNDQ0ODFkKQ==</text>
+        <text>2000000000</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>2000000000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtTnVtZXJpY0Zvcm1hdHRlclw+</text>
