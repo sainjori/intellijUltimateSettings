@@ -6,24 +6,28 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" timestamp="1521818028507">
         <mark key="'" line="163" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.0/base-5.1.12.0.jar!/cadagent/gui/obr/ObrFunctionEventQueue.class" timestamp="1522344028513" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/pom.xml" timestamp="1521715847861">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522324321209">
-        <mark key="'" line="235" column="38" />
-        <mark key="^" line="239" column="133" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
+        <mark key="'" line="353" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
         <mark key="'" line="72" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/proc/fld/ProcessFolderRename.java" timestamp="1522350153248" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" timestamp="1522334768411" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxMeasureUnitField.java" timestamp="1522241503475">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfFldCreateShared.java" timestamp="1522350520669">
+        <mark key="'" line="262" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/.git/info/exclude" timestamp="1521715463559">
         <mark key="[" line="5" column="4" />
@@ -50,6 +54,7 @@
         <mark key="'" line="925" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1522333572134" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1522341963935" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/ExportChildrenDisplay.java" timestamp="1521561083633">
         <mark key="'" line="311" column="60" />
       </file>
@@ -60,6 +65,7 @@
         <mark key="^" line="81" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1522334354427" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1522348828637" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" timestamp="1522320641481" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
@@ -79,9 +85,14 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1522340123329">
         <mark key="'" line="643" column="46" />
       </file>
-      <file name="/__dummy.xml" timestamp="1522338960040">
+      <file name="/__dummy.xml" timestamp="1522350278715">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfFldPartPoolCreate.java" timestamp="1522350527353">
+        <mark key="'" line="417" column="29" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCloneFolderInheritTraits.java" timestamp="1522350773392" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1522341563046" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/pom.xml" timestamp="1522339669356">
         <mark key="[" line="24" column="18" />
         <mark key="]" line="25" column="31" />
@@ -92,12 +103,6 @@
         <mark key="'" line="180" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsNetworkConfirmationAdd.java" timestamp="1522324176660" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" timestamp="1522324511136">
-        <mark key="[" line="193" column="47" />
-        <mark key="]" line="193" column="50" />
-        <mark key="." line="193" column="50" />
-        <mark key="^" line="193" column="50" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/test/src/plm/sess/ECTRStartupTimeStatisticsTest.java" timestamp="1522229033923">
         <mark key="'" line="71" column="56" />
         <mark key="[" line="74" column="0" />
@@ -112,7 +117,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PsNetActConfirmationAdd.java" timestamp="1521818067032">
         <mark key="'" line="59" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522338957159">
+      <file name="/Dummy.txt" timestamp="1522350843906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -145,22 +150,20 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
         <mark key="'" line="2021" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1522340107699">
-        <mark key="'" line="2" column="0" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1522341541901">
+        <mark key="'" line="1562" column="63" />
         <mark key="[" line="1579" column="0" />
         <mark key="]" line="1579" column="0" />
         <mark key="." line="1579" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522323352225">
-        <mark key="'" line="594" column="28" />
-        <mark key="[" line="691" column="0" />
-        <mark key="]" line="691" column="0" />
-        <mark key="^" line="691" column="64" />
-        <mark key="." line="691" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" timestamp="1522349105007">
+        <mark key="'" line="626" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1522334812263" />
-      <file name="/fragment.java" timestamp="1522320645885">
+      <file name="/fragment.java" timestamp="1522351090794">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" timestamp="1521743047722">
         <mark key="'" line="104" column="25" />
@@ -173,24 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1375" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" />
-      <jump line="1734" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" />
-      <jump line="94" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
-      <jump line="43" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" />
-      <jump line="1383" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" />
-      <jump line="8" column="1" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" />
-      <jump line="108" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateAfter.java" />
-      <jump line="125" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateDocumentBefore.java" />
-      <jump line="1870" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
-      <jump line="473" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" />
-      <jump line="383" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SandvikProcessF4SyncDataHelp.java" />
-      <jump line="73" column="89" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SandvikProcessF4SyncDataHelp.java" />
-      <jump line="180" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SandvikProcessF4SyncDataHelp.java" />
-      <jump line="246" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
-      <jump line="1848" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
-      <jump line="1860" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
-      <jump line="1993" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
-      <jump line="2021" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
       <jump line="311" column="60" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/ExportChildrenDisplay.java" />
       <jump line="80" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateDocumentBefore.java" />
       <jump line="414" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" />
@@ -273,16 +258,34 @@
       <jump line="5073" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2517" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
+      <jump line="1562" column="63" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
+      <jump line="164" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="165" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="166" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="167" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="223" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="228" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="602" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="604" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="611" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="615" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="618" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="620" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="626" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" />
+      <jump line="478" column="57" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" />
+      <jump line="262" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfFldCreateShared.java" />
+      <jump line="417" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfFldPartPoolCreate.java" />
+      <jump line="353" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXggYnVnIQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eG5ldyA=</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;&quot;</text>
+        <text encoding="base64">eG5ldyA=</text>
       </register>
       <register name="/" type="4">
-        <text>===</text>
+        <text encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iclByb3BlcnR5VXRpbHMuaW5pdGlhbGl6ZUF0dHJpYnV0ZVByb3BlcnR5KHBycCwgSW50ZWdlci5NQVhfVkFMVUUpOwo=</text>
@@ -325,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>===</last-search>
+      <last-search encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</last-search>
       <last-offset />
-      <last-pattern>===</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</entry>
         <entry encoding="base64">XDxzY3JpcHRTdGFydFRpbWVcPg==</entry>
         <entry encoding="base64">XDxPVVRfU0VMRUNUSU9OXD4=</entry>
         <entry encoding="base64">XDxidG5BblN0cnVjdFw+</entry>
@@ -355,6 +357,7 @@
         <entry encoding="base64">PDw8PDw=</entry>
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry>===</entry>
+        <entry encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
