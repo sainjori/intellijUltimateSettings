@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" timestamp="1521818028507">
-        <mark key="'" line="163" column="30" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/pom.xml" timestamp="1521715847861">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="25" column="22" />
@@ -20,9 +17,7 @@
         <mark key="'" line="235" column="38" />
         <mark key="^" line="239" column="133" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
-        <mark key="'" line="72" column="20" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" timestamp="1522334768411" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxMeasureUnitField.java" timestamp="1522241503475">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -34,45 +29,20 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateDocumentBefore.java" timestamp="1521566268114">
-        <mark key="'" line="80" column="53" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1521742882807">
-        <mark key="'" line="233" column="40" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/utils/CustomerDataHelper.java" timestamp="1521650716913">
-        <mark key="'" line="90" column="6" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1521647053528">
-        <mark key="'" line="925" column="10" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/ExportChildrenDisplay.java" timestamp="1521561083633">
-        <mark key="'" line="311" column="60" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1522333572134" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/src/main/java/voith/omf/OmfVoithCreateUrl.java" timestamp="1521725032116">
         <mark key="[" line="81" column="18" />
         <mark key="]" line="81" column="28" />
         <mark key="." line="81" column="28" />
         <mark key="^" line="81" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1522334354427" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" timestamp="1522320641481" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
-        <mark key="'" line="8" column="1" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" timestamp="1521711120460">
-        <mark key="'" line="989" column="4" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1522314772127">
         <mark key="[" line="182" column="27" />
         <mark key="]" line="182" column="27" />
         <mark key="." line="182" column="27" />
         <mark key="^" line="182" column="27" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormatSymbols.java" timestamp="1522234779784">
-        <mark key="'" line="218" column="6" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/sync/SandvikProcessF4SyncDataHelp.java" timestamp="1521559885726">
-        <mark key="'" line="180" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsNetworkConfirmationAdd.java" timestamp="1522324176660" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" timestamp="1522324511136">
@@ -86,41 +56,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PsNetActConfirmationAdd.java" timestamp="1521818067032">
-        <mark key="'" line="59" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1522331432105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatBomChange.java" timestamp="1522333046146" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521711009044">
-        <mark key="'" line="175" column="2" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" timestamp="1521559226694">
-        <mark key="'" line="473" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" timestamp="1521566417780">
-        <mark key="'" line="525" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/PlmMultiDetailProcessFast.java" timestamp="1521648199576">
-        <mark key="'" line="177" column="29" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiImportCreateAfter.java" timestamp="1521561510940">
-        <mark key="'" line="108" column="2" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/PlmSessionManager.java" timestamp="1521477743364">
-        <mark key="'" line="1734" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatBomChange.java" timestamp="1522334004029" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/src/main/java/voith/omf/OmfCreateUrl.java" timestamp="1521718489534">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1521560817547">
-        <mark key="'" line="2021" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522323352225">
         <mark key="'" line="594" column="28" />
@@ -129,11 +75,9 @@
         <mark key="^" line="691" column="64" />
         <mark key="." line="691" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1522334812263" />
       <file name="/fragment.java" timestamp="1522320645885">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/MidwayWebsocketHandler.java" timestamp="1521743047722">
-        <mark key="'" line="104" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1522254959638">
         <mark key="[" line="44" column="2" />
