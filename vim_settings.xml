@@ -7,10 +7,11 @@
         <mark key="'" line="163" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.0/base-5.1.12.0.jar!/cadagent/gui/obr/ObrFunctionEventQueue.class" timestamp="1522344028513" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522766238925">
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-        <mark key="^" line="222" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522779581386">
+        <mark key="[" line="159" column="15" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="18" />
+        <mark key="^" line="159" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
@@ -236,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Disable number grouping for employee number field.</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Disable number grouping for employee number field.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</text>
