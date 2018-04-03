@@ -7,7 +7,7 @@
         <mark key="'" line="163" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.0/base-5.1.12.0.jar!/cadagent/gui/obr/ObrFunctionEventQueue.class" timestamp="1522344028513" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522751261250" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522759994206" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
       </file>
@@ -127,11 +127,11 @@
         <mark key="." line="73" column="49" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522758623936">
-        <mark key="[" line="759" column="0" />
-        <mark key="]" line="759" column="0" />
-        <mark key="^" line="605" column="38" />
-        <mark key="." line="759" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522760015057">
+        <mark key="[" line="1114" column="73" />
+        <mark key="]" line="1115" column="40" />
+        <mark key="^" line="1115" column="40" />
+        <mark key="." line="1115" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1522334812263" />
       <file name="/fragment.java" timestamp="1522755995989">
@@ -247,7 +247,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZWRpdG9yLmdldGYK</text>
       </register>
       <register name="-" type="4">
         <text>numericFormat</text>
@@ -259,37 +259,37 @@
         <text encoding="base64">ICAgIE9iclByb3BlcnR5VXRpbHMuaW5pdGlhbGl6ZUF0dHJpYnV0ZVByb3BlcnR5KHBycCwgSW50ZWdlci5NQVhfVkFMVUUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZWRpdG9yLmdldGYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHVibGljIHZvaWQgc2V0R3JvdXBpbmdVc2VkKGJvb2xlYW4gZ3JvdXBpbmcpCiAgICB7CiAgICAgIGlmIChwYXJlbnQgIT0gbnVsbCAmJiBwYXJlbnQgaW5zdGFuY2VvZiBEZWNpbWFsRm9ybWF0KQogICAgICB7CiAgICAgICAgKChEZWNpbWFsRm9ybWF0KSBwYXJlbnQpLnNldEdyb3VwaW5nVXNlZChncm91cGluZyk7CiAgICAgIH0KCiAgICB9</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChudW1lcmljRm9ybWF0dGVyIGluc3RhbmNlb2YgTnVtZXJpY0Zvcm1hdCkKICAgICAgKChOdW1lcmljRm9ybWF0KSBudW1lcmljRm9ybWF0dGVyKS5zZXRHcm91cGluZ1VzZWQoZmFsc2UpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEZvcm1hdCBudW1lcmljRm9ybWF0dGVyID0gZ2V0TnVtZXJpY0Zvcm1hdHRlcigwKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIE9iamVjdCBjbG9uZSA9IG51bWVyaWNGb3JtYXR0ZXIuY2xvbmUoKTsK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIHZvaWQgc2V0R3JvdXBpbmdVc2VkKGJvb2xlYW4gZ3JvdXBpbmcpCiAgICB7CiAgICAgIGlmIChwYXJlbnQgIT0gbnVsbCAmJiBwYXJlbnQgaW5zdGFuY2VvZiBEZWNpbWFsRm9ybWF0KQogICAgICB7CiAgICAgICAgKChEZWNpbWFsRm9ybWF0KSBwYXJlbnQpLnNldEdyb3VwaW5nVXNlZChncm91cGluZyk7CiAgICAgIH0KCiAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChudW1lcmljRm9ybWF0dGVyIGluc3RhbmNlb2YgTnVtZXJpY0Zvcm1hdCkKICAgICAgKChOdW1lcmljRm9ybWF0KSBudW1lcmljRm9ybWF0dGVyKS5zZXRHcm91cGluZ1VzZWQoZmFsc2UpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEZvcm1hdCBudW1lcmljRm9ybWF0dGVyID0gZ2V0TnVtZXJpY0Zvcm1hdHRlcigwKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE9iamVjdCBjbG9uZSA9IG51bWVyaWNGb3JtYXR0ZXIuY2xvbmUoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9iclByb3BlcnR5VXRpbHMuaW5pdGlhbGl6ZU51bWJlcldpdGhvdXRDb21tYVByb3BlcnR5KHBycCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9iclByb3BlcnR5VXRpbHMuaW5pdGlhbGl6ZU51bWJlcldpdGhvdXRDb21tYVByb3BlcnR5KHBycCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgoTnVtZXJpY0Zvcm1hdCkgbnVtZXJpY0Zvcm1hdHRlcikuc2V0R3JvdXBpbmdVc2VkKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>758</text>
