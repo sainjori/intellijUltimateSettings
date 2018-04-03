@@ -7,14 +7,16 @@
         <mark key="'" line="163" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.0/base-5.1.12.0.jar!/cadagent/gui/obr/ObrFunctionEventQueue.class" timestamp="1522344028513" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522762299095">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522764683892">
+        <mark key="[" line="209" column="43" />
+        <mark key="]" line="210" column="22" />
+        <mark key="." line="210" column="22" />
+        <mark key="^" line="210" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/NumberFormat.java" timestamp="1522763785361" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522757551363">
         <mark key="'" line="231" column="20" />
         <mark key="[" line="245" column="72" />
@@ -252,7 +254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gbnVsbDs=</text>
@@ -261,31 +263,31 @@
         <text encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBOdW1lcmljV2l0aG91dENvbW1hVGFibGVDZWxsRWRpdG9yKGludCBlZGl0TGVuZ3RoKQogICAgewogICAgICBsaW1pdCA9IGVkaXRMZW5ndGg7CiAgICAgIGdyb3VwaW5nID0gZ3JvdXBpbmc7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVMaW5lQm9yZGVyKENvbG9yLlJFRCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGltaXQgPSBlZGl0TGVuZ3RoOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWdldFRleHQoKS50cmltKCkuZXF1YWxzKCIiKSl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVjaW1hbEZvcm1hdC5zZXRHcm91cGluZ1VzZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRGVjaW1hbEZvcm1hdCBkZWNpbWFsRm9ybWF0ID0gT2JyUHJvcGVydHlVdGlscy5nZXREZWNpbWFsRm9ybWF0KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZCAhPSBudWxsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGFibGUuZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgIERvdWJsZSBkID0gcGFyc2VWYWx1ZShnZXRUZXh0KCkpOwogICAgICAgIGZvcm1hdFZhbHVlKGQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcyhlZGl0TGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -294,7 +296,7 @@
         <text encoding="base64">ICAgICAgbGltaXQgPSBlZGl0TGVuZ3RoOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcyhsKQo=</text>
+        <text encoding="base64">ICAgICAgZGVjaW1hbEZvcm1hdC5zZXRHcm91cGluZ1VzZWQoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>758</text>
