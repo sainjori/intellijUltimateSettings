@@ -17,12 +17,12 @@
         <mark key="'" line="353" column="38" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/NumberFormat.java" timestamp="1522841226555" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522843431993">
-        <mark key="'" line="118" column="44" />
-        <mark key="[" line="250" column="14" />
-        <mark key="]" line="250" column="21" />
-        <mark key="^" line="250" column="21" />
-        <mark key="." line="250" column="21" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522845683825">
+        <mark key="'" line="755" column="23" />
+        <mark key="[" line="780" column="9" />
+        <mark key="]" line="780" column="15" />
+        <mark key="^" line="780" column="15" />
+        <mark key="." line="780" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
         <mark key="'" line="72" column="20" />
@@ -88,10 +88,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PsNetActConfirmationAdd.java" timestamp="1521818067032">
         <mark key="'" line="59" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522843470061">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1522845115431">
+        <mark key="[" line="0" column="104" />
+        <mark key="]" line="0" column="104" />
+        <mark key="." line="0" column="104" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatBomChange.java" timestamp="1522334004029" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1521711009044">
@@ -118,7 +118,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" timestamp="1522349105007">
         <mark key="'" line="626" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522843173741">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522845670433">
         <mark key="[" line="593" column="0" />
         <mark key="]" line="594" column="12" />
         <mark key="^" line="594" column="12" />
@@ -136,7 +136,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1522840832718" />
     </filemarks>
     <jumps>
-      <jump line="903" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="904" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="922" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="104" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
@@ -236,10 +235,11 @@
       <jump line="780" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
       <jump line="118" column="44" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="755" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCBjMWIwYjU0KQ==</text>
       </register>
       <register name="-" type="4">
         <text>trim</text>
@@ -250,8 +250,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVMaW5lQm9yZGVyKENvbG9yLlJFRCkpOwogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCBjMWIwYjU0KQ==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -260,28 +260,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcyA9IHMudHJpbSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZCAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgcyA9IHMudHJpbSgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZCAhPSBudWxsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWx1ZSAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZCAhPSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh2YWx1ZSAhPSBudWxsKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZy5qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBARGVwcmVjYXRlZAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZy5qCg==</text>
       </register>
       <register name=":" type="4">
         <text>758</text>
