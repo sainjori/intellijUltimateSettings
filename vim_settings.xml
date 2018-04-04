@@ -7,21 +7,16 @@
         <mark key="'" line="163" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.0/base-5.1.12.0.jar!/cadagent/gui/obr/ObrFunctionEventQueue.class" timestamp="1522344028513" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522835099439">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/NumberFormat.java" timestamp="1522763785361" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522834825289">
-        <mark key="'" line="792" column="4" />
-        <mark key="[" line="798" column="0" />
-        <mark key="]" line="798" column="0" />
-        <mark key="." line="798" column="0" />
-        <mark key="^" line="797" column="11" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522837469816">
+        <mark key="'" line="718" column="34" />
+        <mark key="[" line="777" column="3" />
+        <mark key="]" line="803" column="26" />
+        <mark key="^" line="803" column="26" />
+        <mark key="." line="803" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1521718403744">
         <mark key="'" line="72" column="20" />
@@ -55,6 +50,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" timestamp="1522833709671">
         <mark key="'" line="398" column="27" />
       </file>
+      <file name="/BrConfirmation.java" timestamp="1522837455719">
+        <mark key="'" line="474" column="34" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikUtils.java" timestamp="1521552389495">
         <mark key="'" line="8" column="1" />
       </file>
@@ -83,7 +81,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PsNetActConfirmationAdd.java" timestamp="1521818067032">
         <mark key="'" line="59" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522830929393">
+      <file name="/Dummy.txt" timestamp="1522837274193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -113,12 +111,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCreate.java" timestamp="1522349105007">
         <mark key="'" line="626" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/test/src/cadagent/gui/obr/ObrPropertyUtilsTest.java" timestamp="1522751595310">
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="73" column="49" />
-        <mark key="." line="73" column="49" />
-        <mark key="^" line="72" column="53" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1522834384918">
         <mark key="[" line="603" column="0" />
         <mark key="]" line="603" column="0" />
@@ -136,11 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="961" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
-      <jump line="969" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
-      <jump line="970" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
-      <jump line="972" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
-      <jump line="82" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="80" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="872" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="880" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
@@ -236,6 +223,11 @@
       <jump line="790" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
       <jump line="398" column="27" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" />
       <jump line="786" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="746" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="375" column="4" filename="/BrConfirmation.java" />
+      <jump line="273" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="474" column="34" filename="/BrConfirmation.java" />
+      <jump line="718" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
