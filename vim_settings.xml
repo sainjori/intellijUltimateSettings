@@ -7,12 +7,13 @@
         <mark key="'" line="163" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.0/base-5.1.12.0.jar!/cadagent/gui/obr/ObrFunctionEventQueue.class" timestamp="1522344028513" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxNumericField.java" timestamp="1522838790159" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/NumberFormat.java" timestamp="1522763785361" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522837497726">
-        <mark key="'" line="796" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" timestamp="1522839006503">
+        <mark key="'" line="118" column="44" />
         <mark key="[" line="777" column="3" />
         <mark key="]" line="803" column="26" />
         <mark key="^" line="803" column="26" />
@@ -128,9 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="880" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
-      <jump line="890" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
-      <jump line="891" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="903" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="904" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="922" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" />
@@ -228,6 +226,9 @@
       <jump line="718" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
       <jump line="785" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
       <jump line="796" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="780" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
+      <jump line="118" column="44" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/BrConfirmation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -237,7 +238,7 @@
         <text>s == null || s.trim().equals(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</text>
+        <text>PERS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVMaW5lQm9yZGVyKENvbG9yLlJFRCkpOwo=</text>
@@ -285,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</last-search>
+      <last-search>PERS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</last-pattern>
+      <last-pattern>PERS</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +296,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY3JpcHRTdGFydFRpbWVcPg==</entry>
         <entry encoding="base64">XDxPVVRfU0VMRUNUSU9OXD4=</entry>
         <entry encoding="base64">XDxidG5BblN0cnVjdFw+</entry>
         <entry encoding="base64">XDxpbXBPYmpNYXBcPg==</entry>
@@ -315,6 +315,7 @@
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry>===</entry>
         <entry encoding="base64">XDxuYW1pbmdNZXRob2RcPg==</entry>
+        <entry>PERS</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
