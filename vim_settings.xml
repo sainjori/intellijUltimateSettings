@@ -11,6 +11,7 @@
         <mark key="^" line="163" column="40" />
         <mark key="." line="163" column="40" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1522859197468" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
       </file>
@@ -27,7 +28,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1522333572134" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1522341963935" />
       <file name="/ObrPropertyUtils.java" timestamp="1522762634272" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1522855903536" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1522866604381">
+        <mark key="'" line="470" column="4" />
+      </file>
       <file name="/GxNumericField.java" timestamp="1522831690676" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfFldCreate.java" timestamp="1522348828637" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" timestamp="1522840365605">
@@ -41,8 +44,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1522341563046" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsNetworkConfirmationAdd.java" timestamp="1522780182914" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" timestamp="1522830951311" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" timestamp="1522855891289">
-        <mark key="'" line="156" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomSelect.java" timestamp="1522858755621" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" timestamp="1522858889117">
+        <mark key="'" line="408" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1522845698822">
         <mark key="[" line="0" column="0" />
@@ -60,7 +64,7 @@
         <mark key="." line="594" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1522334812263" />
-      <file name="/fragment.java" timestamp="1522855578618">
+      <file name="/fragment.java" timestamp="1522856401432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -68,11 +72,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1522840832718" />
     </filemarks>
     <jumps>
-      <jump line="175" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
-      <jump line="177" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/PlmMultiDetailProcessFast.java" />
-      <jump line="90" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/utils/CustomerDataHelper.java" />
-      <jump line="903" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
-      <jump line="904" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
       <jump line="922" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
       <jump line="923" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
       <jump line="925" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
@@ -168,6 +167,11 @@
       <jump line="433" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
       <jump line="341" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
       <jump line="156" column="3" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="404" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="378" column="3" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="403" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="408" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="470" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialBomChange.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
