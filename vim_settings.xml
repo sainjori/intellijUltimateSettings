@@ -27,7 +27,6 @@
         <mark key="^" line="163" column="40" />
         <mark key="." line="163" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1523025452395" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
       </file>
@@ -37,12 +36,12 @@
         <mark key="]" line="30" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocRefile.java" timestamp="1523026091630" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/pom.xml" timestamp="1523026720793">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="58" column="22" />
-        <mark key="." line="54" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/pom.xml" timestamp="1523027517871">
+        <mark key="'" line="49" column="3" />
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="58" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiDTypeSelect.java" timestamp="1523023037148">
         <mark key="[" line="43" column="2" />
@@ -98,7 +97,6 @@
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" timestamp="1523023753788" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrFolder.java" timestamp="1523025466023">
         <mark key="'" line="1624" column="8" />
       </file>
@@ -114,7 +112,7 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523025718383">
+      <file name="/Dummy.txt" timestamp="1523027595393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="104" />
         <mark key="." line="0" column="104" />
@@ -258,41 +256,41 @@
       <jump line="1624" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrFolder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTwhLS0tLT4K</text>
+      <register name="&quot;" type="4">
+        <text>${project.parent.version}</text>
       </register>
       <register name="-" type="4">
-        <text>brFolder</text>
+        <text>${project.parent.version}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAvLyAiWW91IGRvIG5vdCBoYXZlIHBlcm1pc3Npb24gZm9yIGZvbGRlciAlMSIK</text>
+        <text encoding="base64">ICAgIAk8IS0tJmx0OyEmbmRhc2g7PHZlcnNpb24+JHtwcm9qZWN0LnBhcmVudC52ZXJzaW9ufTwvdmVyc2lvbj4mbmRhc2g7Jmd0Oy0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTwhLS0tLT4K</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+NS4xLjEwLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVFcnJvclRleHQoZGxlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">CTwhLS0tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICghYWRkVG9PTWZvbGRlci5jaGVja1Blcm1pc3Npb24oKSkKLy8gICAgICAgIHsKLy8gICAgICAgICAgLy8gIllvdSBkbyBub3QgaGF2ZSBwZXJtaXNzaW9uIGZvciBmb2xkZXIgJTEiCi8vICAgICAgICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVFcnJvclRleHQoRGljLmdldCgiRTAyMjcwIiwgIiIsIG5ldyBTdHJpbmdbXQovLyAgICAgICAgICB7IGFkZFRvT01mb2xkZXIuZ2V0RGVzY3JpcHRpb24oKSB9KSk7Ci8vICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVFcnJvclRleHQoZGxlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcGxtLm1vZHVsZXMuZGF0YWV4Y2hhbmdlLmJyb2JqLkJySW1wb3J0T2JqZWN0TmV3Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICghYWRkVG9PTWZvbGRlci5jaGVja1Blcm1pc3Npb24oKSkKLy8gICAgICAgIHsKLy8gICAgICAgICAgLy8gIllvdSBkbyBub3QgaGF2ZSBwZXJtaXNzaW9uIGZvciBmb2xkZXIgJTEiCi8vICAgICAgICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVFcnJvclRleHQoRGljLmdldCgiRTAyMjcwIiwgIiIsIG5ldyBTdHJpbmdbXQovLyAgICAgICAgICB7IGFkZFRvT01mb2xkZXIuZ2V0RGVzY3JpcHRpb24oKSB9KSk7Ci8vICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uOwo=</text>
+        <text encoding="base64">Ly8gICAgcGxtLm1vZHVsZXMuZGF0YWV4Y2hhbmdlLmJyb2JqLkJySW1wb3J0T2JqZWN0TmV3Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckltcG9ydE9iamVjdE5ldzsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -301,7 +299,7 @@
         <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckltcG9ydE9iamVjdE5ldzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckV4cG9ydE9iamVjdDsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckltcG9ydE9iamVjdE5ldzsK</text>
       </register>
       <register name=":" type="4">
         <text>758</text>
