@@ -39,6 +39,25 @@ out
 gen
 target</template>
       <template name="bb"># Created by .ignore support plugin (hsz.mobi)</template>
+      <template name="Your template"># Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea/
+.svn/
+*.iml
+out
+gen
+target</template>
+      <template name="bb"># Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea/
+.svn/
+*.iml
+out/
+gen/
+target/
+bash.exe.stackdump</template>
     </userTemplates>
   </component>
 </application>
