@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/proc/PlmProcessExportOriginals.java" timestamp="1523379759616">
-        <mark key="'" line="1720" column="2" />
-        <mark key="[" line="1955" column="0" />
-        <mark key="]" line="1955" column="0" />
-        <mark key="." line="1955" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/proc/PlmProcessExportOriginals.java" timestamp="1523385642064">
+        <mark key="'" line="1721" column="2" />
+        <mark key="[" line="2028" column="54" />
+        <mark key="]" line="2145" column="4" />
+        <mark key="." line="2145" column="4" />
+        <mark key="^" line="2145" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmDocStructure.java" timestamp="1523379709208">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmDocStructure.java" timestamp="1523385633754">
         <mark key="'" line="97" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmTransformationMatrix.java" timestamp="1523377416925">
@@ -55,7 +56,6 @@
         <mark key="^" line="215" column="112" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmTransformationMatrix.java" timestamp="1523377621016" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc_new/trunk/java/src/facc/proc/PlmProcessExportOriginals.java" timestamp="1523379034879" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiJTRename.java" timestamp="1523366120983">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -82,11 +82,8 @@
         <mark key="." line="6" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/plm++/java/src/plm/sess/ApplPart.java" timestamp="1523373293141" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocCreateMulti.java" timestamp="1523366788742">
-        <mark key="'" line="243" column="10" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrDocument.java" timestamp="1523384566181">
+        <mark key="'" line="408" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmDocStructure.java" timestamp="1523350776336" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1523353545297" />
@@ -110,12 +107,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/doc/PlmProcessDocumentStructureUpdate.java" timestamp="1523379859197" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmTransformationMatrix.java" timestamp="1523349171702" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiDTypeSelect.java" timestamp="1523366014011">
-        <mark key="'" line="87" column="32" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1523371716467" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmMatBomItem.java" timestamp="1523371375851" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/plm++/test/src/plm/dataexchange/metainf/MetaInfReaderTest.java" timestamp="1523371690266">
@@ -151,12 +142,6 @@
         <mark key="^" line="651" column="104" />
         <mark key="." line="651" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiExportChangeDescription.java" timestamp="1523366042604">
-        <mark key="'" line="67" column="1" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="/pom.xml" timestamp="1523365387401" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1523372498156" />
       <file name="/fragment.java" timestamp="1523368279568">
@@ -166,11 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="869" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc_new/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
-      <jump line="421" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
-      <jump line="419" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc_new/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
-      <jump line="1333" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
-      <jump line="3252" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
       <jump line="1390" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
       <jump line="522" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfFaccDocRefile.java" />
       <jump line="170" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/ECTR-44/java/src/main/java/wirtgen/omf/OmfWirtgenMatCreate.java" />
@@ -266,65 +246,66 @@
       <jump line="861" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/plm++/java/src/plm/sess/ApplComponent.java" />
       <jump line="290" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentStructureUpdate.java" />
       <jump line="284" column="9" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocBomMaintain.java" />
+      <jump line="1847" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrDocument.java" />
+      <jump line="2643" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrDocument.java" />
+      <jump line="2645" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrDocument.java" />
+      <jump line="2647" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrDocument.java" />
+      <jump line="408" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrDocument.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parent_matrix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>parent_matrix</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2Zvcm1BcnJheVw+</text>
+        <text encoding="base64">XDxoYXNTdHJ1Y3R1cmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>PlmTransformationMatrix.TmxInstance.getUnitTmx();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGRvYy5nZXRTdHJ1Y3R1cmVGbGFnKCkpCiAgICAgICAgZG9jLmdldERvY1N0cnVjdHVyZSgpLnVwZGF0ZUNhZFN0cnVjdHVyZShkb2NfY2xvbmVfc3RydWMpOwogICAgICBlbHNlCiAgICAgICAgZG9jLmNyZWF0ZURvY1N0cnVjdHVyZSgpLnVwZGF0ZUNhZFN0cnVjdHVyZShkb2NfY2xvbmVfc3RydWMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhcmVudF9tYXRyaXguZ2V0VQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGRvYykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>ProcessDocBomMaintain processDocBomMaintain = new ProcessDocBomMaintain();
-    DataContainer data = new DataContainer();
-    data.addObject(ProcessDocBomMaintain.DIR, doc);
-    processDocBomMaintain.setData(data);
-    processDocBomMaintain.execute();</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFAK</text>
+        <text encoding="base64">ICAgICAgICBQbG1Eb2NTdHJ1Y3R1cmUgZG9jU3RydWN0dXJlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help v</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2Zvcm1BcnJheVw+</last-search>
+      <last-search encoding="base64">XDxoYXNTdHJ1Y3R1cmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2Zvcm1BcnJheVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNTdHJ1Y3R1cmVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtTnVtZXJpY0Zvcm1hdHRlclw+</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw=</entry>
         <entry encoding="base64">PDw8PDw=</entry>
@@ -352,6 +332,7 @@
         <entry encoding="base64">XDx2TWF0cml4XD4=</entry>
         <entry encoding="base64">XDxGUExNX0lEXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1BcnJheVw+</entry>
+        <entry encoding="base64">XDxoYXNTdHJ1Y3R1cmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1774</entry>
