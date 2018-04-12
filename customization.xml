@@ -95,9 +95,9 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="ShowBookmarks" />
-    <action id="EditorCreateRectangularSelection" icon="$USER_HOME$/Desktop/icons_ij/icons/nodes/ideaProject.png" />
+    <action id="EditorCreateRectangularSelection" />
     <action id="EditorAddRectangularSelectionOnMouseDrag" />
-    <action id="RevealIn" />
+    <action id="RevealIn" icon="$USER_HOME$/Desktop/icons_ij/icons/nodes/ideaProject.png" />
     <action id="ToggleBreakpointEnabled" icon="$USER_HOME$/Desktop/snippets/debugger/muteBreakpoints_dark.png" />
   </component>
 </application>
