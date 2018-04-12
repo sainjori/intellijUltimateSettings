@@ -85,6 +85,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RerunTests" />
+  <action id="RevealIn">
+    <mouse-shortcut keystroke="alt button2" />
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
