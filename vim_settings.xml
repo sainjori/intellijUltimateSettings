@@ -14,6 +14,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/plm++/java/src/plm/sess/ApplComponent.java" timestamp="1523378161266">
         <mark key="'" line="861" column="29" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/basis/dictionary/de/ectr.txt" timestamp="1523538684041">
+        <mark key="'" line="70" column="31" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenOmrChangeDescription.java" timestamp="1523279407320">
         <mark key="'" line="254" column="10" />
       </file>
@@ -43,9 +46,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java" timestamp="1523286200601">
         <mark key="'" line="144" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/SandvikConsts.java" timestamp="1523526006027">
-        <mark key="[" line="41" column="20" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/ug/PlmProcessUgRefile.java" timestamp="1523279388008">
         <mark key="'" line="4001" column="6" />
       </file>
@@ -60,8 +60,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmMatBomItem.java" timestamp="1523371353547">
         <mark key="'" line="62" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/test/branches/facc-trunk/java/src/facc/proc/FaccProcessUgRefile.java" timestamp="1523437087544">
-        <mark key="[" line="134" column="50" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/customize/config/default.txt" timestamp="1523539088463">
+        <mark key="'" line="15" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.10.0/base-5.1.10.0-sources.jar!/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1523457605550">
         <mark key="'" line="437" column="4" />
@@ -78,9 +78,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenMatCreate.java" timestamp="1523269585745">
         <mark key="'" line="135" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/test/branches/facc-trunk/java/src/facc/dadi/FaccDadiJTRename.java" timestamp="1523440999628">
-        <mark key="[" line="74" column="28" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1522866604381">
         <mark key="'" line="470" column="4" />
       </file>
@@ -92,9 +89,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/omf/OmfExportOriginals.java" timestamp="1523366627746">
         <mark key="'" line="154" column="60" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1523465612131">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DecimalFormat.java" timestamp="1522840365605">
         <mark key="'" line="398" column="27" />
@@ -170,7 +164,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1523535516764">
         <mark key="'" line="106" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523538407327">
+      <file name="/Dummy.txt" timestamp="1523539449727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -234,9 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/ConversionSimpleExportOriginals.java" />
-      <jump line="217" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/ConversionSimpleExportOriginals.java" />
-      <jump line="239" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/proc/MarkForConvert.java" />
       <jump line="184" column="78" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmDocStructure.java" />
       <jump line="97" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmDocStructure.java" />
       <jump line="80" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiAfterImport.java" />
@@ -334,6 +325,9 @@
       <jump line="580" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocOpenFast.java" />
       <jump line="176" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
       <jump line="106" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="70" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/basis/dictionary/de/ectr.txt" />
+      <jump line="5" column="56" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/customize/config/default.txt" />
+      <jump line="15" column="49" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
