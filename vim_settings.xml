@@ -67,12 +67,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.10.0/base-5.1.10.0-sources.jar!/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1523457605550">
         <mark key="'" line="437" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523530787507">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="48" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/ECTR-44/java/src/main/java/wirtgen/omf/OmfWirtgenMatCreate.java" timestamp="1523270367036">
         <mark key="'" line="205" column="23" />
       </file>
@@ -97,13 +91,19 @@
       <file name="/BrConfirmation.java" timestamp="1523284719089">
         <mark key="'" line="241" column="19" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/pom.xml" timestamp="1523530732197">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" timestamp="1523531170115">
         <mark key="'" line="129" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/brobj/BrFolder.java" timestamp="1523025848459">
         <mark key="'" line="1295" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetails.java" timestamp="1523531117090">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetails.java" timestamp="1523612940748">
         <mark key="[" line="61" column="49" />
         <mark key="]" line="61" column="74" />
       </file>
@@ -168,6 +168,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikPlmProcessGenericDocumentChange.java" timestamp="1523612653719">
+        <mark key="'" line="105" column="6" />
+      </file>
       <file name="/facc-effective-pom.xml" timestamp="1523458713888">
         <mark key="'" line="21" column="35" />
       </file>
@@ -208,17 +211,18 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc_new/trunk/java/src/facc/omf/OmfFaccDocRefile.java" timestamp="1523268271540">
         <mark key="'" line="419" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/ff" timestamp="1523613048540" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/gui/browser/components/BasicDataWithPreviewPanel.java" timestamp="1523457454908">
         <mark key="'" line="369" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmDocStructure.java" timestamp="1523386690979">
         <mark key="'" line="87" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523531137134">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="56" />
-        <mark key="^" line="19" column="56" />
-        <mark key="." line="19" column="56" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523613056265">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1523544308461">
         <mark key="[" line="0" column="0" />
@@ -227,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="78" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmDocStructure.java" />
       <jump line="97" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/sapbase/java/src/cadagent/objmod/PlmDocStructure.java" />
       <jump line="80" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiAfterImport.java" />
       <jump line="87" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/java/src/facc/dadi/FaccDadiDTypeSelect.java" />
@@ -327,13 +330,14 @@
       <jump line="70" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/basis/dictionary/de/ectr.txt" />
       <jump line="5" column="56" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/customize/config/default.txt" />
       <jump line="15" column="49" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-5.1.5.1/customize/config/default.txt" />
+      <jump line="105" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikPlmProcessGenericDocumentChange.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgcGxtLmJyb2JqLkJyRG9jdW1lbnQ7CmltcG9ydCBwbG0uZ3VpLkd1aVV0aWxzOwppbXBvcnQgcGxtLmd1aS5lcnJvcmRpYWxvZy5FcnJvckRpYWxvZzsKPj4+Pj4+PiAwNmI0MTg4Li4uIGFkZGVkIG9tZiBmaWxlIE9tZktzYkRvY0NoYW5nZUxvbmd0ZXh0TXVsdGkK</text>
+        <text encoding="base64">ICAgIHNhbmR2aWtYbWxVdGlscy5jcmVhdGUK</text>
       </register>
       <register name="-" type="4">
-        <text>SandvikProcessGenericDocumentReadDetails.K</text>
+        <text>.new</text>
       </register>
       <register name="/" type="4">
         <text>exe</text>
@@ -342,37 +346,37 @@
         <text>PlmCommConstants.XMLPARAMS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgcGxtLmJyb2JqLkJyRG9jdW1lbnQ7CmltcG9ydCBwbG0uZ3VpLkd1aVV0aWxzOwppbXBvcnQgcGxtLmd1aS5lcnJvcmRpYWxvZy5FcnJvckRpYWxvZzsKPj4+Pj4+PiAwNmI0MTg4Li4uIGFkZGVkIG9tZiBmaWxlIE9tZktzYkRvY0NoYW5nZUxvbmd0ZXh0TXVsdGkK</text>
+        <text encoding="base64">ICAgIHNhbmR2aWtYbWxVdGlscy5jcmVhdGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQppbXBvcnQgcGxtLmJyb2JqLkJyRG9jdW1lbnQ7CmltcG9ydCBwbG0uZ3VpLkd1aVV0aWxzOwppbXBvcnQgcGxtLmd1aS5lcnJvcmRpYWxvZy5FcnJvckRpYWxvZzsKPj4+Pj4+PiAwNmI0MTg4Li4uIGFkZGVkIG9tZiBmaWxlIE9tZktzYkRvY0NoYW5nZUxvbmd0ZXh0TXVsdGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDA2YjQxODguLi4gYWRkZWQgb21mIGZpbGUgT21mS3NiRG9jQ2hhbmdlTG9uZ3RleHRNdWx0aQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDA2YjQxODguLi4gYWRkZWQgb21mIGZpbGUgT21mS3NiRG9jQ2hhbmdlTG9uZ3RleHRNdWx0aQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQoKPj4+Pj4+PiAwNmI0MTg4Li4uIGFkZGVkIG9tZiBmaWxlIE9tZktzYkRvY0NoYW5nZUxvbmd0ZXh0TXVsdGkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQoKPj4+Pj4+PiAwNmI0MTg4Li4uIGFkZGVkIG9tZiBmaWxlIE9tZktzYkRvY0NoYW5nZUxvbmd0ZXh0TXVsdGkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgfQogICAgZmluYWxseQogICAgewo+Pj4+Pj4+IDA2YjQxODguLi4gYWRkZWQgb21mIGZpbGUgT21mS3NiRG9jQ2hhbmdlTG9uZ3RleHRNdWx0aQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgfQogICAgZmluYWxseQogICAgewo+Pj4+Pj4+IDA2YjQxODguLi4gYWRkZWQgb21mIGZpbGUgT21mS3NiRG9jQ2hhbmdlTG9uZ3RleHRNdWx0aQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>385</text>
