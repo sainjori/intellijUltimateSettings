@@ -40,6 +40,12 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Hotswap" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Uml.ShowDiff" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
