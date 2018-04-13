@@ -18,12 +18,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocBomMaintain.java" timestamp="1523379357757">
         <mark key="'" line="284" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikProcessGenericDocumentReadDetails.java" timestamp="1523626267481">
-        <mark key="'" line="78" column="13" />
-        <mark key="[" line="324" column="50" />
-        <mark key="]" line="324" column="66" />
-        <mark key="." line="324" column="66" />
-        <mark key="^" line="324" column="66" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikProcessGenericDocumentReadDetails.java" timestamp="1523627900489">
+        <mark key="[" line="281" column="6" />
+        <mark key="]" line="281" column="12" />
+        <mark key="." line="281" column="12" />
+        <mark key="^" line="281" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/omf/OmfFldCopyStruct.java" timestamp="1522350829154">
         <mark key="'" line="353" column="38" />
@@ -90,19 +89,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1523291646785">
         <mark key="'" line="109" column="42" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1523541636651">
-        <mark key="'" line="106" column="6" />
-        <mark key="[" line="202" column="32" />
-        <mark key="]" line="202" column="56" />
-        <mark key="^" line="202" column="56" />
-        <mark key="." line="202" column="56" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/omf/OmfSandvikSearch.java" timestamp="1523625257362">
-        <mark key="[" line="176" column="118" />
-        <mark key="]" line="176" column="122" />
-        <mark key="^" line="176" column="122" />
-        <mark key="." line="176" column="122" />
       </file>
       <file name="/facc-effective-pom.xml" timestamp="1523458713888">
         <mark key="'" line="21" column="35" />
@@ -368,49 +354,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>customValue</text>
+        <text>set</text>
       </register>
       <register name="-" type="4">
-        <text>customValue</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2FuZHZpay5YbWxEYXRhIHhtbERhdGExID0gbmV3IHNhbmR2aWsuWG1sRGF0YShkb2N1bWVudEVsZW1lbnQuZ2V0Q2hpbGROb2RlcygpLAogICAgICAgICAgbmV3IENvbW1HZW5lcmljRGF0YShvYmouZ2V0RnVuY3Rpb25OYW1lKCkpKTsK</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmltcG9ydEN1c3RvbWVyRGF0YSgiRE9DVU1FTlRfT1dORVIiLCAiZmVmZWZmIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEN1c3RvbVZhbHVlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybWVyLnRyYW5zZm9ybShzb3VyY2UsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERPTVNvdXJjZSBzb3VyY2UgPSBuZXcgRE9NU291cmNlKGRvYyk7CiAgICBTdHJlYW1SZXN1bHQgcmVzdWx0ID0gbmV3IFN0cmVhbVJlc3VsdChuZXcgRmlsZSgiQzpcXGZpbGUueG1sIikpOwo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248U3RyaW5nPiBjdXN0b21WYWx1ZU5hbWVzID0gZG9jdW1lbnQuZ2V0Q3VzdG9tVmFsdWVOYW1lcygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNhcE1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5sb2dvbigpOwo=</text>
+        <text encoding="base64">ICAgIGN1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTm9kZUxpc3QgZnVuY3Rpb24gPSBkb2MuZ2V0RWxlbWVudHNCeVRhZ05hbWUoIkZVTkNUSU9OIik7Cg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LnNldGN1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgeG1sRGF0YTEuc2V0WE1MUGFyYW1ldGVycygpOwo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEN1c3RvbVZhbHVlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZhY3Rvcnkuc2V0Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybWVyLnRyYW5zZm9ybShzb3VyY2UsIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhY3Rvcnkuc2V0Cg==</text>
+        <text encoding="base64">ICAgIERPTVNvdXJjZSBzb3VyY2UgPSBuZXcgRE9NU291cmNlKGRvYyk7CiAgICBTdHJlYW1SZXN1bHQgcmVzdWx0ID0gbmV3IFN0cmVhbVJlc3VsdChuZXcgRmlsZSgiQzpcXGZpbGUueG1sIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNhcE1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5sb2dvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>385</text>
