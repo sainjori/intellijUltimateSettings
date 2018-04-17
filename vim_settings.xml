@@ -19,6 +19,7 @@
       <file name="/a.dummy" timestamp="1523895698923">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSObjFactory.java" timestamp="1523953260184" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1523539809776">
         <mark key="'" line="19" column="0" />
       </file>
@@ -51,12 +52,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1523532005471">
         <mark key="'" line="580" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" timestamp="1523903190782">
-        <mark key="'" line="111" column="12" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="68" />
-        <mark key="^" line="96" column="5" />
-        <mark key="." line="103" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" timestamp="1523954223056">
+        <mark key="'" line="108" column="57" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" timestamp="1523955554655">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/pom.xml" timestamp="1523459411598">
         <mark key="[" line="14" column="0" />
@@ -73,20 +75,23 @@
         <mark key="'" line="269" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1523900205661" />
-      <file name="/Dummy.txt" timestamp="1523903612492">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1523903880347">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" timestamp="1523617983869">
         <mark key="'" line="154" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" timestamp="1523897445533">
-        <mark key="'" line="124" column="10" />
-        <mark key="[" line="147" column="11" />
-        <mark key="]" line="147" column="32" />
-        <mark key="." line="147" column="32" />
-        <mark key="^" line="147" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSItemHelper.java" timestamp="1523953346992">
+        <mark key="'" line="128" column="59" />
+      </file>
+      <file name="/ProcessPsMilestoneChange.java" timestamp="1523954600520" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" timestamp="1523954447091">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="54" />
+        <mark key="^" line="93" column="9" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1523895906382" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/ECTR-44/core/plm++/java/src/plm/proc/sdk2/PlmProcessGenericDocumentBomMaintain.java" timestamp="1523373871100">
@@ -108,6 +113,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1523632155421">
         <mark key="'" line="1100" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" timestamp="1523953453690">
+        <mark key="'" line="197" column="2" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1523626763665">
         <mark key="'" line="972" column="4" />
       </file>
@@ -123,8 +131,11 @@
         <mark key="^" line="51" column="79" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1523888007568" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" timestamp="1523881095197">
-        <mark key="'" line="112" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/PSItemContainer.java" timestamp="1523953367376">
+        <mark key="'" line="89" column="49" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" timestamp="1523955436495">
+        <mark key="'" line="155" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523616832215">
         <mark key="[" line="36" column="0" />
@@ -155,14 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" />
-      <jump line="306" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" />
-      <jump line="323" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" />
-      <jump line="454" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
-      <jump line="369" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.10.0/plm-5.1.10.0-sources.jar!/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
-      <jump line="437" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.10.0/base-5.1.10.0-sources.jar!/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="17" column="57" filename="$MAVEN_REPOSITORY$/com/dscsag/build/5.1.11.0/build-5.1.11.0.pom" />
-      <jump line="14" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/pom.xml" />
       <jump line="20" column="0" filename="/facc-effective-pom.xml" />
       <jump line="21" column="35" filename="/facc-effective-pom.xml" />
       <jump line="309" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
@@ -255,52 +258,63 @@
       <jump line="182" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" />
       <jump line="107" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" />
       <jump line="123" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" />
+      <jump line="108" column="57" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" />
+      <jump line="89" column="49" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/PSItemContainer.java" />
+      <jump line="126" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSItemHelper.java" />
+      <jump line="126" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" />
+      <jump line="128" column="59" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSItemHelper.java" />
+      <jump line="239" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" />
+      <jump line="197" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" />
+      <jump line="155" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gaXRfd2JzX21pbGVzdG9uZV91cGQgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>((BrPspElement) parent).getSapKey());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VWYWx1ZXNYXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93LnB1dCgiV0JTX0lOVCIsICgoQnJQc3BFbGVtZW50KSBwYXJlbnQpLmdldFNhcEtleSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgcm93LnB1dCgiV0JTX0VMRU1FTlQiLCAoKFN0cmluZykgKChCclBzcEVsZW1lbnQpIHBhcmVudCkuZ2V0T2JyUHJvcGVydHkoQnJQc3BFbGVtZW50LlBSUF9QU1BfTlVNQkVSX0VYVCkuZ2V0VmFsdWUoKSkpOwovLyAgICByb3cucHV0KCJXQlNfSU5UIiwgKChCclBzcEVsZW1lbnQpIHBhcmVudCkuZ2V0U2FwS2V5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gaXRfd2JzX21pbGVzdG9uZV91cGQgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gaXRfd2JzX21pbGVzdG9uZSA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICByb3cucHV0KCJXQlNfSU5UIiwgbXN0LmdldFByb2plY3REZWZpbml0aW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChpc05ldHdvcmtBY3Rpdml0eSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICByb3cucmVtb3ZlKCJNSUxFU1RPTkVfTlVNQkVSIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcm93LnB1dCgiV0JTX0VMRU1FTlQiLCAoKEJyUHNwRWxlbWVudCkgcGFyZW50KS5nZXRTYXBLZXkoKSk7Cg==</text>
+        <text encoding="base64">Ly8gIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGEK</text>
+      <register name="6" type="4">
+        <text>private boolean isNetworkActivity()
+//  {
+//
+//  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvZkV2ZW50LmdldE9ick9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIG1zdC5nZXRCCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvZkV2ZW50LmdldE9ick9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gYiA9IG9mRXZlbnQgaW5zdGFuY2VvZiBCckZvbGRlcjsK</text>
+        <text encoding="base64">ICAgIG1zdC5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>385</text>
