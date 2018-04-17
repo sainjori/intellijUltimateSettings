@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1523970149407">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1523973374559">
         <mark key="'" line="54" column="6" />
+        <mark key="[" line="48" column="2" />
+        <mark key="]" line="48" column="9" />
+        <mark key="." line="48" column="9" />
+        <mark key="^" line="48" column="9" />
       </file>
       <file name="/a.dummy" timestamp="1523895698923">
         <mark key="[" line="0" column="0" />
@@ -12,6 +16,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSObjFactory.java" timestamp="1523957865186">
         <mark key="'" line="115" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/services/F4HelpServices.java" timestamp="1523970677629" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1523539809776">
         <mark key="'" line="19" column="0" />
       </file>
@@ -34,7 +39,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1523532005471">
         <mark key="'" line="580" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1523969939590" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1523970855476">
+        <mark key="'" line="84" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/wrapper/SandvikWrapperXmlUtils.java" timestamp="1523626425138">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
@@ -63,6 +70,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1523626763665">
         <mark key="'" line="972" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/sess/DadiFactory.java" timestamp="1523972648891" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/PSItemContainer.java" timestamp="1523953367376">
         <mark key="'" line="89" column="49" />
       </file>
@@ -94,6 +102,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1523887752427">
         <mark key="'" line="182" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1523972088335" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" timestamp="1523954223056">
         <mark key="'" line="108" column="57" />
       </file>
@@ -124,6 +133,14 @@
         <mark key="^" line="93" column="9" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberPropertyToSap.java" timestamp="1523971314004" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-50/customize/config/default.txt" timestamp="1523971835840">
+        <mark key="'" line="28" column="39" />
+        <mark key="[" line="2120" column="61" />
+        <mark key="]" line="2120" column="60" />
+        <mark key="." line="2120" column="60" />
+        <mark key="^" line="2120" column="60" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTestf.java" timestamp="1523622635980">
         <mark key="[" line="51" column="53" />
         <mark key="]" line="51" column="79" />
@@ -141,7 +158,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1523898488403">
+      <file name="/fragment.java" timestamp="1523971519153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -149,8 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikProcessGenericDocumentReadDetails.java" />
-      <jump line="69" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/proc/api/SandvikProcessGenericDocumentReadDetails.java" />
       <jump line="129" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" />
       <jump line="1118" column="62" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/AddComponentDialog.java" />
       <jump line="87" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfAddUrl.java" />
@@ -249,52 +264,54 @@
       <jump line="43" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" />
       <jump line="54" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" />
       <jump line="1060" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="84" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
+      <jump line="28" column="39" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-50/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getProperty(PlmPSNetworkActivity.NETWORK)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VTdGFuZGFyZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9uPD8gc3VwZXIgU3RyaW5nLCA/PiBnZXROZXR3b3JrID0ga2V5IC0+IE9iamVjdHMuZXF1YWxzKGdldFByb3BlcnR5KFBsbVBTTmV0d29ya0FjdGl2aXR5Lk5FVFdPUkspLCAiIikgPyBudWxsIDogZ2V0UHJvcGVydHkoUGxtUFNOZXR3b3JrQWN0aXZpdHkuTkVUV09SSyk7Cg==</text>
+        <text encoding="base64">cGxtLnNlYXJjaC5GNC5oZWxwLmNsYXNzID0gd2ViZXIuc2VydmljZS5XZWJlclByb2Nlc3NGNEhlbHBlciAoTXVzcyBnZXNldHp0IHdlcmRlbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9uPD8gc3VwZXIgU3RyaW5nLCA/PiBnZXROZXR3b3JrID0ga2V5IC0+IE9iamVjdHMuZXF1YWxzKG51bGwsICIiKSA/IG51bGwgOiBnZXRQcm9wZXJ0eShQbG1QU05ldHdvcmtBY3Rpdml0eS5ORVRXT1JLKTsK</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9iamVjdCBwcm9wZXJ0eSA9IGdldFByb3BlcnR5KFBsbVBTTmV0d29ya0FjdGl2aXR5Lk5FVFdPUkspID8gOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IHByb3BlcnR5ID0gZ2V0UHJvcGVydHkoUGxtUFNOZXR3b3JrQWN0aXZpdHkuTkVUV09SSyk7Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcm93LnB1dCgiV0JTX0VMRU1FTlQiLCBtc3QuZ2V0UHNwRWxlbWVudCgpKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gdXNlU3RhbmRhcmQgPSB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgRnVuY3Rpb248PyBzdXBlciBTdHJpbmcsID8+IGdldFdCU0VsbWVudEludCA9IGtleSAtPiBnZXRQcm9wZXJ0eShQcm9jZXNzU2FwRmllbGRDb25zdGFudHMuV0JTX0lOVCkuZXF1YWxzKCIiKSA/IG51bGwgOiBnZXRQcm9wZXJ0eShQcm9jZXNzU2FwRmllbGRDb25zdGFudHMuV0JTX0lOVCk7Ci8vICAgIHJldC5jb21wdXRlSWZBYnNlbnQoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLldCU19JTlQsIGdldFdCU0VsbWVudEludCk7Cg==</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPD8gc3VwZXIgU3RyaW5nLCA/PiBnZXROZXR3b3JrID0ga2V5IC0+IE9iamVjdHMuZXF1YWxzKG51bGwsICIiKSA/IG51bGwgOiBnZXRQcm9wZXJ0eShQbG1QU05ldHdvcmtBY3Rpdml0eS5ORVRXT1JLKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9uPD8gc3VwZXIgU3RyaW5nLCA/PiBnZXRBY3Rpdml0eSA9IGtleSAtPiBnZXRQcm9wZXJ0eShQbG1QU05ldHdvcmtBY3Rpdml0eS5BQ1RJVklUWSkuZXF1YWxzKCIiKSA/IG51bGwgOiBnZXRQcm9wZXJ0eShQbG1QU05ldHdvcmtBY3Rpdml0eS5BQ1RJVklUWSk7CiAgICByZXQuY29tcHV0ZUlmQWJzZW50KFBsbVBTTmV0d29ya0FjdGl2aXR5LkFDVElWSVRZLCBnZXRBY3Rpdml0eSk7Cg==</text>
+        <text encoding="base64">ICAgIE9iamVjdCBwcm9wZXJ0eSA9IGdldFByb3BlcnR5KFBsbVBTTmV0d29ya0FjdGl2aXR5Lk5FVFdPUkspID8gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0IHByb3BlcnR5ID0gZ2V0UHJvcGVydHkoUGxtUFNOZXR3b3JrQWN0aXZpdHkuTkVUV09SSyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>385</text>
