@@ -40,7 +40,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSItemHelper.java" timestamp="1523953346992">
         <mark key="'" line="128" column="59" />
       </file>
-      <file name="/ProcessPsMilestoneChange.java" timestamp="1523954600520" />
+      <file name="/ProcessPsMilestoneChange.java" timestamp="1523962826211">
+        <mark key="'" line="45" column="9" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1523895906382" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523530787507">
         <mark key="[" line="13" column="45" />
@@ -60,12 +62,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/PSItemContainer.java" timestamp="1523953367376">
         <mark key="'" line="89" column="49" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" timestamp="1523961128015">
-        <mark key="'" line="211" column="17" />
-        <mark key="[" line="436" column="46" />
-        <mark key="]" line="436" column="46" />
-        <mark key="^" line="436" column="51" />
-        <mark key="." line="436" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" timestamp="1523963913593">
+        <mark key="'" line="207" column="17" />
+        <mark key="[" line="445" column="66" />
+        <mark key="]" line="446" column="3" />
+        <mark key="^" line="446" column="3" />
+        <mark key="." line="446" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" timestamp="1523616950275">
         <mark key="'" line="135" column="4" />
@@ -88,11 +90,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" timestamp="1523954223056">
         <mark key="'" line="108" column="57" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" timestamp="1523958079979">
-        <mark key="[" line="120" column="87" />
-        <mark key="]" line="120" column="94" />
-        <mark key="." line="120" column="94" />
-        <mark key="^" line="120" column="94" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" timestamp="1523963783267">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="93" column="12" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" timestamp="1523960624713">
         <mark key="'" line="134" column="64" />
@@ -109,7 +111,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" timestamp="1523617983869">
         <mark key="'" line="154" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" timestamp="1523958779783">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" timestamp="1523964098525">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="54" />
         <mark key="^" line="93" column="9" />
@@ -122,6 +124,7 @@
         <mark key="^" line="51" column="79" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1523888007568" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1523963123355" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523616832215">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -136,7 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="126" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
       <jump line="416" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
       <jump line="132" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/cadagent/cfc/gfx/GxPreviewPanel.java" />
@@ -236,49 +238,50 @@
       <jump line="130" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" />
       <jump line="131" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" />
       <jump line="134" column="64" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" />
+      <jump line="45" column="9" filename="/ProcessPsMilestoneChange.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String, String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcm93LnB1dCgiV0JTX0VMRU1FTlQiLCBtc3QuZ2V0UHNwRWxlbWVudCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>String, String</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpblBuYXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>((String) psMilestone.getObrProperty(BrPSNetworkActivity.NETWORK).getValue()));</text>
+        <text>!StringTool.hasContent(mst.getPspElement())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcm93LnB1dCgiV0JTX0VMRU1FTlQiLCBtc3QuZ2V0UHNwRWxlbWVudCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldC5wdXQoUFJQX01JTEVTVE9ORV9OTywgc2Fwa2V5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmV0ID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KGNoYW5nZVZhbHVlcyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgRnVuY3Rpb248PyBzdXBlciBTdHJpbmcsID8+IGdldFdCU0VsbWVudEludCA9IGtleSAtPiBnZXRQcm9wZXJ0eShQcm9jZXNzU2FwRmllbGRDb25zdGFudHMuV0JTX0lOVCkuZXF1YWxzKCIiKSA/IG51bGwgOiBnZXRQcm9wZXJ0eShQcm9jZXNzU2FwRmllbGRDb25zdGFudHMuV0JTX0lOVCk7Ci8vICAgIHJldC5jb21wdXRlSWZBYnNlbnQoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLldCU19JTlQsIGdldFdCU0VsbWVudEludCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPD8gc3VwZXIgU3RyaW5nLCA/PiBnZXRBY3Rpdml0eSA9IGtleSAtPiBnZXRQcm9wZXJ0eShQbG1QU05ldHdvcmtBY3Rpdml0eS5BQ1RJVklUWSkuZXF1YWxzKCIiKSA/IG51bGwgOiBnZXRQcm9wZXJ0eShQbG1QU05ldHdvcmtBY3Rpdml0eS5BQ1RJVklUWSk7CiAgICByZXQuY29tcHV0ZUlmQWJzZW50KFBsbVBTTmV0d29ya0FjdGl2aXR5LkFDVElWSVRZLCBnZXRBY3Rpdml0eSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1zdC5nZXRQCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICghU3RyaW5nVG9vbC5oYXNDb250ZW50KG1zdC5nZXRQc3BFbGVtZW50KCkpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpc05ldHdvcmtBY3Rpdml0eSgpKQo=</text>
+        <text encoding="base64">ICAgIHJvdy5wdXQoIlRBQl9JTkRFWCIsICIxIik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
