@@ -55,10 +55,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" timestamp="1523954223056">
         <mark key="'" line="108" column="57" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" timestamp="1523955554655">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPsMilestoneChange.java" timestamp="1523955623003">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/pom.xml" timestamp="1523459411598">
         <mark key="[" line="14" column="0" />
@@ -134,8 +134,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/PSItemContainer.java" timestamp="1523953367376">
         <mark key="'" line="89" column="49" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" timestamp="1523955436495">
-        <mark key="'" line="155" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" timestamp="1523957079761">
+        <mark key="'" line="60" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523616832215">
         <mark key="[" line="36" column="0" />
@@ -166,11 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="/facc-effective-pom.xml" />
-      <jump line="21" column="35" filename="/facc-effective-pom.xml" />
-      <jump line="309" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="173" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
-      <jump line="329" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="330" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="335" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="337" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
@@ -266,64 +261,69 @@
       <jump line="239" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" />
       <jump line="197" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" />
       <jump line="155" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
+      <jump line="111" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
+      <jump line="137" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
+      <jump line="141" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
+      <jump line="162" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
+      <jump line="60" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestone.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG1zdC5nZXRQCg==</text>
       </register>
       <register name="-" type="4">
         <text>((BrPspElement) parent).getSapKey());</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VWYWx1ZXNYXD4=</text>
+        <text encoding="base64">XDxQUlBfUFNQX0VMRU1FTlRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgcm93LnB1dCgiV0JTX0VMRU1FTlQiLCAoKFN0cmluZykgKChCclBzcEVsZW1lbnQpIHBhcmVudCkuZ2V0T2JyUHJvcGVydHkoQnJQc3BFbGVtZW50LlBSUF9QU1BfTlVNQkVSX0VYVCkuZ2V0VmFsdWUoKSkpOwovLyAgICByb3cucHV0KCJXQlNfSU5UIiwgKChCclBzcEVsZW1lbnQpIHBhcmVudCkuZ2V0U2FwS2V5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG1zdC5nZXRQCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpc05ldHdvcmtBY3Rpdml0eSgpKQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc05ldHdvcmtBY3Rpdml0eSgpKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>private boolean isNetworkActivity()
 //  {
 //
 //  }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1zdC5nZXRCCg==</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1zdC5nZXRCCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1zdC5nZXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>385</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VWYWx1ZXNYXD4=</last-search>
+      <last-search encoding="base64">XDxQUlBfUFNQX0VMRU1FTlRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VWYWx1ZXNYXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQUlBfUFNQX0VMRU1FTlRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2X2ZvcmJpZFN0YXR1c1w+</entry>
-        <entry encoding="base64">XDxkY1RhYmxlc1w+</entry>
         <entry encoding="base64">XDxEYXRhRXhjVXRpbHNcPg==</entry>
         <entry encoding="base64">XDx2TWF0cml4XD4=</entry>
         <entry encoding="base64">XDxGUExNX0lEXD4=</entry>
@@ -351,6 +349,8 @@
         <entry encoding="base64">XDxFTF9PUFRJT05TXD4=</entry>
         <entry encoding="base64">XDxtQ3VzdG9tZXJEYXRhXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VWYWx1ZXNYXD4=</entry>
+        <entry encoding="base64">XDxpbXBvcnRWYWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxQUlBfUFNQX0VMRU1FTlRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>266</entry>
