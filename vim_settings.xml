@@ -3,13 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1523973374559">
-        <mark key="'" line="54" column="6" />
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="9" />
-        <mark key="." line="48" column="9" />
-        <mark key="^" line="48" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1524069902415">
+        <mark key="'" line="37" column="50" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1524070153178">
+        <mark key="'" line="54" column="6" />
+        <mark key="[" line="116" column="18" />
+        <mark key="]" line="117" column="3" />
+        <mark key="." line="117" column="3" />
+        <mark key="^" line="117" column="3" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessProjectGet.java" timestamp="1524070409813" />
       <file name="/a.dummy" timestamp="1523895698923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,6 +83,7 @@
         <mark key="." line="90" column="5" />
         <mark key="^" line="90" column="5" />
       </file>
+      <file name="/WeberProcessProjectGet.java" timestamp="1524070402203" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/PSItemContainer.java" timestamp="1523953367376">
         <mark key="'" line="89" column="49" />
       </file>
@@ -167,7 +172,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1523971519153">
+      <file name="/fragment.java" timestamp="1524070002319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -175,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" />
       <jump line="1118" column="62" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/AddComponentDialog.java" />
       <jump line="87" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfAddUrl.java" />
       <jump line="73" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfAddUrl.java" />
@@ -275,61 +279,62 @@
       <jump line="1060" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="84" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="28" column="39" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-50/customize/config/default.txt" />
+      <jump line="37" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBcwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>.append(&quot;\n&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VTdGFuZGFyZFw+</text>
+        <text encoding="base64">XDx0YWJsZURpYWxvZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKFN0cmluZ1Rvb2wuaGFzQ29udGVudChvbmVMaW5lKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQXJyYXlMaXN0PE9iamVjdD4gY29udDIgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbGxlY3QgPSBjb250LnN0cmVhbSgpLm1hcChPYmplY3Q6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiICIpKTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>385</text>
+        <text>107</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VTdGFuZGFyZFw+</last-search>
+      <last-search encoding="base64">XDx0YWJsZURpYWxvZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VTdGFuZGFyZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJsZURpYWxvZ1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGUExNX0lEXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1BcnJheVw+</entry>
         <entry encoding="base64">XDxoYXNTdHJ1Y3R1cmVcPg==</entry>
         <entry encoding="base64">XDxwbG1Cb21JdGVtc1w+</entry>
@@ -357,9 +361,9 @@
         <entry encoding="base64">XDxQUlBfUFNQX0VMRU1FTlRcPg==</entry>
         <entry encoding="base64">XDxpblBuYXNcPg==</entry>
         <entry encoding="base64">XDx1c2VTdGFuZGFyZFw+</entry>
+        <entry encoding="base64">XDx0YWJsZURpYWxvZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>266</entry>
         <entry>1378</entry>
         <entry>75</entry>
         <entry>758</entry>
@@ -379,6 +383,7 @@
         <entry>V</entry>
         <entry>230</entry>
         <entry>385</entry>
+        <entry>107</entry>
       </history-cmd>
       <history-expr />
       <history-input />
