@@ -13,6 +13,9 @@
         <mark key="^" line="69" column="25" />
         <mark key="." line="69" column="25" />
       </file>
+      <file name="/a.dummy" timestamp="1523895698923">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/pom.xml" timestamp="1524128754364">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="26" column="16" />
@@ -48,6 +51,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1523532005471">
         <mark key="'" line="580" column="37" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelComponent.java" timestamp="1524141261416" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1524071396877">
         <mark key="'" line="84" column="0" />
       </file>
@@ -102,10 +106,13 @@
         <mark key="^" line="447" column="70" />
         <mark key="." line="447" column="0" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1524140928922">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" timestamp="1523616950275">
         <mark key="'" line="135" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/pom.xml" timestamp="1524140296713">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/pom.xml" timestamp="1524141739197">
         <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="24" />
         <mark key="^" line="43" column="24" />
@@ -116,6 +123,13 @@
         <mark key="]" line="63" column="49" />
         <mark key="." line="63" column="49" />
         <mark key="^" line="63" column="48" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/BasicDataWithPreviewPanel.java" timestamp="1524141574784">
+        <mark key="'" line="280" column="2" />
+        <mark key="[" line="290" column="18" />
+        <mark key="]" line="290" column="22" />
+        <mark key="." line="290" column="22" />
+        <mark key="^" line="290" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1523887752427">
         <mark key="'" line="182" column="42" />
@@ -151,8 +165,8 @@
         <mark key="'" line="154" column="4" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/corba/se/impl/activation/ServerMain.java" timestamp="1524072373365" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" timestamp="1524140090244">
-        <mark key="'" line="320" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" timestamp="1524141119337">
+        <mark key="'" line="318" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/browser/components/BasicDataWithPreviewPanel.java" timestamp="1524140125799" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsMilestoneActDateChange.java" timestamp="1523964098525">
@@ -189,7 +203,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1524128893203">
+      <file name="/fragment.java" timestamp="1524141275298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -197,10 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="794" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
-      <jump line="835" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
-      <jump line="840" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
-      <jump line="856" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
       <jump line="881" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
       <jump line="884" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
       <jump line="896" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/XmlData.java" />
@@ -297,13 +307,17 @@
       <jump line="248" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="321" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="320" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
+      <jump line="318" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
+      <jump line="278" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
+      <jump line="276" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
+      <jump line="280" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>TIMEOUT_FOR_REFRESH_DISPLAY</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>TIMEOUT_FOR_REFRESH_DISPLAY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aWV3SW1hZ2VzXD4=</text>
