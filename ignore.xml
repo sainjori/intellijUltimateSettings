@@ -58,6 +58,15 @@ out/
 gen/
 target/
 bash.exe.stackdump</template>
+      <template name="ectr_in_git">/*
+!/basis
+/basis/*
+!/basis/config
+!addons/
+!customize
+!*.txt
+!*.bat
+!*.xml</template>
     </userTemplates>
   </component>
 </application>
