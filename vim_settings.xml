@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524239581392" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524244743356" />
       <file name="/a.dummy" timestamp="1523895698923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,7 +236,7 @@
         <mark key="'" line="227" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberPropertyToSap.java" timestamp="1523971314004" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1524238708390">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1524244519418">
         <mark key="[" line="97" column="56" />
         <mark key="]" line="97" column="55" />
         <mark key="." line="97" column="55" />
@@ -249,10 +249,10 @@
         <mark key="." line="2120" column="60" />
         <mark key="^" line="2120" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber.java" timestamp="1524240801993">
-        <mark key="]" line="45" column="24" />
-        <mark key="^" line="45" column="24" />
-        <mark key="." line="45" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber.java" timestamp="1524245023639">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1523963123355" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1524138718216" />
@@ -381,49 +381,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZkRlZXJlU2F2ZU1hdENvc3REYXRhTXVsdGkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.admin.menu</text>
+        <text>IN_DOC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aWV3RnJhbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnNob3cuYWRtaW4ubWVudQo=</text>
+      <register name="0" type="4">
+        <text>dataContainer.getObject(PlmProcessMaterialCreate.IN_DOC);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZkRlZXJlU2F2ZU1hdENvc3REYXRhTXVsdGkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogYW5kIHJldHVybiB0aGUgbmV3IHZhbHVlIGJhY2sK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogRjQgSGVscCBkYWRpIHRvIHNlbmQgY3VycmVudCB2YWx1ZSB0byBaLUZNCg==</text>
+        <text encoding="base64">ICAgIG9iamVjdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHZlcnNpb24gJFJldmlzaW9uOiAyMyAkICgkRGF0ZTogMjAxNi0wMy0zMCAxMDoyODo1MCArMDIwMCAoTWksIDMwIE1yeiAyMDE2KSAkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBnZXROZXdWYWx1ZShTdHJpbmcgZHR5cGUpIHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9uCiAgewogICAgQXBpUGFyYW1ldGVyIHBhcmFtcyA9IG5ldyBBcGlQYXJhbWV0ZXIoKTsKICAgIHBhcmFtcy5hZGRJbXBvcnQoIklWX0RUWVBFIiwgZHR5cGUpOwogICAgZXhlY3V0ZUFwaSgiWkRIX0dFVF9QQVJUTk8iLCBwYXJhbXMpOwoKICAgIFN0cmluZyBuZXdWYWx1ZSA9IHBhcmFtcy5nZXRTY2FsYXJFeHBvcnQoIkVWX1BBUlROVU1CRVIiKTsKICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJuZXdWYWx1ZSAtICIgKyBuZXdWYWx1ZSk7CgogICAgcmV0dXJuIG5ld1ZhbHVlOwogIH0KCiAgcHJpdmF0ZSBib29sZWFuIGlzUmlnaHRDaGFyYWN0ZXJpc3RpYyhQbG1DbGFzc0NoYXJhY3RlcmlzdGljIGNoYXJhY3RlcmlzdGljKQogIHsKICAgIGlmICgiWlBBUlROTyIuZXF1YWxzKGNoYXJhY3RlcmlzdGljLmdldE5hbWUoKSkgJiYgIlpESCIuZXF1YWxzKGNoYXJhY3RlcmlzdGljLmdldENsYXNzTmFtZSgpKQogICAgICAgICYmICIwMTciLmVxdWFscyhjaGFyYWN0ZXJpc3RpYy5nZXRDbGFzc1R5cGUoKSkpCiAgICB7CiAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQbG1Qcm9jZXNzTWF0ZXJpYWxDcmVhdGUuSU5fRE9DLCBwbG1Eb2MpOwogICAgZGMuYWRkT2JqZWN0KFByb2Nlc3NNYXRDcmVhdGUuUExNTUFULCBwbG1NYXRDcmVhdGUpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIFBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMgY2hhcmFjdGVyaXN0aWMgPSBnZXRPYmplY3RJbnB1dChQbG1DbGFzc2lmaWNhdGlvblV0aWxzLklOX0NIQVIpOwogICAgaWYgKCFpc1JpZ2h0Q2hhcmFjdGVyaXN0aWMoY2hhcmFjdGVyaXN0aWMpKQogICAgewogICAgICBkYXRhQ29udGFpbmVyQmFjay5hZGRPYmplY3QoUGxtQ2xhc3NpZmljYXRpb25VdGlscy5PVVRfTk9UX0RBREksIHRydWUpOwogICAgICByZXR1cm47CiAgICB9CgogICAgTGlzdDxQbG1WYWx1ZT4gc2VsZWN0ZWRWYWx1ZXMgPSBnZXRPYmplY3RJbnB1dChQbG1DbGFzc2lmaWNhdGlvblV0aWxzLklOX1NFTEVDVElPTik7CiAgICBpZiAoQ29udGFpbmVyVG9vbC5oYXNJdGVtcyhzZWxlY3RlZFZhbHVlcykpCiAgICB7CiAgICAgIFN0cmluZyBjdXJyZW50VmFsdWUgPSBzZWxlY3RlZFZhbHVlcy5nZXQoMCkuZ2V0U2FwS2V5KCk7CiAgICAgIFN0cmluZyBuZXdWYWx1ZSA9IGdldE5ld1ZhbHVlKGN1cnJlbnRWYWx1ZSk7CiAgICAgIExpc3Q8UGxtVmFsdWU+IG5ld1ZhbHVlcyA9IG5ldyBBcnJheUxpc3Q8UGxtVmFsdWU+KCk7CiAgICAgIG5ld1ZhbHVlcy5hZGQobmV3IFBsbVZhbHVlKG5ld1ZhbHVlLCBuZXdWYWx1ZSkpOwogICAgICBkYXRhQ29udGFpbmVyQmFjay5hZGRPYmplY3QoUGxtQ2xhc3NpZmljYXRpb25VdGlscy5PVVRfVkFMVUVTLCBuZXdWYWx1ZXMpOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBQbG1Eb2N1bWVudENvbnRhaW5lcigpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRkZGRkCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZkRlZXJlU2F2ZU1hdENvc3REYXRhTXVsdGkK</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
