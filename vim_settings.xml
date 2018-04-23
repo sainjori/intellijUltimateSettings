@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524500246477">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524501784524">
         <mark key="'" line="1258" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSObjFactory.java" timestamp="1523957865186">
@@ -90,6 +90,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/swt_win32_x64/4.2.1/swt_win32_x64-4.2.1-sources.jar!/org/eclipse/swt/accessibility/Accessible.java" timestamp="1524214658265" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirHeaderPanel.java" timestamp="1524218741660" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/MaterialTemplateRepository.java" timestamp="1524501826931" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1524073748641" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1524217462900" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" timestamp="1523954223056">
@@ -147,6 +148,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT.jar!/cadagent/cfc/gfx/GxPreviewPanel.class" timestamp="1524140273306">
         <mark key="'" line="367" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" timestamp="1524502404392">
+        <mark key="'" line="1761" column="36" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.0/customize/config/menu.guidef" timestamp="1524229713319">
         <mark key="'" line="13" column="46" />
       </file>
@@ -188,7 +192,7 @@
         <mark key="'" line="894" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/util/DefaultPreviewRetriever.java" timestamp="1524218138383" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524501252683" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524501803217" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/pom.xml" timestamp="1524145053183">
         <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="24" />
@@ -282,28 +286,13 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1524500911443">
+      <file name="/fragment.java" timestamp="1524502408770">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="184" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="192" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="200" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="201" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="217" column="50" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="219" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="221" column="46" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="226" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="173" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="77" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="243" column="46" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="249" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
-      <jump line="378" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DirBrowsePanel.java" />
-      <jump line="735" column="34" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/SwingWorker.java" />
       <jump line="443" column="55" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/SwingWorker.java" />
       <jump line="248" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="321" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
@@ -389,6 +378,21 @@
       <jump line="996" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="831" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/cfc/util/Trace.java" />
       <jump line="1258" column="47" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="2285" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2287" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2310" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2331" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2336" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2338" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="505" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="1276" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="1762" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="235" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2280" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="2284" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="517" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="1261" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="1761" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +402,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbG1NYXRDcmVhdGVcPg==</text>
+        <text encoding="base64">XDxtYXR0ZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgZ2V0Q2xhc3MoKS5nZXROYW1lKCkgKyAiOiAiICsgZS5nZXRNZXNzYWdlKCkpOwo=</text>
@@ -441,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbG1NYXRDcmVhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxtYXR0ZW1wbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbG1NYXRDcmVhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXR0ZW1wbGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -451,9 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWluQ29tcG9uZW50XD4=</entry>
-        <entry encoding="base64">XDxwcmV2aWV3UGFuZWxcPg==</entry>
-        <entry>exe</entry>
         <entry encoding="base64">XDx4bWxQYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxoYXNoY29udGFpbmVyTWl0Tm9kZXNcPg==</entry>
         <entry>logon</entry>
@@ -471,6 +472,9 @@
         <entry encoding="base64">XDxpbWFnZVBhbmVsXD4=</entry>
         <entry encoding="base64">XDxwcmV2aWV3RnJhbWVcPg==</entry>
         <entry encoding="base64">XDxwbG1NYXRDcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxtYXRlcmlhbFRlbXBsYXRlc1w+</entry>
+        <entry encoding="base64">XDxNQVRfVEVNUExBVEVcPg==</entry>
+        <entry encoding="base64">XDxtYXR0ZW1wbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1378</entry>
