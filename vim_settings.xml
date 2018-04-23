@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524494941931">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524498342689">
         <mark key="'" line="996" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSObjFactory.java" timestamp="1523957865186">
@@ -120,7 +120,12 @@
         <mark key="^" line="51" column="79" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1523888007568" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1524490157477" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1524498368347">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1523970110217">
         <mark key="'" line="1060" column="45" />
       </file>
@@ -232,6 +237,12 @@
         <mark key="'" line="227" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberPropertyToSap.java" timestamp="1523971314004" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_osgi/pom.xml" timestamp="1524498552101">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1524244519418">
         <mark key="[" line="97" column="56" />
         <mark key="]" line="97" column="55" />
@@ -270,7 +281,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1524494991667">
+      <file name="/fragment.java" timestamp="1524498604924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -380,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allowEdit = true</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>allowEdit = true</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRDcmVhdGVcPg==</text>
