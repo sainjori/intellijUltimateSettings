@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524480903654">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524494941931">
         <mark key="'" line="996" column="30" />
-      </file>
-      <file name="/a.dummy" timestamp="1523895698923">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSObjFactory.java" timestamp="1523957865186">
         <mark key="'" line="115" column="3" />
@@ -79,9 +76,6 @@
         <mark key="^" line="447" column="70" />
         <mark key="." line="447" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1524140928922">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" timestamp="1523616950275">
         <mark key="'" line="135" column="4" />
       </file>
@@ -126,6 +120,7 @@
         <mark key="^" line="51" column="79" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1523888007568" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1524490157477" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1523970110217">
         <mark key="'" line="1060" column="45" />
       </file>
@@ -204,23 +199,20 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1523887752427">
         <mark key="'" line="182" column="42" />
       </file>
-      <file name="/1.regexp" timestamp="1524214290137">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1524220088527">
         <mark key="'" line="435" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1524217650204">
         <mark key="'" line="247" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1524489341147">
+        <mark key="'" line="831" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" timestamp="1523960624713">
         <mark key="'" line="134" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1523622449273">
         <mark key="'" line="269" column="2" />
-      </file>
-      <file name="/1.groovy" timestamp="1524214290146">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1524239884673">
         <mark key="[" line="0" column="0" />
@@ -278,12 +270,13 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1524479645318">
+      <file name="/fragment.java" timestamp="1524494991667">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT.jar!/cadagent/cfc/gfx/GxPreviewPanel.class" />
       <jump line="172" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
       <jump line="178" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
       <jump line="184" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
@@ -383,13 +376,14 @@
       <jump line="935" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="941" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="996" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="831" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>allowEdit = true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>allowEdit = true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRDcmVhdGVcPg==</text>
