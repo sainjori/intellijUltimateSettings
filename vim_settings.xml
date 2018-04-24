@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524561823015">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524563233545">
         <mark key="'" line="1258" column="47" />
       </file>
       <file name="/a.dummy" timestamp="1523895698923">
@@ -290,11 +290,12 @@
         <mark key="^" line="2182" column="77" />
         <mark key="." line="2182" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524561991957">
-        <mark key="[" line="73" column="3" />
-        <mark key="]" line="73" column="26" />
-        <mark key="^" line="73" column="26" />
-        <mark key="." line="73" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524563499256">
+        <mark key="'" line="78" column="33" />
+        <mark key="[" line="81" column="24" />
+        <mark key="]" line="81" column="32" />
+        <mark key="." line="81" column="32" />
+        <mark key="^" line="81" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523616832215">
         <mark key="[" line="36" column="0" />
@@ -309,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="163" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="588" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="70" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
@@ -409,43 +409,44 @@
       <jump line="204" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="1527" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="2154" column="44" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" />
+      <jump line="76" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>deere.dadi.DadiInterPretMatNumber</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHJvcC5zZXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZVJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>deere.dadi.DadiInterPretMatNumber</text>
+        <text>PlmProcessMaterialCreateMulti.UserInputCreateMat.MATTEMPLATE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcHJvcC5zZXRlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChwbG1WYWx1ZUFzc2lnbm1lbnQuZ2V0VmFsdWVzQ291bnQoKSApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChwbG1WYWx1ZUFzc2lnbm1lbnQuZ2V0VmFsdWVzQ291bnQoKSApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWUuZXF1YWxzKERPQ19DTEFTU19OQU1FKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -454,7 +455,7 @@
         <text encoding="base64">ICAgICAgICAgIG5hbWUuZXF1YWxzKERPQ19DTEFTU19OQU1FKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZS4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWUuZXF1YWxzKERPQ19DTEFTU19OQU1FKTsK</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
