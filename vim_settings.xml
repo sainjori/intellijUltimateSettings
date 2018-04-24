@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524567754907">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524569956207">
         <mark key="'" line="834" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1523895698923">
@@ -37,6 +37,13 @@
         <mark key="]" line="174" column="0" />
         <mark key="^" line="175" column="52" />
         <mark key="." line="174" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/basis/config/system-default.txt" timestamp="1524239757581">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="699" column="70" />
+        <mark key="]" line="701" column="33" />
+        <mark key="^" line="701" column="33" />
+        <mark key="." line="701" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSItemHelper.java" timestamp="1523953346992">
         <mark key="'" line="128" column="59" />
@@ -133,8 +140,8 @@
         <mark key="'" line="1060" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/brobj/BrDocument.java" timestamp="1524475283983" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1524567352698">
-        <mark key="'" line="96" column="45" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1524569869206">
+        <mark key="'" line="357" column="51" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1524071188261">
         <mark key="'" line="37" column="50" />
@@ -293,12 +300,12 @@
         <mark key="^" line="2182" column="77" />
         <mark key="." line="2182" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524568048540">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524571180843">
         <mark key="'" line="80" column="33" />
-        <mark key="[" line="131" column="27" />
-        <mark key="]" line="132" column="33" />
-        <mark key="." line="132" column="33" />
-        <mark key="^" line="132" column="33" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="110" column="3" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523616832215">
         <mark key="[" line="36" column="0" />
@@ -396,15 +403,6 @@
       <jump line="1527" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="2154" column="44" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" />
       <jump line="76" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" />
-      <jump line="340" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="341" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="342" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="343" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="349" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="350" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="355" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="357" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="96" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
       <jump line="1221" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="837" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="1039" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
@@ -413,61 +411,70 @@
       <jump line="1201" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="562" column="49" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="834" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="96" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="340" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="341" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="342" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="343" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="349" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="350" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="355" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
+      <jump line="357" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.2.1/base-5.1.2.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>editable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>editable</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNQVRUWVBFXD4=</text>
+        <text encoding="base64">XDxjaGFuZ2VkTGlzdGVuZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE9iclByb3BlcnR5IHByb3AgPSB1c2VySW5wdXRDcmVhdGVNYXQuZ2V0UHJvcChQbG1Qcm9jZXNzTWF0ZXJpYWxDcmVhdGVNdWx0aS5Vc2VySW5wdXRDcmVhdGVNYXQuTUFUVEVNUExBVEUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJvcC5zZXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHJpdmF0ZSBTdHJpbmcgZ2V0TnVtYmVyRnJvbURvY0NsYXNzaWZpY2F0aW9uMihQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCkKICB7CiAgICBQbG1DbGFzc0FsbG9jYXRpb24gY2xhc3NBbGxvY2F0aW9uID0gcGxtRG9jdW1lbnQuZ2V0Q2xhc3NBbGxvY2F0aW9uKERPQ19DTEFTU19OQU1FKTsKICAgIGlmIChjbGFzc0FsbG9jYXRpb24gIT0gbnVsbCkKICAgIHsKICAgICAgUGxtVmFsdWVBc3NpZ25tZW50IHBsbVZhbHVlQXNzaWdubWVudCA9IGNsYXNzQWxsb2NhdGlvbi5nZXRQbG1WYWx1ZUFzc2lnbm1lbnQoRE9DX0NMQVNTX05BTUVfQ0hBUkFDVEVSSVNUSUMpOwogICAgICBpZiAocGxtVmFsdWVBc3NpZ25tZW50ICE9IG51bGwpCiAgICAgIHsKICAgICAgICBpZiAocGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMSkKICAgICAgICB7CiAgICAgICAgICBQbG1WYWx1ZSB2YWx1ZUF0ID0gcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlQXQoMCk7CiAgICAgICAgICByZXR1cm4gdmFsdWVBdC5nZXRWYWx1ZSgpOwogICAgICAgIH0KICAgICAgfQogICAgfQogICAgcmV0dXJuIG51bGw7CiAgfQoKCiAgcHJpdmF0ZSBTdHJpbmcgZ2V0TnVtYmVyRnJvbURvY0NsYXNzaWZpY2F0aW9uKFBsbURvY3VtZW50IHBsbURvY3VtZW50KQogIHsKICAgIGZvciAoUGxtQ2xhc3NBbGxvY2F0aW9uIHBsbUNsYXNzQWxsb2NhdGlvbiA6IHBsbURvY3VtZW50LmdldENsYXNzQWxsb2NhdGlvbnMoKSkKICAgIHsKICAgICAgUGxtQ2xhc3MgcGxtQ2xhc3MgPSBwbG1DbGFzc0FsbG9jYXRpb24uZ2V0UGxtQ2xhc3MoKTsKICAgICAgaWYgKHBsbUNsYXNzICE9IG51bGwpCiAgICAgIHsKICAgICAgICBTdHJpbmcgbmFtZSA9IHBsbUNsYXNzLmdldE5hbWUoKTsKICAgICAgICBpZiAobmFtZSAhPSBudWxsICAmJiBuYW1lLmVxdWFscyhET0NfQ0xBU1NfTkFNRSkpCiAgICAgICAgewogICAgICAgICAgUGxtVmFsdWVBc3NpZ25tZW50IHBsbVZhbHVlQXNzaWdubWVudCA9IHBsbUNsYXNzQWxsb2NhdGlvbi5nZXRQbG1WYWx1ZUFzc2lnbm1lbnQoRE9DX0NMQVNTX05BTUVfQ0hBUkFDVEVSSVNUSUMpOwogICAgICAgICAgaWYgKHBsbVZhbHVlQXNzaWdubWVudCAhPSBudWxsICYmIHBsbVZhbHVlQXNzaWdubWVudC5nZXRWYWx1ZXNDb3VudCgpID09IDEpCiAgICAgICAgICB7CiAgICAgICAgICAgIFBsbVZhbHVlIHBsbVZhbHVlID0gcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlQXQoMCk7CiAgICAgICAgICAgIHJldHVybiBwbG1WYWx1ZS5nZXRWYWx1ZSgpOwogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIHJldHVybiBudWxsOwogIH0KCiAgcHJpdmF0ZSB2b2lkIHJlYWREZXRhaWxzKFBsbURvY3VtZW50IHBsbURvY3VtZW50KSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogIHsKICAgIFBsbURvY3VtZW50Q29udGFpbmVyIHBsbURvY3VtZW50cyA9IG5ldyBQbG1Eb2N1bWVudENvbnRhaW5lcigpOwogICAgcGxtRG9jdW1lbnRzLmFkZERvY3VtZW50KHBsbURvY3VtZW50KTsKICAgIHBsbURvY3VtZW50cy5yZWFkRGV0YWlsc1BvcCh0cnVlLHRydWUpOwogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMQo=</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBvYnJGdW5jdGlvbktleXMgPSBwcm9wLmdldE9ickZ1bmN0aW9uS2V5cygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChwbG1WYWx1ZUFzc2lnbm1lbnQuZ2V0VmFsdWVzQ291bnQoKSApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWUuZXF1YWxzKERPQ19DTEFTU19OQU1FKTsK</text>
+        <text encoding="base64">ICAgIHByb3Auc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWUuZXF1YWxzKERPQ19DTEFTU19OQU1FKTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8T2JqZWN0PiBzZWxlY3Rpb24gPSBwcm9wLmdldFNlbGVjdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNQVRUWVBFXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VkTGlzdGVuZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNQVRUWVBFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VkTGlzdGVuZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -492,9 +499,9 @@
         <entry encoding="base64">XDxNQVRfVEVNUExBVEVcPg==</entry>
         <entry encoding="base64">XDxtYXR0ZW1wbGF0ZVw+</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVJlcG9zaXRvcnlcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VkTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxNQVRURU1QTEFURVw+</entry>
         <entry encoding="base64">XDxNQVRUWVBFXD4=</entry>
+        <entry encoding="base64">XDxjaGFuZ2VkTGlzdGVuZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1378</entry>
