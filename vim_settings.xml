@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524563233545">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524564852274">
         <mark key="'" line="1258" column="47" />
       </file>
       <file name="/a.dummy" timestamp="1523895698923">
@@ -290,12 +290,12 @@
         <mark key="^" line="2182" column="77" />
         <mark key="." line="2182" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524563499256">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524565165498">
         <mark key="'" line="78" column="33" />
-        <mark key="[" line="81" column="24" />
-        <mark key="]" line="81" column="32" />
-        <mark key="." line="81" column="32" />
-        <mark key="^" line="81" column="32" />
+        <mark key="[" line="107" column="25" />
+        <mark key="]" line="107" column="10" />
+        <mark key="." line="107" column="10" />
+        <mark key="^" line="107" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/test/java/sandvik/proc/api/wrapper/SandvikProcessGenericDocumentReadDetailsTest.java" timestamp="1523616832215">
         <mark key="[" line="36" column="0" />
@@ -303,7 +303,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1524561596608">
+      <file name="/fragment.java" timestamp="1524564082591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -412,17 +412,17 @@
       <jump line="76" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJvcC5zZXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>MATTEMPLATE</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>MATTEMPLATE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZVJlcG9zaXRvcnlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>PlmProcessMaterialCreateMulti.UserInputCreateMat.MATTEMPLATE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIE9iclByb3BlcnR5IHByb3AgPSB1c2VySW5wdXRDcmVhdGVNYXQuZ2V0UHJvcChQbG1Qcm9jZXNzTWF0ZXJpYWxDcmVhdGVNdWx0aS5Vc2VySW5wdXRDcmVhdGVNYXQuTUFUVEVNUExBVEUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcHJvcC5zZXRlCg==</text>
