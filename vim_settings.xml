@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524574729342">
-        <mark key="'" line="834" column="31" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524581650567">
+        <mark key="'" line="142" column="51" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1524071188261">
         <mark key="'" line="37" column="50" />
@@ -77,6 +77,12 @@
       <file name="/ProcessPsMilestoneChange.java" timestamp="1523962826211">
         <mark key="'" line="45" column="9" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiInterPretMatNumber.java" timestamp="1524584060632">
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="35" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="53" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/fff.java" timestamp="1524240778447">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="45" column="13" />
@@ -137,11 +143,11 @@
         <mark key="." line="63" column="49" />
         <mark key="^" line="63" column="48" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiMatCreateMultiBeforShowGui.java" timestamp="1524579594618">
-        <mark key="[" line="107" column="70" />
-        <mark key="]" line="107" column="70" />
-        <mark key="." line="107" column="70" />
-        <mark key="^" line="107" column="70" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiMatCreateMultiBeforShowGui.java" timestamp="1524583820284">
+        <mark key="[" line="117" column="8" />
+        <mark key="]" line="117" column="22" />
+        <mark key="." line="117" column="22" />
+        <mark key="^" line="117" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1523887752427">
         <mark key="'" line="182" column="42" />
@@ -246,12 +252,12 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1524578765847">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1524581679227">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2184" column="44" />
-        <mark key="]" line="2184" column="45" />
-        <mark key="^" line="2184" column="45" />
-        <mark key="." line="2184" column="45" />
+        <mark key="[" line="2184" column="31" />
+        <mark key="]" line="2184" column="37" />
+        <mark key="^" line="2184" column="37" />
+        <mark key="." line="2184" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" timestamp="1524578095635">
         <mark key="'" line="78" column="9" />
@@ -279,18 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="435" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="900" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DirBrowsePanel.java" />
-      <jump line="894" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DirBrowsePanel.java" />
-      <jump line="277" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
-      <jump line="13" column="46" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.0/customize/config/menu.guidef" />
-      <jump line="16" column="36" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.0/basis/config/system-default.txt" />
-      <jump line="24" column="75" filename="/system-default.txt" />
-      <jump line="102" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/fff.java" />
-      <jump line="22" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/basis/config/system-default.txt" />
-      <jump line="26" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" />
-      <jump line="1414" column="25" filename="/default.txt" />
       <jump line="78" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/omf/OmfDeereSaveMatCostDataMulti.java" />
       <jump line="1008" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="999" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
@@ -379,19 +373,31 @@
       <jump line="2484" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createGui/DeereProcessDocumentCreateGui.java" />
       <jump line="2154" column="44" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" />
+      <jump line="470" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="472" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="473" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="482" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="483" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="484" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="487" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="488" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="489" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="491" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="1242" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
+      <jump line="142" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>templatesNotInclude</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>templatesNotInclude</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhdGlvblw+</text>
+        <text encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJDdXJyZW50TG9jYXRpb246ICIrIGN1cnJlbnRMb2NhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdGlvbnMucmVtb3ZlKDApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -400,40 +406,56 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJDdXJyZW50TG9jYXRpb246ICIrIGN1cnJlbnRMb2NhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIHByb3Auc2V0VmFsdWUodXNlcklucHV0Q3JlYXRlTWF0LmdldFBsbU1hdFRlbXBsYXRlKCkuZ2V0VHlwZSgpKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGlvbi5yZW1vdmUobyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVlcmUubWF0ZXJpYWwudGVtcGxhdGUuZmlsdGVyLgo=</text>
+      <register name="6" type="4">
+        <text>private String getNumberFromDocClassification2(PlmDocument plmDocument)
+  {
+    PlmClassAllocation classAllocation = plmDocument.getClassAllocation(DOC_CLASS_NAME);
+    if (classAllocation != null)
+    {
+      PlmValueAssignment plmValueAssignment = classAllocation.getPlmValueAssignment(DOC_CLASS_NAME_CHARACTERISTIC);
+      if (plmValueAssignment != null)
+      {
+        if (plmValueAssignment.getValuesCount() == 1)
+        {
+          PlmValue valueAt = plmValueAssignment.getValueAt(0);
+          return valueAt.getValue();
+        }
+      }
+    }
+    return null;
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVlcmUubWF0ZXJpYWwudGVtcGxhdGUuZmlsdGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvcC5zZXRWYWx1ZShvYmplY3RzLmdldCgwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhdGlvblw+</last-search>
+      <last-search encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VWYWx1ZXNYXD4=</entry>
         <entry encoding="base64">XDxpbXBvcnRWYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxQUlBfUFNQX0VMRU1FTlRcPg==</entry>
         <entry encoding="base64">XDxpblBuYXNcPg==</entry>
@@ -461,6 +482,7 @@
         <entry encoding="base64">XDxNQVRUWVBFXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VkTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>1378</entry>
