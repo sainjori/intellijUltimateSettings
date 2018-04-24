@@ -148,7 +148,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT.jar!/cadagent/cfc/gfx/GxPreviewPanel.class" timestamp="1524140273306">
         <mark key="'" line="367" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" timestamp="1524558700475">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" timestamp="1524559550865">
         <mark key="'" line="1761" column="36" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.0/customize/config/menu.guidef" timestamp="1524229713319">
@@ -192,7 +192,7 @@
         <mark key="'" line="894" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/util/DefaultPreviewRetriever.java" timestamp="1524218138383" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524501803217" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1524559042638" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/pom.xml" timestamp="1524145053183">
         <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="24" />
@@ -286,14 +286,13 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1524558328780">
+      <file name="/fragment.java" timestamp="1524559548603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="318" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="278" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
       <jump line="276" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
@@ -390,7 +389,8 @@
       <jump line="2290" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
       <jump line="2280" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
       <jump line="2284" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="517" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="95" column="60" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
+      <jump line="517" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
       <jump line="1261" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
       <jump line="1761" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
     </jumps>
