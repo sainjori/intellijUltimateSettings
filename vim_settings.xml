@@ -12,7 +12,6 @@
       <file name="/a.dummy" timestamp="1524579483981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.2.1/sapbase-5.1.2.1-sources.jar!/cadagent/proc/logon/ProcessSapLogonWithGui.java" timestamp="1524577180485" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSObjFactory.java" timestamp="1523957865186">
         <mark key="'" line="115" column="3" />
       </file>
@@ -40,11 +39,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1523532005471">
         <mark key="'" line="580" column="37" />
       </file>
-      <file name="/OmfBhsVendorCreate.java" timestamp="1524651762450" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1524646965440">
         <mark key="'" line="84" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.2.1/sapbase-5.1.2.1-sources.jar!/cadagent/LogonMain.java" timestamp="1524577403144" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.2.1/sapbase-5.1.2.1-sources.jar!/cadagent/sap/man/SapConnection.java" timestamp="1524576006030">
         <mark key="'" line="135" column="17" />
       </file>
@@ -54,7 +51,6 @@
       <file name="/ProcessPsMilestoneChange.java" timestamp="1523962826211">
         <mark key="'" line="45" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiInterPretMatNumber.java" timestamp="1524584743646" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1523632155421">
         <mark key="'" line="1100" column="0" />
       </file>
@@ -109,6 +105,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1524217650204">
         <mark key="'" line="247" column="39" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/lxss/home/bya/.gitignore" timestamp="1524662068152">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMilestoneContainer.java" timestamp="1523954223056">
         <mark key="'" line="108" column="57" />
       </file>
@@ -127,7 +129,7 @@
       <file name="/system-default.txt" timestamp="1524229790108">
         <mark key="'" line="24" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524658514628">
+      <file name="/Dummy.txt" timestamp="1524661893257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -285,16 +287,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>templatesNotInclude</text>
+        <text>bash</text>
       </register>
       <register name="-" type="4">
-        <text>templatesNotInclude</text>
+        <text>bash</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGlvbnMucmVtb3ZlKDApCg==</text>
+        <text encoding="base64">YmFzaC5leGUuc3RhY2tkdW1wCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
