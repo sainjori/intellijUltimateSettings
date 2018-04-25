@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.project;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern=".bashrc" type="Bash" />
+      <mapping pattern=".profile" type="Bash" />
       <mapping ext="prt" type="Native" />
       <mapping pattern="ff" type="XML" />
     </extensionMap>
