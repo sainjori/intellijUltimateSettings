@@ -98,12 +98,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" timestamp="1523616950275">
         <mark key="'" line="135" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1524842388582">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1524843959508">
         <mark key="'" line="817" column="42" />
-        <mark key="[" line="192" column="10" />
-        <mark key="]" line="192" column="31" />
-        <mark key="^" line="192" column="31" />
-        <mark key="." line="192" column="31" />
+        <mark key="[" line="193" column="13" />
+        <mark key="]" line="193" column="13" />
+        <mark key="^" line="225" column="153" />
+        <mark key="." line="193" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1523887752427">
         <mark key="'" line="182" column="42" />
@@ -120,6 +120,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.10.0/sapbase-5.1.10.0-sources.jar!/cadagent/proc/PlmMultiDetailProcessFast.java" timestamp="1524129736837">
         <mark key="'" line="176" column="65" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1524843529373" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1524217650204">
         <mark key="'" line="247" column="39" />
       </file>
@@ -171,6 +172,7 @@
         <mark key="." line="38" column="10" />
         <mark key="^" line="38" column="10" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataImport.java" timestamp="1524842707150" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/omf/OmfDeereSaveMatCostDataMulti.java" timestamp="1524241063000">
         <mark key="'" line="78" column="38" />
       </file>
@@ -298,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ifAssemblyAbort</text>
+        <text encoding="base64">ICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>ifAssemblyAbort</text>
+        <text encoding="base64">ICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VGaWxlXD4=</text>
