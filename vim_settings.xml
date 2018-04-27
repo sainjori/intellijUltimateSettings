@@ -98,12 +98,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/XmlData.java" timestamp="1523616950275">
         <mark key="'" line="135" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1524838258408">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1524839764016">
         <mark key="'" line="460" column="38" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="132" column="6" />
-        <mark key="." line="132" column="0" />
+        <mark key="[" line="111" column="6" />
+        <mark key="]" line="109" column="20" />
+        <mark key="^" line="109" column="20" />
+        <mark key="." line="109" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1523887752427">
         <mark key="'" line="182" column="42" />
@@ -147,7 +147,7 @@
       <file name="/system-default.txt" timestamp="1524229790108">
         <mark key="'" line="24" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524832515815">
+      <file name="/Dummy.txt" timestamp="1524838406857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -298,49 +298,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>createInSap</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>createInSap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VGaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cnJlbmNlVHlwZSA9IEpBWEJVdGlscy5nZXRHZW5lcmljVHlwZShQcm9kdWN0Vmlld1R5cGUuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIENvbnN1bWVyPE9jY3VycmVuY2VUeXBlPiBmZWYgPSBvY2N1cnJlbmNlVHlwZSAtPiBjcmVhdGVDb21wb25lbnQob2NjdXJyZW5jZVR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmV0dXJuICAgICAgIG9jY3VycmVuY2VUeXBlcy5zdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUNvbXBvbmVudHNGaXJzdChvY2N1cmVuY2VUeXBlUHJpbWFyeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGludCBjb3VudGVyID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5vZihvY2N1cmVuY2VUeXBlUHJpbWFyeSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
+        <text encoding="base64">ICAgIENvbnN1bWVyPE9jY3VycmVuY2VUeXBlPiBmZWYgPSBvY2N1cnJlbmNlVHlwZSAtPiBjcmVhdGVDb21wb25lbnQob2NjdXJyZW5jZVR5cGUpOwogICAgQ29uc3VtZXI8VG9vbD4gZmVmID0gdG9vbCAtPiBjcmVhdGVJblNhcCh0b29sKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudGVyID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPE9jY3VycmVuY2VUeXBlLCBPcHRpb25hbDxUb29sPj4gYmwgPSBvY2N1cnJlbmNlVHlwZSAtPiBjcmVhdGVDb21wb25lbnQob2NjdXJyZW5jZVR5cGUpOwogICAgRnVuY3Rpb248TywgT3B0aW9uYWw8VG9vbD4+IGJsID0gb2NjdXJyZW5jZVR5cGUgLT4gY3JlYXRlQ29tcG9uZW50KG9jY3VycmVuY2VUeXBlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChPY2N1cnJlbmNlVHlwZSBjb21wb25lbnQgOiBvY2N1cnJlbmNlVHlwZXMpCiAgICAgIHsKICAgICAgICBPcHRpb25hbDxUb29sPiB0b29sID0gY3JlYXRlQ29tcG9uZW50KGNvbXBvbmVudCk7CiAgICAgICAgaWYgKHRvb2wuaXNQcmVzZW50KCkpCiAgICAgICAgewogICAgICAgICAgdHJ5CiAgICAgICAgICB7CiAgICAgICAgICAgIGNyZWF0ZUluU2FwKHRvb2wuZ2V0KCkpOwogICAgICAgICAgfQogICAgICAgICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgICAgICAgIHsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
