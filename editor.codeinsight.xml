@@ -6,4 +6,8 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAnonymousClasses" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+  </component>
 </application>
