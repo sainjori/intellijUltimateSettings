@@ -20,23 +20,24 @@
       <file name="/1.regexp" timestamp="1524214290137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1524844928667">
+      <file name="/a.dummy" timestamp="1525276513011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/__dummy.xml" timestamp="1524561486570">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/dtype.xml" timestamp="1524756929604">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGuiTEST.java" timestamp="1525270912794">
         <mark key="'" line="510" column="55" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" timestamp="1525270770655">
-        <mark key="'" line="124" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/Rev_when12_created.java" timestamp="1525276602328">
+        <mark key="'" line="414" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" timestamp="1525277401815">
+        <mark key="'" line="133" column="28" />
+        <mark key="[" line="499" column="3" />
+        <mark key="]" line="514" column="0" />
+        <mark key="^" line="514" column="0" />
+        <mark key="." line="514" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1524851879093">
         <mark key="'" line="121" column="44" />
@@ -70,8 +71,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGuiV12.txt" timestamp="1525270787861">
         <mark key="'" line="380" column="66" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" timestamp="1525271856700">
-        <mark key="'" line="193" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" timestamp="1525277435431">
+        <mark key="'" line="107" column="47" />
+        <mark key="[" line="89" column="44" />
+        <mark key="]" line="89" column="44" />
+        <mark key="^" line="89" column="44" />
+        <mark key="." line="89" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1524747176580">
         <mark key="'" line="0" column="0" />
@@ -82,6 +87,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataImport.java" timestamp="1525255815107">
         <mark key="'" line="37" column="21" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" timestamp="1525272263207">
+        <mark key="'" line="382" column="53" />
       </file>
       <file name="/Clipboard.txt" timestamp="1524672728370">
         <mark key="[" line="0" column="0" />
@@ -94,19 +102,6 @@
       <file name="/BhsProcessCreateMaterialWithGui.java" timestamp="1525270296510" />
     </filemarks>
     <jumps>
-      <jump line="1762" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="2314" column="55" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="235" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="2313" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="2290" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="2280" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="2284" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="95" column="60" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="517" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="1261" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="1761" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" />
-      <jump line="1596" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
-      <jump line="1866" column="46" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="1917" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="2117" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="199" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
@@ -193,62 +188,81 @@
       <jump line="380" column="66" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGuiV12.txt" />
       <jump line="510" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGuiTEST.java" />
       <jump line="518" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" />
+      <jump line="117" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
       <jump line="193" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" />
+      <jump line="131" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="173" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="218" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="220" column="72" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="225" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="228" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="382" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
+      <jump line="410" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" />
+      <jump line="384" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" />
+      <jump line="133" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" />
+      <jump line="414" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/Rev_when12_created.java" />
+      <jump line="107" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sap r3 pom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNoYW5nZU1hdGVyaWFsSW5TYXAobWF0ZXJpYWxOZXcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>sap r3 pom</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0RmlsZUxvY2F0aW9uXD4=</text>
+        <text encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBnZXRDbGFzcygpLmdldE5hbWUoKSArICJUUlk6IFRhYm5hbWVbIisgdGFiTmFtZSArIl07IEZpZWxkbmFtZVsiKyBmaWVsZE5hbWUgKyJdOyBVc2VTdGFuZGFyZFsiK3VzZVN0YW5kYXJkKyJdIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ClJlZmFjdG9yaW5nLiBDbGVhbiB1cCBvZiBqYXhidXRpbHMgYW5kIG1haW4gcHJvY2VzcyBjaGVjayBpbnB1dCBkYXRhY29udGFpbmVyCgptb3JlIGdyYW5kIHJlZmFjdG9yaW5nCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNoYW5nZU1hdGVyaWFsSW5TYXAobWF0ZXJpYWxOZXcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgpSZWZhY3RvcmluZy4gQ2xlYW4gdXAgb2YgamF4YnV0aWxzIGFuZCBtYWluIHByb2Nlc3MgY2hlY2sgaW5wdXQgZGF0YWNvbnRhaW5lcgoKCm1vcmUgZ3JhbmQgcmVmYWN0b3JpbmcKCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
+        <text>materialNew.setAdvMatField(FIELD_MAKT_ZZMAKT2_DE, materialData.get(&quot;SHORT-TXT-DE&quot;).toString().toUpperCase());
+    materialNew.setAdvMatField(FIELD_MAKT_ZZMAKT2_EN, materialData.get(&quot;SHORT-TXT-EN&quot;).toString().toUpperCase());
+    materialNew.setAdvMatField(FIEHL_MARA_ZZBHSTYP, (String) materialData.get(CLASS_CHAR_MAT_ZZBHSTYP));
+    materialNew.setAdvMatField(FIELD_MARA_GROES, (String) materialData.get(CLASS_CHAR_ABMESSUNG));
+    materialNew.setAdvMatField(FIELD_MARA_NTGEW, (String) materialData.get(CLASS_CHAR_N_GEWICHT));
+    materialNew.setAdvMatField(FIELD_MARA_GEWEI, (String) materialData.get(CLASS_CHAR_G_EINHEIT));
+    materialNew.setAdvMatField(FIELD_MARA_WRKST, (String) materialData.get(CLASS_CHAR_WERKSTOFF));</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50SGVhZGVyMihQbG1TZXNzaW9uTWFuYWdlci5nZXRMb2dpblVzZXIoKSwgNCwgIi0tLS18fCBDcmVhdGluZyBtYXRlcmlhbCBCT018fC0tLS0iKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MgKCJ1bmNoZWNrZWQiKQogICAgTWFwPFN0cmluZywgU3RyaW5nPiBuYW1pbmcgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgbWF0ZXJpYWxEYXRhLmdldCgiTkFNSU5HIik7CiAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBuYW1pbmcuZW50cnlTZXQoKSkKICAgIHsKICAgICAgbWF0ZXJpYWxOZXcuc2V0U2hvcnRUZXh0KGVudHJ5LmdldEtleSgpLCBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0TG9naW5Vc2VyKCksIFRyYWNlLkRFQlVHLCBuZXcgT2JqZWN0W10geyJDcmVhdGluZyBNYXRCb20tPiJ9KTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BS1RfWlpNQUtUMl9ERSwgbWF0ZXJpYWxEYXRhLmdldCgiU0hPUlQtVFhULURFIikudG9TdHJpbmcoKS50b1VwcGVyQ2FzZSgpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BS1RfWlpNQUtUMl9FTiwgbWF0ZXJpYWxEYXRhLmdldCgiU0hPUlQtVFhULUVOIikudG9TdHJpbmcoKS50b1VwcGVyQ2FzZSgpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUhMX01BUkFfWlpCSFNUWVAsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9NQVRfWlpCSFNUWVApKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfR1JPRVMsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9BQk1FU1NVTkcpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfTlRHRVcsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9OX0dFV0lDSFQpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfR0VXRUksIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9HX0VJTkhFSVQpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfV1JLU1QsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9XRVJLU1RPRkYpKTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0TG9naW5Vc2VyKCksIFRyYWNlLkRFQlVHLCBuZXcgT2JqZWN0W10geyItLS0tfHwgQ3JlYXRpbmcgRG9jdW1lbnQgfHwtLS0tIn0pOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MgKCJ1bmNoZWNrZWQiKQogICAgTWFwPFN0cmluZywgU3RyaW5nPiBuYW1pbmcgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgbWF0ZXJpYWxEYXRhLmdldCgiTkFNSU5HIik7CiAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBuYW1pbmcuZW50cnlTZXQoKSkKICAgIHsKICAgICAgbWF0ZXJpYWxOZXcuc2V0U2hvcnRUZXh0KGVudHJ5LmdldEtleSgpLCBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0TG9naW5Vc2VyKCksIFRyYWNlLkRFQlVHLCBuZXcgT2JqZWN0W10geyItLS0tfHwgQ3JlYXRpbmcgTWF0ZXJpYWwgfHwtLS0tIn0pOwo=</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSUVITF9NQVJBX1paQkhTVFlQID0gIk1BUkEtWlpCSFNUWVAiOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0TG9naW5Vc2VyKCksIFRyYWNlLkRFQlVHLCBuZXcgT2JqZWN0W10geyItLS0tfHwgQWRkaW5nIG1hdGVyaWFsIGNsYXNzaWZpY2F0aW9uIHx8LS0tLSJ9KTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ClJlZmFjdG9yaW5nLiBDbGVhbiB1cCBvZiBqYXhidXRpbHMgYW5kIG1haW4gcHJvY2VzcyBjaGVjayBpbnB1dCBkYXRhY29udGFpbmVyCgptb3JlIGdyYW5kIHJlZmFjdG9yaW5nCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0TG9naW5Vc2VyKCksIFRyYWNlLkRFQlVHLCBuZXcgT2JqZWN0W10geyItLS0tfHwgVXBkYXRlIFN0cnVjdHVyZSBvZiBEb2N1bWVudCB8fC0tLS0ifSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgpSZWZhY3RvcmluZy4gQ2xlYW4gdXAgb2YgamF4YnV0aWxzIGFuZCBtYWluIHByb2Nlc3MgY2hlY2sgaW5wdXQgZGF0YWNvbnRhaW5lcgoKCm1vcmUgZ3JhbmQgcmVmYWN0b3JpbmcKCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oNCwgIkNoZWNraW4gb3JpZ2luYWxzIC4uLiIpOwo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50SGVhZGVyMihQbG1TZXNzaW9uTWFuYWdlci5nZXRMb2dpblVzZXIoKSwgNCwgIi0tLS18fCBDcmVhdGluZyBtYXRlcmlhbCBCT018fC0tLS0iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0RmlsZUxvY2F0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0RmlsZUxvY2F0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +270,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VTdGFuZGFyZFw+</entry>
         <entry encoding="base64">XDx0YWJsZURpYWxvZ1w+</entry>
         <entry encoding="base64">XDxtQ2xhc3NBbGxvY3NQZXJPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxwcmV2aWV3SW1hZ2VzXD4=</entry>
@@ -276,6 +289,7 @@
         <entry encoding="base64">XDxjaGFuZ2VOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VGaWxlXD4=</entry>
         <entry encoding="base64">XDxsYXN0RmlsZUxvY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>758</entry>
