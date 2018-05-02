@@ -106,6 +106,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataImport.java" timestamp="1525255815107">
         <mark key="'" line="37" column="21" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/menu.guidef" timestamp="1525282106652">
+        <mark key="'" line="184" column="70" />
+        <mark key="[" line="1381" column="56" />
+        <mark key="]" line="1382" column="56" />
+        <mark key="^" line="1382" column="56" />
+        <mark key="." line="1382" column="56" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525280246366" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" timestamp="1525272263207">
         <mark key="'" line="382" column="53" />
@@ -121,7 +128,6 @@
       <file name="/BhsProcessCreateMaterialWithGui.java" timestamp="1525270296510" />
     </filemarks>
     <jumps>
-      <jump line="1917" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="2117" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="199" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="204" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
@@ -221,19 +227,20 @@
       <jump line="133" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" />
       <jump line="414" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/Rev_when12_created.java" />
       <jump line="107" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" />
+      <jump line="184" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/menu.guidef" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>mat.create.doc</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>mat.create.doc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBnZXRDbGFzcygpLmdldE5hbWUoKSArICJUUlk6IFRhYm5hbWVbIisgdGFiTmFtZSArIl07IEZpZWxkbmFtZVsiKyBmaWVsZE5hbWUgKyJdOyBVc2VTdGFuZGFyZFsiK3VzZVN0YW5kYXJkKyJdIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLm1hdC5jcmVhdGUuZG9jCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNoYW5nZU1hdGVyaWFsSW5TYXAobWF0ZXJpYWxOZXcpOwo=</text>
