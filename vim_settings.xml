@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/samples/src/main/samples/modify-marshal/build.xml" timestamp="1525348210300" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1525264416068">
         <mark key="'" line="96" column="58" />
         <mark key="[" line="71" column="59" />
@@ -17,7 +16,9 @@
       <file name="/a.dummy" timestamp="1525276513011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" timestamp="1525348389155" />
+      <file name="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" timestamp="1525349164435">
+        <mark key="'" line="874" column="24" />
+      </file>
       <file name="/__dummy.xml" timestamp="1524561486570">
         <mark key="[" line="0" column="0" />
       </file>
@@ -54,7 +55,6 @@
       <file name="/1.groovy" timestamp="1524214290146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/jaxb/README.md" timestamp="1525347171786" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/menu.guidef" timestamp="1525283430925">
         <mark key="[" line="465" column="57" />
         <mark key="]" line="466" column="56" />
@@ -93,7 +93,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" timestamp="1525272263207">
         <mark key="'" line="382" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/samples/src/main/samples/modify-marshal/src/Main.java" timestamp="1525348259296" />
       <file name="/Clipboard.txt" timestamp="1524672728370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,10 +101,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/BhsProcessCreateMaterialWithGui.java" timestamp="1525270296510" />
     </filemarks>
     <jumps>
-      <jump line="199" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="204" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="1527" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialCreateMulti.java" />
       <jump line="76" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/DadiInterPretMatNumber2.java" />
@@ -205,6 +202,7 @@
       <jump line="107" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/fef.java" />
       <jump line="184" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/menu.guidef" />
       <jump line="263" column="43" filename="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" />
+      <jump line="874" column="24" filename="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
