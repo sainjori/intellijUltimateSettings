@@ -116,7 +116,12 @@
         <mark key="^" line="102" column="56" />
         <mark key="." line="102" column="56" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525280246366" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525343763833">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="21" />
+        <mark key="." line="46" column="21" />
+        <mark key="^" line="46" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" timestamp="1525272263207">
         <mark key="'" line="382" column="53" />
       </file>
@@ -234,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mat.create.doc</text>
+        <text>DefaultLogException | FileNotFoundException e</text>
       </register>
       <register name="-" type="4">
-        <text>mat.create.doc</text>
+        <text>DefaultLogException | FileNotFoundException e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</text>
@@ -245,13 +250,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLm1hdC5jcmVhdGUuZG9jCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZU1hdGVyaWFsSW5TYXAobWF0ZXJpYWxOZXcpOwo=</text>
+      <register name="1" type="4">
+        <text>File fileXml = getFileXml();
+
+      CustomerPlmParsePLMXMLProcess plmParsePLMXMLProcess = new CustomerPlmParsePLMXMLProcess();
+      DataContainer data = new DataContainer();
+      plmParsePLMXMLProcess.setData(data);
+
+      plmParsePLMXMLProcess.getData().addObject(CustomerPlmParsePLMXMLProcess.IN_FILE, fileXml.getAbsolutePath());
+      if (targetFolder != null)
+        plmParsePLMXMLProcess.getData().addObject(CustomerPlmParsePLMXMLProcess.IN_TARGET_DIR, targetFolder);
+
+      plmParsePLMXMLProcess.execute();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNoYW5nZU1hdGVyaWFsSW5TYXAobWF0ZXJpYWxOZXcpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>materialNew.setAdvMatField(FIELD_MAKT_ZZMAKT2_DE, materialData.get(&quot;SHORT-TXT-DE&quot;).toString().toUpperCase());
     materialNew.setAdvMatField(FIELD_MAKT_ZZMAKT2_EN, materialData.get(&quot;SHORT-TXT-EN&quot;).toString().toUpperCase());
     materialNew.setAdvMatField(FIEHL_MARA_ZZBHSTYP, (String) materialData.get(CLASS_CHAR_MAT_ZZBHSTYP));
@@ -260,29 +278,26 @@
     materialNew.setAdvMatField(FIELD_MARA_GEWEI, (String) materialData.get(CLASS_CHAR_G_EINHEIT));
     materialNew.setAdvMatField(FIELD_MARA_WRKST, (String) materialData.get(CLASS_CHAR_WERKSTOFF));</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MgKCJ1bmNoZWNrZWQiKQogICAgTWFwPFN0cmluZywgU3RyaW5nPiBuYW1pbmcgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgbWF0ZXJpYWxEYXRhLmdldCgiTkFNSU5HIik7CiAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBuYW1pbmcuZW50cnlTZXQoKSkKICAgIHsKICAgICAgbWF0ZXJpYWxOZXcuc2V0U2hvcnRUZXh0KGVudHJ5LmdldEtleSgpLCBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgIH0=</text>
-      </register>
       <register name="4" type="4">
-        <text encoding="base64">IG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BS1RfWlpNQUtUMl9ERSwgbWF0ZXJpYWxEYXRhLmdldCgiU0hPUlQtVFhULURFIikudG9TdHJpbmcoKS50b1VwcGVyQ2FzZSgpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BS1RfWlpNQUtUMl9FTiwgbWF0ZXJpYWxEYXRhLmdldCgiU0hPUlQtVFhULUVOIikudG9TdHJpbmcoKS50b1VwcGVyQ2FzZSgpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUhMX01BUkFfWlpCSFNUWVAsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9NQVRfWlpCSFNUWVApKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfR1JPRVMsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9BQk1FU1NVTkcpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfTlRHRVcsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9OX0dFV0lDSFQpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfR0VXRUksIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9HX0VJTkhFSVQpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfV1JLU1QsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9XRVJLU1RPRkYpKTs=</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MgKCJ1bmNoZWNrZWQiKQogICAgTWFwPFN0cmluZywgU3RyaW5nPiBuYW1pbmcgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgbWF0ZXJpYWxEYXRhLmdldCgiTkFNSU5HIik7CiAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBuYW1pbmcuZW50cnlTZXQoKSkKICAgIHsKICAgICAgbWF0ZXJpYWxOZXcuc2V0U2hvcnRUZXh0KGVudHJ5LmdldEtleSgpLCBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgIH0=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BS1RfWlpNQUtUMl9ERSwgbWF0ZXJpYWxEYXRhLmdldCgiU0hPUlQtVFhULURFIikudG9TdHJpbmcoKS50b1VwcGVyQ2FzZSgpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BS1RfWlpNQUtUMl9FTiwgbWF0ZXJpYWxEYXRhLmdldCgiU0hPUlQtVFhULUVOIikudG9TdHJpbmcoKS50b1VwcGVyQ2FzZSgpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUhMX01BUkFfWlpCSFNUWVAsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9NQVRfWlpCSFNUWVApKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfR1JPRVMsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9BQk1FU1NVTkcpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfTlRHRVcsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9OX0dFV0lDSFQpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfR0VXRUksIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9HX0VJTkhFSVQpKTsKICAgIG1hdGVyaWFsTmV3LnNldEFkdk1hdEZpZWxkKEZJRUxEX01BUkFfV1JLU1QsIChTdHJpbmcpIG1hdGVyaWFsRGF0YS5nZXQoQ0xBU1NfQ0hBUl9XRVJLU1RPRkYpKTs=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MgKCJ1bmNoZWNrZWQiKQogICAgTWFwPFN0cmluZywgU3RyaW5nPiBuYW1pbmcgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgbWF0ZXJpYWxEYXRhLmdldCgiTkFNSU5HIik7CiAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBuYW1pbmcuZW50cnlTZXQoKSkKICAgIHsKICAgICAgbWF0ZXJpYWxOZXcuc2V0U2hvcnRUZXh0KGVudHJ5LmdldEtleSgpLCBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSUVITF9NQVJBX1paQkhTVFlQID0gIk1BUkEtWlpCSFNUWVAiOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ClJlZmFjdG9yaW5nLiBDbGVhbiB1cCBvZiBqYXhidXRpbHMgYW5kIG1haW4gcHJvY2VzcyBjaGVjayBpbnB1dCBkYXRhY29udGFpbmVyCgptb3JlIGdyYW5kIHJlZmFjdG9yaW5nCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CgpSZWZhY3RvcmluZy4gQ2xlYW4gdXAgb2YgamF4YnV0aWxzIGFuZCBtYWluIHByb2Nlc3MgY2hlY2sgaW5wdXQgZGF0YWNvbnRhaW5lcgoKCm1vcmUgZ3JhbmQgcmVmYWN0b3JpbmcKCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
+        <text encoding="base64">ClJlZmFjdG9yaW5nLiBDbGVhbiB1cCBvZiBqYXhidXRpbHMgYW5kIG1haW4gcHJvY2VzcyBjaGVjayBpbnB1dCBkYXRhY29udGFpbmVyCgptb3JlIGdyYW5kIHJlZmFjdG9yaW5nCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50SGVhZGVyMihQbG1TZXNzaW9uTWFuYWdlci5nZXRMb2dpblVzZXIoKSwgNCwgIi0tLS18fCBDcmVhdGluZyBtYXRlcmlhbCBCT018fC0tLS0iKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpSZWZhY3RvcmluZy4gQ2xlYW4gdXAgb2YgamF4YnV0aWxzIGFuZCBtYWluIHByb2Nlc3MgY2hlY2sgaW5wdXQgZGF0YWNvbnRhaW5lcgoKCm1vcmUgZ3JhbmQgcmVmYWN0b3JpbmcKCgphZGRlZCBiZXR0ZXIgbG9naW5n</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
