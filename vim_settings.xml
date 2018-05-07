@@ -43,12 +43,13 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525453572904">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525682597134">
         <mark key="'" line="52" column="34" />
-        <mark key="i" line="70" column="63" />
-        <mark key="[" line="177" column="3" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="i" line="67" column="63" />
+        <mark key="[" line="53" column="46" />
+        <mark key="]" line="54" column="3" />
+        <mark key="^" line="54" column="3" />
+        <mark key="." line="54" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1525444367815">
         <mark key="[" line="60" column="21" />
@@ -76,7 +77,6 @@
         <mark key="^" line="625" column="26" />
         <mark key="." line="622" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.10.0/addons-5.1.10.0-sources.jar!/plm/modules/variantconfiguration/omf/OmfGenerateDocFromVariant.java" timestamp="1525453563979" />
       <file name="C:/ENTWICKLUNG/sandbox/jaxb/test1/src/Main.java" timestamp="1525355430492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -211,49 +211,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>plmMaterial</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc0NoYXJUZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TWFqb3ItVmVyc2lvbj4ke2pheGIubWFqb3JWZXJzaW9ufS4ke2pheGIubWlub3JWZXJzaW9ufS4ke2pheGIuaW5jcmVtZW50YWxWZXJzaW9ufTwvTWFqb3ItVmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVdhcm5pbmdUZXh0KGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuREVCVUcsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRkFVdGlscy5nZXRJbnN0KCkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgIGlmIChwbG1NYXRlcmlhbC5nZXRMYXN0RXhjZXB0aW9uKCkgIT0gbnVsbCkKICAgICAgcmV0dXJuIHBsbU1hdGVyaWFsOwoKICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsIHNlbGVjdGVkTWF0ZXJpYWxXaXRoRGV0YWlsczsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHBsbU1hdGVyaWFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxna2tqamZlZWtsamZrCg==</text>
+        <text encoding="base64">ICAgICAgQnJNYXRlcmlhbCBick1hdGVyaWFsOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgc2VsZWN0ZWRNYXRlcmlhbFdpdGhEZXRhaWxzOwo=</text>
+        <text encoding="base64">ICAgIEJyTWF0ZXJpYWwgYnJNYXRlcmlhbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnQucmUK</text>
+        <text encoding="base64">ICAgICAgQnJNYXRlcmlhbCBick1hdGVyaWFsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
