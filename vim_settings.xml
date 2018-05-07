@@ -31,9 +31,10 @@
         <mark key="]" line="57" column="2" />
         <mark key="." line="57" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1525683801817">
+      <file name="/a.dummy" timestamp="1525693173900">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1525689719464" />
       <file name="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" timestamp="1525431518927">
         <mark key="[" line="348" column="47" />
         <mark key="]" line="348" column="49" />
@@ -46,12 +47,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525689568959">
-        <mark key="'" line="58" column="34" />
-        <mark key="[" line="115" column="47" />
-        <mark key="]" line="115" column="47" />
-        <mark key="." line="115" column="47" />
-        <mark key="^" line="115" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525693172681">
+        <mark key="'" line="57" column="34" />
+        <mark key="[" line="103" column="79" />
+        <mark key="]" line="104" column="40" />
+        <mark key="." line="104" column="40" />
+        <mark key="^" line="104" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1525444367815">
         <mark key="[" line="60" column="21" />
@@ -95,7 +96,7 @@
         <mark key="." line="167" column="31" />
         <mark key="^" line="167" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1525439955274">
+      <file name="/fragment.java" timestamp="1525693173909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -212,11 +213,11 @@
       <jump line="49" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>classificationType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9jY3VycmVuY2VUeXBlLnNldE9jY3VycmVuY2VJZCgiaWQzIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>classificationType</text>
+        <text>ID2</text>
       </register>
       <register name="/" type="4">
         <text>classification</text>
@@ -225,37 +226,37 @@
         <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVdhcm5pbmdUZXh0KGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuREVCVUcsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgIG9jY3VycmVuY2VUeXBlLnNldE9jY3VycmVuY2VJZCgiaWQzIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsbXhtbE9iamVjdEZhY3RvcnkuCg==</text>
+        <text encoding="base64">ICAgIG9jY3VycmVuY2VUeXBlLnMK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3REZWZUeXBlLnNldG4K</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBsbXhtbE9iamVjdEZhY3RvcnkuCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3REZWZUeXBlLnNldG4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChwbG1NYXRlcmlhbC5nZXRMYXN0RXhjZXB0aW9uKCkgIT0gbnVsbCkKICAgICAgcmV0dXJuIHBsbU1hdGVyaWFsOwoKICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
