@@ -53,11 +53,11 @@
         <mark key="'" line="361" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/StructureUsageBase.java" timestamp="1525795546028" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525857084739">
-        <mark key="[" line="218" column="47" />
-        <mark key="]" line="218" column="99" />
-        <mark key="." line="218" column="99" />
-        <mark key="^" line="218" column="99" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525861632728">
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="^" line="365" column="56" />
+        <mark key="." line="361" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1525444367815">
         <mark key="[" line="60" column="21" />
@@ -73,7 +73,7 @@
         <mark key="'" line="175" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AssociatedAttachmentType.java" timestamp="1525797624400" />
-      <file name="/fragment.java" timestamp="1525854724411">
+      <file name="/fragment.java" timestamp="1525861586270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -186,17 +186,17 @@
       <jump line="280" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>associatedDataSetType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>associatedDataSetType</text>
+        <text>.getValues())</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBibGEoamF4YkVsZW1lbnRzLCBsaW5rZWREb2N1bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIHNldENsYXNzUGFyZW50VGFncyhpY29UeXBlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -205,35 +205,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoUGxtVmFsdWUgcGxtVmFsdWUgOiBjbGFzc0FsbG9jYXRpb25zLmdldFBsbVZhbHVlQXNzaWdubWVudHMoKQogICAgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGljb1R5cGUuc2V0V3NvUmVmKHByb2R1Y3RSZXZpc2lvblR5cGUuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhU2V0VHlwZSBkYXRhU2V0VHlwZSA9IGNyZWF0ZU1zdGVyRGF0YVNldChkb2N1bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIGljb1R5cGUuc2V0V3NvUmVmKHByb2R1Y3RSZXZpc2lvblR5cGUuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjbGFzc0FsbG9jYXRpb25zLnNpemUoKSAhPSAxKQogICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihEaWMuZ2V0VGV4dCgicmVuay5leGNlcHRpb25zLmhhcy50b28ubWFueS5jbGFzc2VzIiwgIlRoaXMgTWF0ZXJpYWwgaGFzIHRvbyBtYW55IGtsYXNzZXMiKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>private DataSetType createMasterDataSet(PlmDocument masterDoc)
-  {
-    
-
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
