@@ -53,8 +53,11 @@
         <mark key="'" line="361" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/StructureUsageBase.java" timestamp="1525795546028" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525852596741">
-        <mark key="'" line="280" column="39" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525857084739">
+        <mark key="[" line="218" column="47" />
+        <mark key="]" line="218" column="99" />
+        <mark key="." line="218" column="99" />
+        <mark key="^" line="218" column="99" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/pom.xml" timestamp="1525444367815">
         <mark key="[" line="60" column="21" />
@@ -62,6 +65,7 @@
         <mark key="." line="60" column="26" />
         <mark key="^" line="60" column="26" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/ext/ProcessDetermineDocStructure.java" timestamp="1525854302871" />
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/xml/bind/JAXBElement.java" timestamp="1525711987656">
         <mark key="'" line="123" column="11" />
       </file>
@@ -69,7 +73,7 @@
         <mark key="'" line="175" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AssociatedAttachmentType.java" timestamp="1525797624400" />
-      <file name="/fragment.java" timestamp="1525797339479">
+      <file name="/fragment.java" timestamp="1525854724411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -183,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvZHVjdFJldmlzaW9uVHlwZSwg</text>
+        <text>associatedDataSetType</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvZHVjdFJldmlzaW9uVHlwZSwg</text>
+        <text>associatedDataSetType</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
@@ -195,37 +199,41 @@
         <text encoding="base64">ICAgICAgICBibGEoamF4YkVsZW1lbnRzLCBsaW5rZWREb2N1bWVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1hbmFnZWRCYXNlIGluc3RhbmNlb2YgUHJvZHVjdFJldmlzaW9uVHlwZSkKICAgICAgewogICAgICAgIFByb2R1Y3RSZXZpc2lvblR5cGUgcHJvZHVjdFJldmlzaW9uVHlwZSA9IChQcm9kdWN0UmV2aXNpb25UeXBlKSBtYW5hZ2VkQmFzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmliT3duZXJCYXNlMS5hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc29jaWF0ZWRBdHRhY2htZW50VHlwZS5zZXRBdHRhY2htZW50UmVmKGRhdGFTZXRUeXBlLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRhU2V0VHlwZSBkYXRhU2V0VHlwZSA9IGNyZWF0ZU1zdGVyRGF0YVNldChkb2N1bWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChsaW5rZWREb2N1bWVudC5pc01hc3RlcigpKQogICAgICBkYXRhU2V0VHlwZS5zZXREZXNjcmlwdGlvbigiVUdNQVNURVIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="9" type="4">
+        <text>private DataSetType createMasterDataSet(PlmDocument masterDoc)
+  {
+    
+
+  }</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
