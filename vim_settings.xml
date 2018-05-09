@@ -33,12 +33,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525875850586">
-        <mark key="'" line="264" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525877185305">
+        <mark key="'" line="246" column="32" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
+        <mark key="^" line="165" column="23" />
         <mark key="." line="168" column="0" />
-        <mark key="^" line="161" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/dtype.xml" timestamp="1524756929604">
         <mark key="[" line="11" column="0" />
@@ -106,7 +106,7 @@
         <mark key="'" line="175" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AssociatedAttachmentType.java" timestamp="1525797624400" />
-      <file name="/fragment.java" timestamp="1525864695527">
+      <file name="/fragment.java" timestamp="1525876618346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -220,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpheGJFbGVtZW50cy5hZGRBbGwod3JpdGVBY2Nlc3NJbnRlbnRUeXBlKGFjY2Vzc0ludGVudFR5cGUpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>materialWithDetails.getLinkedDocuments()</text>
+        <text encoding="base64">TGlua2VkTGlzdDxKQVhCRWxlbWVudDw/IGV4dGVuZHMgSWRCYXNlPj4gamF4YkVsZW1lbnRzID0gbmV3IExpbmtlZExpc3Q8Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRNYXRlcmlhbFw+</text>
@@ -232,7 +232,7 @@
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE1pc3NpbmdQcm9jZXNzSW5wdXRFeGNlcHRpb24oRVhQT1JUTUFURVJJQUwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpheGJFbGVtZW50cy5hZGRBbGwod3JpdGVBY2Nlc3NJbnRlbnRUeXBlKGFjY2Vzc0ludGVudFR5cGUpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -241,28 +241,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuZ2V0QXR0cmlidXRlKCkuYWRkKGZhY3RvcnlDbC5jcmVhdGVDbGFzc2lmaWNhdGlvbihjbGFzc2lmaWNhdGlvblR5cGUpKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IHdyaXRlQWNjZXNzSW50ZW50VHlwZShBY2Nlc3NJbnRlbnRUeXBlIGFjY2Vzc0ludGVudFR5cGUpCiAgewogICAgICBhY2Nlc3NJbnRlbnRUeXBlLnNldEludGVudChBY2Nlc3NJbnRlbnRFbnVtLlJFRkVSRU5DRSk7CgogICAgICBMaW5rZWRMaXN0PEpBWEJFbGVtZW50PD8gZXh0ZW5kcyBJZEJhc2U+PiBqYXhiRWxlbWVudHMgPSBuZXcgTGlua2VkTGlzdDw+KHdyaXRlU2l0ZShhY2Nlc3NJbnRlbnRUeXBlKSk7CiAgICAgIGpheGJFbGVtZW50cy5hZGQoZmFjdG9yeS5jcmVhdGVBY2Nlc3NJbnRlbnQoYWNjZXNzSW50ZW50VHlwZSkpOwogICAgICByZXR1cm4gamF4YkVsZW1lbnRzOwogIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqYXhiRWxlbWVudHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqYXhiOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGlua2VkTGlzdDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpheGIuYWRkQWxsKHdyaXRlTWFpbk9jY3VyZW5jZShkb2N1bWVudEhlYWRlcikpOwo=</text>
+        <text encoding="base64">ICAgIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IGpheGJFbGVtZW50cyA9IHdyaXRlQWNjZXNzSW50ZW50VHlwZShwcm9kdWN0VHlwZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZUFjY2Vzc0ludGVudFR5cGUoZGF0YVNldFR5cGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IHdyaXRlRG9jdW1lbnRIZWFkZXIoKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogIHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
