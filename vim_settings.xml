@@ -33,12 +33,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525873735565">
-        <mark key="'" line="271" column="32" />
-        <mark key="[" line="122" column="11" />
-        <mark key="]" line="122" column="14" />
-        <mark key="." line="122" column="14" />
-        <mark key="^" line="122" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525875850586">
+        <mark key="'" line="264" column="32" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="161" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/dtype.xml" timestamp="1524756929604">
         <mark key="[" line="11" column="0" />
@@ -54,11 +54,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1525870562407">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525872117553">
-        <mark key="[" line="89" column="4" />
-        <mark key="]" line="89" column="15" />
-        <mark key="^" line="89" column="15" />
-        <mark key="." line="89" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525875967819">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="127" column="64" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-20180509.062114-506.jar!/cadagent/proc/mat/ProcessMatCreateDark.class" timestamp="1525870908672" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/menu.guidef" timestamp="1525283430925">
@@ -219,11 +219,11 @@
       <jump line="271" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jaxbElements</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jaxbElements</text>
+        <text>materialWithDetails.getLinkedDocuments()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRNYXRlcmlhbFw+</text>
@@ -241,19 +241,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuZ2V0QXR0cmlidXRlKCkuYWRkKGZhY3RvcnlDbC5jcmVhdGVDbGFzc2lmaWNhdGlvbihjbGFzc2lmaWNhdGlvblR5cGUpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpheGJFbGVtZW50cy5hZGQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgamF4YkVsZW1lbnRzID0gd3JpdGVEb2N1bWVudEhlYWRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBsbU1hdGVyaWFsIG1hdGVyaWFsV2l0aERldGFpbHM7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqYXhiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpheGIuYWRkQWxsKHdyaXRlTWFpbk9jY3VyZW5jZShkb2N1bWVudEhlYWRlcikpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -262,7 +262,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IHdyaXRlRG9jdW1lbnRIZWFkZXIoKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogIHsKICAgIAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
