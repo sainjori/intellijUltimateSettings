@@ -33,7 +33,7 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525877185305">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525877332415">
         <mark key="'" line="246" column="32" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -54,11 +54,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1525870562407">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525875967819">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="^" line="127" column="64" />
-        <mark key="." line="124" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" timestamp="1525878040967">
+        <mark key="[" line="86" column="35" />
+        <mark key="]" line="86" column="35" />
+        <mark key="." line="86" column="35" />
+        <mark key="^" line="86" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-20180509.062114-506.jar!/cadagent/proc/mat/ProcessMatCreateDark.class" timestamp="1525870908672" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/menu.guidef" timestamp="1525283430925">
@@ -219,47 +219,47 @@
       <jump line="271" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGpheGJFbGVtZW50cy5hZGRBbGwod3JpdGVBY2Nlc3NJbnRlbnRUeXBlKGFjY2Vzc0ludGVudFR5cGUpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>|| documents == null)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlua2VkTGlzdDxKQVhCRWxlbWVudDw/IGV4dGVuZHMgSWRCYXNlPj4gamF4YkVsZW1lbnRzID0gbmV3IExpbmtlZExpc3Q8Pg==</text>
+        <text>|| documents == null)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRNYXRlcmlhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE1pc3NpbmdQcm9jZXNzSW5wdXRFeGNlcHRpb24oRVhQT1JUTUFURVJJQUwpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChtYXRlcmlhbFdpdGhEZXRhaWxzID09IG51bGwgfHwgZG9jdW1lbnRzID09IG51bGwpCiAgICAgIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpheGJFbGVtZW50cy5hZGRBbGwod3JpdGVBY2Nlc3NJbnRlbnRUeXBlKGFjY2Vzc0ludGVudFR5cGUpKTsK</text>
+        <text encoding="base64">ICAgIGlmIChtYXRlcmlhbFdpdGhEZXRhaWxzID09IG51bGwgfHwgZG9jdW1lbnRzID09IG51bGwpCiAgICAgIHJldHVybjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwbG1NYXRlcmlhbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IHdyaXRlQWNjZXNzSW50ZW50VHlwZShBY2Nlc3NJbnRlbnRUeXBlIGFjY2Vzc0ludGVudFR5cGUpCiAgewogICAgICBhY2Nlc3NJbnRlbnRUeXBlLnNldEludGVudChBY2Nlc3NJbnRlbnRFbnVtLlJFRkVSRU5DRSk7CgogICAgICBMaW5rZWRMaXN0PEpBWEJFbGVtZW50PD8gZXh0ZW5kcyBJZEJhc2U+PiBqYXhiRWxlbWVudHMgPSBuZXcgTGlua2VkTGlzdDw+KHdyaXRlU2l0ZShhY2Nlc3NJbnRlbnRUeXBlKSk7CiAgICAgIGpheGJFbGVtZW50cy5hZGQoZmFjdG9yeS5jcmVhdGVBY2Nlc3NJbnRlbnQoYWNjZXNzSW50ZW50VHlwZSkpOwogICAgICByZXR1cm4gamF4YkVsZW1lbnRzOwogIH0K</text>
+        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsIHBsbU1hdGVyaWFsID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqYXhiRWxlbWVudHM7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgT2JqZWN0RmFjdG9yeSBmYWN0b3J5ID0gbmV3IE9iamVjdEZhY3RvcnkoKTsKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBvcmcucGxteG1sLnNjaGVtYXMucGxteG1sY2xhc3NpZmljYXRpb25zY2hlbWEuT2JqZWN0RmFjdG9yeSBmYWN0b3J5Q2wgPSBuZXcgb3JnLnBsbXhtbC5zY2hlbWFzLnBsbXhtbGNsYXNzaWZpY2F0aW9uc2NoZW1hLk9iamVjdEZhY3RvcnkoKTsKICBwcml2YXRlIHN0YXRpYyBQTE1YTUxUeXBlIHJvb3Q7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgSGFzaE1hcDxTdHJpbmcsIElkQmFzZT4gcm9vdExldmVsVHlwZXMgPSBuZXcgSGFzaE1hcDw+KCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGlua2VkTGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIGpheGJFbGVtZW50cy5hZGRBbGwod3JpdGVBY2Nlc3NJbnRlbnRUeXBlKGFjY2Vzc0ludGVudFR5cGUpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IGpheGJFbGVtZW50cyA9IHdyaXRlQWNjZXNzSW50ZW50VHlwZShwcm9kdWN0VHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZUFjY2Vzc0ludGVudFR5cGUoZGF0YVNldFR5cGUpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IHdyaXRlQWNjZXNzSW50ZW50VHlwZShBY2Nlc3NJbnRlbnRUeXBlIGFjY2Vzc0ludGVudFR5cGUpCiAgewogICAgICBhY2Nlc3NJbnRlbnRUeXBlLnNldEludGVudChBY2Nlc3NJbnRlbnRFbnVtLlJFRkVSRU5DRSk7CgogICAgICBMaW5rZWRMaXN0PEpBWEJFbGVtZW50PD8gZXh0ZW5kcyBJZEJhc2U+PiBqYXhiRWxlbWVudHMgPSBuZXcgTGlua2VkTGlzdDw+KHdyaXRlU2l0ZShhY2Nlc3NJbnRlbnRUeXBlKSk7CiAgICAgIGpheGJFbGVtZW50cy5hZGQoZmFjdG9yeS5jcmVhdGVBY2Nlc3NJbnRlbnQoYWNjZXNzSW50ZW50VHlwZSkpOwogICAgICByZXR1cm4gamF4YkVsZW1lbnRzOwogIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
