@@ -33,12 +33,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525885742846">
-        <mark key="'" line="243" column="32" />
-        <mark key="[" line="270" column="46" />
-        <mark key="]" line="270" column="60" />
-        <mark key="^" line="270" column="60" />
-        <mark key="." line="270" column="60" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1525891036571">
+        <mark key="'" line="232" column="32" />
+        <mark key="[" line="332" column="75" />
+        <mark key="]" line="332" column="88" />
+        <mark key="^" line="332" column="88" />
+        <mark key="." line="332" column="88" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/fctr/customize/config/dtype.xml" timestamp="1524756929604">
         <mark key="[" line="11" column="0" />
@@ -106,7 +106,7 @@
         <mark key="'" line="175" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AssociatedAttachmentType.java" timestamp="1525797624400" />
-      <file name="/fragment.java" timestamp="1525876618346">
+      <file name="/fragment.java" timestamp="1525890913578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -220,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nextNumber</text>
+        <text>managedBase</text>
       </register>
       <register name="-" type="4">
-        <text>nextNumber</text>
+        <text>managedBase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRNYXRlcmlhbFw+</text>
@@ -232,37 +232,37 @@
         <text encoding="base64">ICAgIGlmIChtYXRlcmlhbFdpdGhEZXRhaWxzID09IG51bGwgfHwgZG9jdW1lbnRzID09IG51bGwpCiAgICAgIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXh0TnVtYmVyID0gZ2V0TmV4dE51bWJlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPY2N1cnJlbmNlVHlwZSBvY2N1cnJlbmNlVHlwZSA9IChPY2N1cnJlbmNlVHlwZSkgbWFuYWdlZEJhc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGljb1R5cGUuc2V0SWQobmV4dE51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RUeXBlLnNldElkKGdldE5leHROdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG1hbmFnZWRCYXNlIGluc3RhbmNlb2YgT2NjdXJyZW5jZVR5cGUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc0ludGVudFR5cGUuZ2V0T3duZXJSZWZzKCkuYWRkKCIjIiArIG5leHROdW1iZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0UmV2aXNpb25UeXBlIHByb2R1Y3RSZXZpc2lvblR5cGUgPSAoUHJvZHVjdFJldmlzaW9uVHlwZSkgbWFuYWdlZEJhc2U7CiAgICAgICAgQXNzb2NpYXRlZERhdGFTZXRUeXBlIGFzc29jaWF0ZWREYXRhU2V0VHlwZSA9IGZhY3RvcnkuY3JlYXRlQXNzb2NpYXRlZERhdGFTZXRUeXBlKCk7CiAgICAgICAgYXNzb2NpYXRlZERhdGFTZXRUeXBlLnNldElkKGdldE5leHROdW1iZXIoKSk7CiAgICAgICAgcHJvZHVjdFJldmlzaW9uVHlwZS5nZXRBdHRyaWJ1dGUoKS5hZGQoZmFjdG9yeS5jcmVhdGVBc3NvY2lhdGVkRGF0YVNldChhc3NvY2lhdGVkRGF0YVNldFR5cGUpKTsKICAgICAgICBjcmVhdGVEYXRhU2V0cyhqYXhiRWxlbWVudHMsIGxpbmtlZERvY3VtZW50LCBhc3NvY2lhdGVkRGF0YVNldFR5cGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpheGIuYWRkKGZhY3RvcnkuY3JlYXRlUHJvZHVjdFZpZXcocHJvZHVjdFZpZXdUeXBlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBhY2Nlc3NJbnRlbnRUeXBlSUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG1hbmFnZWRCYXNlIGluc3RhbmNlb2YgUHJvZHVjdFJldmlzaW9uVHlwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
