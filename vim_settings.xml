@@ -18,12 +18,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526378234075">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526383505171">
         <mark key="'" line="348" column="0" />
-        <mark key="[" line="191" column="70" />
-        <mark key="]" line="191" column="69" />
-        <mark key="." line="191" column="69" />
-        <mark key="^" line="191" column="69" />
+        <mark key="[" line="277" column="44" />
+        <mark key="]" line="277" column="57" />
+        <mark key="." line="277" column="57" />
+        <mark key="^" line="277" column="57" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AttribOwnerBase.java" timestamp="1525797632688" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AssociatedDataSetType.java" timestamp="1525797520298" />
@@ -114,7 +114,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1525777943627">
         <mark key="'" line="175" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1525890913578">
+      <file name="/fragment.java" timestamp="1526383491183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -225,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.0-SNAPSHOT</text>
+        <text>getNumber</text>
       </register>
       <register name="-" type="4">
-        <text>5.0-SNAPSHOT</text>
+        <text>getNumber</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRNYXRlcmlhbFw+</text>
