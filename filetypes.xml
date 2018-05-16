@@ -5,6 +5,7 @@
       <mapping pattern=".bashrc" type="Bash" />
       <mapping pattern=".profile" type="Bash" />
       <mapping ext="prt" type="Native" />
+      <mapping pattern="fef" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
       <mapping pattern="ff" type="XML" />
     </extensionMap>
