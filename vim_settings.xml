@@ -6,14 +6,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" timestamp="1525711945982">
         <mark key="'" line="2051" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526485291203">
-        <mark key="'" line="102" column="17" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Tool.java" timestamp="1526487027995" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526487248533">
+        <mark key="'" line="105" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1526483326106" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1526475900046" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/fctr_extensions/src/main/java/com/dscsag/cust/renk/tooldefinition/read/PlmProcessNXCAMImportTool.java" timestamp="1526487124267" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCreateMaterial.java" timestamp="1526462965559" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1526477493028" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AttribOwnerBase.java" timestamp="1525797632688" />
@@ -90,6 +89,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmClassCharacteristic.java" timestamp="1526463423029">
         <mark key="'" line="403" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1526485813389">
+        <mark key="'" line="129" column="20" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/basis/config/system-default.txt" timestamp="1525865417371">
         <mark key="'" line="20" column="0" />
       </file>
@@ -122,9 +124,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/proc/doc/ProcessDocMultiCheckOutFast2.java" timestamp="1526410280891" />
     </filemarks>
     <jumps>
-      <jump line="824" column="49" filename="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" />
-      <jump line="52" column="63" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" />
-      <jump line="59" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" />
       <jump line="250" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" />
       <jump line="33" column="18" filename="C:/ENTWICKLUNG/sandbox/jaxb/test1/src/fef.java" />
       <jump line="271" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" />
@@ -222,61 +221,64 @@
       <jump line="1472" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
       <jump line="1476" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
       <jump line="106" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
+      <jump line="42" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
+      <jump line="127" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
+      <jump line="129" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuc2V0cgo=</text>
+        <text encoding="base64">ICAgICAgUGxtQWNjZXNzIHBsbUFjY2VzcyA9IG5ldyBQbG1BY2Nlc3MoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtTm9ybVRpdGxlXD4=</text>
+        <text encoding="base64">XDxyZXZpc2lvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVmFsdWVUeXBlIHZhbHVlVHlwZSA9IGZhY3RvcnlDbC5jcmVhdGVWYWx1ZVR5cGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuc2V0cgo=</text>
+        <text encoding="base64">ICAgICAgUGxtQWNjZXNzIHBsbUFjY2VzcyA9IG5ldyBQbG1BY2Nlc3MoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0emVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgZGJSZXZpc2lvbiA9IFJldkxldmVsU2VydmljZS5nZXRMYXRlc3RSZXZpc2lvbkZvck1hdChwbG1NYXRlcmlhbCk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxtVmFsdWUuZ2V0VmFsdWUoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYlJldmlzaW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkYlJldmlzaW9uID09IG51bGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZhbHVlVHlwZSB2YWx1ZVR5cGUgPSBmYWN0b3J5Q2wuY3JlYXRlVmFsdWVUeXBlKCk7CiAgICAgICAgICBEZWNpbWFsRm9ybWF0U3ltYm9scyBlbiA9IERlY2ltYWxGb3JtYXRTeW1ib2xzLmdldEluc3RhbmNlKG5ldyBMb2NhbGUoImVuIikpOwogICAgICAgICAgZG91YmxlIG51bWJlciA9IERvdWJsZS5wYXJzZURvdWJsZShwbG1WYWx1ZS5nZXRWYWx1ZVdPVW5pdCgpLnJlcGxhY2UoIiwiLCAiLiIpKTsKICAgICAgICAgIFN0cmluZyBmb3JtYXQxID0gbmV3IERlY2ltYWxGb3JtYXQoIjAwMC4wMDAiLCBlbikuZm9ybWF0KG51bWJlcik7CiAgICAgICAgICB2YWx1ZVR5cGUuc2V0VmFsdWUoZm9ybWF0MSk7CiAgICAgICAgICB2YWx1ZVR5cGUuc2V0SXNNYXN0ZXIodHJ1ZSk7CiAgICAgICAgICBpY29Qcm9wZXJ0eVR5cGUuZ2V0VmFsdWUoKS5hZGQodmFsdWVUeXBlKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkYlJldmlzaW9uID0gcmV2aXNpb247Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuc2V0cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0emVzdCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtTm9ybVRpdGxlXD4=</last-search>
+      <last-search encoding="base64">XDxyZXZpc2lvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtTm9ybVRpdGxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXZpc2lvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>]</last-substitute>
       <last-dir>1</last-dir>
@@ -284,7 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
         <entry encoding="base64">XDxjaGFuZ2VOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VGaWxlXD4=</entry>
@@ -304,6 +305,7 @@
         <entry encoding="base64">XDxuYW1pbmdJbjE0TGFuZ3VhZ2VzXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRTYXZlXD4=</entry>
         <entry encoding="base64">XDxtTm9ybVRpdGxlXD4=</entry>
+        <entry encoding="base64">XDxyZXZpc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>758</entry>
