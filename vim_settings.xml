@@ -6,14 +6,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" timestamp="1525711945982">
         <mark key="'" line="2051" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526482960780">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526485291203">
         <mark key="'" line="102" column="17" />
-        <mark key="[" line="417" column="0" />
-        <mark key="]" line="417" column="0" />
-        <mark key="." line="417" column="0" />
-        <mark key="^" line="416" column="53" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1526475158928" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1526483326106" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1526475900046" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/omf/OmfBhsCreateMaterial.java" timestamp="1526462965559" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1526477493028" />
@@ -27,10 +26,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/trilux/trunk/src/main/java/trilux/dadi/TriluxDadiExportAfter.java" timestamp="1526376838633" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1526410092582" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/TRUNK-SNAPSHOT/addons-TRUNK-SNAPSHOT-sources.jar!/plm/prm/PrmModulImpl.java" timestamp="1526396921772" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/TRUNK-SNAPSHOT/plm-TRUNK-SNAPSHOT-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1526410217197">
-        <mark key="[" line="2061" column="0" />
-        <mark key="]" line="2061" column="48" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/proc/doc/GxServiceableDialog.java" timestamp="1526463811308">
         <mark key="'" line="95" column="47" />
       </file>
@@ -45,6 +40,9 @@
         <mark key="]" line="185" column="44" />
         <mark key="." line="185" column="44" />
         <mark key="^" line="185" column="44" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1526483160808">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/AssociatedAttachmentType.java" timestamp="1525797624400" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/gui/CompareBomGui.java" timestamp="1525777783435">
@@ -81,6 +79,9 @@
         <mark key="^" line="83" column="166" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-20180509.062114-506.jar!/cadagent/proc/mat/ProcessMatCreateDark.class" timestamp="1525870908672" />
+      <file name="/Dummy.txt" timestamp="1525864310005">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGuiV12.txt" timestamp="1526468956473" />
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java" timestamp="1526481810263" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-20180509.062114-506-sources.jar!/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1526381195705" />
@@ -224,7 +225,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0emVzdCIpOwo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuc2V0cgo=</text>
       </register>
       <register name="-" type="4">
         <text>replace</text>
@@ -236,37 +237,37 @@
         <text encoding="base64">ICAgICAgICAgICAgVmFsdWVUeXBlIHZhbHVlVHlwZSA9IGZhY3RvcnlDbC5jcmVhdGVWYWx1ZVR5cGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0emVzdCIpOwo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuc2V0cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxtVmFsdWUuZ2V0VmFsdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0emVzdCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxtVmFsdWUuZ2V0VmFsdWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZhbHVlVHlwZSB2YWx1ZVR5cGUgPSBmYWN0b3J5Q2wuY3JlYXRlVmFsdWVUeXBlKCk7CiAgICAgICAgICBEZWNpbWFsRm9ybWF0U3ltYm9scyBlbiA9IERlY2ltYWxGb3JtYXRTeW1ib2xzLmdldEluc3RhbmNlKG5ldyBMb2NhbGUoImVuIikpOwogICAgICAgICAgZG91YmxlIG51bWJlciA9IERvdWJsZS5wYXJzZURvdWJsZShwbG1WYWx1ZS5nZXRWYWx1ZVdPVW5pdCgpLnJlcGxhY2UoIiwiLCAiLiIpKTsKICAgICAgICAgIFN0cmluZyBmb3JtYXQxID0gbmV3IERlY2ltYWxGb3JtYXQoIjAwMC4wMDAiLCBlbikuZm9ybWF0KG51bWJlcik7CiAgICAgICAgICB2YWx1ZVR5cGUuc2V0VmFsdWUoZm9ybWF0MSk7CiAgICAgICAgICB2YWx1ZVR5cGUuc2V0SXNNYXN0ZXIodHJ1ZSk7CiAgICAgICAgICBpY29Qcm9wZXJ0eVR5cGUuZ2V0VmFsdWUoKS5hZGQodmFsdWVUeXBlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIFZhbHVlVHlwZSB2YWx1ZVR5cGUgPSBmYWN0b3J5Q2wuY3JlYXRlVmFsdWVUeXBlKCk7CiAgICAgICAgICBEZWNpbWFsRm9ybWF0U3ltYm9scyBlbiA9IERlY2ltYWxGb3JtYXRTeW1ib2xzLmdldEluc3RhbmNlKG5ldyBMb2NhbGUoImVuIikpOwogICAgICAgICAgZG91YmxlIG51bWJlciA9IERvdWJsZS5wYXJzZURvdWJsZShwbG1WYWx1ZS5nZXRWYWx1ZVdPVW5pdCgpLnJlcGxhY2UoIiwiLCAiLiIpKTsKICAgICAgICAgIFN0cmluZyBmb3JtYXQxID0gbmV3IERlY2ltYWxGb3JtYXQoIjAwMC4wMDAiLCBlbikuZm9ybWF0KG51bWJlcik7CiAgICAgICAgICB2YWx1ZVR5cGUuc2V0VmFsdWUoZm9ybWF0MSk7CiAgICAgICAgICB2YWx1ZVR5cGUuc2V0SXNNYXN0ZXIodHJ1ZSk7CiAgICAgICAgICBpY29Qcm9wZXJ0eVR5cGUuZ2V0VmFsdWUoKS5hZGQodmFsdWVUeXBlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHRyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>pu</text>
