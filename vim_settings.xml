@@ -8,12 +8,12 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/nio/file/StandardCopyOption.java" timestamp="1526490361615" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/Tool.java" timestamp="1526487027995" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526490375418">
-        <mark key="'" line="106" column="17" />
-        <mark key="[" line="285" column="39" />
-        <mark key="]" line="285" column="73" />
-        <mark key="." line="285" column="73" />
-        <mark key="^" line="285" column="73" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526551205187">
+        <mark key="'" line="214" column="36" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="517" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1526492693310" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1526475900046" />
@@ -29,6 +29,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/StructureUsageBase.java" timestamp="1525795546028" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/trilux/trunk/src/main/java/trilux/dadi/TriluxDadiExportAfter.java" timestamp="1526376838633" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1526410092582" />
+      <file name="C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/runtime/XMLSerializer.class" timestamp="1526550161717" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/TRUNK-SNAPSHOT/addons-TRUNK-SNAPSHOT-sources.jar!/plm/prm/PrmModulImpl.java" timestamp="1526396921772" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.0/plm-5.1.12.0-sources.jar!/plm/proc/doc/GxServiceableDialog.java" timestamp="1526463811308">
         <mark key="'" line="95" column="47" />
@@ -71,6 +72,7 @@
         <mark key="'" line="15" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/plm/PlmRepository.java" timestamp="1526470214604" />
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/xml/bind/helpers/AbstractMarshallerImpl.java" timestamp="1526550597837" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGui.java" timestamp="1526469287448" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataImport.java" timestamp="1526407954359" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1525870562407">
@@ -89,6 +91,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/proc/BhsProcessCreateMaterialWithGuiV12.txt" timestamp="1526468956473" />
       <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java" timestamp="1526481810263" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-20180509.062114-506-sources.jar!/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1526381195705" />
+      <file name="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Optional.java" timestamp="1526549771895" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmFunction.java" timestamp="1525865320726" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1526393739931" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmClassCharacteristic.java" timestamp="1526463423029">
@@ -105,9 +108,6 @@
         <mark key="'" line="17" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/PLMXMLType.java" timestamp="1525866796426" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" timestamp="1526464089068">
-        <mark key="'" line="32" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/proc/mat/ProcessMatBomMaintain.java" timestamp="1526393979741" />
       <file name="C:/ENTWICKLUNG/java/workspaces/convert/5.1.9.2/java/src/cadagent/ext/ProcessDetermineDocStructure.java" timestamp="1525854302871" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1526478834655" />
@@ -120,7 +120,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1525777943627">
         <mark key="'" line="175" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1526490536737">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/DescriptionBase.java" timestamp="1526548459792" />
+      <file name="/fragment.java" timestamp="1526550485377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -129,9 +130,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/proc/doc/ProcessDocMultiCheckOutFast2.java" timestamp="1526410280891" />
     </filemarks>
     <jumps>
-      <jump line="250" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" />
-      <jump line="33" column="18" filename="C:/ENTWICKLUNG/sandbox/jaxb/test1/src/fef.java" />
-      <jump line="271" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" />
       <jump line="64" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/PLMXMLType.java" />
       <jump line="260" column="23" filename="C:/ENTWICKLUNG/sandbox/jaxb/jaxb-ri/pom.xml" />
       <jump line="607" column="0" filename="C:/ENTWICKLUNG/sandbox/jaxb/jaxbv2/jaxb-ri/pom.xml" />
@@ -229,13 +227,16 @@
       <jump line="42" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
       <jump line="127" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
       <jump line="129" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
+      <jump line="249" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
+      <jump line="253" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
+      <jump line="214" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcm9vdC5zZXRJZChnZXROZXh0TnVtYmVyKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>&quot;#&quot; + occurence.getId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXZpc2lvblw+</text>
@@ -244,40 +245,40 @@
         <text encoding="base64">ICAgICAgICAgICAgZXh0ZXJuYWxGaWxlVHlwZS5zZXRGb3JtYXQoInFhZiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcm9vdC5zZXRJZChnZXROZXh0TnVtYmVyKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4dGVybmFsRmlsZVR5cGUKICAgICAgICAgICAgICAuc2V0TG9jYXRpb25SZWYoRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbihGaWxlVXRpbHMuZ2V0RmlsZW5hbWUodGFyZ2V0U2F2ZSkpICsgRmlsZS5zZXBhcmF0b3IgKyBwbG1GaWxlLmdldEZpbGVOYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF0aCB0YXJnZXQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgQWNjZXNzSW50ZW50VHlwZSBhY2Nlc3NJbnRlbnRUeXBlID0gZmFjdG9yeS5jcmVhdGVBY2Nlc3NJbnRlbnRUeXBlKCk7CiAgICAgIGFjY2Vzc0ludGVudFR5cGUuc2V0SWQoZ2V0TmV4dE51bWJlcigpKTsKICAgICAgdHlwZXMucHV0SWZBYnNlbnQoQUNDRVNTSU5URU5UVFlQRSwgYWNjZXNzSW50ZW50VHlwZSk7CiAgICAgIGFjY2Vzc0ludGVudFR5cGUuc2V0SW50ZW50KEFjY2Vzc0ludGVudEVudW0uUkVGRVJFTkNFKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlcy5nZXQoQUNDRVNTSU5URU5UVFlQRSkgPT0gbnVsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4dGVybmFsRmlsZVR5cGUuc2V0Rm9ybWF0KGV4dGVuc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0KICAgICAgICAgIGV4dGVybmFsRmlsZVR5cGUuc2V0Rm9ybWF0KGV4dGVuc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgIEFjY2Vzc0ludGVudFR5cGUgYWNjZXNzSW50ZW50VHlwZSA9IGZhY3RvcnkuY3JlYXRlQWNjZXNzSW50ZW50VHlwZSgpOwogICAgYWNjZXNzSW50ZW50VHlwZS5zZXRJZChnZXROZXh0TnVtYmVyKCkpOwogICAgdHlwZXMucHV0SWZBYnNlbnQoQUNDRVNTSU5URU5UVFlQRSwgYWNjZXNzSW50ZW50VHlwZSk7CiAgICBhY2Nlc3NJbnRlbnRUeXBlLnNldEludGVudChBY2Nlc3NJbnRlbnRFbnVtLlJFRkVSRU5DRSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUGxtQWNjZXNzIHBsbUFjY2VzcyA9IG5ldyBQbG1BY2Nlc3MoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>pu</text>
+        <text>1039</text>
       </register>
     </registers>
     <search>
@@ -313,7 +314,6 @@
         <entry encoding="base64">XDxyZXZpc2lvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>758</entry>
         <entry>:set mouse-=a</entry>
         <entry>set mouse-=a</entry>
         <entry>3504</entry>
@@ -333,6 +333,7 @@
         <entry>107</entry>
         <entry encoding="base64">bm1hcCBwIDpwdTxDUj4=</entry>
         <entry>pu</entry>
+        <entry>1039</entry>
       </history-cmd>
       <history-expr />
       <history-input />
