@@ -15,12 +15,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526667384331">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1526669489464">
         <mark key="'" line="246" column="0" />
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="0" />
-        <mark key="." line="547" column="0" />
-        <mark key="^" line="548" column="3" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
+        <mark key="^" line="232" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1526571098875">
         <mark key="[" line="379" column="0" />
@@ -106,6 +106,7 @@
       <file name="/fragment.java" timestamp="1526652213140">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ManagedBase.java" timestamp="1526668199336" />
     </filemarks>
     <jumps>
       <jump line="2051" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/org/plmxml/schemas/plmxmlschema/ObjectFactory.java" />
@@ -211,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybVR5cGUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">RGVmYXVsdExvZ0V4Y2VwdGlvbiwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9kdWN0UmV2aXNpb25JZE1haW5cPg==</text>
@@ -223,28 +224,28 @@
         <text encoding="base64">ICAgIGlmIChleHBvcnRNYXRlcmlhbCA9PSBudWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybVR5cGUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblZpZXdUeXBlLnNldFJldmlzaW9uUmVmKCIjIiArIHByb2R1Y3RSZXZpc2lvblR5cGUuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RSZXZpc2lvblR5cGUuZ2V0QWNjZXNzUmVmcygpLmFkZCgiIyIgKyBhY2Nlc3NJbnRlbnRUeXBlLmdldElkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgamF4Yi5hZGRBbGwod3JpdGVBc3Nvc2lhdGVkQXR0YWNobWVudChvY2N1cmVuY2UsIHByb2R1Y3RWaWV3VHlwZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIExpc3Q8SkFYQkVsZW1lbnQ8PyBleHRlbmRzIElkQmFzZT4+IGpheGJFbGVtZW50czEgPSB3cml0ZVByb2R1Y3RSZXZpc2lvbihvY2N1cmVuY2UsIGNvbXBvbmVudE1hdGVyaWFsLCBkb2N1bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGF0dHJpYnV0ZS5hZGQoZmFjdG9yeS5jcmVhdGVBcHBsaWNhdGlvblJlZlR5cGUoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIEpBWEJFbGVtZW50IGpheGJFbGVtZW50ID0gbmV3IEpBWEJFbGVtZW50PD4oKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -253,7 +254,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1039</text>
