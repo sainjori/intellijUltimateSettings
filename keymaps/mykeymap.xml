@@ -62,10 +62,6 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="GuiDesigner.QuickJavadoc" />
-  <action id="HighlightUsagesInFile">
-    <keyboard-shortcut first-keystroke="shift ctrl f7" />
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="alt #10000c4" />
@@ -77,6 +73,14 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
