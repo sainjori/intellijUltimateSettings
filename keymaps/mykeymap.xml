@@ -17,15 +17,24 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.Submit" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorSplitLine" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -61,6 +70,7 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.QuickJavadoc" />
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
@@ -74,6 +84,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="KotlinShellExecute" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="alt j" />
@@ -124,6 +135,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
