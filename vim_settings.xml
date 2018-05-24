@@ -20,7 +20,7 @@
         <mark key="." line="62" column="68" />
         <mark key="^" line="62" column="68" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1527096957642" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1527156013307" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1527068807709">
         <mark key="'" line="536" column="61" />
         <mark key="[" line="145" column="0" />
@@ -41,11 +41,11 @@
         <mark key="." line="72" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPspCreate.java" timestamp="1527153511217" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1527154580061">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="79" column="5" />
-        <mark key="." line="81" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1527156021201">
+        <mark key="[" line="85" column="79" />
+        <mark key="]" line="94" column="6" />
+        <mark key="^" line="94" column="6" />
+        <mark key="." line="94" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/confirmation/PsActivityConfirmationDialog.java" timestamp="1527097106131" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1527154334132" />
@@ -55,6 +55,11 @@
         <mark key="]" line="33" column="20" />
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1527155513543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPspChange.java" timestamp="1527098376297" />
     </filemarks>
@@ -161,11 +166,11 @@
       <jump line="288" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hlY2sgaWYgc2VsZWN0ZWQgb2JqZWN0IGlzIHZhbGlkCg==</text>
+      <register name="&quot;" type="4">
+        <text>ofEvent</text>
       </register>
       <register name="-" type="4">
-        <text>YPE);</text>
+        <text>ofEvent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJlUHJvcGVydHlDaGFuZ2VcPg==</text>
