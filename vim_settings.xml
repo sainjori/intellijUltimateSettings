@@ -9,7 +9,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/4.4-SNAPSHOT/plm-4.4-20180525.050430-3685-sources.jar!/plm/proc/PlmProcessDataExcExport.java" timestamp="1527257434130">
         <mark key="'" line="148" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/apm/brobj/BrConnectProcess.java" timestamp="1527165472937">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/apm/brobj/BrConnectProcess.java" timestamp="1527273485525">
         <mark key="'" line="151" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/DirHeaderPanel.java" timestamp="1527178637587">
@@ -18,7 +18,7 @@
         <mark key="^" line="379" column="2" />
         <mark key="." line="379" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPspCreate.java" timestamp="1527272532234" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPspCreate.java" timestamp="1527273444202" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc/trunk/pom.xml" timestamp="1527254427159">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="23" />
@@ -50,11 +50,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSPspGetDetailMulti.java" timestamp="1527158695510">
         <mark key="'" line="200" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1527272556939">
-        <mark key="[" line="111" column="82" />
-        <mark key="]" line="112" column="7" />
-        <mark key="^" line="112" column="7" />
-        <mark key="." line="112" column="7" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1527274249611">
+        <mark key="[" line="119" column="107" />
+        <mark key="]" line="120" column="7" />
+        <mark key="^" line="120" column="7" />
+        <mark key="." line="120" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ectr_5192/branches/SANDVIK-ECTR-HOTFIX-5.1.9.2/src/main/java/plm/gui/browser/components/DirBasicDataPanel.java" timestamp="1527178688448">
         <mark key="[" line="108" column="3" />
@@ -62,7 +62,7 @@
         <mark key="^" line="113" column="2" />
         <mark key="." line="113" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1527246029519">
+      <file name="/fragment.java" timestamp="1527273658730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -171,11 +171,11 @@
       <jump line="619" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ofe</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbU1vZGVsID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCk7CiAgICAgICAgTGlzdDxPYnJPYmplY3Q+IGV4cGFuZGVkT2JqZWN0cyA9IG9tTW9kZWwuZ2V0QWxsRXhwYW5kZWRPYmplY3RzKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ofe</text>
+        <text>om_model.getAllExpandedObjects(ofEvent.getObrContextKey())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0ZXJFeHBvcnRGaWxlbmFtZVw+</text>
@@ -184,37 +184,38 @@
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCwgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oIkUxMDEwNSIsICJObyBzdWZmaWNpZW50IHJpZ2h0cy4iKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiclBzTmV0d29ya0FjdGl2aXR5Q29udGFpbmVyLmlzCg==</text>
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbU1vZGVsID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCk7CiAgICAgICAgTGlzdDxPYnJPYmplY3Q+IGV4cGFuZGVkT2JqZWN0cyA9IG9tTW9kZWwuZ2V0QWxsRXhwYW5kZWRPYmplY3RzKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG9taS5pc0V4cGFuZGVkKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpLCBvZmUuZ2V0T2JyVHJlZVNlbGVjdGlvbigpLmdldEZpcnN0T2JyRXh0VHJlZU5vZGUoKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbWkgPSBPYmplY3RNYW5hZ2VyR3VpLmdldE9ick1vZGVsSW50ZXJmYWNlKG9mRXZlbnQuZ2V0Q2xpZW50SWRlbnQoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgIAk8Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPgogICAgCTxhcnRpZmFjdElkPmNvbnZlcnQ8L2FydGlmYWN0SWQ+CiAgICAJPHZlcnNpb24+NS4xLjExLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgIAk8Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPgogICAgCTxhcnRpZmFjdElkPmNvbnZlcnQ8L2FydGlmYWN0SWQ+CiAgICAJPHZlcnNpb24+NS4xLjEwLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgIAk8Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPgogICAgCTxhcnRpZmFjdElkPmNvbnZlcnQ8L2FydGlmYWN0SWQ+CiAgICAJPHZlcnNpb24+NS4xLjEwLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZHNjc2FnLmRldnRvb2xzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5hbm5vdGF0aW9uczwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Mi4wLjA8L3ZlcnNpb24+CiAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>PlmSessionManager psm = PlmSessionManager.getInst();
+        ObrModelInterface om_model = psm.getObrModelInterface();</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2VQYW5lbC5zZXRCYWNrZ3JvdW5kSW1hZ2UoKEltYWdlKSBudWxsKTsKICAgICAgdnBhbmVsLnNldEJhY2tncm91bmRJbWFnZSgoSW1hZ2UpIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbV9tb2RlbCA9IG9taS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>631</text>
