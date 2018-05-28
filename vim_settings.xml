@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" timestamp="1527518466569">
+        <mark key="'" line="905" column="2" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivityConfirmation.java" timestamp="1527518755855">
+        <mark key="[" line="91" column="29" />
+        <mark key="]" line="91" column="32" />
+        <mark key="." line="91" column="32" />
+        <mark key="^" line="91" column="32" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" timestamp="1527518616575">
+        <mark key="'" line="282" column="47" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1527511407951">
         <mark key="'" line="181" column="17" />
       </file>
@@ -13,10 +25,14 @@
         <mark key="'" line="151" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1527513512962" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" timestamp="1527511550647">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1527517961654">
+        <mark key="'" line="1709" column="27" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1527515906261" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" timestamp="1527515369910">
         <mark key="'" line="105" column="75" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityContainer.java" timestamp="1527511312646" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityContainer.java" timestamp="1527515595122" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.10.0/addons-5.1.10.0-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1527255244175">
         <mark key="'" line="609" column="12" />
       </file>
@@ -36,44 +52,14 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSPspGetDetailMulti.java" timestamp="1527158695510">
         <mark key="'" line="200" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1527498160469">
-        <mark key="'" line="139" column="49" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1527514247521">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkActivityBrowsePanel.java" timestamp="1527515494516" />
+      <file name="/fragment.java" timestamp="1527514880132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/src/main/java/bhs/dlg/CreateMaterialDialog.java" />
-      <jump line="221" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="93" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="1209" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="1211" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="1467" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="1469" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="1472" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="1476" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="106" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/TRUNK-SNAPSHOT/sapbase-TRUNK-SNAPSHOT-sources.jar!/cadagent/objmod/PlmClass.java" />
-      <jump line="42" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
-      <jump line="127" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
-      <jump line="129" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
-      <jump line="249" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="253" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="214" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="299" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="611" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="225" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="548" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="640" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="98" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfExportRenk.java" />
-      <jump line="304" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="306" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="110" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
       <jump line="36" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataExport.java" />
       <jump line="230" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
       <jump line="251" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
@@ -149,40 +135,65 @@
       <jump line="140" column="49" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" />
       <jump line="621" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" />
       <jump line="105" column="75" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSActivityDetailGetMulti.java" />
+      <jump line="1727" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1730" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="79" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1663" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1674" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1685" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1688" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1706" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="1709" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
+      <jump line="260" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="559" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="71" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="169" column="59" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="553" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="311" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="325" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="258" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="279" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="280" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="302" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="905" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" />
+      <jump line="411" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="54" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="124" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
+      <jump line="282" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gdHJ1ZQ==</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gdHJ1ZQ==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXN0ZXJFeHBvcnRGaWxlbmFtZVw+</text>
+        <text encoding="base64">XDxDT05GX05PXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCwgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oIkUxMDEwNSIsICJObyBzdWZmaWNpZW50IHJpZ2h0cy4iKSk7Cg==</text>
+        <text encoding="base64">ICAvKiogQ0hBUiAgIDQgIDAgVXJzYWNoZSBkZXIgQWJ3ZWljaHVuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqLwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSUF9ERVZfUkVBU09OID0gIkRFVl9SRUFTT04iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbU1vZGVsID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCk7CiAgICAgICAgTGlzdDxPYnJPYmplY3Q+IGV4cGFuZGVkT2JqZWN0cyA9IG9tTW9kZWwuZ2V0QWxsRXhwYW5kZWRPYmplY3RzKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9taS5pc0V4cGFuZGVkKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpLCBvZmUuZ2V0T2JyVHJlZVNlbGVjdGlvbigpLmdldEZpcnN0T2JyRXh0VHJlZU5vZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbU1vZGVsID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCk7CiAgICAgICAgTGlzdDxPYnJPYmplY3Q+IGV4cGFuZGVkT2JqZWN0cyA9IG9tTW9kZWwuZ2V0QWxsRXhwYW5kZWRPYmplY3RzKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbWkgPSBPYmplY3RNYW5hZ2VyR3VpLmdldE9ick1vZGVsSW50ZXJmYWNlKG9mRXZlbnQuZ2V0Q2xpZW50SWRlbnQoKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG9taS5pc0V4cGFuZGVkKG9mRXZlbnQuZ2V0T2JyQ29udGV4dEtleSgpLCBvZmUuZ2V0T2JyVHJlZVNlbGVjdGlvbigpLmdldEZpcnN0T2JyRXh0VHJlZU5vZGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnJNb2RlbEludGVyZmFjZSBvbWkgPSBPYmplY3RNYW5hZ2VyR3VpLmdldE9ick1vZGVsSW50ZXJmYWNlKG9mRXZlbnQuZ2V0Q2xpZW50SWRlbnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -191,7 +202,7 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -201,9 +212,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXN0ZXJFeHBvcnRGaWxlbmFtZVw+</last-search>
+      <last-search encoding="base64">XDxDT05GX05PXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXN0ZXJFeHBvcnRGaWxlbmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxDT05GX05PXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0cmFuc2Zvcm1UeXBlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -211,10 +222,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbk1hdEJvbUhlYWRlclw+</entry>
-        <entry>master</entry>
-        <entry encoding="base64">XDxleHBvcnRNYXRlcmlhbFw+</entry>
-        <entry>exportMaterial</entry>
         <entry encoding="base64">XDx2VmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxlZGl0RGF0YVw+</entry>
         <entry encoding="base64">XDxuYW1pbmdJbjE0TGFuZ3VhZ2VzXD4=</entry>
@@ -231,6 +238,10 @@
         <entry encoding="base64">XDxzYXZlQmFzaWNEYXRhXD4=</entry>
         <entry encoding="base64">XDxES19BRERGT0xERVJfTkFNRVw+</entry>
         <entry encoding="base64">XDxtYXN0ZXJFeHBvcnRGaWxlbmFtZVw+</entry>
+        <entry encoding="base64">XDxhbGxDaGlsZHJlblw+</entry>
+        <entry encoding="base64">XDxERVZfUkVBU09OXD4=</entry>
+        <entry encoding="base64">XDxtUHJwSW1wb3J0XD4=</entry>
+        <entry encoding="base64">XDxDT05GX05PXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>3704</entry>
