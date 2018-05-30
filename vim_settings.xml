@@ -13,17 +13,17 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/4.4-SNAPSHOT/plm-4.4-20180525.050430-3685-sources.jar!/plm/proc/PlmProcessDataExcExport.java" timestamp="1527257434130">
         <mark key="'" line="148" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1527699586657">
-        <mark key="[" line="184" column="62" />
-        <mark key="]" line="185" column="18" />
-        <mark key="." line="185" column="18" />
-        <mark key="^" line="185" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1527701004059">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="210" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1527517961654">
         <mark key="'" line="1709" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1527676482145" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfAdvAssemCompLoad.java" timestamp="1527697652557">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfAdvAssemCompLoad.java" timestamp="1527700676643">
         <mark key="'" line="174" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfHammCreateMasterForDrawing.java" timestamp="1527694626540" />
@@ -218,11 +218,11 @@
       <jump line="521" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/brobj/BrDocPosition.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>setStatusLineInfoText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJlbnRrZXlcPg==</text>
@@ -231,37 +231,37 @@
         <text encoding="base64">ICAgICAgICAgIGlmIChvYmpEZXNrICE9IGJyUFNOZXR3b3JrQWN0aXZpdHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChmaXJzdE9ick9iamVjdC5nZXRwKQo=</text>
+        <text encoding="base64">ICAgIE9iclRyZWVTZWxlY3Rpb24gc2VsZWN0aW9uID0gZXZlbnQuZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIFBsbU9ic2VydmVyLmdldEluc3QoKS5zZXRIaWJlcm5hdGVkKHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChmaXJzdE9ick9iamVjdC5nZXRwKQo=</text>
+        <text encoding="base64">ICAgIGludCBvYnJPYmplY3RDb3VudCA9IG9iclRyZWVTZWxlY3Rpb24uZ2V0T2JyT2JqZWN0Q291bnQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIE9iclRyZWVTZWxlY3Rpb24gb2JyVHJlZVNlbGVjdGlvbiA9IG9mZS5nZXRPYnJUcmVlU2VsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIE9iclRyZWVTZWxlY3Rpb24gb2JyVHJlZVNlbGVjdGlvbjEgPSBvZmUuZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZWxlY3Rpb25PazsK</text>
+        <text encoding="base64">ICAgICAgICBjTm9kZXNTZXROb3RMb2FkLmFkZChub2RlLmdldE9iclRyZWVOb2RlKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0aW9uT2sgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gc2VsZWN0aW9uT2sgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIGlmIChmaXJzdE9ick9iamVjdC5nZXRwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>630</text>
