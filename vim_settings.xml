@@ -15,12 +15,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/brobj/BrWhereUsedContainer.java" timestamp="1528198876242">
         <mark key="'" line="118" column="52" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1528209894094">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1528211675147">
         <mark key="'" line="194" column="67" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-        <mark key="^" line="192" column="11" />
+        <mark key="[" line="148" column="19" />
+        <mark key="]" line="148" column="34" />
+        <mark key="." line="148" column="34" />
+        <mark key="^" line="148" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1527517961654">
         <mark key="'" line="1709" column="27" />
@@ -87,7 +87,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" timestamp="1527518466569">
         <mark key="'" line="905" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDeleteObjectLinks.java" timestamp="1528210035949" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDeleteObjectLinks.java" timestamp="1528211052031" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsConfirmation.java" timestamp="1528206704938">
         <mark key="'" line="170" column="2" />
         <mark key="[" line="125" column="28" />
@@ -258,17 +258,17 @@
       <jump line="166" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>readDetailsPop(false, false, false, true, false, true, true);</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>readDetailsPop(false, false, false, true, false, true, true);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvbl9uYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>PlmPspElement</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnRzLnJlYWREZXRhaWxzUG9wKGZhbHNlLCBmYWxzZSwgZmFsc2UsIHRydWUsIGZhbHNlLCB0cnVlLCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
