@@ -19,9 +19,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/ProcessInsertDocStructure2.java" timestamp="1527596623047">
         <mark key="'" line="1307" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528103868277">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/4.4-SNAPSHOT/plm-4.4-20180525.050430-3685-sources.jar!/plm/proc/PlmProcessDataExcExport.java" timestamp="1527257434130">
         <mark key="'" line="148" column="30" />
       </file>
@@ -46,13 +43,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenTransformToNextMasterVersion.java" timestamp="1527702686175">
         <mark key="'" line="72" column="36" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1528292552275">
-        <mark key="'" line="463" column="17" />
-        <mark key="[" line="465" column="0" />
-        <mark key="]" line="465" column="0" />
-        <mark key="^" line="504" column="31" />
-        <mark key="." line="465" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1527517961654">
         <mark key="'" line="1709" column="27" />
@@ -150,7 +140,7 @@
         <mark key="[" line="68" column="34" />
         <mark key="]" line="68" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1528200370763">
+      <file name="/fragment.java" timestamp="1528294981762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -266,11 +256,11 @@
       <jump line="463" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGxtUGFyc2VQTE1YTUxQcm9jZXNzLnNldERhdGEoZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T3B0aW9uYWw8UHJvZHVjdERlZlR5cGU+IHByb2R1Y3REZWZUeXBlID0g</text>
       </register>
       <register name="-" type="4">
-        <text>plmParsePLMXMLProcess.getData()</text>
+        <text encoding="base64">T3B0aW9uYWw8UHJvZHVjdERlZlR5cGU+IHByb2R1Y3REZWZUeXBlID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0NvbXBsZXRlVG9vbFw+</text>
