@@ -127,6 +127,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/javadoc/stylesheet.css" timestamp="1528385622892">
         <mark key="'" line="167" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528459648536">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfFatcDataExport.java" timestamp="1528454982877" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1527680613535">
         <mark key="'" line="1797" column="20" />
@@ -272,8 +277,8 @@
       <jump line="167" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/javadoc/stylesheet.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IGRjYjA2ODcp</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -284,8 +289,8 @@
       <register name="0" type="4">
         <text>&quot;Could not infer unique PSP Element to link to. Documents: \n %s&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IGRjYjA2ODcp</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -297,15 +302,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIG51bWJlciA9IERvdWJsZS5wYXJzZURvdWJsZShwbG1WYWx1ZS5nZXRWYWx1ZVdPVW5pdCgpLnJlcGxhY2UoIiwiLCAiLiIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZvcm1hdDEgPSBuZXcgRGVjaW1hbEZvcm1hdCgiMDAwLjAwMCIsIGVuKS5mb3JtYXQobnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIG51bWJlciA9IERvdWJsZS5wYXJzZURvdWJsZShwbG1WYWx1ZS5nZXRWYWx1ZVdPVW5pdCgpLnJlcGxhY2UoIiwiLCAiLiIpKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZvcm1hdDEgPSBuZXcgRGVjaW1hbEZvcm1hdCgiMDAwLjAwMCIsIGVuKS5mb3JtYXQobnVtYmVyKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">IyMjIGVjdHJfaW5fZ2l0IHRlbXBsYXRlCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
         <text>/*
 !/basis
 /basis/*
@@ -316,21 +327,8 @@
 !*.bat
 !*.xml</text>
       </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text># IntelliJ project files
-.idea/
-.svn/
-*.iml
-out/
-gen/
-target/
-bash.exe.stackdump### ectr_in_git template</text>
       </register>
       <register name=":" type="4">
         <text>1184</text>
