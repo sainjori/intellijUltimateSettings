@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528719721595">
-        <mark key="'" line="177" column="23" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528724771508">
+        <mark key="'" line="167" column="23" />
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" timestamp="1527523827431">
         <mark key="'" line="170" column="0" />
@@ -169,6 +170,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/javadoc/stylesheet.css" timestamp="1528385622892">
         <mark key="'" line="167" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528722822934">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1527680613535">
         <mark key="'" line="1797" column="20" />
       </file>
@@ -310,11 +316,11 @@
       <jump line="178" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.handleResult();</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR_FOLDER</text>
+        <text>.handleResult();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEX1RZUEVfTElTVFw+</text>
@@ -329,31 +335,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBFWFJFTkstMjY0X3dvcmtGcmVzaAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgcHVibGljIHZvaWQgaGFuZGxlUmVzdWx0KCkKICAgIHsKICAgICAgaWYgKGVycm9yKQogICAgICAgIG1vdmVFcnJvckZvbGRlcigpOwogICAgICBlbHNlCiAgICAgICAgbW92ZVN1Y2Nlc3MoKTsKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgRmlsZSB0ZW1wRmlsZSA9IEZpbGUuY3JlYXRlVGVtcEZpbGUoRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbih0YXNrLmdldFRhc2tGaWxlKCkuZ2V0TmFtZSgpKSwgIi5sb2ciLCB0YXNrLmdldFdvcmtEaXIoKSk7CiAgICAgICAgcHNMb2cgPSBuZXcgUHJpbnRTdHJlYW0obmV3IEZpbGVPdXRwdXRTdHJlYW0odGVtcEZpbGUpKTsKICAgICAgICB0YXNrLnNldExvZ0ZpbGUodGVtcEZpbGUpOwo9PT09PT09</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBFWFJFTkstMjY0X3dvcmtGcmVzaAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGlmICghU1VDQ0VTU19GT0xERVIuZXhpc3RzKCkgJiYgIVNVQ0NFU1NfRk9MREVSLm1rZGlyKCkpCiAgICAgICAgcmV0dXJuOwoKICAgICAgRmlsZSBuZXdUYXNrRGlyID0gbmV3IEZpbGUoU1VDQ0VTU19GT0xERVIsIHRhc2tGaWxlLmdldE5hbWUoKSk7CiAgICAgIGlmICh0YXNrRmlsZS5yZW5hbWVUbyhuZXdUYXNrRGlyKSkKICAgICAgewogICAgICAgIG1vdmVPcmlnaW5hbHNGb2xkZXIoKTsKICAgICAgICBpZiAobG9nRmlsZS5leGlzdHMoKSkKICAgICAgICAgIGxvZ0ZpbGUucmVuYW1lVG8obmV3IEZpbGUoU1VDQ0VTU19GT0xERVIsIGxvZ0ZpbGUuZ2V0TmFtZSgpKSk7CiAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHZvaWQgbW92ZU9yaWdpbmFsc0ZvbGRlcigpCiAgICB7CiAgICAgIEZpbGUgb3JpZ2luYWxGb2xkT2xkID0gbmV3IEZpbGUoRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbih0YXNrRmlsZSkpOwogICAgICBpZiAob3JpZ2luYWxGb2xkT2xkLmV4aXN0cygpKQogICAgICAgIG9yaWdpbmFsRm9sZE9sZC5yZW5hbWVUbyhuZXcgRmlsZShTVUNDRVNTX0ZPTERFUiwgb3JpZ2luYWxGb2xkT2xkLmdldE5hbWUoKSkpOwo9PT09PT09</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yID0gZmFsc2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBlcnJvcjsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBFWFJFTkstMjY0X3dvcmtGcmVzaAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCA5MzVjZTZkKQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNoZXJyeSBwaWNrZWQgZnJvbSBjb21taXQgMmJmNGMwNik=</text>
       </register>
       <register name=":" type="4">
         <text>1184</text>
