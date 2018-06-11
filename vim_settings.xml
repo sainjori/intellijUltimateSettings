@@ -53,8 +53,18 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" timestamp="1528728095728">
-        <mark key="'" line="205" column="25" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" timestamp="1528748396178">
+        <mark key="'" line="203" column="25" />
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="145" column="19" />
+        <mark key="^" line="192" column="3" />
+        <mark key="." line="145" column="19" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1528747631033">
+        <mark key="[" line="62" column="56" />
+        <mark key="]" line="62" column="56" />
+        <mark key="." line="62" column="56" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-44/customize/config/menu_generic.guidef" timestamp="1528462588575">
         <mark key="'" line="57" column="33" />
@@ -103,7 +113,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrExportObject.java" timestamp="1527265293303">
         <mark key="'" line="357" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1528729289112" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1528747887338">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="834" column="31" />
+        <mark key="]" line="835" column="29" />
+        <mark key="." line="835" column="29" />
+        <mark key="^" line="835" column="29" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessPSPspGetDetailMulti.java" timestamp="1527158695510">
         <mark key="'" line="200" column="10" />
       </file>
@@ -210,7 +226,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/facc_newnew/branches/FACC-ECTR-HOTFIX-5.1.11.1/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1528217243046">
         <mark key="'" line="147" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1528729002431">
+      <file name="/fragment.java" timestamp="1528747040092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -221,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="533" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="538" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="553" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -321,52 +336,53 @@
       <jump line="204" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" />
       <jump line="205" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" />
       <jump line="127" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
+      <jump line="176" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwKGUgLT4gOmNvbGxlY3RDb21wb25lbnRzQXNzZW1ibHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IG9jY3VycmVuY2VUeXBlcy5nZXQoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYXNrKFBhdGggcGF0aCkKICAgIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IG9jY3VycmVuY2VUeXBlcy5nZXQoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGF0aHMuZm9yRWFjaChUYXNrOjpuZXcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPE9jY3VycmVuY2VUeXBlPiBvY2N1cmVuY2VUeXBlUHJpbWFyeSA9IEpBWEJVdGlscy5nZXRPY2N1cmVuY2VUeXBlUHJpbWFyeSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIEpBWEJVdGlscy5nZXRPY2N1cmVuY2VUeXBlUHJpbWFyeSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeSAoU3RyZWFtPFBhdGg+IGxpc3QgPSBGaWxlcy5saXN0KHdvcmtEaXIudG9QYXRoKCkpKQogICAgewogICAgICBsaXN0LmZvckVhY2goZSAtPiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgICAgIH0pOwogICAgfQogICAgY2F0Y2ggKElPRXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdvcmtEaXIubGlzdEZpbGVzKCkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
@@ -377,7 +393,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDx0cmFuc2Zvcm1UeXBlXD4=</last-substitute>
+      <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
