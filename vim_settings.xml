@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528716142032">
-        <mark key="[" line="130" column="11" />
-        <mark key="]" line="130" column="23" />
-        <mark key="^" line="130" column="23" />
-        <mark key="." line="130" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528719721595">
+        <mark key="'" line="177" column="23" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" timestamp="1527523827431">
         <mark key="'" line="170" column="0" />
@@ -92,7 +92,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/browser/DirBrowsePanel.java" timestamp="1527172624823">
         <mark key="'" line="1088" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" timestamp="1528714184915">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" timestamp="1528718650794">
         <mark key="'" line="213" column="0" />
         <mark key="[" line="78" column="106" />
         <mark key="]" line="78" column="122" />
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="339" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="340" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="341" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -308,13 +307,14 @@
       <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
       <jump line="164" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
       <jump line="384" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
+      <jump line="178" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toSuccess</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>toSuccess</text>
+        <text>ERROR_FOLDER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEX1RZUEVfTElTVFw+</text>
@@ -329,28 +329,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBFWFJFTkstMjY0X3dvcmtGcmVzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb3ZlT3JpZ2luYWxzRm9sZGVyKCkKICAgIHsKICAgICAgRmlsZSBvcmlnaW5hbEZvbGRPbGQgPSBuZXcgRmlsZShGaWxlVXRpbHMucmVtb3ZlRXh0ZW5zaW9uKHBsbVhtbEZpbGUpKTsKICAgICAgaWYgKG9yaWdpbmFsRm9sZE9sZC5leGlzdHMoKSkKICAgICAgICBvcmlnaW5hbEZvbGRPbGQucmVuYW1lVG8obmV3IEZpbGUoU1VDQ0VTU19GT0xERVIsIG9yaWdpbmFsRm9sZE9sZC5nZXROYW1lKCkpKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG1vdmVTdWNjZXNzKCkKICAgIHsKICAgICAgaWYgKCFTVUNDRVNTX0ZPTERFUi5leGlzdHMoKSAmJiAhU1VDQ0VTU19GT0xERVIubWtkaXIoKSkKICAgICAgICByZXR1cm47CgogICAgICBGaWxlIHRvU3VjY2VzcyA9IG5ldyBGaWxlKFNVQ0NFU1NfRk9MREVSLCBwbG1YbWxGaWxlLmdldE5hbWUoKSk7CiAgICAgIGJlZWZmKHRvU3VjY2VzcywgU1VDQ0VTU19GT0xERVIpOwogICAgfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgRmlsZSB0ZW1wRmlsZSA9IEZpbGUuY3JlYXRlVGVtcEZpbGUoRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbih0YXNrLmdldFRhc2tGaWxlKCkuZ2V0TmFtZSgpKSwgIi5sb2ciLCB0YXNrLmdldFdvcmtEaXIoKSk7CiAgICAgICAgcHNMb2cgPSBuZXcgUHJpbnRTdHJlYW0obmV3IEZpbGVPdXRwdXRTdHJlYW0odGVtcEZpbGUpKTsKICAgICAgICB0YXNrLnNldExvZ0ZpbGUodGVtcEZpbGUpOwo9PT09PT09</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZlT3JpZ2luYWxzRm9sZGVyKCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBFWFJFTkstMjY0X3dvcmtGcmVzaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZlT3JpZ2luYWxzRm9sZGVyKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGlmICghU1VDQ0VTU19GT0xERVIuZXhpc3RzKCkgJiYgIVNVQ0NFU1NfRk9MREVSLm1rZGlyKCkpCiAgICAgICAgcmV0dXJuOwoKICAgICAgRmlsZSBuZXdUYXNrRGlyID0gbmV3IEZpbGUoU1VDQ0VTU19GT0xERVIsIHRhc2tGaWxlLmdldE5hbWUoKSk7CiAgICAgIGlmICh0YXNrRmlsZS5yZW5hbWVUbyhuZXdUYXNrRGlyKSkKICAgICAgewogICAgICAgIG1vdmVPcmlnaW5hbHNGb2xkZXIoKTsKICAgICAgICBpZiAobG9nRmlsZS5leGlzdHMoKSkKICAgICAgICAgIGxvZ0ZpbGUucmVuYW1lVG8obmV3IEZpbGUoU1VDQ0VTU19GT0xERVIsIGxvZ0ZpbGUuZ2V0TmFtZSgpKSk7CiAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHZvaWQgbW92ZU9yaWdpbmFsc0ZvbGRlcigpCiAgICB7CiAgICAgIEZpbGUgb3JpZ2luYWxGb2xkT2xkID0gbmV3IEZpbGUoRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbih0YXNrRmlsZSkpOwogICAgICBpZiAob3JpZ2luYWxGb2xkT2xkLmV4aXN0cygpKQogICAgICAgIG9yaWdpbmFsRm9sZE9sZC5yZW5hbWVUbyhuZXcgRmlsZShTVUNDRVNTX0ZPTERFUiwgb3JpZ2luYWxGb2xkT2xkLmdldE5hbWUoKSkpOwo9PT09PT09</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBFWFJFTkstMjY0X3dvcmtGcmVzaAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
