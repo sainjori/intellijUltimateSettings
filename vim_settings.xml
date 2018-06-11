@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528712866073">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528716142032">
+        <mark key="[" line="130" column="11" />
+        <mark key="]" line="130" column="23" />
+        <mark key="^" line="130" column="23" />
+        <mark key="." line="130" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsNetworkActivityConfirmation.java" timestamp="1527523827431">
         <mark key="'" line="170" column="0" />
@@ -91,8 +92,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/gui/browser/DirBrowsePanel.java" timestamp="1527172624823">
         <mark key="'" line="1088" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" timestamp="1528476712561">
-        <mark key="'" line="134" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" timestamp="1528714184915">
+        <mark key="'" line="213" column="0" />
         <mark key="[" line="78" column="106" />
         <mark key="]" line="78" column="122" />
         <mark key="." line="78" column="122" />
@@ -207,10 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="335" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="336" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="337" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="338" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="339" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="340" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -307,22 +304,26 @@
       <jump line="181" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
       <jump line="113" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
       <jump line="196" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
+      <jump line="391" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
+      <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
+      <jump line="164" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
+      <jump line="384" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUlVOTE9DS19GSUxFTkFNRSA9ICIucnVuX2xvY2siOwo=</text>
+      <register name="&quot;" type="4">
+        <text>toSuccess</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>toSuccess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEX1RZUEVfTElTVFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>!D_TYPE_LIST.contains(brDocPosition.getDTypeId())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUlVOTE9DS19GSUxFTkFNRSA9ICIucnVuX2xvY2siOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -331,19 +332,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb3ZlT3JpZ2luYWxzRm9sZGVyKCkKICAgIHsKICAgICAgRmlsZSBvcmlnaW5hbEZvbGRPbGQgPSBuZXcgRmlsZShGaWxlVXRpbHMucmVtb3ZlRXh0ZW5zaW9uKHBsbVhtbEZpbGUpKTsKICAgICAgaWYgKG9yaWdpbmFsRm9sZE9sZC5leGlzdHMoKSkKICAgICAgICBvcmlnaW5hbEZvbGRPbGQucmVuYW1lVG8obmV3IEZpbGUoU1VDQ0VTU19GT0xERVIsIG9yaWdpbmFsRm9sZE9sZC5nZXROYW1lKCkpKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBPYnJPYmplY3Q+IG9ick9iamVjdENvbnRhaW5lciA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG1vdmVTdWNjZXNzKCkKICAgIHsKICAgICAgaWYgKCFTVUNDRVNTX0ZPTERFUi5leGlzdHMoKSAmJiAhU1VDQ0VTU19GT0xERVIubWtkaXIoKSkKICAgICAgICByZXR1cm47CgogICAgICBGaWxlIHRvU3VjY2VzcyA9IG5ldyBGaWxlKFNVQ0NFU1NfRk9MREVSLCBwbG1YbWxGaWxlLmdldE5hbWUoKSk7CiAgICAgIGJlZWZmKHRvU3VjY2VzcywgU1VDQ0VTU19GT0xERVIpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlT3JpZ2luYWxzRm9sZGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNQcm9wZXJEdHlwZShQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCkKICB7CiAgICByZXR1cm4gRF9UWVBFX0xJU1QuY29udGFpbnMocGxtRG9jdW1lbnQuZ2V0RFR5cGVJZCgpKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlT3JpZ2luYWxzRm9sZGVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJyRG9jUG9zaXRpb24gYnJEb2NQb3NpdGlvbiA9IChCckRvY1Bvc2l0aW9uKSBub2RlLmdldE9ick9iamVjdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -352,7 +353,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrRmlsZSA9IG5ld1Rhc2tEaXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1184</text>
