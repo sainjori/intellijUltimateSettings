@@ -18,12 +18,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/brobj/BrWhereUsedContainer.java" timestamp="1528198876242">
         <mark key="'" line="118" column="52" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1528709743286">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1528710993891">
         <mark key="'" line="113" column="4" />
-        <mark key="[" line="181" column="10" />
-        <mark key="]" line="181" column="54" />
-        <mark key="." line="181" column="54" />
-        <mark key="^" line="181" column="54" />
+        <mark key="[" line="153" column="5" />
+        <mark key="]" line="154" column="3" />
+        <mark key="." line="154" column="3" />
+        <mark key="^" line="154" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1528456632126">
         <mark key="[" line="540" column="0" />
@@ -117,8 +117,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/timken/trunk/src/main/java/timken/proc/TimkenProcessFormgen.java" timestamp="1528481486135">
         <mark key="'" line="191" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" timestamp="1528708779480">
-        <mark key="'" line="219" column="19" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" timestamp="1528710777642">
+        <mark key="'" line="196" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmObject.java" timestamp="1527518466569">
         <mark key="'" line="905" column="2" />
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="333" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="335" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="336" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -302,19 +301,20 @@
       <jump line="238" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
       <jump line="181" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
       <jump line="113" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
+      <jump line="196" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isProperDtype(plmDocument)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>isProperDtype(plmDocument)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEX1RZUEVfTElTVFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNQcm9wZXJEdHlwZShPYnJFeHRUcmVlTm9kZSBub2RlKQogIHsKICAgIEJyRG9jUG9zaXRpb24gYnJEb2NQb3NpdGlvbiA9IChCckRvY1Bvc2l0aW9uKSBub2RlLmdldE9ick9iamVjdCgpOwogICAgcmV0dXJuIERfVFlQRV9MSVNULmNvbnRhaW5zKGJyRG9jUG9zaXRpb24uZ2V0RFR5cGVJZCgpKTsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>!D_TYPE_LIST.contains(brDocPosition.getDTypeId())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,19 +323,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNQcm9wZXJEdHlwZShQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCkKICB7CiAgICByZXR1cm4gRF9UWVBFX0xJU1QuY29udGFpbnMocGxtRG9jdW1lbnQuZ2V0RFR5cGVJZCgpKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJyRG9jUG9zaXRpb24gYnJEb2NQb3NpdGlvbiA9IChCckRvY1Bvc2l0aW9uKSBub2RlLmdldE9ick9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBPYnJPYmplY3Q+IG9ick9iamVjdENvbnRhaW5lciA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrRmlsZSA9IG5ld1Rhc2tEaXI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNQcm9wZXJEdHlwZShQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCkKICB7CiAgICByZXR1cm4gRF9UWVBFX0xJU1QuY29udGFpbnMocGxtRG9jdW1lbnQuZ2V0RFR5cGVJZCgpKTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEJyRG9jUG9zaXRpb24gYnJEb2NQb3NpdGlvbiA9IChCckRvY1Bvc2l0aW9uKSBub2RlLmdldE9ick9iamVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -344,10 +344,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgVGFzayB0YXNrID0gZGV0ZXJtaW5lTmV4dFRhc2soKTsgaWYgKHRhc2sgIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrRmlsZSA9IG5ld1Rhc2tEaXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh0YXNrICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1184</text>
