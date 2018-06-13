@@ -46,6 +46,7 @@
         <mark key="^" line="2572" column="43" />
         <mark key="." line="2572" column="40" />
       </file>
+      <file name="/index.ts" timestamp="1528918098768" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/Emailer.java" timestamp="1528902356196">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="41" />
@@ -92,7 +93,7 @@
         <mark key="." line="327" column="0" />
         <mark key="^" line="327" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528914374763">
+      <file name="/Dummy.txt" timestamp="1528918383786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,6 +103,12 @@
         <mark key="]" line="17" column="16" />
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/index.ts" timestamp="1528918217627">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/email/pom.xml" timestamp="1528898579462">
         <mark key="[" line="11" column="0" />
@@ -265,8 +272,8 @@
       <jump line="101" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statsuploader_5.1.5.0/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bla</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi92YXJpYWJsZXMnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>bla</text>
@@ -278,37 +285,37 @@
         <text encoding="base64">ICAgICAgICBlbWFpbC5nZXRNYWlsU2Vzc2lvbigpLmdldFByb3BlcnRpZXMoKS5wdXQoIm1haWwuc210cC5zdGFydHRscy5lbmFibGUiLCAidHJ1ZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYWlsQ29udGVudC5nZXQK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi92YXJpYWJsZXMnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYWNrZW5kJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJEb25lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWlsQ29udGVudC5nZXQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLkVtYWlsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJEb25lIik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZW5kTWFpbChNYWlsQ29udGVudCBtYWlsQ29udGVudCkKICAgIHsKICAgICAgIAogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLkVtYWlsOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2VuZE1haWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBlbWFpbENsaWVudC5zZW5kTWFpbDMobWFpbENvbnRlbnQpOwovLyAgICAgICAgICAgIGVtYWlsQ2xpZW50LnNlbmRNYWlsNChtYWlsQ29udGVudCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZW5kTWFpbChNYWlsQ29udGVudCBtYWlsQ29udGVudCkKICAgIHsKICAgICAgIAogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
