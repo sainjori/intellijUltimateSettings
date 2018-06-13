@@ -20,7 +20,7 @@
       <file name="/preference [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1528818798392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-email/1.5/commons-email-1.5-sources.jar!/org/apache/commons/mail/Email.java" timestamp="1528821833421" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-email/1.5/commons-email-1.5-sources.jar!/org/apache/commons/mail/Email.java" timestamp="1528894811835" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1528710993891">
         <mark key="'" line="113" column="4" />
         <mark key="[" line="153" column="5" />
@@ -28,11 +28,11 @@
         <mark key="." line="154" column="3" />
         <mark key="^" line="154" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528827589565">
-        <mark key="[" line="91" column="34" />
-        <mark key="]" line="91" column="39" />
-        <mark key="^" line="91" column="39" />
-        <mark key="." line="91" column="39" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528894850405">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="36" />
+        <mark key="^" line="35" column="71" />
+        <mark key="." line="73" column="36" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" timestamp="1528473640084">
         <mark key="'" line="224" column="19" />
@@ -41,7 +41,7 @@
         <mark key="^" line="2572" column="43" />
         <mark key="." line="2572" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528827983319">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528894040250">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="23" />
         <mark key="^" line="25" column="23" />
@@ -129,6 +129,7 @@
         <mark key="." line="225" column="22" />
         <mark key="^" line="225" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6-sources.jar!/com/sun/mail/smtp/SMTPTransport.java" timestamp="1528894429371" />
       <file name="/fragment.java" timestamp="1528820949969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -244,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EmailException</text>
+        <text>jimbojim</text>
       </register>
       <register name="-" type="4">
-        <text>EmailException</text>
+        <text>jimbojim</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Fzc2VtYmx5XD4=</text>
