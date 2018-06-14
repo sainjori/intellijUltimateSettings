@@ -26,6 +26,9 @@
         <mark key="." line="37" column="61" />
         <mark key="^" line="37" column="61" />
       </file>
+      <file name="/a.dummy" timestamp="1528975732726">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" timestamp="1528710993891">
         <mark key="'" line="113" column="4" />
         <mark key="[" line="153" column="5" />
@@ -46,7 +49,6 @@
         <mark key="^" line="2572" column="43" />
         <mark key="." line="2572" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1528969623344" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/Emailer.java" timestamp="1528902356196">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="41" />
@@ -59,10 +61,22 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528976510549">
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1528975605016" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/email.java" timestamp="1528819982315">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528976544249">
+        <mark key="[" line="25" column="76" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
         <mark key="'" line="23" column="42" />
@@ -136,6 +150,13 @@
         <mark key="." line="1891" column="29" />
         <mark key="^" line="1891" column="29" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1528974594092">
+        <mark key="'" line="122" column="6" />
+        <mark key="[" line="127" column="62" />
+        <mark key="]" line="127" column="62" />
+        <mark key="." line="127" column="62" />
+        <mark key="^" line="127" column="62" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1528798409732">
         <mark key="'" line="511" column="9" />
         <mark key="[" line="503" column="28" />
@@ -143,6 +164,7 @@
         <mark key="." line="503" column="28" />
         <mark key="^" line="503" column="27" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/ElasticsearchIntegrationTest.java" timestamp="1528975546537" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="20" />
@@ -165,19 +187,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1528897091062">
+      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1528973992832">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" />
-      <jump line="260" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="258" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
-      <jump line="219" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
-      <jump line="225" column="84" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
-      <jump line="155" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
-      <jump line="106" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
-      <jump line="206" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
       <jump line="162" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
       <jump line="199" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
       <jump line="14" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/javadoc/stylesheet.css" />
@@ -270,43 +284,51 @@
       <jump line="45" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/pom.xml" />
       <jump line="63" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" />
       <jump line="101" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/ectr_statsuploader_5.1.5.0/src/main/java/cadagent/modules/statuploader2/StatisticsListenerImpl.java" />
+      <jump line="257" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="34" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="112" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="251" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="13" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="307" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="14" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="122" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi92YXJpYWJsZXMnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>sername, passwor</text>
       </register>
       <register name="-" type="4">
-        <text>bla</text>
+        <text>sername, passwor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0Fzc2VtYmx5XD4=</text>
+        <text>integer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbC5nZXRNYWlsU2Vzc2lvbigpLmdldFByb3BlcnRpZXMoKS5wdXQoIm1haWwuc210cC5zdGFydHRscy5lbmFibGUiLCAidHJ1ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgInJlcXVpcmVkIjogInRydWUiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi92YXJpYWJsZXMnOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgd2hlbihwcmVmZXJlbmNlcy5nZXRTdHJpbmcoUHJlZmVyZW5jZXMuU1lTVEVNX09XTkVSLCAibWFpbC5zZXJ2ZXIucG9ydCIsIGFueShTdHJpbmcuY2xhc3MpKSkKICAgICAgICAgICAgLnRoZW5SZXR1cm4obnVsbCk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9iYWNrZW5kJzsK</text>
+        <text encoding="base64">ICAgIEd1aWNlVXRpbHMuZ2V0SW5qZWN0b3IoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYWlsQ29udGVudC5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJEb25lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIlRoZSBTTVRQIHNlcnZlciBwb3J0LiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLkVtYWlsOwo=</text>
+        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIlRoZSBTTVRQIHNlcnZlciBwb3J0LiIK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -314,17 +336,17 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZW5kTWFpbChNYWlsQ29udGVudCBtYWlsQ29udGVudCkKICAgIHsKICAgICAgIAogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0Fzc2VtYmx5XD4=</last-search>
+      <last-search>integer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0Fzc2VtYmx5XD4=</last-pattern>
+      <last-pattern>integer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +354,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXJlUHJvcGVydHlDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxjX2tleVw+</entry>
         <entry encoding="base64">XDxzYXZlQmFzaWNEYXRhXD4=</entry>
         <entry encoding="base64">XDxES19BRERGT0xERVJfTkFNRVw+</entry>
@@ -352,6 +373,7 @@
         <entry encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</entry>
         <entry encoding="base64">XDxpc0NvbXBvbmVudFw+</entry>
         <entry encoding="base64">XDxpc0Fzc2VtYmx5XD4=</entry>
+        <entry>integer</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
