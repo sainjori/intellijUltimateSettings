@@ -61,23 +61,22 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528981888766">
-        <mark key="[" line="76" column="98" />
-        <mark key="]" line="76" column="101" />
-        <mark key="." line="76" column="101" />
-        <mark key="^" line="76" column="101" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528983309783">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="68" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1528975605016" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/email.java" timestamp="1528819982315">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528982120549">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="62" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="52" column="81" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528983747673">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
         <mark key="'" line="23" column="42" />
@@ -108,8 +107,7 @@
         <mark key="." line="327" column="0" />
         <mark key="^" line="327" column="67" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1528981925191" />
-      <file name="/Dummy.txt" timestamp="1528965162345">
+      <file name="/Dummy.txt" timestamp="1528982524191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,6 +129,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1528984057464" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProviderTest.java" timestamp="1528983951094" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" timestamp="1528718650794">
         <mark key="'" line="213" column="0" />
         <mark key="[" line="78" column="106" />
@@ -166,7 +166,6 @@
         <mark key="." line="503" column="28" />
         <mark key="^" line="503" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/ElasticsearchIntegrationTest.java" timestamp="1528975546537" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="20" />
@@ -180,10 +179,11 @@
         <mark key="." line="225" column="22" />
         <mark key="^" line="225" column="22" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/processes/ServerMonitorToolServerInfoProcessTest.java" timestamp="1528983939942" />
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Session.class" timestamp="1528900299132">
         <mark key="'" line="243" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1528981638787">
+      <file name="/fragment.java" timestamp="1528983500073">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,50 +296,50 @@
       <jump line="122" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZhaWwoIkl0IHNob3VsZCBmYWlsIGlmIHNvbWUgcHJvcHMgYXJlIG1pc3NpbmchIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>buildMailClientProps</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>buildMailClientProps</text>
       </register>
       <register name="/" type="4">
         <text>integer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInJlcXVpcmVkIjogInRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaG9zdG5hbWUgPSBwcmVmZXJlbmNlcy5nZXRTdHJpbmcoUHJlZmVyZW5jZXMuU1lTVEVNX09XTkVSLCAibWFpbC5zZXJ2ZXIuaG9zdG5hbWUiLCBudWxsKTsKICAgICAgICBTdHJpbmcgcG9ydCA9IHByZWZlcmVuY2VzLmdldFN0cmluZyhQcmVmZXJlbmNlcy5TWVNURU1fT1dORVIsICJtYWlsLnNlcnZlci5wb3J0IiwgbnVsbCk7CiAgICAgICAgaWYgKGhvc3RuYW1lID09IG51bGwgfHwgcG9ydCA9PSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZhaWwoIkl0IHNob3VsZCBmYWlsIGlmIHNvbWUgcHJvcHMgYXJlIG1pc3NpbmchIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZXhwZWN0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiSXQgc2hvdWxkIGZhaWwgaWYgc29tZSBwcm9wcyBhcmUgbWlzc2luZyEiKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0QnVpbGRNYWlsQ2xpZW50UHJvcHMoKQogICAgewoKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LnRyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgd2hlbihwcmVmZXJlbmNlcy5nZXRTdHJpbmcoUHJlZmVyZW5jZXMuU1lTVEVNX09XTkVSLCAibWFpbC5zZXJ2ZXIucG9ydCIsIGFueShTdHJpbmcuY2xhc3MpKSkKICAgICAgICAgICAgLnRoZW5SZXR1cm4obnVsbCk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEd1aWNlVXRpbHMuZ2V0SW5qZWN0b3IoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzZW5kTWFpbCgpCiAgICB7CiAgICAgICAgTWFpbENvbnRlbnQgbWFpbENvbnRlbnQgPSBuZXcgTWFpbENvbnRlbnQoKTsKICAgICAgICBtYWlsQ29udGVudC5zZXRCb2R5KCJibGEiKS5zZXRTdWJqZWN0KCJzdWJqZWN0Iikuc2V0UmVjaXBpZW50cyhBcnJheXMuYXNMaXN0KCJiZXJ0YW4ueWFzYXJAZHNjc2FnLmNvbSIpKTsKICAgICAgICBFbWFpbENsaWVudCBlbWFpbENsaWVudCA9IG5ldyBFbWFpbENsaWVudChudWxsKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGVtYWlsQ2xpZW50LnNlbmRFbWFpbChtYWlsQ29udGVudCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RCdWlsZE1haWxDbGllbnRBdXRoKCkKICAgIHsKICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBwcmVmcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwcmVmcy5wdXQoIm1haWwuc2VydmVyLmhvc3RuYW1lIiwgbnVsbCk7CiAgICAgICAgcHJlZnMucHV0KCJtYWlsLnNlcnZlci5wb3J0IiwgbnVsbCk7CiAgICAgICAgUHJlZmVyZW5jZXMgcHJlZmVyZW5jZXMgPSBnZXRNb2NrUHJlZnMocHJlZnMpOwogICAgICAgIEVtYWlsQ2xpZW50IGVtYWlsQ2xpZW50ID0gbmV3IEVtYWlsQ2xpZW50KHByZWZlcmVuY2VzKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGVtYWlsQ2xpZW50LmJ1aWxkTWFpbENsaWVudFByb3BzKCk7CiAgICAgICAgICAgIGZhaWwoIkl0IHNob3VsZCBmYWlsIGlmIHNvbWUgcHJvcHMgYXJlIG1pc3NpbmchIik7CiAgICAgICAgfSBjYXRjaCAoUnVudGltZUV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
