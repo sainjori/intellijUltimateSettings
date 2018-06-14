@@ -61,10 +61,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528976510549">
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528981888766">
+        <mark key="[" line="76" column="98" />
+        <mark key="]" line="76" column="101" />
+        <mark key="." line="76" column="101" />
+        <mark key="^" line="76" column="101" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1528975605016" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/email.java" timestamp="1528819982315">
@@ -72,11 +73,11 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528976544249">
-        <mark key="[" line="25" column="76" />
-        <mark key="]" line="33" column="47" />
-        <mark key="." line="33" column="47" />
-        <mark key="^" line="33" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528982120549">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="52" column="81" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
         <mark key="'" line="23" column="42" />
@@ -107,6 +108,7 @@
         <mark key="." line="327" column="0" />
         <mark key="^" line="327" column="67" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1528981925191" />
       <file name="/Dummy.txt" timestamp="1528965162345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -181,7 +183,7 @@
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Session.class" timestamp="1528900299132">
         <mark key="'" line="243" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1528917385384">
+      <file name="/fragment.java" timestamp="1528981638787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -294,11 +296,11 @@
       <jump line="122" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sername, passwor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZhaWwoIkl0IHNob3VsZCBmYWlsIGlmIHNvbWUgcHJvcHMgYXJlIG1pc3NpbmchIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sername, passwor</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>integer</text>
@@ -306,38 +308,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgInJlcXVpcmVkIjogInRydWUiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgd2hlbihwcmVmZXJlbmNlcy5nZXRTdHJpbmcoUHJlZmVyZW5jZXMuU1lTVEVNX09XTkVSLCAibWFpbC5zZXJ2ZXIucG9ydCIsIGFueShTdHJpbmcuY2xhc3MpKSkKICAgICAgICAgICAgLnRoZW5SZXR1cm4obnVsbCk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZhaWwoIkl0IHNob3VsZCBmYWlsIGlmIHNvbWUgcHJvcHMgYXJlIG1pc3NpbmchIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEd1aWNlVXRpbHMuZ2V0SW5qZWN0b3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZXhwZWN0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiSXQgc2hvdWxkIGZhaWwgaWYgc29tZSBwcm9wcyBhcmUgbWlzc2luZyEiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LnRyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgd2hlbihwcmVmZXJlbmNlcy5nZXRTdHJpbmcoUHJlZmVyZW5jZXMuU1lTVEVNX09XTkVSLCAibWFpbC5zZXJ2ZXIucG9ydCIsIGFueShTdHJpbmcuY2xhc3MpKSkKICAgICAgICAgICAgLnRoZW5SZXR1cm4obnVsbCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIlRoZSBTTVRQIHNlcnZlciBwb3J0LiIK</text>
+        <text encoding="base64">ICAgIEd1aWNlVXRpbHMuZ2V0SW5qZWN0b3IoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIlRoZSBTTVRQIHNlcnZlciBwb3J0LiIK</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
