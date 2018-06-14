@@ -67,11 +67,11 @@
         <mark key="." line="54" column="66" />
         <mark key="^" line="54" column="66" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528987645510">
-        <mark key="[" line="67" column="59" />
-        <mark key="]" line="68" column="35" />
-        <mark key="." line="68" column="35" />
-        <mark key="^" line="68" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528989590568">
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
+        <mark key="^" line="91" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/JAXBUtils.java" timestamp="1528749625791">
         <mark key="'" line="117" column="46" />
@@ -163,7 +163,7 @@
         <mark key="." line="225" column="22" />
         <mark key="^" line="225" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/processes/ServerMonitorToolServerInfoProcessTest.java" timestamp="1528983939942" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/processes/ServerMonitorToolServerInfoProcessTest.java" timestamp="1528989723716" />
       <file name="/fragment.java" timestamp="1528985403305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -278,49 +278,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>message</text>
+        <text>emailClient</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>emailClient</text>
       </register>
       <register name="/" type="4">
         <text>integer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFzc3dvcmRBdXRoZW50aWNhdGlvbiBhdXRoZW50aWNhdGlvbiA9IGVtYWlsQ2xpZW50Mi5nZXRBdXRoZW50aWNhdGlvbigpOwogICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJJdCByZWFkcyB0aGUgY29ycmVjdCB2YWx1ZSBmcm9tIHByZWZlcmVuY2VzIiwgInVzZXJuYW1lIiwgYXV0aGVudGljYXRpb24uZ2V0VXNlck5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiSXQgc2hvdWxkIGZhaWwgaWYgc29tZSBwcm9wcyBhcmUgbWlzc2luZyEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBuZXcgTWltZU1lc3NhZ2Uoc2Vzc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBwcmVmcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">U2Vzc2lvbiBzZXNzaW9uID0gU2Vzc2lvbi5nZXRJbnN0YW5jZShlbWFpbENsaWVudC5idWlsZE1haWxDbGllbnRQcm9wcygpLAogICAgICAgICAgICBuZXcgamF2YXgubWFpbC5BdXRoZW50aWNhdG9yKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGVtYWlsQ2xpZW50LmdldEF1dGhlbnRpY2F0aW9uKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBuZXcgTWltZU1lc3NhZ2Uoc2Vzc2lvbik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgRW1haWxDbGllbnQgZW1haWxDbGllbnQgPSBuZXcgRW1haWxDbGllbnQobnVsbCk7CiAgICAgICAgU2Vzc2lvbiBzZXNzaW9uID0gU2Vzc2lvbi5nZXRJbnN0YW5jZShlbWFpbENsaWVudC5idWlsZE1haWxDbGllbnRQcm9wcygpLAogICAgICAgICAgICBuZXcgamF2YXgubWFpbC5BdXRoZW50aWNhdG9yKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGVtYWlsQ2xpZW50LmdldEF1dGhlbnRpY2F0aW9uKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">U2Vzc2lvbiBzZXNzaW9uID0gU2Vzc2lvbi5nZXRJbnN0YW5jZShlbWFpbENsaWVudC5idWlsZE1haWxDbGllbnRQcm9wcygpLAogICAgICAgICAgICBuZXcgamF2YXgubWFpbC5BdXRoZW50aWNhdG9yKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcHJvdGVjdGVkIFBhc3N3b3JkQXV0aGVudGljYXRpb24gZ2V0UGFzc3dvcmRBdXRoZW50aWNhdGlvbigpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGVtYWlsQ2xpZW50LmdldEF1dGhlbnRpY2F0aW9uKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
