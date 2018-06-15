@@ -74,6 +74,12 @@
         <mark key="'" line="225" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/processes/ServerMonitorToolServerInfoProcessTest.java" timestamp="1528990039264" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1529079360859">
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="42" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="97" column="42" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskSchedulerTest.java" timestamp="1529057473078" />
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
@@ -118,6 +124,14 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1529077790871">
+        <mark key="'" line="34" column="34" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/system_info/LicenseParser.java" timestamp="1529077976126">
+        <mark key="[" line="75" column="119" />
+        <mark key="]" line="75" column="119" />
+        <mark key="." line="75" column="119" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProviderTest.java" timestamp="1528983951094" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1529067626460">
         <mark key="'" line="6" column="50" />
@@ -149,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
-      <jump line="238" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
       <jump line="247" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
       <jump line="156" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
       <jump line="134" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
@@ -249,13 +261,15 @@
       <jump line="237" column="24" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" />
       <jump line="212" column="17" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DAO.java" />
       <jump line="234" column="35" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" />
+      <jump line="184" column="49" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" />
+      <jump line="34" column="34" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refactoring</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>refactoring</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>addFo</text>
