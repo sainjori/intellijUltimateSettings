@@ -6,6 +6,12 @@
       <file name="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.jar!/javax/mail/Transport.class" timestamp="1529051754135">
         <mark key="'" line="121" column="30" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/test/java/ksb/brobj/BrCustLongTextObjectTest.java" timestamp="1529081314670">
+        <mark key="[" line="15" column="77" />
+        <mark key="]" line="15" column="87" />
+        <mark key="." line="15" column="87" />
+        <mark key="^" line="15" column="87" />
+      </file>
       <file name="/preference [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068862096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,6 +30,7 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/querying/servers/ServerConfigParserTest.java" timestamp="1529081159586" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1529059284639">
         <mark key="'" line="62" column="40" />
         <mark key="[" line="72" column="0" />
@@ -31,7 +38,6 @@
         <mark key="^" line="52" column="66" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Message.class" timestamp="1529052907848" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1529057950895">
         <mark key="'" line="118" column="39" />
         <mark key="[" line="141" column="0" />
@@ -42,9 +48,6 @@
       <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
         <mark key="'" line="23" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1529070424116" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/SystemInfoEndpoint.java" timestamp="1529076582366" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/ElasticsearchStatsUploader.java" timestamp="1528990264652" />
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" timestamp="1528995589547">
         <mark key="'" line="1866" column="0" />
       </file>
@@ -54,16 +57,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1528985492909" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" timestamp="1528985053027" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1529061007134">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="64" />
         <mark key="." line="9" column="64" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/TableFilterEndpoint.java" timestamp="1529076358405" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/PreferenceDAO.java" timestamp="1528984304747" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="20" />
@@ -73,14 +72,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529070221039">
         <mark key="'" line="225" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/processes/ServerMonitorToolServerInfoProcessTest.java" timestamp="1528990039264" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1529079360859">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1529081168240">
         <mark key="[" line="97" column="42" />
         <mark key="]" line="97" column="42" />
         <mark key="^" line="83" column="24" />
         <mark key="." line="97" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskSchedulerTest.java" timestamp="1529057473078" />
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,7 +99,6 @@
       <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1529068961519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/internet/MimeMessage.class" timestamp="1529056802591" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1529067655302">
         <mark key="'" line="100" column="12" />
         <mark key="[" line="121" column="43" />
@@ -127,16 +123,14 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1529077790871">
         <mark key="'" line="34" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmAccess.java" timestamp="1529081265132">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="101" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/system_info/LicenseParser.java" timestamp="1529077976126">
         <mark key="[" line="75" column="119" />
         <mark key="]" line="75" column="119" />
         <mark key="." line="75" column="119" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProviderTest.java" timestamp="1528983951094" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1529067626460">
-        <mark key="'" line="6" column="50" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="76" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Transport.class" timestamp="1529051801163">
         <mark key="'" line="59" column="24" />
@@ -144,12 +138,11 @@
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/setup/Environment.java" timestamp="1529057227640">
         <mark key="'" line="99" column="48" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_6_0.xml" timestamp="1529063646723" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_3_0.xml" timestamp="1529061655255">
         <mark key="[" line="7" column="86" />
         <mark key="]" line="7" column="188" />
       </file>
-      <file name="/fragment.java" timestamp="1529072446196">
+      <file name="/fragment.java" timestamp="1529080861886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -265,8 +258,8 @@
       <jump line="34" column="34" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCckN1c3RMb25nVGV4dE9iamVjdCBickN1c3RMb25nVGV4dE9iamVjdCA9IG5ldyBCckN1c3RMb25nVGV4dE9iamVjdCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -275,40 +268,40 @@
         <text>addFo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiLz4K</text>
+        <text encoding="base64">ICBwdWJsaWMgUGxtRG9jdW1lbnQgZG9jdW1lbnROZXcoU3RyaW5nIGRvY051bWJlciwgU3RyaW5nIGRvY1R5cGUsIFN0cmluZyBkb2NQYXJ0LCBTdHJpbmcgZG9jVmVyc2lvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCckN1c3RMb25nVGV4dE9iamVjdCBickN1c3RMb25nVGV4dE9iamVjdCA9IG5ldyBCckN1c3RMb25nVGV4dE9iamVjdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eUZpbGU+c3JjL21haW4vcmVzb3VyY2VzL2xpcXVpYmFzZS5wcm9wZXJ0aWVzPC9wcm9wZXJ0eUZpbGU+CiAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGxtRG9jdW1lbnQgZG9jdW1lbnROZXcoU3RyaW5nIGRvY051bWJlciwgU3RyaW5nIGRvY1R5cGUsIFN0cmluZyBkb2NQYXJ0LCBTdHJpbmcgZG9jVmVyc2lvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW5zPgo=</text>
+        <text encoding="base64">ICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCA9IG5ldyBQbG1Eb2N1bWVudCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eUZpbGU+c3JjL21haW4vcmVzb3VyY2VzL2xpcXVpYmFzZS5wcm9wZXJ0aWVzPC9wcm9wZXJ0eUZpbGU+CiAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW5zPgo=</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
