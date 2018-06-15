@@ -114,7 +114,7 @@
       <file name="/dummy.sql" timestamp="1529069955189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529068950209">
+      <file name="/Dummy.txt" timestamp="1529071018031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -260,11 +260,11 @@
       <jump line="100" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>refactoring</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>refactoring</text>
       </register>
       <register name="/" type="4">
         <text>addFo</text>
