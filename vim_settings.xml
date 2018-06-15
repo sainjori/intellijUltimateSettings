@@ -10,6 +10,9 @@
         <mark key="." line="179" column="30" />
         <mark key="^" line="179" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.jar!/javax/mail/Transport.class" timestamp="1529051754135">
+        <mark key="'" line="121" column="30" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1528812494368">
         <mark key="'" line="135" column="26" />
         <mark key="[" line="139" column="10" />
@@ -55,16 +58,19 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1528996353350">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1529051988647">
+        <mark key="'" line="53" column="40" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528997240601">
-        <mark key="'" line="91" column="53" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="109" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1529052394017">
+        <mark key="'" line="84" column="21" />
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="45" />
+        <mark key="." line="59" column="45" />
+        <mark key="^" line="59" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
         <mark key="'" line="23" column="42" />
@@ -94,7 +100,7 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" timestamp="1528995589547">
         <mark key="'" line="1866" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528982524191">
+      <file name="/Dummy.txt" timestamp="1529052073446">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -150,13 +156,16 @@
         <mark key="." line="503" column="28" />
         <mark key="^" line="503" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Transport.class" timestamp="1529051801163">
+        <mark key="'" line="59" column="24" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="20" />
         <mark key="^" line="18" column="19" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1528996778141">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529052199693">
         <mark key="'" line="225" column="19" />
         <mark key="[" line="227" column="0" />
         <mark key="]" line="227" column="0" />
@@ -166,7 +175,7 @@
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Session.class" timestamp="1528900299132">
         <mark key="'" line="243" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1528985403305">
+      <file name="/fragment.java" timestamp="1529052074991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -177,10 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/javadoc/stylesheet.css" />
-      <jump line="13" column="17" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-44/customize/config/default.txt" />
-      <jump line="45" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-44/customize/config/plm_initialize.bat" />
-      <jump line="57" column="33" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-44/customize/config/menu_generic.guidef" />
       <jump line="220" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
       <jump line="189" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
       <jump line="219" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
@@ -277,52 +282,61 @@
       <jump line="1866" column="0" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" />
       <jump line="104" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" />
       <jump line="91" column="53" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" />
+      <jump line="121" column="30" filename="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.jar!/javax/mail/Transport.class" />
+      <jump line="59" column="24" filename="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Transport.class" />
+      <jump line="84" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" />
+      <jump line="53" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>integer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKCJJdCBzaG91bGQgcmV0dXJuIHByZWZlcmVuY2VzIHVzZXJuYW1lIiwgIm9rSG9zdG5hbWUiLCBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJtYWlsLnNtdHAuaG9zdCIpKTsK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZHNjc2FnLm1vbml0b3JpbmcuZGFzaGJvYXJkLnByb2MuZW1haWw7CgppbXBvcnQgY29tLmRzY3NhZy5tb25pdG9yaW5nLmRhc2hib2FyZC5wcm9jLnN5c3RlbS5wcmVmZXJlbmNlcy5QcmVmZXJlbmNlczsKaW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LkluamVjdDsKaW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbDsKCmltcG9ydCBqYXZheC5tYWlsLk1lc3NhZ2U7CmltcG9ydCBqYXZheC5tYWlsLk1lc3NhZ2luZ0V4Y2VwdGlvbjsKaW1wb3J0IGphdmF4Lm1haWwuUGFzc3dvcmRBdXRoZW50aWNhdGlvbjsKaW1wb3J0IGphdmF4Lm1haWwuU2Vzc2lvbjsKaW1wb3J0IGphdmF4Lm1haWwuVHJhbnNwb3J0OwppbXBvcnQgamF2YXgubWFpbC5pbnRlcm5ldC5JbnRlcm5ldEFkZHJlc3M7CmltcG9ydCBqYXZheC5tYWlsLmludGVybmV0Lk1pbWVNZXNzYWdlOwppbXBvcnQgamF2YS51dGlsLlByb3BlcnRpZXM7CgpwdWJsaWMgY2xhc3MgRW1haWxDbGllbnQgaW1wbGVtZW50cyBFbWFpbGVyCnsKICAgIHByaXZhdGUgZmluYWwgUHJlZmVyZW5jZXMgcHJlZmVyZW5jZXM7CgogICAgQEluamVjdAogICAgcHVibGljIEVtYWlsQ2xpZW50KFByZWZlcmVuY2VzIHByZWZlcmVuY2VzKQogICAgewogICAgICAgIHRoaXMucHJlZmVyZW5jZXMgPSBwcmVmZXJlbmNlczsKICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+Y29tLnN1bi5tYWlsPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+amF2YXgubWFpbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgIDx2ZXJzaW9uPjEuNi4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbihtb2NrLnNldEZyb20oYW55KCkpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm1haWwuVHJhbnNwb3J0Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2suc2V0RnJvbSgpKQo=</text>
+      <register name="4" type="4">
+        <text>import javax.mail.Message;
+import javax.mail.MessagingException;
+import javax.mail.PasswordAuthentication;
+import javax.mail.Session;
+import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeMessage;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2suc2V0RnJvbSgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm1haWwuVHJhbnNwb3J0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2spCg==</text>
+        <text encoding="base64">ICAgICAgICBNYWlsQ29udGVudCBtYWlsQ29udGVudCA9IG5ldyBNYWlsQ29udGVudCgpOwogICAgICAgIG1haWxDb250ZW50LnNldEJvZHkoImJsYSIpLnNldFN1YmplY3QoInN1YmplY3QiKS5zZXRSZWNpcGllbnRzKEFycmF5cy5hc0xpc3QoImJlcnRhbi55YXNhckBkc2NzYWcuY29tIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbihtb2NrLnNldEZyb20oKSkudGhlbkFuc3dlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBFbWFpbENsaWVudCBlbWFpbENsaWVudCA9IG5ldyBFbWFpbENsaWVudChwcmVmZXJlbmNlcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrLgo=</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY2llcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
