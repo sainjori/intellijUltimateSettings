@@ -18,11 +18,6 @@
       <file name="/a.dummy" timestamp="1528975732726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1529054875518">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/Emailer.java" timestamp="1528902356196">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="41" />
@@ -48,11 +43,6 @@
         <mark key="'" line="23" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1529070424116" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/pom.xml" timestamp="1528901969545">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/ElasticsearchStatsUploader.java" timestamp="1528990264652" />
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" timestamp="1528995589547">
         <mark key="'" line="1866" column="0" />
@@ -71,6 +61,7 @@
         <mark key="." line="9" column="64" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/TableFilterEndpoint.java" timestamp="1529072539562" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/PreferenceDAO.java" timestamp="1528984304747" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
         <mark key="[" line="40" column="0" />
@@ -89,16 +80,17 @@
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Session.class" timestamp="1528900299132">
         <mark key="'" line="243" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" timestamp="1529071625047">
+        <mark key="'" line="234" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528902044479">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="17" column="31" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/email.java" timestamp="1528819982315">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DAO.java" timestamp="1529071617237">
+        <mark key="'" line="212" column="17" />
       </file>
       <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1529068961519">
         <mark key="[" line="0" column="0" />
@@ -111,7 +103,7 @@
         <mark key="." line="121" column="62" />
         <mark key="^" line="121" column="62" />
       </file>
-      <file name="/dummy.sql" timestamp="1529069955189">
+      <file name="/dummy.sql" timestamp="1529072211775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529071018031">
@@ -124,11 +116,6 @@
         <mark key="]" line="17" column="16" />
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
-      </file>
-      <file name="C:/ENTWICKLUNG/sandbox/email/pom.xml" timestamp="1528898579462">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProviderTest.java" timestamp="1528983951094" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1529067626460">
@@ -147,21 +134,20 @@
         <mark key="[" line="7" column="86" />
         <mark key="]" line="7" column="188" />
       </file>
-      <file name="/fragment.java" timestamp="1529052074991">
+      <file name="/fragment.java" timestamp="1529072446196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529072096380">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/preference [monitoring_dashboard@localhost]" timestamp="1528973992832">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="68" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/ectr-teamcenter-integration-repo-new/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/omf/OmfTestTestDadi.java" />
-      <jump line="218" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
-      <jump line="224" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
-      <jump line="297" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
       <jump line="44" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
       <jump line="238" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/schuler/trunk/src/main/java/schuler/dadi/ConvertBeforeGetConversionRequest.java" />
       <jump line="247" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
@@ -258,6 +244,10 @@
       <jump line="68" column="45" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="90" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="100" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="205" column="49" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DAO.java" />
+      <jump line="237" column="24" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" />
+      <jump line="212" column="17" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DAO.java" />
+      <jump line="234" column="35" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
