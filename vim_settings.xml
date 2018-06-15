@@ -47,7 +47,7 @@
       <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
         <mark key="'" line="23" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1529068625593" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1529070424116" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/pom.xml" timestamp="1528901969545">
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
@@ -78,11 +78,8 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529052199693">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529070221039">
         <mark key="'" line="225" column="19" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/processes/ServerMonitorToolServerInfoProcessTest.java" timestamp="1528990039264" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskSchedulerTest.java" timestamp="1529057473078" />
@@ -114,7 +111,7 @@
         <mark key="." line="121" column="62" />
         <mark key="^" line="121" column="62" />
       </file>
-      <file name="/dummy.sql" timestamp="1529068962042">
+      <file name="/dummy.sql" timestamp="1529069955189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529068950209">
@@ -263,8 +260,8 @@
       <jump line="100" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -276,37 +273,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eUZpbGU+c3JjL21haW4vcmVzb3VyY2VzL2xpcXVpYmFzZS5wcm9wZXJ0aWVzPC9wcm9wZXJ0eUZpbGU+CiAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW5zPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJmaWx0ZXJfZGF0YSIgdHlwZT0ianNvbiI+CiAgICAgICAgICAgICAgICA8Y29uc3RyYWludHMgbnVsbGFibGU9ImZhbHNlIi8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbj48L2NvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
