@@ -67,6 +67,12 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1529077790871">
         <mark key="'" line="34" column="34" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/statuploader/customize/config/default.txt" timestamp="1529322425658">
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="39" column="57" />
+        <mark key="." line="39" column="57" />
+        <mark key="^" line="39" column="57" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/system_info/LicenseParser.java" timestamp="1529077976126">
         <mark key="[" line="75" column="119" />
         <mark key="]" line="75" column="119" />
@@ -192,16 +198,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prefObjectsBeginningWith.size()</text>
+        <text>vm-test-monitor.dscsag.net</text>
       </register>
       <register name="-" type="4">
-        <text>prefObjectsBeginningWith.size()</text>
+        <text>vm-test-monitor.dscsag.net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlJbmZvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RyaW5ncy5nZXQoMCkudHJpbSgpLmVxdWFscygiIikpCiAgICAgICAgICAgIHN0cmluZ3MucmVtb3ZlKDApOwo=</text>
+        <text encoding="base64">ICBwbG0uY29sbGVjdC5zdGF0cy53ZWJzZXJ2aWNlLnVybCAgICAgID0gaHR0cDovL3ZtLXRlc3QtbW9uaXRvci5kc2NzYWcubmV0OjgwODAvCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldHByZWYoUHJlZmVyZW5jZXMgbW9jaykKICAgIHsKICAgIH0K</text>
