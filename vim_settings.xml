@@ -30,6 +30,7 @@
         <mark key="'" line="105" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ClientDetailsEndpoint.java" timestamp="1529318942346" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/stats/Statistics.java" timestamp="1529324978624" />
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" timestamp="1529315968442">
         <mark key="'" line="173" column="35" />
       </file>
@@ -58,7 +59,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/generic/DataAccessEndpoint.java" timestamp="1529317974826" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/workitem/ProcessWorkitemGetLongtext.java" timestamp="1529081442010" />
-      <file name="/Dummy.txt" timestamp="1529083160371">
+      <file name="/Dummy.txt" timestamp="1529324036374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -67,11 +68,11 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1529077790871">
         <mark key="'" line="34" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/statuploader/customize/config/default.txt" timestamp="1529322425658">
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="39" column="57" />
-        <mark key="." line="39" column="57" />
-        <mark key="^" line="39" column="57" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/statuploader/customize/config/default.txt" timestamp="1529324872523">
+        <mark key="[" line="48" column="42" />
+        <mark key="]" line="48" column="45" />
+        <mark key="." line="48" column="45" />
+        <mark key="^" line="48" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/system_info/LicenseParser.java" timestamp="1529077976126">
         <mark key="[" line="75" column="119" />
@@ -87,7 +88,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/sap/ApiParameter.java" timestamp="1529081419383">
         <mark key="'" line="499" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1529083473444">
+      <file name="/fragment.java" timestamp="1529324266847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vm-test-monitor.dscsag.net</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>vm-test-monitor.dscsag.net</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlJbmZvXD4=</text>
