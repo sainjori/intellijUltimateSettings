@@ -15,12 +15,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1529081795983">
         <mark key="'" line="738" column="13" />
       </file>
-      <file name="/preference [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068862096">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1528975732726">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocGenerator.java" timestamp="1529081881595">
         <mark key="'" line="461" column="59" />
       </file>
@@ -31,33 +25,36 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" timestamp="1528995589547">
         <mark key="'" line="1866" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" timestamp="1529314567487" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/http/security/TokenAuthenticator.java" timestamp="1529315907658" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" timestamp="1529316585002">
+        <mark key="'" line="105" column="25" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" timestamp="1529315968442">
+        <mark key="'" line="173" column="35" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1529081815091">
         <mark key="'" line="833" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529070221039">
         <mark key="'" line="225" column="19" />
       </file>
-      <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Session.class" timestamp="1528900299132">
         <mark key="'" line="243" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" timestamp="1529315574999">
+        <mark key="'" line="1567" column="21" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" timestamp="1529071625047">
         <mark key="'" line="234" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Field.java" timestamp="1529315254297">
+        <mark key="'" line="1375" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/plm/PlmLongtextUtils.java" timestamp="1529081685203" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DAO.java" timestamp="1529071617237">
         <mark key="'" line="212" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/workitem/ProcessWorkitemGetLongtext.java" timestamp="1529081442010" />
-      <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1529068961519">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1529072211775">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1529083160371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -95,18 +92,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529072096380">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1528973992832">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="794" column="62" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="796" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="802" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="3" column="73" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="503" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="761" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
@@ -203,6 +190,10 @@
       <jump line="181" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="281" column="40" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="23" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="1375" column="6" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Field.java" />
+      <jump line="1567" column="21" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" />
+      <jump line="173" column="35" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" />
+      <jump line="105" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -212,7 +203,7 @@
         <text>prefObjectsBeginningWith.size()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcmVmZXJlbmNlc1w+</text>
+        <text encoding="base64">XDx1cmlJbmZvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc3RyaW5ncy5nZXQoMCkudHJpbSgpLmVxdWFscygiIikpCiAgICAgICAgICAgIHN0cmluZ3MucmVtb3ZlKDApOwo=</text>
@@ -255,9 +246,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcmVmZXJlbmNlc1w+</last-search>
+      <last-search encoding="base64">XDx1cmlJbmZvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcmVmZXJlbmNlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1cmlJbmZvXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -265,7 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQUlBfREVWX1JFQVNPTlw+</entry>
         <entry encoding="base64">XDxERVZfUkVBU09OXD4=</entry>
         <entry encoding="base64">XDxjdHhLZXlcPg==</entry>
         <entry encoding="base64">XDxwYXJlbnRrZXlcPg==</entry>
@@ -285,6 +275,7 @@
         <entry encoding="base64">XDxtTmV3TG9uZ1RleHRzXD4=</entry>
         <entry>long</entry>
         <entry encoding="base64">XDxQcmVmZXJlbmNlc1w+</entry>
+        <entry encoding="base64">XDx1cmlJbmZvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
