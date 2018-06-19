@@ -89,6 +89,10 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter enabled="false" url-pattern="Subscriber.js;*Zone*;" />
+            <stepping-filter enabled="false" url-pattern="http.js" />
+          </stepping-filters>
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">
