@@ -3,20 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.jar!/javax/mail/Transport.class" timestamp="1529051754135">
-        <mark key="'" line="121" column="30" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alert.module.ts" timestamp="1529347287941">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1529081795983">
-        <mark key="'" line="738" column="13" />
-      </file>
       <file name="/preference [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068862096">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/SendMailTLS.java" timestamp="1528899894152">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+        <mark key="^" line="37" column="61" />
       </file>
       <file name="/a.dummy" timestamp="1528975732726">
         <mark key="[" line="0" column="0" />
@@ -27,11 +27,14 @@
         <mark key="^" line="125" column="59" />
         <mark key="." line="125" column="59" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocGenerator.java" timestamp="1529081881595">
-        <mark key="'" line="461" column="59" />
-      </file>
       <file name="/__dummy.as" timestamp="1529325671185">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/Emailer.java" timestamp="1528902356196">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/querying/servers/ServerConfigParserTest.java" timestamp="1529082502084" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1529346290035">
@@ -40,17 +43,11 @@
         <mark key="." line="50" column="31" />
         <mark key="^" line="50" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/Main.java" timestamp="1528895761918">
-        <mark key="'" line="23" column="42" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint2.java" timestamp="1529334982406">
         <mark key="[" line="48" column="36" />
         <mark key="]" line="48" column="36" />
         <mark key="." line="48" column="36" />
         <mark key="^" line="48" column="27" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" timestamp="1528995589547">
-        <mark key="'" line="1866" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/http/security/TokenAuthenticator.java" timestamp="1529315907658" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/AlertDefinitionDao.java" timestamp="1529334203388">
@@ -59,24 +56,39 @@
         <mark key="^" line="45" column="30" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/index.ts" timestamp="1528918217627">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ClientDetailsEndpoint.java" timestamp="1529318942346" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/stats/Statistics.java" timestamp="1529324978624" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1529061007134">
+        <mark key="[" line="9" column="63" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="9" column="64" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="/__dummy.scss" timestamp="1529337900339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis.module.ts" timestamp="1529347281810" />
-      <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" timestamp="1529315968442">
-        <mark key="'" line="173" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1529398200112">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529070221039">
-        <mark key="'" line="225" column="19" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/AlertDefinitionDao2.java" timestamp="1529334353092" />
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Session.class" timestamp="1528900299132">
-        <mark key="'" line="243" column="13" />
       </file>
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1529338053528">
         <mark key="[" line="0" column="0" />
@@ -86,9 +98,6 @@
         <mark key="]" line="11" column="29" />
         <mark key="^" line="13" column="18" />
         <mark key="." line="11" column="29" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" timestamp="1529315574999">
-        <mark key="'" line="1567" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseAlertDefinitionDao.java" timestamp="1529333965693" />
       <file name="/kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1529335925952">
@@ -101,15 +110,12 @@
         <mark key="^" line="72" column="41" />
         <mark key="." line="72" column="41" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" timestamp="1529071625047">
-        <mark key="'" line="234" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Field.java" timestamp="1529315254297">
-        <mark key="'" line="1375" column="6" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/plm/PlmLongtextUtils.java" timestamp="1529081685203" />
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DAO.java" timestamp="1529071617237">
-        <mark key="'" line="212" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/email/EmailClientTest.java" timestamp="1528902044479">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/generic/DataAccessEndpoint.java" timestamp="1529335890198" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/workitem/ProcessWorkitemGetLongtext.java" timestamp="1529081442010" />
@@ -134,9 +140,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/email/src/main/java/com/company/fefef.java" timestamp="1528899268563">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/TRUNK-SNAPSHOT/fctr-TRUNK-20180424.070228-8015.jar!/plm/modules/fa/cuttingdata/csv/CSVReader.class" timestamp="1529312997407" />
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1529077790871">
-        <mark key="'" line="34" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/maintain-dashboard.component.html" timestamp="1529397913861">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/statuploader/customize/config/default.txt" timestamp="1529324872523">
         <mark key="[" line="48" column="42" />
@@ -144,26 +159,20 @@
         <mark key="." line="48" column="45" />
         <mark key="^" line="48" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" timestamp="1529335767082">
-        <mark key="'" line="151" column="34" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-routing.module.ts" timestamp="1529347159099">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-routing.module.ts" timestamp="1529398209121">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1529337136052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Transport.class" timestamp="1529051801163">
-        <mark key="'" line="59" column="24" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/setup/Environment.java" timestamp="1529057227640">
-        <mark key="'" line="99" column="48" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/sap/ApiParameter.java" timestamp="1529081419383">
-        <mark key="'" line="499" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.module.ts" timestamp="1529398262405">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1529338158861">
         <mark key="[" line="0" column="0" />
@@ -179,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="761" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="485" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="300" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
@@ -279,13 +287,14 @@
       <jump line="173" column="35" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" />
       <jump line="105" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" />
       <jump line="151" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" />
+      <jump line="1" column="1" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/maintain-dashboard.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGF0YUFuYWx5c2lzUm91dGluZ01vZHVsZSB9IGZyb20gJy4vZGF0YS1hbmFseXNpcy1yb3V0aW5nLm1vZHVsZSc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Define Analysis</text>
+        <text>maintain-dashboard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlJbmZvXD4=</text>
@@ -294,45 +303,39 @@
         <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiByb3V0ZXJMaW5rQWN0aXZlPSJhY3RpdmUiIFtyb3V0ZXJMaW5rXT0iWycva2liYW5hJ10iPjxpCiAgICAgICAgICBjbGFzcz0iaWNvbi1zcGVlZG9tZXRlciI+PC9pPgogICAgICAgICAgRGFzaGJvYXJkczwvYT4KICAgICAgPC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGF0YUFuYWx5c2lzUm91dGluZ01vZHVsZSB9IGZyb20gJy4vZGF0YS1hbmFseXNpcy1yb3V0aW5nLm1vZHVsZSc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>,
-  {
-    path: `show/:${DefaultDashboardConstants.STATISTIC_TYPE}/:statistic_name`,
-    pathMatch: 'full',
-    component: DashboardFilteredComponent,
-    data: {
-      title: `{${DefaultDashboardConstants.STATISTIC_TYPE}}: {statistic_name}`,
-      noPadding: true
-    },</text>
+        <text encoding="base64">dGhpcy5hY3RpdmF0ZWRSb3V0ZS5wYXJhbXMuc3Vic2NyaWJlKHBhcmFtcyA9PiB7CiAgICAgIGlmIChwYXJhbXNbJ2lkJ10pIHsKICAgICAgICB0aGlzLl9sb2FkRGFzaGJvYXJkKHBhcmFtc1snaWQnXSk7CiAgICAgIH0KICAgIH0pOwogICAgdGhpcy5fc2V0dXBBY3Rpb25CYXIoKTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVmYXVsdERhc2hib2FyZENvbnN0YW50cyB9IGZyb20gJy4vRGVmYXVsdERhc2hib2FyZENvbnN0YW50cyc7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHJpdmF0ZSBfc2F2ZURhc2hib2FyZCgpIHsKICAgIGlmICghdGhpcy5kYXNoYm9hcmQuZGlzcGxheWVkTmFtZSB8fCB0aGlzLmRhc2hib2FyZC5kaXNwbGF5ZWROYW1lLnRyaW0oKSA9PT0gJycpIHsKICAgICAgdGhpcy5ub3RpZmljYXRpb25zU2VydmljZS5lcnJvcignSW52YWxpZCBJbnB1dCcsICdQbGVhc2UgZW50ZXIgYSBuYW1lIGZvciB0aGUgZGFzaGJvYXJkIScpOwogICAgfSBlbHNlIGlmICghdGhpcy5kYXNoYm9hcmQua2liYW5hUmVsYXRpdmVVcmwgfHwgdGhpcy5kYXNoYm9hcmQua2liYW5hUmVsYXRpdmVVcmwudHJpbSgpID09PSAnJykgewogICAgICB0aGlzLm5vdGlmaWNhdGlvbnNTZXJ2aWNlLmVycm9yKCdJbnZhbGlkIElucHV0JywgJ1BsZWFzZSBlbnRlciBhIGRhc2hib2FyZCB1cmwhJyk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLmRhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCA9IEtpYmFuYVVSTFBhcnNlci5nZXRLaWJhbmFSZWxhdGl2ZVVSTCh0aGlzLmRhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybCk7CiAgICAgIHJldHVybiB0aGlzLmtpYmFuYURhc2hib2FyZEVuZHBvaW50U2VydmljZS51cHNlcnRNdWx0aXBsZShbdGhpcy5kYXNoYm9hcmRdKQogICAgICAgIC50b1Byb21pc2UoKQogICAgICAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICB0aGlzLm5vdGlmaWNhdGlvbnNTZXJ2aWNlLnN1Y2Nlc3MoJ1N1Y2Nlc3MnLCAnU3VjY2Vzc2Z1bGx5IHNhdmVkIHRoZSBkYXNoYm9hcmQhJyk7CiAgICAgICAgICB0aGlzLmRhc2hib2FyZCA9IHJlc3VsdFswXTsKICAgICAgICAgIHRoaXMuZWRpdE1vZGUgPSB0cnVlOwogICAgICAgIH0sIGVycm9yID0+IHsKICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yIHdoZW4gc2F2aW5nIHRoZSBkYXNoYm9hcmQnLCBlcnJvci5lcnJvcik7CiAgICAgICAgfSk7CiAgICB9CiAgICByZXR1cm4gdW5kZWZpbmVkOwogIH0KCiAgcHJpdmF0ZSBfc2V0dXBBY3Rpb25CYXIoKSB7CiAgICB0aGlzLnNhdmVCdXR0b24gPSB7CiAgICAgIGRpc3BsYXlOYW1lOiAnU2F2ZScsCiAgICAgIGljb25DbGFzc0lkZW50aWZpZXI6IEFjdGlvbkJ1dHRvblV0aWxzLkRFRkFVTFRfU0FWRV9CVVRUT05fSUNPTiwKICAgICAgdG9vbHRpcDogJ1NhdmUgdGhlIGRhc2hib2FyZCcsCiAgICAgIGxpc3RlbmVyczogWygpID0+IHRoaXMuX3NhdmVEYXNoYm9hcmQoKV0KICAgIH07CiAgICB0aGlzLmFjdGlvblRhYlNlcnZpY2Uuc2V0QWN0aW9uQnV0dG9ucyhbCiAgICAgIHRoaXMuc2F2ZUJ1dHRvbgogICAgXSk7CiAgfQoKICBwcml2YXRlIF9sb2FkRGFzaGJvYXJkKGlkOiBudW1iZXIpIHsKICAgIHRoaXMua2liYW5hRGFzaGJvYXJkRW5kcG9pbnRTZXJ2aWNlLmZpbmRCeUlEKFN0cmluZyhpZCkpLnN1YnNjcmliZShkYXNoYm9hcmQgPT4gewogICAgICB0aGlzLmRhc2hib2FyZCA9IGRhc2hib2FyZDsKICAgICAgdGhpcy5lZGl0TW9kZSA9IHRydWU7CiAgICB9LCBlcnJvciA9PiB7CiAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yJywgJ0Vycm9yIHdoZW4gcmV0cmlldmluZyB0aGUgZGFzaGJvYXJkLiBNYXliZSB0aGUgZGFzaGJvYXJkIGRvZXMgbm90IGV4aXN0IGFueSBtb3JlLicpOwogICAgfSk7CiAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGFzaGJvYXJkRmlsdGVyZWRDb21wb25lbnQgfSBmcm9tICcuL2Rhc2hib2FyZC1maWx0ZXJlZC9kYXNoYm9hcmQtZmlsdGVyZWQuY29tcG9uZW50JzsK</text>
+      <register name="5" type="4">
+        <text>maintain-dashboard
+maintain-dashboard</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVmaW5lQ29tcG9uZW50IH0gZnJvbSAnLi9kZWZpbmUvZGVmaW5lLmNvbXBvbmVudCc7Cg==</text>
+      <register name="6" type="4">
+        <text>maintain-dashboard
+maintain-dashboard</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvbW1vbkNvbXBvbmVudHNNb2R1bGUsCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIE1vZGFsTW9kdWxlLmZvclJvb3QoKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IAogIDxkaXYgY2xhc3M9InJvdyI+CiAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiBvZmZzZXQtbWQtMyI+CiAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtaGVhZGVyIj4KICAgICAgICAgIDxzcGFuICpuZ0lmPSJlZGl0TW9kZSI+RWRpdDwvc3Bhbj48c3BhbiAqbmdJZj0iIWVkaXRNb2RlIj5DcmVhdGU8L3NwYW4+IERhc2hib2FyZAogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYmxvY2siPgogICAgICAgICAgPGRpdiBjbGFzcz0icm93IGZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbC1tZC0zIGZvcm0tY29udHJvbC1sYWJlbCI+TmFtZTwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC05Ij4KICAgICAgICAgICAgICA8aW5wdXQgWyhuZ01vZGVsKV09ImRhc2hib2FyZC5kaXNwbGF5ZWROYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBmb3JtLWdyb3VwIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBmb3JtLWNvbnRyb2wtbGFiZWwiPkRlc2NyaXB0aW9uPC9sYWJlbD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTkiPgogICAgICAgICAgICAgIDxpbnB1dCBbKG5nTW9kZWwpXT0iZGFzaGJvYXJkLmRlc2NyaXB0aW9uIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBmb3JtLWdyb3VwIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBmb3JtLWNvbnRyb2wtbGFiZWwiPktpYmFuYSBVUkw8L2xhYmVsPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgPGlucHV0IFsobmdNb2RlbCldPSJkYXNoYm9hcmQua2liYW5hUmVsYXRpdmVVcmwiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0icm93IGZvcm0tZ3JvdXAiPgogICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbC1tZC0zIGZvcm0tY29udHJvbC1sYWJlbCIKICAgICAgICAgICAgICAgICAgIHRvb2x0aXA9JyJNYWtlIHRoaXMgZGFzaGJvYXJkIHJlbGF0ZWQgdG8gYSByZXNvdXJjZSInPgogICAgICAgICAgICAgIExpbmtlZCBSZXNvdXJjZQogICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1xdWVzdGlvbi1jaXJjbGUtbyI+IDwvaT4KICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTkiPgogICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9J2Zvcm0tY29udHJvbCcgWyhuZ01vZGVsKV09J2Rhc2hib2FyZC5saW5rZWRPYmplY3RUeXBlJz4KICAgICAgICAgICAgICAgIDxvcHRpb24gW3ZhbHVlXT0nbnVsbCc+Tm8gbGlua2VkIHJlc291cmNlPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJDTElFTlQiPkNsaWVudDwvb3B0aW9uPgogICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iU0VSVkVSIj5TZXJ2ZXI8L29wdGlvbj4KICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlNBUF9DQUNIRSI+Q2FjaGUgU2VydmVyPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEU0NfUFJPRklMRSI+RFNDIFByb2ZpbGUgU2VydmVyPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJEU0NfUFJPQ0FDSEUiPkRTQyBQcm9jYWNoZSBTZXJ2ZXI8L29wdGlvbj4KICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlNBUF9DT05URU5UIj5TQVAgQ29udGVudCBTZXJ2ZXI8L29wdGlvbj4KICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkRTQ19CQVRDSF9FTkdJTkUiPkRTQyBCYXRjaCBFbmdpbmUgU2VydmVyPC9vcHRpb24+CiAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERhc2hib2FyZE1vZHVsZSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGF0YUFuYWx5c2lzUm91dGluZ01vZHVsZSB9IGZyb20gJy4vZGF0YS1hbmFseXNpcy1yb3V0aW5nLm1vZHVsZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
