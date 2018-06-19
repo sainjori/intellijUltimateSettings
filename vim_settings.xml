@@ -21,6 +21,7 @@
       <file name="/a.dummy" timestamp="1528975732726">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" timestamp="1529401060705" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1529347041875">
         <mark key="[" line="125" column="48" />
         <mark key="]" line="125" column="59" />
@@ -74,11 +75,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/data-analysis.module.ts" timestamp="1529347281810" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1529398200112">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="36" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1529400035190">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base1206/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1528820302262">
         <mark key="[" line="40" column="0" />
@@ -119,10 +120,10 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/generic/DataAccessEndpoint.java" timestamp="1529335890198" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/workitem/ProcessWorkitemGetLongtext.java" timestamp="1529081442010" />
-      <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1529068961519">
+      <file name="/JavaScript Console" timestamp="1529401071205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1529337221384">
+      <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1529068961519">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/data-analysis-routing.module.ts" timestamp="1529346895535">
@@ -131,10 +132,13 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1529346157461">
+      <file name="/dummy.sql" timestamp="1529400317250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/StatUtil.java" timestamp="1529325750390" />
+      <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1529346096669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -153,6 +157,7 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.ts" timestamp="1529400028901" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/statuploader/customize/config/default.txt" timestamp="1529324872523">
         <mark key="[" line="48" column="42" />
         <mark key="]" line="48" column="45" />
@@ -290,11 +295,11 @@
       <jump line="1" column="1" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/maintain-dashboard.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>maintain-dashboard</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmlJbmZvXD4=</text>
