@@ -1,16 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="webpack://./node_modules/rxjs/_esm5/Subscriber.js" timestamp="1529418441130">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts.component.ts" timestamp="1529420198994">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
       </file>
       <file name="/preference [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068862096">
         <mark key="[" line="0" column="0" />
@@ -18,7 +12,7 @@
       <file name="/fragment.js" timestamp="1529484123395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1529587140853">
+      <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1529589718499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1529504365401">
@@ -26,12 +20,6 @@
       </file>
       <file name="webpack://./node_modules/@angular/platform-browser/esm5/platform-browser.js" timestamp="1529488657958">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1529429033947">
-        <mark key="[" line="188" column="39" />
-        <mark key="]" line="188" column="60" />
-        <mark key="^" line="188" column="60" />
-        <mark key="." line="188" column="60" />
       </file>
       <file name="ng:///DataAnalysisModule/DefineComponent.html" timestamp="1529484562115">
         <mark key="[" line="0" column="0" />
@@ -41,12 +29,6 @@
       </file>
       <file name="/__dummy.as" timestamp="1529325671185">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertsConfigurationEndpoint.java" timestamp="1529506932545">
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="54" column="27" />
-        <mark key="^" line="51" column="38" />
       </file>
       <file name="webpack://./node_modules/@angular/core/esm5/core.js" timestamp="1529492744794">
         <mark key="[" line="0" column="0" />
@@ -59,45 +41,17 @@
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertDefinitionConfigurationEndpoint.java" timestamp="1529497103691">
-        <mark key="[" line="76" column="11" />
-        <mark key="]" line="76" column="29" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="76" column="29" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1529346290035">
-        <mark key="[" line="50" column="28" />
-        <mark key="]" line="50" column="31" />
-        <mark key="." line="50" column="31" />
-        <mark key="^" line="50" column="31" />
-      </file>
       <file name="/ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1529404184001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint2.java" timestamp="1529334982406">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="36" />
-        <mark key="." line="48" column="36" />
-        <mark key="^" line="48" column="27" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1529431714402">
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="39" column="96" />
-        <mark key="." line="39" column="96" />
-        <mark key="^" line="39" column="96" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/AlertDefinitionDao.java" timestamp="1529334203388">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="45" column="30" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="/IntelliJ Default" timestamp="1529503835093">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" timestamp="1529589566094" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/EctrStatisticGroupPojo.java" timestamp="1529589497135" />
       <file name="/alert_criterion [monitoring_dashboard@localhost]" timestamp="1529581096556">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,23 +71,14 @@
         <mark key="." line="102" column="66" />
         <mark key="^" line="180" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" timestamp="1529511165799">
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1529589636619">
+        <mark key="[" line="384" column="110" />
       </file>
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1529338053528">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/data-analysis.module.ts" timestamp="1529347044955">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="11" column="29" />
       </file>
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
         <mark key="[" line="0" column="0" />
@@ -145,29 +90,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertDefinitionEndpoint.java" timestamp="1529504450842">
-        <mark key="[" line="72" column="27" />
-        <mark key="]" line="72" column="41" />
-        <mark key="^" line="72" column="41" />
-        <mark key="." line="72" column="41" />
-      </file>
       <file name="/fragment.ts" timestamp="1529526181806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1529510203867">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts/defined-alerts.component.html" timestamp="1529489139578">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="11" column="67" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/interfaces/ColumnDef.ts" timestamp="1529491279729">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-        <mark key="^" line="12" column="5" />
       </file>
       <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1529068961519">
         <mark key="[" line="0" column="0" />
@@ -178,27 +105,15 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1529587298141">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/data-analysis-routing.module.ts" timestamp="1529346895535">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/alertCriterionComparator.ts" timestamp="1529583052260" />
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1529587142330">
+      <file name="/dummy.sql" timestamp="1529589718809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529586262539">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/statuploader/customize/config/default.txt" timestamp="1529324872523">
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="45" />
-        <mark key="^" line="48" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1529588748248">
         <mark key="'" line="77" column="32" />
@@ -209,18 +124,6 @@
       </file>
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-routing.module.ts" timestamp="1529494478200">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1529427541253">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="9" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1529574433515">
         <mark key="[" line="0" column="0" />
@@ -244,24 +147,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/alertDefinitionSeverity.ts" timestamp="1529526054804">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="34" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts/alerts.component.ts" timestamp="1529421089597">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.module.ts" timestamp="1529515458520">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-      </file>
-      <file name="/fragment.java" timestamp="1529505577398">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="14" />
       </file>
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
