@@ -34,6 +34,12 @@
       <file name="webpack://./node_modules/@angular/core/esm5/core.js" timestamp="1529492744794">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" timestamp="1529674392407">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="43" />
+        <mark key="." line="40" column="107" />
+      </file>
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,12 +80,12 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1529670073409">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1529674275983">
         <mark key="'" line="127" column="43" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="148" column="41" />
+        <mark key="[" line="140" column="48" />
+        <mark key="]" line="141" column="20" />
+        <mark key="." line="141" column="20" />
+        <mark key="^" line="141" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" timestamp="1529658746922">
         <mark key="'" line="77" column="31" />
@@ -186,12 +192,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1529670115145">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1529674420413">
         <mark key="'" line="17" column="17" />
-        <mark key="[" line="129" column="73" />
-        <mark key="]" line="129" column="77" />
-        <mark key="^" line="129" column="77" />
-        <mark key="." line="129" column="77" />
+        <mark key="[" line="143" column="76" />
+        <mark key="]" line="143" column="87" />
+        <mark key="^" line="143" column="87" />
+        <mark key="." line="143" column="87" />
       </file>
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
@@ -201,19 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/sap/ApiParameter.java" />
-      <jump line="446" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/sap/ApiParameter.java" />
-      <jump line="499" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/sap/ApiParameter.java" />
-      <jump line="164" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="471" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="472" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="165" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="474" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="475" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="813" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="815" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="831" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="833" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
       <jump line="741" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmObject.java" />
       <jump line="95" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmObject.java" />
@@ -301,61 +294,74 @@
       <jump line="17" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="136" column="56" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="127" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="101" column="84" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="108" column="81" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="128" column="58" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="135" column="89" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="148" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="155" column="59" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="162" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="174" column="86" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="180" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="185" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="4" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="12" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
+      <jump line="67" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comperator</text>
+        <text>control</text>
       </register>
       <register name="-" type="4">
-        <text>comperator</text>
+        <text>control</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0TW9kZVw+</text>
+        <text encoding="base64">XDxncm91cFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlckRhdGE6IFthbGVydEZpbHRlci5maWx0ZXJEYXRhXQo=</text>
+      <register name="0" type="4">
+        <text>deleteSettingsMetadataEntry</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNvbnRyb2wtbGFiZWwgY29sLW1kLTIiPmlzPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZHI+PC9kcj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RyaW5ncyA9IE9iamVjdC5rZXlzKGFsZXJ0RmlsdGVyLmZpbHRlckRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5faW5pdEZvcm0odGhpcy5hbGVydERlZmluaXRpb24pCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tb3V0bGluZS1zZWNvbmRhcnkiIChjbGljayk9ImRlbGV0ZUdyb3VwUHJvY2Vzcyhncm91cCwgaSkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tdHJhc2giPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBncm91cHM6IHRoaXMuZmIuYXJyYXkoc3RhdGlzdGljR3JvdXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9pbml0Rm9ybSh0aGlzLmFsZXJ0RGVmaW5pdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBmb3JtQXJyYXlOYW1lPSJtZXRhRGF0YUZpbHRlcnMiPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHByb2Nlc3NDb250cm9sczogRm9ybUNvbnRyb2xbXSA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybUFycmF5TmFtZT0iZ3JvdXBzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNvbnRyb2wtbGFiZWwgY29sLW1kLTIiPmlzPC9sYWJlbD4K</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGl0TW9kZVw+</last-search>
+      <last-search encoding="base64">XDxncm91cFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0TW9kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxncm91cFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -363,7 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</entry>
         <entry encoding="base64">XDxpc0NvbXBvbmVudFw+</entry>
         <entry encoding="base64">XDxpc0Fzc2VtYmx5XD4=</entry>
         <entry>integer</entry>
@@ -383,6 +388,7 @@
         <entry encoding="base64">XDxkZWxldGVkR3JvdXBJRHNcPg==</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxlZGl0TW9kZVw+</entry>
+        <entry encoding="base64">XDxncm91cFw+</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
