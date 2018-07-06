@@ -13,6 +13,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="136" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocSave.java" timestamp="1530885120731">
+        <mark key="'" line="127" column="6" />
+      </file>
       <file name="/preference [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068862096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,6 +58,9 @@
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1530884713210">
+        <mark key="'" line="2325" column="0" />
       </file>
       <file name="/ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1529404184001">
         <mark key="[" line="0" column="0" />
@@ -106,6 +112,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="247" column="73" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1530884752312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="0" column="61" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/viewer/PlmViewingUtils.java" timestamp="1530869374058" />
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
@@ -192,7 +204,7 @@
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1530799564885">
+      <file name="/fragment.java" timestamp="1530884675698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/preference [monitoring_dashboard@localhost]" timestamp="1529489831143">
@@ -200,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1567" column="21" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" />
-      <jump line="173" column="35" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" />
       <jump line="105" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" />
       <jump line="151" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" />
       <jump line="1" column="1" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/maintain-dashboard.component.html" />
@@ -300,10 +310,12 @@
       <jump line="256" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
       <jump line="240" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/PlmProcessWirtgenLinkPSPElement.java" />
       <jump line="133" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenDocWbsLink.java" />
+      <jump line="2325" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/checkin/PlmProcessDocumentSave.java" />
+      <jump line="127" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocSave.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGxtLjNkcHJldmlldy5pZ25vcmUuYXNzZW1ibHkudmlld2FibGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGxtLmN1c3RvbWVyLmNvbnRyb2wgPSB3aXJ0Z2VuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cGxtLjNkcHJldmlldy5pZ25vcmUuYXNzZW1ibHkudmlld2FibGUg</text>
@@ -315,37 +327,37 @@
         <text encoding="base64">ICogV0lSVEdFTi0xNzIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChpZ25vcmUpCg==</text>
+        <text encoding="base64">cGxtLmN1c3RvbWVyLmNvbnRyb2wgPSB3aXJ0Z2VuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtUHJldmlld0ZpbGVzLmdldChkb2MuZ2V0U2FwS2V5KCkpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChpZ25vcmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBTdHJpbmdbMF07Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtUHJldmlld0ZpbGVzLmdldChkb2MuZ2V0U2FwS2V5KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PEJyRG9jUG9zaXRpb24+IElOX1JPT1RPQlIgPSBuZXcgRENLZXlPYmplY3Q8PigiSU5fUk9PVE9CUiIpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBTdHJpbmdbMF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PEJyRG9jUG9zaXRpb24+IElOX1JPT1RPQlIgPSBuZXcgRENLZXlPYmplY3Q8PigiSU5fUk9PVE9CUiIpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaGFuZGxlQ2FzZU9uUm9vdChMaXN0PFBsbVBzcEVsZW1lbnQ+IHBzcEVsZW1lbnRzKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogIHsKICAgIExpc3Q8UGxtRG9jdW1lbnQ+IGRvY3VtZW50TGlzdCA9IHJlYWRPYmplY3RMaW5rc0ZvckRvY3VtZW50cygpOwogICAgQnJQc3BFbGVtZW50IHBzcFNlbGVjdGlvbiA9IGdldFBzcFNlbGVjdGlvbihwc3BFbGVtZW50cyk7CiAgICBpZiAocHNwU2VsZWN0aW9uICE9IG51bGwpCiAgICB7CiAgICAgIGRvY3VtZW50TGlzdCA9IHJlbW92ZUlmSGFzT2JqZWt0TGlua1Jvb3QoZG9jdW1lbnRMaXN0LCBwc3BTZWxlY3Rpb24uZ2V0UGxtUHNwRWxlbWVudCgpKTsKICAgICAgc2hvd1RhYmxlU2VsZWN0aW9uRG9jdW1lbnRzKGRvY3VtZW50TGlzdCwgcHNwU2VsZWN0aW9uLmdldFBsbVBzcEVsZW1lbnQoKSk7CiAgICB9CgogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaGFuZGxlQ2FzZU9uUm9vdChMaXN0PFBsbVBzcEVsZW1lbnQ+IHBzcEVsZW1lbnRzKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogIHsKICAgIExpc3Q8UGxtRG9jdW1lbnQ+IGRvY3VtZW50TGlzdCA9IHJlYWRPYmplY3RMaW5rc0ZvckRvY3VtZW50cygpOwogICAgQnJQc3BFbGVtZW50IHBzcFNlbGVjdGlvbiA9IGdldFBzcFNlbGVjdGlvbihwc3BFbGVtZW50cyk7CiAgICBpZiAocHNwU2VsZWN0aW9uICE9IG51bGwpCiAgICB7CiAgICAgIGRvY3VtZW50TGlzdCA9IHJlbW92ZUlmSGFzT2JqZWt0TGlua1Jvb3QoZG9jdW1lbnRMaXN0LCBwc3BTZWxlY3Rpb24uZ2V0UGxtUHNwRWxlbWVudCgpKTsKICAgICAgc2hvd1RhYmxlU2VsZWN0aW9uRG9jdW1lbnRzKGRvY3VtZW50TGlzdCwgcHNwU2VsZWN0aW9uLmdldFBsbVBzcEVsZW1lbnQoKSk7CiAgICB9CgogIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
