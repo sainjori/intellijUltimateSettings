@@ -77,12 +77,12 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531068925269">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531071385851">
         <mark key="'" line="116" column="9" />
-        <mark key="[" line="118" column="66" />
-        <mark key="]" line="118" column="71" />
-        <mark key="^" line="118" column="71" />
-        <mark key="." line="118" column="71" />
+        <mark key="[" line="119" column="66" />
+        <mark key="]" line="119" column="69" />
+        <mark key="^" line="119" column="69" />
+        <mark key="." line="119" column="69" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/model.d.ts" timestamp="1531048839065">
         <mark key="'" line="834" column="33" />
@@ -139,7 +139,7 @@
       <file name="/dummy.sql" timestamp="1531060947088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531065798618">
+      <file name="/Dummy.txt" timestamp="1531068980939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
@@ -291,8 +291,8 @@
       <jump line="116" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG5ldyBBbGVydCBEZWZpbml0aW9u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX2luaXQoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG5ldyBBbGVydCBEZWZpbml0aW9u</text>
@@ -301,40 +301,40 @@
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNhdmVCdXR0b246IEFjdGlvbkJ1dHRvbkRlZjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9zZXR1cEFjdGlvbkJhcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2luaXQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb24uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8L2Rpdj4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiBvZmZzZXQtbWQtMyI+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt7Y29udHJvbCB8IGpzb259fQo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiBvZmZzZXQtbWQtMyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
