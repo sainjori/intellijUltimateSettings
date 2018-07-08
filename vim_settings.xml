@@ -93,6 +93,9 @@
         <mark key="." line="184" column="16" />
         <mark key="^" line="184" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/model.d.ts" timestamp="1531048839065">
+        <mark key="'" line="834" column="33" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" timestamp="1529658746922">
         <mark key="'" line="77" column="31" />
         <mark key="[" line="80" column="37" />
@@ -139,11 +142,6 @@
         <mark key="]" line="2572" column="43" />
         <mark key="." line="2572" column="43" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/AlertActionsDTO.java" timestamp="1529602130760">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-      </file>
       <file name="/fragment.ts" timestamp="1529526181806">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,11 +153,6 @@
       </file>
       <file name="/ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1529403907136">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1529690278541">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
@@ -214,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="231" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="268" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="402" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -314,6 +306,7 @@
       <jump line="206" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="155" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="146" column="82" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="834" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/model.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +355,7 @@
         <text encoding="base64">ICAgICAgaWYgKHMgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>183</text>
+        <text>247</text>
       </register>
     </registers>
     <search>
@@ -398,7 +391,6 @@
         <entry encoding="base64">XDxhcHBsUGFydFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>201</entry>
         <entry>1379</entry>
         <entry>1672</entry>
         <entry>1730</entry>
@@ -418,6 +410,7 @@
         <entry>630</entry>
         <entry>1184</entry>
         <entry>183</entry>
+        <entry>247</entry>
       </history-cmd>
       <history-expr />
       <history-input />
