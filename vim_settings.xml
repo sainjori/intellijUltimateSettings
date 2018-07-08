@@ -160,6 +160,9 @@
       <file name="/dummy.sql" timestamp="1529690317132">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1531056289977">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1529678448014">
         <mark key="'" line="77" column="32" />
         <mark key="[" line="124" column="41" />
@@ -182,12 +185,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1531055587651">
-        <mark key="'" line="145" column="41" />
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="78" />
-        <mark key="^" line="57" column="78" />
-        <mark key="." line="57" column="78" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1531057205935">
+        <mark key="'" line="134" column="18" />
+        <mark key="[" line="171" column="36" />
+        <mark key="]" line="172" column="15" />
+        <mark key="^" line="172" column="15" />
+        <mark key="." line="172" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1530901864189">
         <mark key="'" line="146" column="82" />
@@ -207,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="402" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="416" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="157" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -307,43 +309,44 @@
       <jump line="146" column="82" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="834" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/model.d.ts" />
       <jump line="142" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
+      <jump line="134" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD4gICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLWVuZXJneSBuZy1zdGFyLWluc2VydGVkIiBzdHlsZT0iZm9udC1zaXplOiAxLjVyZW0iPjwvaT4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBsUGFydFw+</text>
+        <text>99</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIG1hdFJldiA9IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>style=&quot;height: 0.1rem&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihncm91cCk7Cg==</text>
+        <text encoding="base64">PD4gICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLWVuZXJneSBuZy1zdGFyLWluc2VydGVkIiBzdHlsZT0iZm9udC1zaXplOiAxLjVyZW0iPjwvaT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBncm91cCA9IG1hdGNoZXIuZ3JvdXAoKTsK</text>
+        <text encoding="base64">PD4gICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1maWx0ZXIiIHN0eWxlPSJmb250LXNpemU6IDEuNXJlbSI+PC9pPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90b2RvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nVG9rZW5pemVyIHN0ID0gbmV3IFN0cmluZ1Rva2VuaXplcihmaWxlTmFtZSwgIi0iKTsKICAgICAgbWF0TnVtYmVyID0gc3QubmV4dFRva2VuKCk7CiAgICAgIGRyYXdWciA9IHN0Lm5leHRUb2tlbigpOwogICAgICBtYXRSZXYgPSBzdC5uZXh0VG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihncm91cCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBncm91cCA9IG1hdGNoZXIuZ3JvdXAoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUGF0dGVybiBjb21waWxlID0gUGF0dGVybi5jb21waWxlKHMpOwogICAgICBNYXRjaGVyIG1hdGNoZXIgPSBjb21waWxlLm1hdGNoZXIoZmlsZVRvQW5hbHlzZS5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpOwogICAgICB3aGlsZSAobWF0Y2hlci5maW5kKCkpewogICAgICAgIFN0cmluZyBncm91cCA9IG1hdGNoZXIuZ3JvdXAoKTsKICAgICAgICBTdHJpbmcgbmNtID0gbWF0Y2hlci5ncm91cCgiTkNNIik7CiAgICAgICAgU3RyaW5nIG5jenYgPSBtYXRjaGVyLmdyb3VwKCJOQ1pWIik7CiAgICAgICAgU3RyaW5nIG5jbXIgPSBtYXRjaGVyLmdyb3VwKCJOQ01SIik7CiAgICAgICAgU3RyaW5nIE5DQSA9IG1hdGNoZXIuZ3JvdXAoIk5DQSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihncm91cCk7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShzKS5tYXAoZ2V0RnJvbVBhdHRlcm4oKSkub3JFbHNlKCkK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nVG9rZW5pemVyIHN0ID0gbmV3IFN0cmluZ1Rva2VuaXplcihmaWxlTmFtZSwgIi0iKTsKICAgICAgbWF0TnVtYmVyID0gc3QubmV4dFRva2VuKCk7CiAgICAgIGRyYXdWciA9IHN0Lm5leHRUb2tlbigpOwogICAgICBtYXRSZXYgPSBzdC5uZXh0VG9rZW4oKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -352,16 +355,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHMgKQo=</text>
+        <text encoding="base64">ICAgICAgUGF0dGVybiBjb21waWxlID0gUGF0dGVybi5jb21waWxlKHMpOwogICAgICBNYXRjaGVyIG1hdGNoZXIgPSBjb21waWxlLm1hdGNoZXIoZmlsZVRvQW5hbHlzZS5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpOwogICAgICB3aGlsZSAobWF0Y2hlci5maW5kKCkpewogICAgICAgIFN0cmluZyBncm91cCA9IG1hdGNoZXIuZ3JvdXAoKTsKICAgICAgICBTdHJpbmcgbmNtID0gbWF0Y2hlci5ncm91cCgiTkNNIik7CiAgICAgICAgU3RyaW5nIG5jenYgPSBtYXRjaGVyLmdyb3VwKCJOQ1pWIik7CiAgICAgICAgU3RyaW5nIG5jbXIgPSBtYXRjaGVyLmdyb3VwKCJOQ01SIik7CiAgICAgICAgU3RyaW5nIE5DQSA9IG1hdGNoZXIuZ3JvdXAoIk5DQSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihncm91cCk7CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBsUGFydFw+</last-search>
+      <last-search>99</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBsUGFydFw+</last-pattern>
+      <last-pattern>99</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>integer</entry>
         <entry encoding="base64">XDxFTlVNXD4=</entry>
         <entry>addFo</entry>
         <entry encoding="base64">XDxkY1RhYmxlc1w+</entry>
@@ -389,6 +391,7 @@
         <entry encoding="base64">XDxncm91cFw+</entry>
         <entry encoding="base64">XDxyb290T2JqZWN0XD4=</entry>
         <entry encoding="base64">XDxhcHBsUGFydFw+</entry>
+        <entry>99</entry>
       </history-search>
       <history-cmd>
         <entry>1379</entry>
