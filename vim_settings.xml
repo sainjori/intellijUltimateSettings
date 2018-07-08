@@ -114,11 +114,11 @@
         <mark key="^" line="247" column="73" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1530884752312">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="61" />
-        <mark key="^" line="0" column="61" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1530901106664">
+        <mark key="[" line="1" column="102" />
+        <mark key="]" line="1" column="100" />
+        <mark key="." line="1" column="100" />
+        <mark key="^" line="1" column="100" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/viewer/PlmViewingUtils.java" timestamp="1530869374058" />
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
@@ -196,10 +196,17 @@
         <mark key="^" line="193" column="39" />
         <mark key="." line="193" column="39" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1530901864189">
+        <mark key="'" line="146" column="82" />
+        <mark key="[" line="228" column="89" />
+        <mark key="]" line="228" column="100" />
+        <mark key="^" line="228" column="100" />
+        <mark key="." line="228" column="100" />
+      </file>
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1530888522175">
+      <file name="/fragment.java" timestamp="1530900447476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/preference [monitoring_dashboard@localhost]" timestamp="1529489831143">
@@ -207,12 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="1" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/maintain-dashboard.component.html" />
-      <jump line="160" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/statisticConfigurationEndpoint.service.ts" />
-      <jump line="40" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts/defined-alerts.component.ts" />
-      <jump line="89" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="43" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/analysis/define/define.component.ts" />
-      <jump line="26" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" />
       <jump line="152" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="231" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="268" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -307,43 +308,49 @@
       <jump line="127" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/omf/OmfDocSave.java" />
       <jump line="2312" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/checkin/PlmProcessDocumentSave.java" />
       <jump line="152" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="81" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="100" column="63" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="101" column="84" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="206" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="155" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="146" column="82" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gdmFsaWREb2NUeXBlID0gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290T2JqZWN0XD4=</text>
+        <text encoding="base64">XDxhcHBsUGFydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogV0lSVEdFTi0xNzIK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIG1hdFJldiA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gdmFsaWREb2NUeXBlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihncm91cCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxtLmN1c3RvbWVyLmNvbnRyb2wgPSB3aXJ0Z2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBncm91cCA9IG1hdGNoZXIuZ3JvdXAoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpZ25vcmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtUHJldmlld0ZpbGVzLmdldChkb2MuZ2V0U2FwS2V5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nVG9rZW5pemVyIHN0ID0gbmV3IFN0cmluZ1Rva2VuaXplcihmaWxlTmFtZSwgIi0iKTsKICAgICAgbWF0TnVtYmVyID0gc3QubmV4dFRva2VuKCk7CiAgICAgIGRyYXdWciA9IHN0Lm5leHRUb2tlbigpOwogICAgICBtYXRSZXYgPSBzdC5uZXh0VG9rZW4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBTdHJpbmdbMF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PEJyRG9jUG9zaXRpb24+IElOX1JPT1RPQlIgPSBuZXcgRENLZXlPYmplY3Q8PigiSU5fUk9PVE9CUiIpOwo=</text>
+        <text encoding="base64">ICAgICAgUGF0dGVybiBjb21waWxlID0gUGF0dGVybi5jb21waWxlKHMpOwogICAgICBNYXRjaGVyIG1hdGNoZXIgPSBjb21waWxlLm1hdGNoZXIoZmlsZVRvQW5hbHlzZS5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpOwogICAgICB3aGlsZSAobWF0Y2hlci5maW5kKCkpewogICAgICAgIFN0cmluZyBncm91cCA9IG1hdGNoZXIuZ3JvdXAoKTsKICAgICAgICBTdHJpbmcgbmNtID0gbWF0Y2hlci5ncm91cCgiTkNNIik7CiAgICAgICAgU3RyaW5nIG5jenYgPSBtYXRjaGVyLmdyb3VwKCJOQ1pWIik7CiAgICAgICAgU3RyaW5nIG5jbXIgPSBtYXRjaGVyLmdyb3VwKCJOQ01SIik7CiAgICAgICAgU3RyaW5nIE5DQSA9IG1hdGNoZXIuZ3JvdXAoIk5DQSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihncm91cCk7CiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShzKS5tYXAoZ2V0RnJvbVBhdHRlcm4oKSkub3JFbHNlKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -351,17 +358,17 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaGFuZGxlQ2FzZU9uUm9vdChMaXN0PFBsbVBzcEVsZW1lbnQ+IHBzcEVsZW1lbnRzKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogIHsKICAgIExpc3Q8UGxtRG9jdW1lbnQ+IGRvY3VtZW50TGlzdCA9IHJlYWRPYmplY3RMaW5rc0ZvckRvY3VtZW50cygpOwogICAgQnJQc3BFbGVtZW50IHBzcFNlbGVjdGlvbiA9IGdldFBzcFNlbGVjdGlvbihwc3BFbGVtZW50cyk7CiAgICBpZiAocHNwU2VsZWN0aW9uICE9IG51bGwpCiAgICB7CiAgICAgIGRvY3VtZW50TGlzdCA9IHJlbW92ZUlmSGFzT2JqZWt0TGlua1Jvb3QoZG9jdW1lbnRMaXN0LCBwc3BTZWxlY3Rpb24uZ2V0UGxtUHNwRWxlbWVudCgpKTsKICAgICAgc2hvd1RhYmxlU2VsZWN0aW9uRG9jdW1lbnRzKGRvY3VtZW50TGlzdCwgcHNwU2VsZWN0aW9uLmdldFBsbVBzcEVsZW1lbnQoKSk7CiAgICB9CgogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHMgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290T2JqZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxhcHBsUGFydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290T2JqZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBsUGFydFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Fzc2VtYmx5XD4=</entry>
         <entry>integer</entry>
         <entry encoding="base64">XDxFTlVNXD4=</entry>
         <entry>addFo</entry>
@@ -389,6 +395,7 @@
         <entry encoding="base64">XDxlZGl0TW9kZVw+</entry>
         <entry encoding="base64">XDxncm91cFw+</entry>
         <entry encoding="base64">XDxyb290T2JqZWN0XD4=</entry>
+        <entry encoding="base64">XDxhcHBsUGFydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
