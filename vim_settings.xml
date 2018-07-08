@@ -57,6 +57,7 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1531068676527" />
       <file name="/IntelliJ Default" timestamp="1529503835093">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,12 +77,12 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531065730044">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="210" column="36" />
-        <mark key="]" line="210" column="45" />
-        <mark key="^" line="210" column="45" />
-        <mark key="." line="210" column="45" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531068925269">
+        <mark key="'" line="116" column="9" />
+        <mark key="[" line="118" column="66" />
+        <mark key="]" line="118" column="71" />
+        <mark key="^" line="118" column="71" />
+        <mark key="." line="118" column="71" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/model.d.ts" timestamp="1531048839065">
         <mark key="'" line="834" column="33" />
@@ -138,7 +139,7 @@
       <file name="/dummy.sql" timestamp="1531060947088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531062188944">
+      <file name="/Dummy.txt" timestamp="1531065798618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
@@ -156,12 +157,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1531065760428">
-        <mark key="'" line="225" column="6" />
-        <mark key="[" line="201" column="79" />
-        <mark key="]" line="201" column="88" />
-        <mark key="." line="201" column="88" />
-        <mark key="^" line="201" column="88" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1531067594132">
+        <mark key="'" line="213" column="19" />
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="88" />
+        <mark key="." line="9" column="88" />
+        <mark key="^" line="9" column="88" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1530901864189">
         <mark key="'" line="146" column="82" />
@@ -188,12 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/alertDefinitionEndpoint.service.ts" />
-      <jump line="66" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
-      <jump line="78" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
-      <jump line="62" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
-      <jump line="169" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
-      <jump line="245" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="87" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="289" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="22" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
@@ -235,7 +230,6 @@
       <jump line="12" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
       <jump line="67" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
       <jump line="123" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
-      <jump line="114" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="109" column="98" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="102" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="160" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
@@ -288,61 +282,68 @@
       <jump line="3" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="227" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="226" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
+      <jump line="216" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
+      <jump line="35" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
+      <jump line="213" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
+      <jump line="188" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="57" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="114" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="116" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text encoding="base64">IG5ldyBBbGVydCBEZWZpbml0aW9u</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IG5ldyBBbGVydCBEZWZpbml0aW9u</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBY3Rpb25UeXBlXD4=</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogW2FsZXJ0QWN0aW9uLmRhdGEubWVzc2FnZSB8fCAnJ10K</text>
+        <text encoding="base64">ICBwcml2YXRlIHNhdmVCdXR0b246IEFjdGlvbkJ1dHRvbkRlZjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt7Y29udHJvbCB8IGpzb259fQo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGl2ZQo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gI2Y9Im5nRm9ybSIgW2Zvcm1Hcm91cF09ImFsZXJ0RGVmRm9ybSI+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gI2Y9Im5nRm9ybSIgW2Zvcm1Hcm91cF09ImFsZXJ0RGVmRm9ybSI+Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiBvZmZzZXQtbWQtMyI+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4YW1wbGUgY2hlY2tib3gK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt7Y29udHJvbCB8IGpzb259fQo=</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRBY3Rpb25UeXBlXD4=</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBY3Rpb25UeXBlXD4=</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkY1RhYmxlc1w+</entry>
         <entry encoding="base64">XDxtTG9uZ1RleHRzXD4=</entry>
         <entry encoding="base64">XDxtTmV3TG9uZ1RleHRzXD4=</entry>
         <entry>long</entry>
@@ -370,6 +370,7 @@
         <entry>99</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry encoding="base64">XDxnZXRBY3Rpb25UeXBlXD4=</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>1379</entry>
