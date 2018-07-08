@@ -37,6 +37,12 @@
       <file name="/__dummy.as" timestamp="1529325671185">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertsConfigurationEndpoint.java" timestamp="1531078067441">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="33" />
+      </file>
       <file name="webpack://./node_modules/@angular/core/esm5/core.js" timestamp="1529492744794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,10 +110,10 @@
         <mark key="^" line="1" column="100" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/viewer/PlmViewingUtils.java" timestamp="1530869374058" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertActionsEndpoint.java" timestamp="1531073436775">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertActionsEndpoint.java" timestamp="1531078092431">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
         <mark key="^" line="19" column="13" />
       </file>
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
@@ -134,7 +140,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1531060947088">
+      <file name="/dummy.sql" timestamp="1531077642838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1531071601652">
@@ -150,7 +156,7 @@
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1529686716436">
+      <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1531077640894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/operators/filter.js" timestamp="1529418437128">
@@ -297,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>criteria</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>criteria</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR0aW5nc1NhdmVQcm9jZXNzXD4=</text>
