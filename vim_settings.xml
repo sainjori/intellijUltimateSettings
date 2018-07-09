@@ -151,8 +151,10 @@
       <file name="/dummy.sql" timestamp="1531078891102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531079169679">
+      <file name="/Dummy.txt" timestamp="1531131396876">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1531074008706">
         <mark key="'" line="9" column="9" />
@@ -183,12 +185,12 @@
         <mark key="." line="51" column="72" />
         <mark key="^" line="51" column="72" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1531129666903">
-        <mark key="'" line="286" column="39" />
-        <mark key="[" line="228" column="2" />
-        <mark key="]" line="228" column="7" />
-        <mark key="^" line="228" column="7" />
-        <mark key="." line="228" column="7" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1531131775147">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="171" column="3" />
+        <mark key="]" line="172" column="5" />
+        <mark key="^" line="172" column="5" />
+        <mark key="." line="172" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" timestamp="1531061566103">
         <mark key="'" line="107" column="4" />
@@ -208,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
-      <jump line="117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="135" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="76" column="31" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" />
       <jump line="102" column="45" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
@@ -308,13 +308,15 @@
       <jump line="145" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="238" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="286" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="180" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="142" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;fefe&quot;</text>
+        <text>try one with own method</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;fefe&quot;</text>
+        <text>try one with own method</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR0aW5nc1NhdmVQcm9jZXNzXD4=</text>
