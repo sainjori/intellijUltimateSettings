@@ -15,7 +15,7 @@
       <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1531060946837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1530790385186">
+      <file name="/a.dummy" timestamp="1531140900366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/@angular/platform-browser/esm5/platform-browser.js" timestamp="1529488657958">
@@ -51,6 +51,10 @@
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/modules/workdir/PlmWorkDirectoryManager.java" timestamp="1531140359581">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="80" column="6" />
       </file>
       <file name="/ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1529404184001">
         <mark key="[" line="0" column="0" />
@@ -191,12 +195,16 @@
         <mark key="." line="51" column="72" />
         <mark key="^" line="51" column="72" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1531136188034">
+      <file name="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/java/nio/file/DirectoryStream.java" timestamp="1531140327906">
+        <mark key="[" line="118" column="17" />
+        <mark key="]" line="118" column="31" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1531142455179">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="209" column="10" />
-        <mark key="]" line="209" column="24" />
-        <mark key="^" line="209" column="24" />
-        <mark key="." line="209" column="24" />
+        <mark key="[" line="218" column="8" />
+        <mark key="]" line="218" column="8" />
+        <mark key="^" line="218" column="132" />
+        <mark key="." line="218" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" timestamp="1531061566103">
         <mark key="'" line="107" column="4" />
@@ -208,8 +216,10 @@
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1531129318093">
+      <file name="/fragment.java" timestamp="1531140295490">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/preference [monitoring_dashboard@localhost]" timestamp="1529489831143">
         <mark key="[" line="0" column="0" />
@@ -319,19 +329,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>png</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR0aW5nc1NhdmVQcm9jZXNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigiREFESTogIiArIHRoaXMuZ2V0Q2xhc3MoKS5nZXROYW1lKCksIFRyYWNlLkRFQlVHLCAiRXJyb3IgZmluZGluZyBzb3VyY2UgZm9sZGVyLiBQcmVmZXJlbmNlOiAiK2tleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IChEaXJlY3RvcnlTdHJlYW08UGF0aD4gZGlyZWN0b3J5U3RyZWFtID0gRmlsZXMubmV3RGlyZWN0b3J5U3RyZWFtKHJlcG9zaXRvcnlEaXJlY3RvcnksIFBsbVdvcmtEaXJlY3RvcnlNYW5hZ2VyOjppc1dvcmtEaXJlY3RvcnkpKQogICAgICB7CiAgICAgICAgZGlyZWN0b3J5U3RyZWFtLmZvckVhY2god29ya0RpcmVjdG9yaWVzOjphZGQpOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICghdmFsaWREb2NUeXBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKCJEQURJIiwgVHJhY2UuSU5GTywgIk5vIG5jIGRvY3VtZW50LiAtPiBleGl0IERBREkiKTsKICAgICAgcmV0dXJuOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzaG93V2FybmluZyhtb3ZlZEZpbGVzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -340,31 +350,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludCgiREFESSIsIFRyYWNlLkRFQlVHLCAiIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGRGb2xkZXIgPT0gbnVsbCkKICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTW92ZWRGaWxlcygpLnNldEZpbGVQYXRoKG5leHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>String addFolder = FileServer.getInst().getMasterAdditionalSessionDirectoryName(applPart.getDocument());
-    boolean success = moveToAddFolder(addFolder);
-    if (!success)
-      return;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBNb3ZlZEZpbGVzIG1vdmVkRmlsZXMgPSBuZXcgTW92ZWRGaWxlcygpOwogICAgICAgIG1vdmVkRmlsZXMuc2V0RmlsZVBhdGgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGguCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
