@@ -90,7 +90,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/alertDefinitionPojo.ts" timestamp="1531064749514" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObjectContainer.java" timestamp="1530887900794" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/test/java/wirtgen/dadi/DadiDocumentSaveBeforeTest.java" timestamp="1531129392484">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/test/java/wirtgen/dadi/DadiDocumentSaveBeforeTest.java" timestamp="1531133292273">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="50" />
         <mark key="." line="20" column="50" />
@@ -109,11 +109,11 @@
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1529338053528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1530901106664">
-        <mark key="[" line="1" column="102" />
-        <mark key="]" line="1" column="100" />
-        <mark key="." line="1" column="100" />
-        <mark key="^" line="1" column="100" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1531134237071">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/test/java/wirtgen/proc/advsteel/xml/AdvSteelXmlExtractorTest.java" timestamp="1531128997537" />
       <file name="C:/ENTWICKLUNG/java/workspaces/4.4-snapshot-source/core/plm++/java/src/plm/modules/viewer/PlmViewingUtils.java" timestamp="1530869374058" />
@@ -130,6 +130,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1531078607867" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" timestamp="1531134326633">
+        <mark key="'" line="2565" column="0" />
+        <mark key="[" line="2572" column="43" />
+        <mark key="]" line="2572" column="43" />
+        <mark key="." line="2572" column="43" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" timestamp="1531077293611" />
       <file name="/fragment.ts" timestamp="1529526181806">
         <mark key="[" line="0" column="0" />
@@ -185,12 +191,12 @@
         <mark key="." line="51" column="72" />
         <mark key="^" line="51" column="72" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1531131775147">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1531134117500">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="171" column="3" />
-        <mark key="]" line="172" column="5" />
-        <mark key="^" line="172" column="5" />
-        <mark key="." line="172" column="5" />
+        <mark key="[" line="215" column="107" />
+        <mark key="]" line="215" column="110" />
+        <mark key="^" line="215" column="110" />
+        <mark key="." line="215" column="110" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" timestamp="1531061566103">
         <mark key="'" line="107" column="4" />
@@ -210,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="76" column="31" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" />
       <jump line="102" column="45" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="75" column="46" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
@@ -310,22 +315,23 @@
       <jump line="286" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="180" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="142" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="2565" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>try one with own method</text>
+        <text encoding="base64">PFBmYWQ+</text>
       </register>
       <register name="-" type="4">
-        <text>try one with own method</text>
+        <text encoding="base64">PFBmYWQ+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR0aW5nc1NhdmVQcm9jZXNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdEV4cGlyYXRpb25JbnRlcnZhbDogW2FsZXJ0RGVmaW5pdGlvbi5hbGVydERlZmluaXRpb25Qb2pvLmRlZmF1bHRFeHBpcmF0aW9uSW50ZXJ2YWwgfHwgJyddLAo=</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigiREFESTogIiArIHRoaXMuZ2V0Q2xhc3MoKS5nZXROYW1lKCksIFRyYWNlLkRFQlVHLCAiRXJyb3IgZmluZGluZyBzb3VyY2UgZm9sZGVyLiBQcmVmZXJlbmNlOiAiK2tleSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYQo=</text>
+        <text encoding="base64">ICAgIGlmICghdmFsaWREb2NUeXBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKCJEQURJIiwgVHJhY2UuSU5GTywgIk5vIG5jIGRvY3VtZW50LiAtPiBleGl0IERBREkiKTsKICAgICAgcmV0dXJuOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -334,28 +340,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBFY3RyU3RhdGlzdGljU2V0dGluZ3NFbmRwb2ludFNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBFY3RyU3RhdGlzdGljR3JvdXBFbmRwb2ludFNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBFY3RyQ2FsY3VsYXRlZFZhbHVlRW5kcG9pbnRTZXJ2aWNlLAo=</text>
+        <text encoding="base64">ICAgIGlmIChhZGRGb2xkZXIgPT0gbnVsbCkKICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAuZmxhdE1hcCgoKSA9PiB0aGlzLl9zYXZlQWxlcnRGaWx0ZXIoKSkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIHZhbHVlWydncm91cHMnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBLaWJhbmFEYXNoYm9hcmRQb2pvLAo=</text>
+      <register name="8" type="4">
+        <text>String addFolder = FileServer.getInst().getMasterAdditionalSessionDirectoryName(applPart.getDocument());
+    boolean success = moveToAddFolder(addFolder);
+    if (!success)
+      return;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXNoYm9hcmQ6IEtpYmFuYURhc2hib2FyZFBvam8gPSB7fTsK</text>
+        <text encoding="base64">ICAgIHBhdGguCg==</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
