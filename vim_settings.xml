@@ -96,6 +96,12 @@
       <file name="/AngularJS Fragment (add-alert.component.html:3033).js" timestamp="1529578553982">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1531229592403">
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
+        <mark key="^" line="312" column="29" />
+      </file>
       <file name="/__dummy.scss" timestamp="1529412803607">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,7 +199,7 @@
       <file name="/dummy.sql" timestamp="1531078891102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531226350208">
+      <file name="/Dummy.txt" timestamp="1531226824495">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -367,41 +373,41 @@
       <jump line="62" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>objects</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFRyYWNlLnNldExldmVsKDQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>objects</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0ZXJEb2NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFTVEVSX1RZUEUgPSAiVUdNQVNURVIiOwo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJEZXRlcm1pbmUgYW5hbHlzZSBiaW5hcnkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVQRU5ERU5UX0RPQ19UWVBFID0gIlVHUEFSVCI7Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnNldExldmVsKDQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnNldExldmVsKFRyYWNlLlRSX05FVkVSKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgYW5hbHlzZVByb2dyYW0gPSBnZXRBbmFseXNlUHJvZ3JhbSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnNldExldmVsKFRyYWNlLlRSX05FVkVSKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnNldExldmVsKDQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnNldExldmVsKFRyYWNlLlRSX05FVkVSKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBwYXJzZUZpbGVMb2NhdGlvbihFeHRlcm5hbEZpbGVUeXBlIGV4dGVybmFsRmlsZVR5cGUpCiAgewogICAgU3RyaW5nIGZpbGVMb2NhdGlvbiA9IGV4dGVybmFsRmlsZVR5cGUuZ2V0TG9jYXRpb25SZWYoKTsKICAgIGlmIChmaWxlTG9jYXRpb24gIT0gbnVsbCkKICAgIHsKICAgICAgLy8gSWYgdGhlIGZpbGUgbmFtZSBjb250YWlucyBzcGFjZXMsIHRoZXkgd2lsbCBiZSBlc2NhcGVkIGFzICUyMCBpbiB0aGUgWE1MIGZpbGUKICAgICAgLy8gY29udmVydCAlMjAgYmFjayB0byBzcGFjZXMuCiAgICAgIC8vIE1heWJlIHRlYW1jZW50ZXIgdXNlcyBVUkwgRW5jb2RpbmcgaGVyZSBidXQgd2UgZG8gbm90IHVzZSBpdCBoZXJlIGZvciBjb252ZXJzaW9uIHRvIGF2b2lkIHBvc3NpYmxlIGNvbmZsaWN0cwogICAgICBmaWxlTG9jYXRpb24gPSBmaWxlTG9jYXRpb24ucmVwbGFjZUFsbCgiJTIwIiwgIiAiKTsKICAgIH0KICAgIHJldHVybiBmaWxlTG9jYXRpb247CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -410,7 +416,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFTVEVSX1RZUEUgPSAiVUdNQVNURVIiOwo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oNCwgIkNSRUFURSBNQVRBSU5GUyBGT1I6ICAiICsgcGFydEZpbGUuZ2V0UGF0aCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
