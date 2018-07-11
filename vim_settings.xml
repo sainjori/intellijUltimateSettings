@@ -57,11 +57,11 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1531329752708">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="64" column="8" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1531332632331">
+        <mark key="[" line="59" column="41" />
+        <mark key="]" line="59" column="48" />
+        <mark key="." line="59" column="48" />
+        <mark key="^" line="59" column="48" />
       </file>
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
@@ -325,11 +325,11 @@
       <jump line="60" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>newVar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>newVar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGb3JtR3JvdXBcPg==</text>
