@@ -57,10 +57,10 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1531332632331">
-        <mark key="[" line="59" column="41" />
-        <mark key="]" line="59" column="48" />
-        <mark key="." line="59" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1531335346392">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="59" column="48" />
       </file>
       <file name="/IntelliJ Default" timestamp="1531251087816">
@@ -84,12 +84,9 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531322311636">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531335173420">
         <mark key="'" line="188" column="28" />
-        <mark key="[" line="153" column="28" />
-        <mark key="]" line="154" column="33" />
-        <mark key="^" line="154" column="33" />
-        <mark key="." line="154" column="33" />
+        <mark key="^" line="211" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/alertDefinitionPojo.ts" timestamp="1531320270290" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/test/java/wirtgen/dadi/DadiDocumentSaveBeforeTest.java" timestamp="1531133292273">
@@ -325,35 +322,35 @@
       <jump line="60" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newVar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>newVar</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGb3JtR3JvdXBcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KDxGb3JtR3JvdXA+Y3JpdGVyaWEpLmdldChmaWVsZCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdHlwZTogW2FsZXJ0QWN0aW9uLmFjdGlvblR5cGUgfHwgJyddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgLy8gdXBkYXRlZENyaXRlcmlhID0gdXBkYXRlZENyaXRlcmlhLmNvbmNhdCgKICAgICAgICAgIC8vICAgKDxGb3JtR3JvdXA+Y3JpdGVyaWEpLmNvbnRyb2xzCiAgICAgICAgICAvLyAgICAgLmZpbHRlcihjYWxjVmFsdWUgPT4gY2FsY1ZhbHVlLmRpcnR5ICYmIHR5cGVvZiBjYWxjVmFsdWUudmFsdWUuaWQgPT09ICdudW1iZXInKQogICAgICAgICAgLy8gICAgIC5tYXAoZm9ybUVsZW1lbnQgPT4gZm9ybUVsZW1lbnQudmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgLy8gdXBkYXRlZENyaXRlcmlhID0gdXBkYXRlZENyaXRlcmlhLmNvbmNhdCgKICAgICAgICAgIC8vICAgKDxGb3JtR3JvdXA+Y3JpdGVyaWEpLmNvbnRyb2xzCiAgICAgICAgICAvLyAgICAgLmZpbHRlcihjYWxjVmFsdWUgPT4gY2FsY1ZhbHVlLmRpcnR5ICYmIHR5cGVvZiBjYWxjVmFsdWUudmFsdWUuaWQgPT09ICdudW1iZXInKQogICAgICAgICAgLy8gICAgIC5tYXAoZm9ybUVsZW1lbnQgPT4gZm9ybUVsZW1lbnQudmFsdWUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -365,10 +362,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV3VmFyID0gKDxGb3JtR3JvdXA+Y3JpdGVyaWEpLmdldChmaWVsZCk7CiAgICAgICAgICAgIGlmIChuZXdWYXIuZGlydHkgJiYgdHlwZW9mIG5ld1Zhci52YWx1ZS5pZCA9PT0gJ251bWJlcicpIHsKICAgICAgICAgICAgIHVwZGF0ZWRDcml0ZXJpYS5wdXNoKG5ld1Zhci52YWx1ZSkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3VmFyLmRpcnR5ICYmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV3VmFyID0gKDxGb3JtR3JvdXA+Y3JpdGVyaWEpLmdldChmaWVsZCk7CiAgICAgICAgICAgIGlmIChuZXdWYXIuZGlydHkgJiYgdHlwZW9mIG5ld1Zhci52YWx1ZS5pZCA9PT0gJ251bWJlcicpIHsKICAgICAgICAgICAgIHVwZGF0ZWRDcml0ZXJpYS5wdXNoKG5ld1Zhci52YWx1ZSkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
