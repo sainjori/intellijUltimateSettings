@@ -48,12 +48,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1531584507008">
-        <mark key="'" line="82" column="18" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="35" column="44" />
-        <mark key="." line="35" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1531596857970">
+        <mark key="'" line="91" column="18" />
+        <mark key="[" line="82" column="44" />
+        <mark key="]" line="82" column="53" />
+        <mark key="." line="82" column="53" />
+        <mark key="^" line="82" column="53" />
       </file>
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
@@ -78,8 +78,12 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531584412603">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1531595802775">
         <mark key="'" line="133" column="33" />
+        <mark key="[" line="255" column="23" />
+        <mark key="]" line="255" column="24" />
+        <mark key="^" line="255" column="24" />
+        <mark key="." line="255" column="24" />
       </file>
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
@@ -135,7 +139,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1531583934644">
+      <file name="/dummy.sql" timestamp="1531596810207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1531489485754">
@@ -289,49 +293,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>alerCriterionEndpoint</text>
+        <text>fieldDatfilterData</text>
       </register>
       <register name="-" type="4">
-        <text>alerCriterionEndpoint</text>
+        <text>fieldDatfilterData</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcml2YXRlIGFsZXJ0RGVmRW5kcG9pbnQ6IEFsZXJ0RGVmaW5pdGlvbkVuZHBvaW50U2VydmljZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlbGV0ZSB2YWx1ZS5maWVsZDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
+      <register name="1" type="8">
+        <text>fieldData
+fieldData
+fieldData</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGZpZWxkRGF0YSA9IHsKICAgICAgICAgICAgJ2ZpZWxkJyA6IHZhbHVlLmZpbHRlckRhdGEuZmllbGQsCiAgICAgICAgICAgICd2YWx1ZScgOiB2YWx1ZS5maWx0ZXJEYXRhLnZhbHVlCiAgICAgICAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9zYXZlQWxlcnRGaWx0ZXIoKSB7CiAgICByZXR1cm4gdW5kZWZpbmVkOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShmaWVsZERhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB1cGRhdGVkQ2FsY1ZhbHVlcyA9IFtdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkRGF0YSA9IHsKICAgICAgJ2ZpZWxkJyA6IHZhbHVlLmZpbHRlckRhdGEuZmllbGQsCiAgICAgICd2YWx1ZScgOiB2YWx1ZS5maWx0ZXJEYXRhLnZhbHVlCiAgICB9OwogICAgcmV0dXJuIEpTT04uc3RyaW5naWZ5KGZpZWxkRGF0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3JpdGVyaWEudmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
