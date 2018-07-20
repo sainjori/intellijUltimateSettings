@@ -21,7 +21,7 @@
       <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1531060946837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1531750101225">
+      <file name="/a.dummy" timestamp="1532085203698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/@angular/platform-browser/esm5/platform-browser.js" timestamp="1529488657958">
@@ -81,6 +81,13 @@
       </file>
       <file name="/AngularJS Fragment (add-alert.component.html:3033).js" timestamp="1529578553982">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1532084822263">
+        <mark key="'" line="16" column="35" />
+        <mark key="[" line="2532" column="40" />
+        <mark key="]" line="2533" column="41" />
+        <mark key="^" line="2533" column="41" />
+        <mark key="." line="2533" column="41" />
       </file>
       <file name="/__dummy.scss" timestamp="1529412803607">
         <mark key="[" line="0" column="0" />
@@ -174,12 +181,12 @@
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1532083580353">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1532085445668">
         <mark key="'" line="268" column="0" />
-        <mark key="[" line="36" column="66" />
-        <mark key="]" line="36" column="72" />
-        <mark key="^" line="36" column="72" />
-        <mark key="." line="36" column="72" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="35" column="34" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1531319903200">
         <mark key="[" line="0" column="0" />
@@ -213,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="286" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="287" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="290" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
@@ -313,52 +319,53 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="85" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="269" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
+      <jump line="16" column="35" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>matDocEquipBucketList</text>
+        <text>cadagent.cfc.pref.</text>
       </register>
       <register name="-" type="4">
-        <text>matDocEquipBucketList</text>
+        <text>cadagent.cfc.pref.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXRlcmlhbEF0dHJpYnV0ZU1hcHBlckZyb21TYXBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBsbU1hdGVyaWFsLmV4aXN0ZW5jZUNoZWNrKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1hdERvY0VxdWlwLnNldEVxdWlwbWVudChwbG1FcXVpcG1lbnQpOwogICAgICAgICAgICAgICAgbWF0RG9jRXF1aXAuc2V0TWF0ZXJpYWwocGxtTWF0ZXJpYWwpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBMaXN0PFBsbU1hdGVyaWFsPiBwbG1NYXRlcmlhbHMgPSBtYXREb2NFcXVpcEJ1Y2tldExpc3Quc3RyZWFtKCkubWFwKE1hdERvY0VxdWlwQnVja2V0OjpnZXRNYXRyaWFsKS5maWx0ZXIoT2JqZWN0czo6bm9uTnVsbCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBQbG1NYXRlcmlhbENvbnRhaW5lciBjb250YWluZXIgPSBuZXcgUGxtTWF0ZXJpYWxDb250YWluZXIocGxtTWF0ZXJpYWxzKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5yZWFkTWFpbkRldGFpbHModHJ1ZSk7CiAgICAgICAgfSBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoMCwgZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBwbG1NYXRlcmlhbHM7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBsbU1hdGVyaWFsICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1hdERvY0VxdWlwQnVja2V0LnNldE1hdGVyaWFsKHBsbU1hdGVyaWFsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpID09IG51bGwpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBsbU1hdGVyaWFsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpID09IG51bGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGRvY3VtZW50RGV0YWlscyA9IGNhZGFnZW50LmNmYy5wcmVmLlByZWZlcmVuY2VzLmJvb2xlYW5WYWx1ZSgieXBzb21lZC52ZWEucmVuYW1lci5nZXQuZGV0YWlscy5kb2MiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGRvY3VtZW50RGV0YWlscyA9IGNhZGFnZW50LmNmYy5wcmVmLlByZWZlcmVuY2VzLmJvb2xlYW5WYWx1ZSgieXBzb21lZC52ZWEucmVuYW1lci5nZXQuZGV0YWlscy5kb2MiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
