@@ -79,12 +79,15 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1532367040170">
-        <mark key="'" line="87" column="29" />
-        <mark key="[" line="42" column="45" />
-        <mark key="]" line="42" column="47" />
-        <mark key="." line="42" column="47" />
-        <mark key="^" line="42" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1532368266741">
+        <mark key="'" line="88" column="29" />
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1532367688435">
+        <mark key="'" line="28" column="2" />
       </file>
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
@@ -121,7 +124,7 @@
         <mark key="." line="93" column="84" />
         <mark key="^" line="93" column="84" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532367156023">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532368202708">
         <mark key="[" line="161" column="14" />
         <mark key="]" line="161" column="21" />
         <mark key="." line="161" column="21" />
@@ -155,8 +158,8 @@
       <file name="/kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1529335925952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" timestamp="1531602051884">
-        <mark key="'" line="13" column="2" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" timestamp="1532367520711">
+        <mark key="'" line="41" column="46" />
       </file>
       <file name="/fragment.ts" timestamp="1529526181806">
         <mark key="[" line="0" column="0" />
@@ -229,11 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="572" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="614" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="634" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="648" column="89" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="651" column="91" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="654" column="90" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="665" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.2/base-5.1.9.2-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
@@ -329,16 +327,21 @@
       <jump line="269" column="64" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="316" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="135" column="84" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
+      <jump line="75" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" />
+      <jump line="20" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" />
+      <jump line="40" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" />
+      <jump line="41" column="46" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" />
+      <jump line="28" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>calcValue</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>calcValue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRlZEdyb3Vwc1w+</text>
+        <text encoding="base64">XDxfdXVpZFRvSURtYXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>getAlertCritFormGroup</text>
@@ -381,9 +384,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRlZEdyb3Vwc1w+</last-search>
+      <last-search encoding="base64">XDxfdXVpZFRvSURtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRlZEdyb3Vwc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfdXVpZFRvSURtYXBcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxdXD4=</entry>
         <entry encoding="base64">XDxnZXRBY3Rpb25UeXBlXD4=</entry>
         <entry encoding="base64">XDxTZXR0aW5nc1NhdmVQcm9jZXNzXD4=</entry>
         <entry>showerrr</entry>
@@ -411,6 +413,7 @@
         <entry encoding="base64">XDxBVFRSX0NVU1RPTUVSX0RBVEFfU0VDVElPTlw+</entry>
         <entry encoding="base64">XDxkaXNwbGF5ZWRBdHRyaWJ1dGVTZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxhZGRlZEdyb3Vwc1w+</entry>
+        <entry encoding="base64">XDxfdXVpZFRvSURtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1672</entry>
