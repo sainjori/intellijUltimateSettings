@@ -15,7 +15,7 @@
       <file name="/fragment.js" timestamp="1529484123395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1532434216009">
+      <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1532438911700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532092661985">
@@ -27,7 +27,7 @@
       <file name="ng:///DataAnalysisModule/DefineComponent.html" timestamp="1529484562115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1532374610774">
+      <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1532438881373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1532087491549">
@@ -36,11 +36,9 @@
         <mark key="." line="405" column="23" />
         <mark key="^" line="405" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" timestamp="1532422895329" />
       <file name="/__dummy.as" timestamp="1531484417361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertsConfigurationEndpoint.java" timestamp="1532374672966" />
       <file name="/auth_token [monitoring_dashboard@localhost]" timestamp="1532431163339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,12 +56,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1532426700393">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1532441384325">
         <mark key="'" line="204" column="40" />
-        <mark key="[" line="89" column="49" />
-        <mark key="]" line="90" column="83" />
-        <mark key="." line="90" column="83" />
-        <mark key="^" line="90" column="83" />
+        <mark key="[" line="407" column="124" />
+        <mark key="]" line="408" column="18" />
+        <mark key="." line="408" column="18" />
+        <mark key="^" line="408" column="18" />
       </file>
       <file name="/ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1529404184001">
         <mark key="[" line="0" column="0" />
@@ -84,7 +82,6 @@
         <mark key="." line="209" column="3" />
         <mark key="^" line="209" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/http/security/TokenAuthenticator.java" timestamp="1532431221952" />
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,7 +144,6 @@
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertFilterEndpoint.java" timestamp="1532370647594" />
       <file name="/kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1532370544921">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +179,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532438272922">
+      <file name="/dummy.sql" timestamp="1532440873069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/my-date-input.component.ts" timestamp="1532433803589">
@@ -192,13 +188,20 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532437103863">
+      <file name="/Dummy.txt" timestamp="1532441489264">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1532442043722">
+        <mark key="'" line="77" column="54" />
+        <mark key="[" line="379" column="121" />
+        <mark key="]" line="379" column="121" />
+        <mark key="." line="379" column="121" />
+        <mark key="^" line="379" column="121" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1532437223143">
         <mark key="[" line="0" column="0" />
@@ -342,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>could not be found.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>could not be found.</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -354,7 +357,7 @@
         <text>style=&quot;flex-basis: 100%&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAgZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -369,25 +372,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgYWN0aW9uLnZhbHVlLnJlY2lwaWVudHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFkZGVkQWN0aW9ucyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgYWN0aW9uLnZhbHVlLnJlY2lwaWVudHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhZGRlZE1ldGFEYXRhRmlsdGVyOiB7IFtpZDogc3RyaW5nXTogRm9ybUdyb3VwIH0gPSB7fTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFkZGVkQWN0aW9ucyA9IFtdOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhZGRlZEFjdGlvbnM6IHsgW3A6IHN0cmluZ106IEZvcm1Hcm91cCB9ID0ge307Cg==</text>
+        <text encoding="base64">ICBhZGRlZE1ldGFEYXRhRmlsdGVyOiB7IFtpZDogc3RyaW5nXTogRm9ybUdyb3VwIH0gPSB7fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtGb3JtYXRSZWNpcGllbnRzQ29tcG9uZW50fSBmcm9tICcuLi9hbGVydHMvbXktZGF0ZS1pbnB1dC5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICBhZGRlZEFjdGlvbnM6IHsgW3A6IHN0cmluZ106IEZvcm1Hcm91cCB9ID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>181</text>
+        <text>380</text>
       </register>
     </registers>
     <search>
@@ -423,7 +426,6 @@
         <entry>save</entry>
       </history-search>
       <history-cmd>
-        <entry>1672</entry>
         <entry>1730</entry>
         <entry>332</entry>
         <entry>1971</entry>
@@ -443,6 +445,7 @@
         <entry>183</entry>
         <entry>247</entry>
         <entry>181</entry>
+        <entry>380</entry>
       </history-cmd>
       <history-expr />
       <history-input />
