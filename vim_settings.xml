@@ -30,7 +30,7 @@
       <file name="ng:///DataAnalysisModule/DefineComponent.html" timestamp="1529484562115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1532360885545">
+      <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1532374610774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1532087491549">
@@ -45,6 +45,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/dtype/DType.java" timestamp="1532358529057">
         <mark key="'" line="1747" column="50" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertsConfigurationEndpoint.java" timestamp="1532374672966" />
       <file name="webpack://./node_modules/@angular/core/esm5/core.js" timestamp="1529492744794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,12 +81,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1532374265187">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1532375099014">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="44" column="3" />
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="51" column="51" />
+        <mark key="." line="51" column="51" />
+        <mark key="^" line="51" column="51" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1532367688435">
         <mark key="'" line="28" column="2" />
@@ -125,13 +126,13 @@
         <mark key="." line="93" column="84" />
         <mark key="^" line="93" column="84" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532373668987">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532375716795">
         <mark key="a" line="354" column="0" />
         <mark key="'" line="261" column="8" />
-        <mark key="[" line="284" column="12" />
-        <mark key="]" line="284" column="13" />
-        <mark key="." line="284" column="13" />
-        <mark key="^" line="284" column="11" />
+        <mark key="[" line="286" column="52" />
+        <mark key="]" line="286" column="52" />
+        <mark key="." line="286" column="52" />
+        <mark key="^" line="286" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/ApplPart.java" timestamp="1532096669972">
         <mark key="'" line="114" column="46" />
@@ -189,11 +190,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmEquipment.java" timestamp="1531758484478">
         <mark key="'" line="77" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532374034356" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532375521177">
+        <mark key="[" line="0" column="75" />
+      </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532374031121">
+      <file name="/dummy.sql" timestamp="1532375481148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1532371019366">
@@ -207,12 +210,6 @@
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1532357138146">
-        <mark key="'" line="79" column="54" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1531319903200">
         <mark key="[" line="0" column="0" />
       </file>
@@ -225,12 +222,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1532371591983">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1532376092551">
         <mark key="'" line="143" column="33" />
-        <mark key="[" line="218" column="64" />
-        <mark key="]" line="218" column="83" />
-        <mark key="." line="218" column="83" />
-        <mark key="^" line="218" column="83" />
+        <mark key="[" line="200" column="90" />
+        <mark key="]" line="200" column="90" />
+        <mark key="." line="200" column="90" />
+        <mark key="^" line="200" column="116" />
       </file>
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
@@ -348,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>updatedActions</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>updatedActions</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpb25zXD4=</text>
