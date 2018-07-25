@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks>
       <mark key="A" line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" protocol="file" />
-      <mark key="V" line="82" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
+      <mark key="V" line="73" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="webpack://./node_modules/rxjs/_esm5/Subscriber.js" timestamp="1529418441130">
@@ -234,11 +234,11 @@
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1532508309854">
-        <mark key="'" line="77" column="54" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="0" />
-        <mark key="." line="363" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1532510466643">
+        <mark key="'" line="445" column="34" />
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="0" />
+        <mark key="." line="436" column="0" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1532437223143">
         <mark key="[" line="0" column="0" />
@@ -268,7 +268,7 @@
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1532426668351">
+      <file name="/fragment.java" timestamp="1532509079513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -279,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="56" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
-      <jump line="210" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="12" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="44" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="133" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
@@ -379,13 +377,15 @@
       <jump line="171" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" />
       <jump line="283" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="332" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="260" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
+      <jump line="445" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmZWYiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>cannot</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRlZEFjdGlvbnNcPg==</text>
@@ -394,37 +394,58 @@
         <text encoding="base64">ICAgICAgdGhpcy5hZGRlZENyaXRlcmlhID0gdmFsdWVbJ2NyaXRlcmlhJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmZWYiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJndGVmZmUiKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIHJlYWREb2N1bWVudERldGFpbHMoTGlzdDxNYXREb2NFcXVpcEJ1Y2tldD4gbWF0RG9jRXF1aXBCdWNrZXRMaXN0KQogICAgewovLyAgICAgICAgICAgICAgICBMaXN0PFBsbU1hdGVyaWFsPiBwbG1NYXRlcmlhbHMgPSBtYXREb2NFcXVpcEJ1Y2tldExpc3Quc3RyZWFtKCkubWFwKE1hdERvY0VxdWlwQnVja2V0OjpnZXRNYXRyaWFsKS5maWx0ZXIoT2JqZWN0czo6bm9uTnVsbCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKLy8gICAgICAgIFBsbU1hdGVyaWFsQ29udGFpbmVyIGNvbnRhaW5lciA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcihwbG1NYXRlcmlhbHMpOwovLyAgICAgICAgdHJ5Ci8vICAgICAgICB7Ci8vICAgICAgICAgICAgY29udGFpbmVyLnJlYWRNYWluRGV0YWlscyh0cnVlKTsKLy8gICAgICAgIH0gY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKLy8gICAgICAgIHsKLy8gICAgICAgICAgICBUcmFjZS5wcmludGxuU3RhY2tUcmFjZSgwLCBlKTsKLy8gICAgICAgIH0KLy8gICAgICAgIHJldHVybiBwbG1NYXRlcmlhbHM7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRleHQgPSAiTWF0ZXJpYWwgY291bGQgbm90IGJlIGRldGVybWluZWQgd2l0aCBFcXVpcG1lbnQuIE9wdGlvbjogJXMiOwogICAgICAgICAgICBTdHJpbmcgZm9ybWF0ID0gU3RyaW5nLmZvcm1hdCh0ZXh0LCBlcXVpcG1lbnRObywgZW50cnkpOwogICAgICAgICAgICBUcmFjZS5wcmludGxuKDAsIGZvcm1hdCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>private void writeto(Document xml_doc, Path path)
+    {
+        Properties prps = new Properties();
+        prps.put(&quot;indent&quot;, &quot;yes&quot;);
+
+        // XML-parser in UG utf-8 encoding korrekt haendeln kann.
+        String encoding = System.getProperty(&quot;file.encoding&quot;);
+        prps.put(&quot;encoding&quot;, Preferences.stringValue(&quot;plm.xml.metainf.encoding&quot;, encoding));
+
+        Trace.println(&quot;DADI&quot;, Trace.DEBUG, &quot;Write XML file: &quot; + path.toString());
+
+        try
+        {
+            XmlUtils.writeXmlNode(xml_doc, path.toFile(), prps);
+        } catch (TransformerException e)
+        {
+            e.printStackTrace();
+        } catch (IOException e)
+        {
+            e.printStackTrace();
+        }
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgaWYgKGUudmFsdWUgIT09IG51bGwpIHsKICAgICAgICAgICAKICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>380</text>
