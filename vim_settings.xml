@@ -33,7 +33,7 @@
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1532438881373">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1532513762099">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1532515056412">
         <mark key="[" line="415" column="12" />
         <mark key="]" line="440" column="11" />
         <mark key="." line="440" column="11" />
@@ -75,12 +75,12 @@
         <mark key="^" line="266" column="33" />
         <mark key="." line="266" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1532513563333">
-        <mark key="'" line="472" column="36" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="103" column="63" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1532516597196">
+        <mark key="'" line="87" column="53" />
+        <mark key="[" line="204" column="35" />
+        <mark key="]" line="205" column="24" />
+        <mark key="." line="205" column="24" />
+        <mark key="^" line="205" column="24" />
       </file>
       <file name="/ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1529404184001">
         <mark key="[" line="0" column="0" />
@@ -259,7 +259,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532513294270">
+      <file name="/Dummy.txt" timestamp="1532513807602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -316,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="48" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/basis/config/system-default.txt" />
       <jump line="19" column="77" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/menu.guidef" />
       <jump line="93" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="92" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
@@ -416,73 +415,53 @@
       <jump line="397" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="864" column="65" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Trace.java" />
       <jump line="472" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
+      <jump line="87" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fefef</text>
+        <text>CUSTOM</text>
       </register>
       <register name="-" type="4">
-        <text>fefef</text>
+        <text>CUSTOM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRlZEFjdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRlZENyaXRlcmlhID0gdmFsdWVbJ2NyaXRlcmlhJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlRWxlbWVudC5zZXRBdHRyaWJ1dGUoUGxtQXR0cmlidXRlQ29udGFpbmVyLk5BTUUsIG5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsUGFydC5zZXRQYXJ0SGFuZGxlck1vZGUoQXBwbFBhcnQuQ1VTVE9NKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQ3JlYXRlcyBYTUxSRVNVTFQKICAgICAqIEBwYXJhbSBmaXJzdFBhcnRGaWxlbmFtZQogICAgICoKICAgICAqLw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50IGF0dHJpYnV0ZUVsZW1lbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFBsbUF0dHJpYnV0ZUNvbnRhaW5lci5BVFRSSUJVVEUpOwogICAgICAgIGF0dHJpYnV0ZXMuYXBwZW5kQ2hpbGQoYXR0cmlidXRlRWxlbWVudCk7CiAgICAgICAgYXR0cmlidXRlRWxlbWVudC5zZXRBdHRyaWJ1dGUoUGxtQXR0cmlidXRlQ29udGFpbmVyLk5BTUUsICJETVVfSVRFTV9OQU1FIik7CgogICAgICAgIEVsZW1lbnQgdmFsdWUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFBsbUF0dHJpYnV0ZUNvbnRhaW5lci5WQUxVRSk7CiAgICAgICAgYXR0cmlidXRlRWxlbWVudC5hcHBlbmRDaGlsZCh2YWx1ZSk7CiAgICAgICAgdmFsdWUuc2V0VGV4dENvbnRlbnQobWF0RG9jRXF1aXBCdWNrZXQuZ2V0RE1VSXRlbU5hbWUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXR0cmlidXRlczEgPT0gbnVsbCkKICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>private void writeto(Document xml_doc, Path path)
-    {
-        Properties prps = new Properties();
-        prps.put(&quot;indent&quot;, &quot;yes&quot;);
-
-        // XML-parser in UG utf-8 encoding korrekt haendeln kann.
-        String encoding = System.getProperty(&quot;file.encoding&quot;);
-        prps.put(&quot;encoding&quot;, Preferences.stringValue(&quot;plm.xml.metainf.encoding&quot;, encoding));
-
-        Trace.println(&quot;DADI&quot;, Trace.DEBUG, &quot;Write XML file: &quot; + path.toString());
-
-        try
-        {
-            XmlUtils.writeXmlNode(xml_doc, path.toFile(), prps);
-        } catch (TransformerException e)
-        {
-            e.printStackTrace();
-        } catch (IOException e)
-        {
-            e.printStackTrace();
-        }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmZWYiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJndGVmZmUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJvb2xlYW4gZG9jdW1lbnREZXRhaWxzID0gUHJlZmVyZW5jZXMuYm9vbGVhblZhbHVlKCJ5cHNvbWVkLnZlYS5yZW5hbWVyLmdldC5kZXRhaWxzLmRvYyIsIGZhbHNlKTsKLy8gICAgICAgIGlmIChkb2N1bWVudERldGFpbHMpCi8vICAgICAgICAgICAgcmVhZERvY3VtZW50RGV0YWlscyhtYXREb2NFcXVpcEJ1Y2tldExpc3QpOwoKLy8gICAgICAgIExpc3Q8UGxtTWF0ZXJpYWw+IHBsbU1hdGVyaWFsc05vRXJyb3JzID0gbWF0RG9jRXF1aXBCdWNrZXRMaXN0LnN0cmVhbSgpLmZpbHRlcihQbG1PYmplY3Q6Omhhc05vRXJyb3JzKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGxtTWF0ZXJpYWxzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>380</text>
