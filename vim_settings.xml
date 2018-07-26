@@ -152,7 +152,7 @@
       <file name="/fragment.js" timestamp="1529484123395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1532614094739">
+      <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1532614840690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/xml/transform/Transformer.java" timestamp="1532525208968" />
@@ -180,12 +180,12 @@
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1532614637678">
-        <mark key="'" line="45" column="72" />
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="53" column="10" />
-        <mark key="." line="53" column="9" />
-        <mark key="^" line="53" column="7" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1532615847028">
+        <mark key="'" line="88" column="11" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1532367688435">
         <mark key="'" line="28" column="2" />
@@ -201,6 +201,11 @@
       <file name="/alert_criterion [monitoring_dashboard@localhost]" timestamp="1532614076826">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts/defined-alerts.component.ts" timestamp="1532616017352">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/java/util/stream/AbstractTask.java" timestamp="1532550949520">
         <mark key="'" line="315" column="0" />
       </file>
@@ -214,13 +219,13 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532614404390">
-        <mark key="a" line="366" column="0" />
-        <mark key="'" line="192" column="43" />
-        <mark key="[" line="281" column="54" />
-        <mark key="]" line="281" column="54" />
-        <mark key="." line="281" column="54" />
-        <mark key="^" line="281" column="54" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532615766003">
+        <mark key="a" line="362" column="0" />
+        <mark key="'" line="188" column="43" />
+        <mark key="[" line="169" column="81" />
+        <mark key="]" line="169" column="96" />
+        <mark key="^" line="169" column="96" />
+        <mark key="." line="169" column="96" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/ApplPart.java" timestamp="1532096669972">
         <mark key="'" line="114" column="46" />
@@ -279,7 +284,7 @@
       <file name="/ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1529403907136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532614174391">
+      <file name="/dummy.sql" timestamp="1532614840852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/my-date-input.component.ts" timestamp="1532433803589">
@@ -288,7 +293,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532613516714">
+      <file name="/Dummy.txt" timestamp="1532615878159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -317,15 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
-      <jump line="114" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="489" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/PLMProcess.java" />
-      <jump line="890" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="195" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
-      <jump line="769" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="788" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="768" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="723" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="81" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" />
       <jump line="288" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
       <jump line="343" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
@@ -417,61 +413,70 @@
       <jump line="504" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
       <jump line="158" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/plm_initialize.bat" />
       <jump line="20" column="2" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/applications/vea/customize/config/dtype.xml" />
+      <jump line="87" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="129" column="65" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="130" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="131" column="65" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="132" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="25" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="53" column="59" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="54" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="89" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZGlyKGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>settwings</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</text>
+        <text encoding="base64">XDxhbGVydERlZmludGlvbk5ld1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>alertDefinitionId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKG1ldGFEYXRhRmlsdGVyLmFsZXJ0RGVmaW5pdGlvbklkID09PSB1bmRlZmluZWQgJiYgdGhpcy5hbGVydERlZmludGlvbk5ldyAhPT0gbnVsbCkgewogICAgICAgIG1ldGFEYXRhRmlsdGVyLmFsZXJ0RGVmaW5pdGlvbklkID0gdGhpcy5hbGVydERlZmludGlvbk5ldy5pZDsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0IFBMTV9WRUFfRE9DTlVNQkVSPVNBUC9ET0NJRDtTQVAvRE9DTlVNQkVSO0NBRE1ldGFkYXRhL1NBUF9ET0NJRApzZXQgUExNX1ZFQV9ET0NUWVBFPVNBUC9ET0NUWVBFO0NBRE1ldGFkYXRhL1NBUF9ET0NUWVBFCnNldCBQTE1fVkVBX0RPQ1BBUlQ9U0FQL0RPQ1BBUlQ7Q0FETWV0YWRhdGEvU0FQX0RPQ1BBUlQKc2V0IFBMTV9WRUFfRE9DVkVSU0lPTj1TQVAvRE9DVkVSU0lPTjtDQURNZXRhZGF0YS9TQVBfRE9DVkVSU0lPTgpzZXQgUExNX1ZFQV9NQVRFUklBTF9OTz1URVNUL01BVEVSSUFMO0VDVFIvU0FQX01BVEVSSUFMX05PO0RNVS9TQVBfTUFURVJJQUxfTk87U0FQL1NBUF9NQVRFUklBTDtTQVAvU0FQX01BVEVSSUFMX05PO0NBRE1ldGFkYXRhL1NBUF9NQVRFUklBTF9OTwpzZXQgUExNX1ZFQV9FUVVJUE1FTlRfTk89RE1VL1NBUF9FUVVJUE1FTlRfTk87U0FQL1NBUF9FUVVJUE1FTlQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZGlyKGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGdldEZpZWxkRGF0YSh2YWx1ZTogQWxlcnRGaWx0ZXJQb2pvKSB7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHVwZGF0ZWRDcml0ZXJpYSA9IHRoaXMuZXh0cmFjdGVkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHVwZGF0ZWRDcml0ZXJpYSA9IHRoaXMuZXh0cmFjdGVkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoeG1sRGF0YSA9PSBudWxsKQogICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICBkZWxldGVkR3JvdXBJRHM6IHN0cmluZ1tdID0gW107Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2MuZGVsZXRlZEdyb3VwSURzID0gdGhpcy5kZWxldGVkR3JvdXBJRHM7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2MuZGVsZXRlZENhbGN1bGF0ZWRWYWx1ZUlEcyA9IHRoaXMuZGVsZXRlZENhbGN1bGF0ZWRWYWx1ZUlEczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7LCBEVHlwZUNvbnRhaW5lci5nZXRJbnN0KCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlbGV0ZWRHcm91cElEcyA9IFtdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>380</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxhbGVydERlZmludGlvbk5ld1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbGVydERlZmludGlvbk5ld1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -479,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxGb3JtR3JvdXBcPg==</entry>
@@ -499,6 +503,7 @@
         <entry encoding="base64">XDxhZGRlZEFjdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxkaXNwbGF5ZWRBdHRyaWJ1dGVTZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxhbGVydERlZmludGlvbk5ld1w+</entry>
       </history-search>
       <history-cmd>
         <entry>1730</entry>
