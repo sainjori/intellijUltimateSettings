@@ -129,6 +129,12 @@
       <file name="/AngularJS Fragment (add-alert.component.html:3033).js" timestamp="1529578553982">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1532630662710">
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="11" column="66" />
+        <mark key="^" line="11" column="73" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1532084822263">
         <mark key="'" line="16" column="35" />
         <mark key="[" line="2532" column="40" />
@@ -186,6 +192,12 @@
         <mark key="." line="48" column="93" />
         <mark key="^" line="48" column="93" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_2.xml" timestamp="1532630994627">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/menu.guidef" timestamp="1531746583325">
         <mark key="'" line="19" column="77" />
       </file>
@@ -241,7 +253,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532629325018">
+      <file name="/dummy.sql" timestamp="1532630726320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/my-date-input.component.ts" timestamp="1532433803589">
@@ -250,6 +262,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1532630983812" />
       <file name="/Dummy.txt" timestamp="1532624456011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -277,7 +290,7 @@
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1532629671825">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1532630270325">
         <mark key="[" line="90" column="64" />
         <mark key="]" line="90" column="87" />
         <mark key="." line="90" column="87" />
@@ -405,50 +418,50 @@
       <jump line="94" column="77" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChhbGVyRGVmaW5pdGlvbiAhPT0gbnVsbCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>varchar</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>varchar</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jb250cm9sLWxhYmVsIGNvbC1tZC0yIj5pbiB0aGUgbGFzdDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBmb3JtQ29udHJvbE5hbWU9ImR1cmF0aW9uIj4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTIiPgogICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSdmb3JtLWNvbnRyb2wnIGZvcm1Db250cm9sTmFtZT0idGltZWZyYW1lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uICpuZ0Zvcj0ibGV0IGNvbXAgb2YgdGltZWZyYW1lIiBbbmdWYWx1ZV09ImNvbXAiPnt7Y29tcH19PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfN18xLnhtbCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChhbGVyRGVmaW5pdGlvbiAhPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICA8YWRkQ29sdW1uIHRhYmxlTmFtZT0iYWxlcnRfY3JpdGVyaW9uIj4KICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0iZHVyYXRpb24iIG5hbWU9InRpbWVmcmFtZSIgdHlwZT0iRU5VTSgnTUlOVVRFJywgJ0hPVVInLCAnREFZJywgJ01PTlRIJywgJ1lFQVInKSI+CiAgICAgICAgICAgICAgICA8Y29uc3RyYWludHMgbnVsbGFibGU9ImZhbHNlIi8+CiAgICAgICAgICAgIDwvY29sdW1uPgogICAgICAgIDwvYWRkQ29sdW1uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChhbGVyRGVmaW5pdGlvbiAhPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICA8YWRkQ29sdW1uIHRhYmxlTmFtZT0iYWxlcnRfY3JpdGVyaW9uIj4KICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0idmFsdWUiIG5hbWU9ImR1cmF0aW9uIiB0eXBlPSJCSUdJTlQiPgogICAgICAgICAgICAgICAgPGNvbnN0cmFpbnRzIG51bGxhYmxlPSJmYWxzZSIvPgogICAgICAgICAgICA8L2NvbHVtbj4KICAgICAgICA8L2FkZENvbHVtbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YWRkQ29sdW1uIHRhYmxlTmFtZT0iYWxlcnRfZGVmaW5pdGlvbiI+CiAgICAgICAgICAgIDxjb2x1bW4gYWZ0ZXJDb2x1bW49ImRlZmF1bHRfZXhwaXJhdGlvbl9pbnRlcnZhbCIgbmFtZT0idGltZWZyYW1lIiB0eXBlPSJFTlVNKCdNSU5VVEUnLCAnSE9VUicsICdEQVknLCAnTU9OVEgnLCAnWUVBUicpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiLz4KICAgICAgICAgICAgPC9jb2x1bW4+CiAgICAgICAgPC9hZGRDb2x1bW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhbGVyRGVmaW5pdGlvbiAhPT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLXRvZG8tLT4K</text>
+        <text encoding="base64">ICAgIGlmIChhbGVyRGVmaW5pdGlvbiAhPT0gbnVsbCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0nZm9ybS1jb250cm9sJyBmb3JtQ29udHJvbE5hbWU9ImFnZ3JlZ2F0aW9uRmllbGQiPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gKm5nRm9yPSJsZXQgZmllbGQgb2YgaW5kZXhGaWVsZHMiIFtuZ1ZhbHVlXT0iZmllbGQiPnt7ZmllbGR9fTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>380</text>
