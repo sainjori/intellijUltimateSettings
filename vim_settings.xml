@@ -15,12 +15,6 @@
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1532614089459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertsConfigurationEndpoint.java" timestamp="1532688327974">
-        <mark key="'" line="34" column="34" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
-      </file>
       <file name="webpack://./node_modules/@angular/core/esm5/core.js" timestamp="1529492744794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,6 +59,7 @@
       <file name="/__dummy.scss" timestamp="1529412803607">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1532708808895" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/ContainerTool.java" timestamp="1532524760704">
         <mark key="'" line="702" column="2" />
       </file>
@@ -108,12 +103,12 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1529400316936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1532706295732">
-        <mark key="'" line="50" column="44" />
-        <mark key="[" line="150" column="86" />
-        <mark key="]" line="150" column="86" />
-        <mark key="^" line="150" column="86" />
-        <mark key="." line="150" column="86" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1532708643240">
+        <mark key="'" line="48" column="44" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="148" column="86" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/alertCriterionPojo.ts" timestamp="1532705446855">
         <mark key="[" line="43" column="17" />
@@ -201,7 +196,7 @@
         <mark key="^" line="2533" column="41" />
         <mark key="." line="2533" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertCriterionPojo.java" timestamp="1532703447309">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertCriterionPojo.java" timestamp="1532708610512">
         <mark key="'" line="135" column="20" />
       </file>
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
@@ -235,11 +230,10 @@
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertCriterionEndpoint.java" timestamp="1532703606377">
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="54" column="7" />
-        <mark key="." line="54" column="7" />
-        <mark key="^" line="54" column="7" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertCriterionEndpoint.java" timestamp="1532709068851">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.html" timestamp="1532684951294" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/AlertTriggeredDao.java" timestamp="1532691061224">
@@ -251,11 +245,11 @@
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1532370555006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteDesirailizer.java" timestamp="1532706932235">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteDesirailizer.java" timestamp="1532708473313">
+        <mark key="[" line="16" column="73" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
         <mark key="[" line="0" column="0" />
@@ -283,6 +277,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1532630983812" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/JsonDeserializer.java" timestamp="1532708417690">
+        <mark key="'" line="128" column="0" />
+      </file>
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -313,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="143" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="347" column="44" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="60" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
@@ -413,13 +409,14 @@
       <jump line="82" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertCriterionPojo.java" />
       <jump line="135" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertCriterionPojo.java" />
       <jump line="48" column="44" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" />
+      <jump line="128" column="0" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/JsonDeserializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setAggregationField</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZXNlcmlhbGl6YXRpb25GZWF0dXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>setAggregationField</text>
+        <text>AlertCriterionPojo alertCriterionPojo =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZ2dyZWdhdGlvbkZpZWxkXD4=</text>
@@ -428,37 +425,37 @@
         <text encoding="base64">ICAgICAgICBpZiAoZGVzZXJpYWxpemUuZ2V0QWdncmVnYXRpb25GaWVsZCgpLmVxdWFscygiIikpCiAgICAgICAgewogICAgICAgICAgICBkZXNlcmlhbGl6ZS5zZXRBZ2dyZWdhdGlvbkZpZWxkKG51bGwpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBub2RlID0gcC5yZWFkVmFsdWVBc1RyZWUoKTsKICAgICAgICBpZiAobm9kZS5hc1RleHQoKS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIHJldHVybiBub2RlLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZXNlcmlhbGl6YXRpb25GZWF0dXJlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQucHJvYy5hbGVydHMuQWxlcnRDcml0ZURlc2lyYWlsaXplcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBjcml0ZXJpYS5hZ2dyZWdhdGlvblR5cGU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmQuZGIubW9kZWxzLnRhYmxlcy5wb2pvcy5BbGVydENyaXRlcmlvblBvam87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBbGVydENyaXRlcmlvblBvam8gZGVzZXJpYWxpemUgPSBzdXBlci5kZXNlcmlhbGl6ZShwLCBjdHh0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRlbGV0ZUVtcHR5UHJvcGVydHlzKGNyaXRlcmlhKQo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBub2RlID0gcC5yZWFkVmFsdWVBc1RyZWUoKTsKICAgICAgICBpZiAobm9kZS5hc1RleHQoKS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIHJldHVybiBub2RlLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyaXRlcmlhLnZhbHVlLmlkID09PSAnbnVtYmVyJwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmFzZVRyaWdnZXJlZEFsZXJ0RGFvIGJhc2VUcmlnZ2VyZWRBbGVydERhbzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBjcml0ZXJpYS5hZ2dyZWdhdGlvblR5cGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJhc2VUcmlnZ2VyZWRBbGVydERhbyA9IGJhc2VUcmlnZ2VyZWRBbGVydERhbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlbGV0ZUVtcHR5UHJvcGVydHlzKGNyaXRlcmlhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>380</text>
