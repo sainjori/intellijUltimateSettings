@@ -123,6 +123,9 @@
         <mark key="." line="149" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/ObjectReader.java" timestamp="1532710423636" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1532719882683">
+        <mark key="'" line="247" column="28" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/alertCriterionPojo.ts" timestamp="1532705446855">
         <mark key="[" line="43" column="17" />
         <mark key="]" line="43" column="40" />
@@ -212,13 +215,13 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532719704965">
-        <mark key="a" line="382" column="0" />
-        <mark key="'" line="382" column="0" />
-        <mark key="[" line="377" column="44" />
-        <mark key="]" line="377" column="47" />
-        <mark key="." line="377" column="47" />
-        <mark key="^" line="377" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532721022276">
+        <mark key="a" line="402" column="0" />
+        <mark key="'" line="399" column="23" />
+        <mark key="[" line="386" column="74" />
+        <mark key="]" line="386" column="82" />
+        <mark key="." line="386" column="82" />
+        <mark key="^" line="386" column="82" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/ApplPart.java" timestamp="1532096669972">
         <mark key="'" line="114" column="46" />
@@ -326,8 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
-      <jump line="352" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="261" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="329" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="264" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
@@ -426,61 +427,71 @@
       <jump line="947" column="74" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.6/jackson-databind-2.7.6-sources.jar!/com/fasterxml/jackson/databind/ObjectReader.java" />
       <jump line="90" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="362" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="247" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
+      <jump line="396" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>criteria</text>
+        <text>FormGroup</text>
       </register>
       <register name="-" type="4">
-        <text>criteria</text>
+        <text>FormGroup</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</text>
+        <text>fb.array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS5yZW1vdmVDb250cm9sKCdhZ2dyZWdhdGlvbkZpZWxkJykK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1Hcm91cHM6IEZvcm1Hcm91cFtdID0gW107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3JpdGVyaWEuCg==</text>
+        <text encoding="base64">ICAgIGJsYTogRm9ybUdyb3VwW10gPSBbXTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmb3JtR3JvdXA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGlvblR5cGU6IFthbGVydENyaXQuYWdncmVnYXRpb25UeXBlIHx8ICcnXSwKICAgICAgICAgIGFnZ3JlZ2F0aW9uRmllbGQ6IFthbGVydENyaXQuYWdncmVnYXRpb25GaWVsZCB8fCAnJ10sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGFzdENyaXRlcmlhQmVmb3JDaGFuZ2UgPSBjcml0ZXJpYTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYWxlcnREZWZGb3JtLmNvbnRyb2xzWydjcml0ZXJpYSddID0gdGhpcy5fZ2V0QWxlcnRDcml0RXZlbnRMb2dzRm9ybUdyb3VwKHt9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmxhc3RDcml0ZXJpYUJlZm9yQ2hhbmdlKSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc291cmNlOiBbJ0VWRU5UX0xPR1MnXSwKICAgICAgaWQ6IFthbGVydENyaXQuaWQgfHwgJyddLAogICAgICBhbGVydERlZmluaXRpb25JZDogW2FsZXJ0Q3JpdC5hbGVydERlZmluaXRpb25JZCB8fCAnJ10sCiAgICAgIGNvbXBhcmF0b3I6IFthbGVydENyaXQuY29tcGFyYXRvciB8fCAnJ10sCiAgICAgIHZhbHVlOiBbYWxlcnRDcml0LnZhbHVlIHx8ICcnXSwKICAgICAgZHVyYXRpb246IFthbGVydENyaXQuZHVyYXRpb24gfHwgJyddLAogICAgICB0aW1lZnJhbWU6IFthbGVydENyaXQudGltZWZyYW1lIHx8ICcnXQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGFzdENyaXRlcmlhQmVmb3JDaGFuZ2VbY3JpdGVyaWEuZ2V0KCdzb3VyY2UnKS52YWx1ZV0gPSBjcml0ZXJpYTsK</text>
+      <register name="9" type="4">
+        <text>{
+      source: ['EVENT_LOGS'],
+      id: [alertCrit.id || ''],
+      alertDefinitionId: [alertCrit.alertDefinitionId || ''],
+      comparator: [alertCrit.comparator || ''],
+      value: [alertCrit.value || ''],
+      duration: [alertCrit.duration || ''],
+      timeframe: [alertCrit.timeframe || '']
+    }</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</last-search>
+      <last-search>fb.array</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</last-pattern>
+      <last-pattern>fb.array</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -488,7 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRlZEdyb3Vwc1w+</entry>
         <entry encoding="base64">XDxfdXVpZFRvSURtYXBcPg==</entry>
         <entry encoding="base64">XDxhbGVydENyaXRlcmlvbkVuZHBvaW50XD4=</entry>
         <entry>form</entry>
@@ -508,6 +518,7 @@
         <entry encoding="base64">XDxzZXR0aW5nc0tleXNcPg==</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGlvbkZpZWxkXD4=</entry>
         <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
+        <entry>fb.array</entry>
       </history-search>
       <history-cmd>
         <entry>1971</entry>
