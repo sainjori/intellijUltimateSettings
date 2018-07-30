@@ -62,6 +62,9 @@
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="73" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.2.1/elasticsearch-6.2.1-sources.jar!/org/elasticsearch/common/settings/Settings.java" timestamp="1532948341714">
+        <mark key="'" line="634" column="6" />
+      </file>
       <file name="/__dummy.scss" timestamp="1529412803607">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,7 +99,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1532690580860">
         <mark key="'" line="273" column="88" />
       </file>
-      <file name="/kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1532370544921">
+      <file name="/kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1532948144590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EctrStatisticSettingsDAO.java" timestamp="1532688546765" />
@@ -131,6 +134,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1532722554103">
         <mark key="'" line="74" column="9" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" timestamp="1532949141402" />
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1532724802012">
         <mark key="[" line="0" column="0" />
       </file>
@@ -217,12 +221,13 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532944507433">
-        <mark key="a" line="405" column="0" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
-        <mark key="^" line="378" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1532950292196">
+        <mark key="a" line="410" column="0" />
+        <mark key="'" line="378" column="36" />
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="89" column="37" />
+        <mark key="." line="89" column="37" />
+        <mark key="^" line="89" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/ApplPart.java" timestamp="1532096669972">
         <mark key="'" line="114" column="46" />
@@ -253,6 +258,12 @@
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1532370555006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/kibana/KibanaObjectUtil.java" timestamp="1532949633277">
+        <mark key="[" line="327" column="8" />
+        <mark key="]" line="327" column="14" />
+        <mark key="." line="327" column="14" />
+        <mark key="^" line="327" column="14" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteDesirailizer.java" timestamp="1532708473313">
         <mark key="[" line="16" column="73" />
         <mark key="]" line="17" column="7" />
@@ -275,8 +286,17 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/EventLogProxyEndpoint.java" timestamp="1532709664630">
         <mark key="'" line="46" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/elasticsearch/ElasticClientProvider.java" timestamp="1532948298339">
+        <mark key="'" line="80" column="48" />
+      </file>
       <file name="/fragment.ts" timestamp="1529526181806">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ElasticsearchEndpoint.java" timestamp="1532950258870">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="71" column="40" />
       </file>
       <file name="/JavaScript Console" timestamp="1529510203867">
         <mark key="[" line="0" column="0" />
@@ -287,7 +307,7 @@
       <file name="/ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1532687692139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532942643922">
+      <file name="/dummy.sql" timestamp="1532948146915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/my-date-input.component.ts" timestamp="1532433803589">
@@ -324,7 +344,7 @@
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1532945985139">
+      <file name="/fragment.java" timestamp="1532948761710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -335,9 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
-      <jump line="273" column="40" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
-      <jump line="429" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
       <jump line="188" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="397" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="864" column="65" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Trace.java" />
@@ -435,40 +452,43 @@
       <jump line="211" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="32" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="74" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
+      <jump line="80" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/elasticsearch/ElasticClientProvider.java" />
+      <jump line="634" column="6" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.2.1/elasticsearch-6.2.1-sources.jar!/org/elasticsearch/common/settings/Settings.java" />
+      <jump line="373" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGluZGV4VGVtcGxhdGVMb2FkZXIuY3JlYXRlSW5kZXhUZW1wbGF0ZXModHJ1ZSk7Ci8vICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKLy8gICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIlN1Y2Nlc3NmdWxseSByZWxvYWRlZCBpbmRleCB0ZW1wbGF0ZXMiKQovLyAgICAgICAgICAgICAgICAuc2V0U3RhdHVzKCJPSyIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>APPLICATION_JSON</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRlZENhbGN1bGF0ZWRWYWx1ZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuYWRkZWRNZXRhRGF0YUZpbHRlcltrZXldLmRpcnR5KSB7CiAgICAgICAgcmV0dXJuIHRoaXMuYWRkZWRNZXRhRGF0YUZpbHRlcltrZXldLnZhbHVlOwogICAgICB9CiAgICB9KS5maWx0ZXIoZSA9PiBlICE9PSB1bmRlZmluZWQpOwo=</text>
+      <register name="0" type="4">
+        <text>EVENT_LOGS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGluZGV4VGVtcGxhdGVMb2FkZXIuY3JlYXRlSW5kZXhUZW1wbGF0ZXModHJ1ZSk7Ci8vICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKLy8gICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIlN1Y2Nlc3NmdWxseSByZWxvYWRlZCBpbmRleCB0ZW1wbGF0ZXMiKQovLyAgICAgICAgICAgICAgICAuc2V0U3RhdHVzKCJPSyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5pbmRleGVzLnB1c2goZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRlZEFjdGlvbnNba2V5XS52YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0cmluZ1swXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoICgiL2luZGljZXMiKQogICAgQFJlc291cmNlTGFiZWwgKCJnZXRBbGxJbmRpY2VzIikKICAgIEBQcm9kdWNlcyAoe01lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OfSkKICAgIEBSb2xlc0FsbG93ZWQgKCJhZG1pbiIpCiAgICBwdWJsaWMgU3RhdHVzUmVzcG9uc2UgZ2V0SW5kaWNlcygpCiAgICB7CiAgICAgICAgaW5kZXhUZW1wbGF0ZUxvYWRlci5jcmVhdGVJbmRleFRlbXBsYXRlcyh0cnVlKTsKICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKCJTdWNjZXNzZnVsbHkgcmVsb2FkZWQgaW5kZXggdGVtcGxhdGVzIikKICAgICAgICAgICAgICAgIC5zZXRTdGF0dXMoIk9LIik7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICB0aGlzLmFkZGVkTWV0YURhdGFGaWx0ZXJba2V5XS52YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -477,10 +497,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyaXRlcmkudmFsdWUuYWxlcnREZWZpbml0aW9uSWQgPSBuZXdBbGVydERlZmluaXRpb25bMF0uaWQK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hZGRlZEFjdGlvbnNba2V5XS52YWx1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
