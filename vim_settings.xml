@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="A" line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" protocol="file" />
       <mark key="V" line="73" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
@@ -135,7 +135,7 @@
         <mark key="'" line="74" column="9" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" timestamp="1532949141402" />
-      <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1532724802012">
+      <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1532952380227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/operators/filter.js" timestamp="1529418437128">
@@ -307,7 +307,7 @@
       <file name="/ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1532687692139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532948146915">
+      <file name="/dummy.sql" timestamp="1532952380508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/my-date-input.component.ts" timestamp="1532433803589">
@@ -328,11 +328,11 @@
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/plannedTask.java" timestamp="1532682393034">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/plannedTask.java" timestamp="1532952598900">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="21" column="58" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1532724535913">
         <mark key="'" line="79" column="112" />
@@ -458,49 +458,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluZGV4VGVtcGxhdGVMb2FkZXIuY3JlYXRlSW5kZXhUZW1wbGF0ZXModHJ1ZSk7Ci8vICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKLy8gICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIlN1Y2Nlc3NmdWxseSByZWxvYWRlZCBpbmRleCB0ZW1wbGF0ZXMiKQovLyAgICAgICAgICAgICAgICAuc2V0U3RhdHVzKCJPSyIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIC4uLiBvdGhlciBkZWZpbmVkIGFnZ3JlZ2F0aW9ucyAoQVZHLCBTVU0sIENPVU5UKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_JSON</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRlZENhbGN1bGF0ZWRWYWx1ZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>EVENT_LOGS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQWxlcnREZWZpbml0aW9uUmVhZFByb2Nlc3MgYWxlcnREZWZpbml0aW9uUmVhZFByb2Nlc3M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluZGV4VGVtcGxhdGVMb2FkZXIuY3JlYXRlSW5kZXhUZW1wbGF0ZXModHJ1ZSk7Ci8vICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKLy8gICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIlN1Y2Nlc3NmdWxseSByZWxvYWRlZCBpbmRleCB0ZW1wbGF0ZXMiKQovLyAgICAgICAgICAgICAgICAuc2V0U3RhdHVzKCJPSyIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIC4uLiBvdGhlciBkZWZpbmVkIGFnZ3JlZ2F0aW9ucyAoQVZHLCBTVU0sIENPVU5UKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5pbmRleGVzLnB1c2goZSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0cmluZ1swXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAuLi4gb3RoZXIgZGVmaW5lZCBhZ2dyZWdhdGlvbnMgKEFWRywgU1VNLCBDT1VOVCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoICgiL2luZGljZXMiKQogICAgQFJlc291cmNlTGFiZWwgKCJnZXRBbGxJbmRpY2VzIikKICAgIEBQcm9kdWNlcyAoe01lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OfSkKICAgIEBSb2xlc0FsbG93ZWQgKCJhZG1pbiIpCiAgICBwdWJsaWMgU3RhdHVzUmVzcG9uc2UgZ2V0SW5kaWNlcygpCiAgICB7CiAgICAgICAgaW5kZXhUZW1wbGF0ZUxvYWRlci5jcmVhdGVJbmRleFRlbXBsYXRlcyh0cnVlKTsKICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKCJTdWNjZXNzZnVsbHkgcmVsb2FkZWQgaW5kZXggdGVtcGxhdGVzIikKICAgICAgICAgICAgICAgIC5zZXRTdGF0dXMoIk9LIik7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGluZGV4VGVtcGxhdGVMb2FkZXIuY3JlYXRlSW5kZXhUZW1wbGF0ZXModHJ1ZSk7Ci8vICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKLy8gICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIlN1Y2Nlc3NmdWxseSByZWxvYWRlZCBpbmRleCB0ZW1wbGF0ZXMiKQovLyAgICAgICAgICAgICAgICAuc2V0U3RhdHVzKCJPSyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5pbmRleGVzLnB1c2goZSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0cmluZ1swXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRlZEFjdGlvbnNba2V5XS52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoICgiL2luZGljZXMiKQogICAgQFJlc291cmNlTGFiZWwgKCJnZXRBbGxJbmRpY2VzIikKICAgIEBQcm9kdWNlcyAoe01lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OfSkKICAgIEBSb2xlc0FsbG93ZWQgKCJhZG1pbiIpCiAgICBwdWJsaWMgU3RhdHVzUmVzcG9uc2UgZ2V0SW5kaWNlcygpCiAgICB7CiAgICAgICAgaW5kZXhUZW1wbGF0ZUxvYWRlci5jcmVhdGVJbmRleFRlbXBsYXRlcyh0cnVlKTsKICAgICAgICByZXR1cm4gbmV3IFN0YXR1c1Jlc3BvbnNlKCkKICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKCJTdWNjZXNzZnVsbHkgcmVsb2FkZWQgaW5kZXggdGVtcGxhdGVzIikKICAgICAgICAgICAgICAgIC5zZXRTdGF0dXMoIk9LIik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
