@@ -69,8 +69,10 @@
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1533032534354">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1533135841883">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/alert_criterion [monitoring_dashboard@localhost]" timestamp="1533032613610">
         <mark key="[" line="0" column="0" />
@@ -100,12 +102,7 @@
         <mark key="." line="221" column="145" />
         <mark key="^" line="221" column="145" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1533034621938">
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="45" column="61" />
-        <mark key="^" line="45" column="61" />
-        <mark key="." line="45" column="61" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/installer_config/win/monitoring_dashboard/dashboard_config.yml" timestamp="1533136354499" />
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -154,10 +151,10 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1533032313826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533033990168">
+      <file name="/dummy.sql" timestamp="1533135981275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533133991407">
+      <file name="/Dummy.txt" timestamp="1533136421127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -178,12 +175,11 @@
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1532690844459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1533134298713">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1533135598832">
         <mark key="'" line="126" column="14" />
-        <mark key="[" line="245" column="38" />
-        <mark key="]" line="245" column="48" />
-        <mark key="." line="245" column="48" />
-        <mark key="^" line="245" column="48" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
@@ -191,13 +187,13 @@
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1529490093547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1533062444057">
+      <file name="/fragment.java" timestamp="1533135896827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/sap/man/SapConnection.java" timestamp="1533061589960">
         <mark key="'" line="73" column="29" />
       </file>
-      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1529489831143">
+      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1533135808894">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -305,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>minusMonths</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>minusMonths</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>rp1</text>
@@ -317,7 +313,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBEYXRlVGltZS5ub3coKS5taW51c01vbnRocyhNYXRoLnRvSW50RXhhY3QoY3JpdGVyaW9uLmdldER1cmF0aW9uKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQucHJlcGFyZUdldChjcml0ZXJpb24uZ2V0U291cmNlKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -338,16 +334,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRGF0ZVRpbWUubm93KCkubWludXNNaW51dGVzLyogT3IgbWludXMgZGF5cyAvIGhvdXJzIC8gc2Vjb25kcyAqLygvKiB0aW1lIGludGVydmFsICovIDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBET05UX0NSRUFURV9NQVRfU0FQX1NZU1RFTSA9ICJSUDEiOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRGF0ZVRpbWUubm93KCkubWludXNNaW51dGVzLyogT3IgbWludXMgZGF5cyAvIGhvdXJzIC8gc2Vjb25kcyAqLygvKiB0aW1lIGludGVydmFsICovIDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
