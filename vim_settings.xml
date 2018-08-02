@@ -18,8 +18,8 @@
       <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1532690790937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1533230068458">
-        <mark key="'" line="64" column="2" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1533232397136">
+        <mark key="'" line="92" column="27" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="56" column="3" />
       </file>
@@ -65,12 +65,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.html" timestamp="1533228653028" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533230578531">
-        <mark key="'" line="55" column="65" />
-        <mark key="[" line="118" column="18" />
-        <mark key="]" line="118" column="19" />
-        <mark key="." line="118" column="19" />
-        <mark key="^" line="34" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533233551111">
+        <mark key="'" line="34" column="22" />
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+        <mark key="^" line="75" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1533226027575" />
       <file name="/IntelliJ Default" timestamp="1531251087816">
@@ -126,20 +126,21 @@
       <file name="/ectr_calculated_value [monitoring_dashboard@localhost]" timestamp="1532687723866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.html" timestamp="1533229630177" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.html" timestamp="1533232886203" />
       <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1532967615470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1532966158139">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.scss" timestamp="1533231873206" />
       <file name="/HTML File.txt.ft" timestamp="1532547311013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1533204699512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533230307336">
+      <file name="/dummy.sql" timestamp="1533232969337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1533228639657">
@@ -156,11 +157,11 @@
         <mark key="'" line="418" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/querying/elasticsearch/ClientDetailsProcess.java" timestamp="1533218025380" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533230462548">
-        <mark key="[" line="65" column="35" />
-        <mark key="]" line="65" column="59" />
-        <mark key="^" line="65" column="59" />
-        <mark key="." line="65" column="59" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533232943052">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="64" column="65" />
+        <mark key="^" line="64" column="65" />
+        <mark key="." line="64" column="65" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1533138539757">
         <mark key="[" line="0" column="0" />
@@ -196,17 +197,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/sap/man/SapConnection.java" timestamp="1533061589960">
         <mark key="'" line="73" column="29" />
       </file>
-      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1533230307068">
+      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1533232969075">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="84" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="187" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="189" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="235" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="83" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="171" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="177" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="180" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
@@ -301,61 +296,67 @@
       <jump line="405" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="418" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="55" column="65" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
+      <jump line="157" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" />
+      <jump line="58" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" />
+      <jump line="20" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" />
+      <jump line="92" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" />
+      <jump line="108" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
+      <jump line="34" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6ICdNZXNzYWdlJwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>applicationType</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</text>
+        <text encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcm9wZXJ0eU5hbWVNYXA6IHsgW2lkOiBzdHJpbmddOiBzdHJpbmcgfSA9IHsKICAgIGxldmVsOiAnJywKICAgIHRpbWVzdGFtcDogJ1RpbWVzdGFtcCcsCiAgICBhcHBsaWNhdGlvblR5cGU6ICdTeXN0ZW0nLAogICAgY2xpZW50TmFtZTogJ0NsaWVudCcsCiAgICBpbnN0YW5jZU5hbWU6ICdJbnN0YW5jZSBOYW1lJywKICAgIG1lc3NhZ2U6ICdNZXNzYWdlJwogIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6ICdNZXNzYWdlJwo=</text>
+        <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlTmFtZTogJ0luc3RhbmNlIE5hbWUnLAo=</text>
+        <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudE5hbWU6ICdDbGllbnQnLAo=</text>
+        <text encoding="base64">ICAvL2ZhIGZhLWV4Y2xhbWF0aW9uLWNpcmNsZSBlcnJvciBuZy1zdGFyLWluc2VydGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uVHlwZTogJ1N5c3RlbScsCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6ICdNZXNzYWdlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cmlnZ2VyVGFibGVGaWVsZE5hbWVzID0gewogICAgJ2NvbGxlY3RlZEF0JzogJ1RpbWVzdGFtcCcKICB9Owo=</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlTmFtZTogJ0luc3RhbmNlIE5hbWUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdsb2dGaWxlTmFtZSc6ICdGaWxlIE5hbWUnLAo=</text>
+        <text encoding="base64">ICAgIGNsaWVudE5hbWU6ICdDbGllbnQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoNj5MaWNlbnNlIERldGFpbHM6IDwvaDY+CiAgICAgICAgICA8aDY+RW50ZXIgTmV3IExpY2Vuc2U6IDwvaDY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMCI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uVHlwZTogJ1N5c3RlbScsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYgY29sLWxnLTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgdGV4dC13aGl0ZSBiZy1wcmltYXJ5Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSBwYi0wIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYnRuLWdyb3VwIGZsb2F0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tdHJhbnNwYXJlbnQgZHJvcGRvd24tdG9nZ2xlIHAtMCIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+CiAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iaWNvbi1zZXR0aW5ncyI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRyb3Bkb3duLW1lbnUgZHJvcGRvd24tbWVudS1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyI+QWN0aW9uPC9hPgogICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIGhyZWY9IiMiPkFub3RoZXIgYWN0aW9uPC9hPgogICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LXZhbHVlIj45LjgyMzwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2Pk1lbWJlcnMgb25saW5lPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNoYXJ0LXdyYXBwZXIgbXQtMyBteC0zIiBzdHlsZT0iaGVpZ2h0OjcwcHg7Ij48ZGl2IGNsYXNzPSJjaGFydGpzLXNpemUtbW9uaXRvciIgc3R5bGU9InBvc2l0aW9uOiBhYnNvbHV0ZTsgbGVmdDogMHB4OyB0b3A6IDBweDsgcmlnaHQ6IDBweDsgYm90dG9tOiAwcHg7IG92ZXJmbG93OiBoaWRkZW47IHBvaW50ZXItZXZlbnRzOiBub25lOyB2aXNpYmlsaXR5OiBoaWRkZW47IHotaW5kZXg6IC0xOyI+PGRpdiBjbGFzcz0iY2hhcnRqcy1zaXplLW1vbml0b3ItZXhwYW5kIiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7bGVmdDowO3RvcDowO3JpZ2h0OjA7Ym90dG9tOjA7b3ZlcmZsb3c6aGlkZGVuO3BvaW50ZXItZXZlbnRzOm5vbmU7dmlzaWJpbGl0eTpoaWRkZW47ei1pbmRleDotMTsiPjxkaXYgc3R5bGU9InBvc2l0aW9uOmFic29sdXRlO3dpZHRoOjEwMDAwMDBweDtoZWlnaHQ6MTAwMDAwMHB4O2xlZnQ6MDt0b3A6MCI+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iY2hhcnRqcy1zaXplLW1vbml0b3Itc2hyaW5rIiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7bGVmdDowO3RvcDowO3JpZ2h0OjA7Ym90dG9tOjA7b3ZlcmZsb3c6aGlkZGVuO3BvaW50ZXItZXZlbnRzOm5vbmU7dmlzaWJpbGl0eTpoaWRkZW47ei1pbmRleDotMTsiPjxkaXYgc3R5bGU9InBvc2l0aW9uOmFic29sdXRlO3dpZHRoOjIwMCU7aGVpZ2h0OjIwMCU7bGVmdDowOyB0b3A6MCI+PC9kaXY+PC9kaXY+PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxjYW52YXMgaWQ9ImNhcmQtY2hhcnQxIiBjbGFzcz0iY2hhcnQgY2hhcnRqcy1yZW5kZXItbW9uaXRvciIgaGVpZ2h0PSI3MCIgd2lkdGg9IjM1NCIgc3R5bGU9ImRpc3BsYXk6IGJsb2NrOyI+PC9jYW52YXM+CiAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9ImNhcmQtY2hhcnQxLXRvb2x0aXAiIGNsYXNzPSJjaGFydGpzLXRvb2x0aXAgdG9wIiBzdHlsZT0ib3BhY2l0eTogMDsgbGVmdDogMTM2LjU1OHB4OyB0b3A6IDkzLjI3NzhweDsiPjxkaXYgY2xhc3M9InRvb2x0aXAtaGVhZGVyIj48ZGl2IGNsYXNzPSJ0b29sdGlwLWhlYWRlci1pdGVtIj5NYXJjaDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9InRvb2x0aXAtYm9keSI+PGRpdiBjbGFzcz0idG9vbHRpcC1ib2R5LWl0ZW0iPjxzcGFuIGNsYXNzPSJ0b29sdGlwLWJvZHktaXRlbS1jb2xvciIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigwLCAxNjUsIDIyNCk7Ij48L3NwYW4+PHNwYW4gY2xhc3M9InRvb2x0aXAtYm9keS1pdGVtLWxhYmVsIj5NeSBGaXJzdCBkYXRhc2V0PC9zcGFuPjxzcGFuIGNsYXNzPSJ0b29sdGlwLWJvZHktaXRlbS12YWx1ZSI+ODQ8L3NwYW4+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYgY29sLWxnLTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgdGV4dC13aGl0ZSBiZy1pbmZvIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSBwYi0wIj4KICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXRyYW5zcGFyZW50IHAtMCBmbG9hdC1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tbG9jYXRpb24tcGluIj48L2k+CiAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LXZhbHVlIj45LjgyMzwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2Pk1lbWJlcnMgb25saW5lPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNoYXJ0LXdyYXBwZXIgbXQtMyBteC0zIiBzdHlsZT0iaGVpZ2h0OjcwcHg7Ij48ZGl2IGNsYXNzPSJjaGFydGpzLXNpemUtbW9uaXRvciIgc3R5bGU9InBvc2l0aW9uOiBhYnNvbHV0ZTsgbGVmdDogMHB4OyB0b3A6IDBweDsgcmlnaHQ6IDBweDsgYm90dG9tOiAwcHg7IG92ZXJmbG93OiBoaWRkZW47IHBvaW50ZXItZXZlbnRzOiBub25lOyB2aXNpYmlsaXR5OiBoaWRkZW47IHotaW5kZXg6IC0xOyI+PGRpdiBjbGFzcz0iY2hhcnRqcy1zaXplLW1vbml0b3ItZXhwYW5kIiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7bGVmdDowO3RvcDowO3JpZ2h0OjA7Ym90dG9tOjA7b3ZlcmZsb3c6aGlkZGVuO3BvaW50ZXItZXZlbnRzOm5vbmU7dmlzaWJpbGl0eTpoaWRkZW47ei1pbmRleDotMTsiPjxkaXYgc3R5bGU9InBvc2l0aW9uOmFic29sdXRlO3dpZHRoOjEwMDAwMDBweDtoZWlnaHQ6MTAwMDAwMHB4O2xlZnQ6MDt0b3A6MCI+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iY2hhcnRqcy1zaXplLW1vbml0b3Itc2hyaW5rIiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7bGVmdDowO3RvcDowO3JpZ2h0OjA7Ym90dG9tOjA7b3ZlcmZsb3c6aGlkZGVuO3BvaW50ZXItZXZlbnRzOm5vbmU7dmlzaWJpbGl0eTpoaWRkZW47ei1pbmRleDotMTsiPjxkaXYgc3R5bGU9InBvc2l0aW9uOmFic29sdXRlO3dpZHRoOjIwMCU7aGVpZ2h0OjIwMCU7bGVmdDowOyB0b3A6MCI+PC9kaXY+PC9kaXY+PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxjYW52YXMgaWQ9ImNhcmQtY2hhcnQyIiBjbGFzcz0iY2hhcnQgY2hhcnRqcy1yZW5kZXItbW9uaXRvciIgaGVpZ2h0PSI3MCIgd2lkdGg9IjM1NCIgc3R5bGU9ImRpc3BsYXk6IGJsb2NrOyI+PC9jYW52YXM+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICB0cmlnZ2VyVGFibGVGaWVsZE5hbWVzID0gewogICAgJ2NvbGxlY3RlZEF0JzogJ1RpbWVzdGFtcCcKICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYgY29sLWxnLTMiPgo=</text>
+        <text encoding="base64">ICAgICdsb2dGaWxlTmFtZSc6ICdGaWxlIE5hbWUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</last-search>
+      <last-search encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -363,8 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry encoding="base64">XDxzZXR0aW5nc1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxhbGVydERlZlByb2Nlc3NcPg==</entry>
         <entry encoding="base64">XDxzZXR0aW5nc0tleXNcPg==</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGlvbkZpZWxkXD4=</entry>
@@ -383,6 +382,8 @@
         <entry encoding="base64">XDxtaWR3YXlDb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRJbmZvXD4=</entry>
         <entry encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</entry>
+        <entry encoding="base64">XDxsZXZlbFRvSWNvbkNsYXNzTWFwXD4=</entry>
+        <entry encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1971</entry>
