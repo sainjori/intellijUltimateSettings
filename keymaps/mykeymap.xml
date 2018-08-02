@@ -116,7 +116,7 @@
   <action id="SmartStepInto" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
