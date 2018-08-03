@@ -65,14 +65,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.html" timestamp="1533228653028" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533293363437">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="152" column="31" />
-        <mark key="]" line="152" column="32" />
-        <mark key="." line="152" column="32" />
-        <mark key="^" line="131" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533294488362">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="157" column="8" />
+        <mark key="." line="157" column="8" />
+        <mark key="^" line="157" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1533226027575" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1533294400811" />
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,6 +90,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/utils/ECTRClientRequestUtils.java" timestamp="1533223913710" />
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1533294303553">
+        <mark key="'" line="31" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/StartupTask.java" timestamp="1533208904282">
         <mark key="'" line="55" column="70" />
@@ -160,11 +163,11 @@
         <mark key="'" line="418" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/querying/elasticsearch/ClientDetailsProcess.java" timestamp="1533218025380" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533293412337">
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="64" column="65" />
-        <mark key="^" line="64" column="65" />
-        <mark key="." line="64" column="65" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533294417275">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="54" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1533138539757">
         <mark key="[" line="0" column="0" />
@@ -205,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="180" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
-      <jump line="211" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="32" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="74" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="80" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/elasticsearch/ElasticClientProvider.java" />
@@ -305,61 +305,64 @@
       <jump line="108" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
       <jump line="34" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
       <jump line="81" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
+      <jump line="31" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
+      <jump line="21" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
+      <jump line="64" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICdhbGVydERlZmluaXRpb25JZCc6IDEsCg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4K</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>tabDef.tabName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</text>
+        <text encoding="base64">XDxsb2FkaW5nRmluaXNoZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICdhbGVydERlZmluaXRpb25JZCc6IDEsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL2ZhIGZhLWV4Y2xhbWF0aW9uLWNpcmNsZSBlcnJvciBuZy1zdGFyLWluc2VydGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS1bcm91dGVyTGlua3NdPSJyb3V0ZXJMaW5rcyI+PC9hcHAtZXZlbnQtbG9ncy10YWJsZT4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6ICdNZXNzYWdlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCEtLTxhcHAtZXZlbnQtbG9ncy10YWJsZSAjZXZlbnRMb2dzVGFibGUgW2NsaWVudE5hbWVdPSJjbGllbnROYW1lIi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlTmFtZTogJ0luc3RhbmNlIE5hbWUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRhYiBoZWFkaW5nPSJBbGwiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsaWVudE5hbWU6ICdDbGllbnQnLAo=</text>
+        <text encoding="base64">ICAgIGxldCBhbmllcyA9IHJlc3VsdC5lbGVtZW50cy5tYXAoZSA9PiBlLmdyb3VwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uVHlwZTogJ1N5c3RlbScsCg==</text>
+        <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0cmlnZ2VyVGFibGVGaWVsZE5hbWVzID0gewogICAgJ2NvbGxlY3RlZEF0JzogJ1RpbWVzdGFtcCcKICB9Owo=</text>
+        <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdsb2dGaWxlTmFtZSc6ICdGaWxlIE5hbWUnLAo=</text>
+        <text encoding="base64">ICAvL2ZhIGZhLWV4Y2xhbWF0aW9uLWNpcmNsZSBlcnJvciBuZy1zdGFyLWluc2VydGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxsb2FkaW5nRmluaXNoZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkaW5nRmluaXNoZWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -367,7 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGVydERlZlByb2Nlc3NcPg==</entry>
         <entry encoding="base64">XDxzZXR0aW5nc0tleXNcPg==</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGlvbkZpZWxkXD4=</entry>
         <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
@@ -387,6 +389,7 @@
         <entry encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</entry>
         <entry encoding="base64">XDxsZXZlbFRvSWNvbkNsYXNzTWFwXD4=</entry>
         <entry encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</entry>
+        <entry encoding="base64">XDxsb2FkaW5nRmluaXNoZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1971</entry>
