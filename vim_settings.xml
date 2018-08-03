@@ -65,12 +65,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.html" timestamp="1533228653028" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533233551111">
-        <mark key="'" line="34" column="22" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="75" column="19" />
-        <mark key="." line="75" column="19" />
-        <mark key="^" line="75" column="19" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533293363437">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="152" column="31" />
+        <mark key="]" line="152" column="32" />
+        <mark key="." line="152" column="32" />
+        <mark key="^" line="131" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1533226027575" />
       <file name="/IntelliJ Default" timestamp="1531251087816">
@@ -147,6 +147,9 @@
         <mark key="'" line="32" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/model/pagingResult.ts" timestamp="1533228306501" />
+      <file name="/Dummy.txt" timestamp="1533292329077">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1532967808466">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,7 +160,7 @@
         <mark key="'" line="418" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/querying/elasticsearch/ClientDetailsProcess.java" timestamp="1533218025380" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533232943052">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533293412337">
         <mark key="[" line="65" column="42" />
         <mark key="]" line="64" column="65" />
         <mark key="^" line="64" column="65" />
@@ -202,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="177" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="180" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
       <jump line="211" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" />
@@ -302,19 +304,20 @@
       <jump line="92" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" />
       <jump line="108" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
       <jump line="34" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
+      <jump line="81" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICdhbGVydERlZmluaXRpb25JZCc6IDEsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXZlbENlbGxUZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9wZXJ0eU5hbWVNYXA6IHsgW2lkOiBzdHJpbmddOiBzdHJpbmcgfSA9IHsKICAgIGxldmVsOiAnJywKICAgIHRpbWVzdGFtcDogJ1RpbWVzdGFtcCcsCiAgICBhcHBsaWNhdGlvblR5cGU6ICdTeXN0ZW0nLAogICAgY2xpZW50TmFtZTogJ0NsaWVudCcsCiAgICBpbnN0YW5jZU5hbWU6ICdJbnN0YW5jZSBOYW1lJywKICAgIG1lc3NhZ2U6ICdNZXNzYWdlJwogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdhbGVydERlZmluaXRpb25JZCc6IDEsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZGlzYWJsZWQ6IChldmVudExvZykgPT4gIWV2ZW50TG9nLmxvZ0ZpbGVJZCwK</text>
