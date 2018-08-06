@@ -94,11 +94,12 @@
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1533578316696">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1533579604331">
         <mark key="'" line="100" column="6" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="." line="407" column="0" />
+        <mark key="[" line="348" column="6" />
+        <mark key="]" line="348" column="20" />
+        <mark key="." line="348" column="20" />
+        <mark key="^" line="348" column="20" />
       </file>
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
@@ -156,7 +157,7 @@
       <file name="/dummy.sql" timestamp="1533573401109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533565996473">
+      <file name="/Dummy.txt" timestamp="1533579709607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" timestamp="1533576511836" />
@@ -328,11 +329,11 @@
       <jump line="100" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4RmllbGRzLnNoaWZ0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>alertFilterDataalertFilterData</text>
       </register>
       <register name="-" type="4">
-        <text>pop</text>
+        <text>alertFilterDataalertFilterData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzXD4=</text>
