@@ -56,17 +56,19 @@
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/core/src/linker/query_list.d.ts" timestamp="1533551281967" />
       <file name="/ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1532687705074">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1533553728312" />
       <file name="webpack://./node_modules/rxjs/_esm5/operators/mergeMap.js" timestamp="1529418438793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533550593858">
-        <mark key="'" line="41" column="3" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1533554109483">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="136" column="55" />
       </file>
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
@@ -158,7 +160,7 @@
         <mark key="^" line="15" column="65" />
         <mark key="." line="15" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533319862603">
+      <file name="/Dummy.txt" timestamp="1533553857205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1532967808466">
@@ -167,17 +169,17 @@
       <file name="webpack://./node_modules/zone.js/dist/zone.js" timestamp="1529487124816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1533550961525">
-        <mark key="'" line="395" column="36" />
-        <mark key="[" line="160" column="2" />
-        <mark key="]" line="160" column="8" />
-        <mark key="." line="160" column="8" />
-        <mark key="^" line="160" column="8" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1533552783012">
+        <mark key="'" line="63" column="2" />
+        <mark key="[" line="441" column="29" />
+        <mark key="]" line="441" column="44" />
+        <mark key="." line="441" column="44" />
+        <mark key="^" line="441" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533549680059">
-        <mark key="[" line="60" column="53" />
-        <mark key="]" line="60" column="57" />
-        <mark key="." line="60" column="57" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1533552430440">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="60" column="57" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1533546699769" />
@@ -213,11 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="102" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="1192" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="104" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="205" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="278" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
       <jump line="282" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
       <jump line="290" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
       <jump line="381" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.0/sapbase-5.1.12.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
@@ -313,61 +310,66 @@
       <jump line="308" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="392" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="393" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="58" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="155" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="190" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="63" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="174" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>additionalFilter</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhVGFibGVcPg==</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHRoaXMuZ3JvdXBzWzFdLnJlcGxhY2UoJyAnLCAnXycpCg==</text>
+        <text encoding="base64">ICAgIGR5bmFtaWNEYXRhVGFibGVDb21wb25lbnQuc2V0QWRkaXRpb25hbEZpbHRlcihhZGRpdGlvbmFsRmlsdGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YVRhYmxlcy5maWx0ZXIoZGF0YVRhYmxlID0+IHsKICAgICAgZGF0YVRhYmxlLm5hCiAgICB9KQo=</text>
+        <text encoding="base64">CiAgICAKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHRoaXMuZ3JvdXBzWzJdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHRoaXMuZ3JvdXBzWzNdCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHRoaXMuYWRkaXRpb25hbEZpbHRlciA9IHsKICAgICAgICBfdHlwZTogJ09SJywKICAgICAgICBzdWJleHByczogdGhpcy5nZXRTdWJFeHByZXNzaW9ucygpCiAgICAgIH07</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBtYXA6IENvbmRpdGlvbkZpbHRlcltdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5rZXlzKEFsZXJ0RGVmaW5pdGlvbkdyb3VwKS5mb3JFYWNoKGUgPT4gewogICAgICB0aGlzLmdyb3Vwcy5wdXNoKGUpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCiAgICBbCiAgICAgICAgICB7CiAgICAgICAgICAgIF90eXBlOiAnQ09ORCcsCiAgICAgICAgICAgIGZpZWxkOiAnZ3JvdXAnLAogICAgICAgICAgICBvcGVyYW5kOiAnPScsCiAgICAgICAgICAgIHZhbHVlOiB0aGlzLmdyb3Vwc1sxXS5yZXBsYWNlKCcgJywgJ18nKQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgICAgICAgZmllbGQ6ICdncm91cCcsCiAgICAgICAgICAgIG9wZXJhbmQ6ICc9JywKICAgICAgICAgICAgdmFsdWU6IHRoaXMuZ3JvdXBzWzJdLnJlcGxhY2UoJyAnLCAnXycpCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBfdHlwZTogJ0NPTkQnLAogICAgICAgICAgICBmaWVsZDogJ2dyb3VwJywKICAgICAgICAgICAgb3BlcmFuZDogJz0nLAogICAgICAgICAgICB2YWx1ZTogdGhpcy5ncm91cHNbM10ucmVwbGFjZSgnICcsICdfJykKICAgICAgICAgIH0KICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhVGFibGVcPg==</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhVGFibGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -375,8 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry encoding="base64">XDxyZWFkRGF0YUNvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxBRERJVElPTkFMX0NMQVNTSUZJQ0FUSU9OXD4=</entry>
         <entry encoding="base64">XDxtQ2hBZHZNYXRGaWVsZHNcPg==</entry>
         <entry encoding="base64">XDxhZHZNYXRGaWVsZHNcPg==</entry>
@@ -395,6 +395,8 @@
         <entry>groups</entry>
         <entry>group</entry>
         <entry encoding="base64">XDxkYXRhVGFibGVcPg==</entry>
+        <entry encoding="base64">XDxfYWRkaXRpb25hbEZpbHRlclw+</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1971</entry>
