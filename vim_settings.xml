@@ -63,7 +63,12 @@
       <file name="/IntelliJ Default" timestamp="1531251087816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiInterPretMatNumber.java" timestamp="1533657775120" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiInterPretMatNumber.java" timestamp="1533659162699">
+        <mark key="[" line="79" column="117" />
+        <mark key="]" line="79" column="124" />
+        <mark key="." line="79" column="124" />
+        <mark key="^" line="79" column="124" />
+      </file>
       <file name="/alert_criterion [monitoring_dashboard@localhost]" timestamp="1533566148785">
         <mark key="[" line="0" column="0" />
       </file>
@@ -309,54 +314,50 @@
       <jump line="70" column="11" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/java/io/InputStreamReader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWxlcnRDcml0ZXJpb25Qb2pvIG9iaiA9IG5ldyBBbGVydENyaXRlcmlvblBvam8oKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>InputStreamReader inputStreamReader =</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZ2dyZWdhdGlvblR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQWxlcnRDcml0ZXJpb25BZ2dyZWdhdGlvblR5cGUgYWdncmVnYXRpb25UeXBlOwo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50KCJEQURJIFtJTkZPXSIsIFRyYWNlLkRFQlVHLCBmb3JtYXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWxlcnRDcml0ZXJpb25Qb2pvIG9iaiA9IG5ldyBBbGVydENyaXRlcmlvblBvam8oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVhZGVyIGlucHV0U3RyZWFtUmVhZGVyID0gbmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbG1NYXRlcmlhbC5zZXROdW1iZXIobnVtYmVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIgaW4gPSBuZXcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWxlcnRDcml0ZXJpb25Qb2pvIG9iaiA9IG5ldyBBbGVydENyaXRlcmlvblBvam8oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIgaW5wdXRTdHJlYW1SZWFkZXIgPSBuZXcgSW5wdXRTdHJlYW1SZWFkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVhZGVyIGlucHV0U3RyZWFtUmVhZGVyID0gbmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQWdncmVnYXRpb24uaW52b2tlKGFsZXJ0Q3JpdGVyaWFDaGVja2VyLCBmZWZlZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIgaW4gPSBuZXcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVmZWYuc2V0QWdncmVnYXRpb25UeXBlKEFsZXJ0Q3JpdGVyaW9uQWdncmVnYXRpb25UeXBlLkNPVU5UKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIgaW5wdXRTdHJlYW1SZWFkZXIgPSBuZXcgSW5wdXRTdHJlYW1SZWFkZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVmZWYgZmVmZWYgPSBuZXcgZmVmZWYoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQWdncmVnYXRpb24uaW52b2tlKGFsZXJ0Q3JpdGVyaWFDaGVja2VyLCBmZWZlZik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>@Override
-    public String getAggregationType()
-    {
-        return aggregationType;
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmVmZWYuc2V0QWdncmVnYXRpb25UeXBlKEFsZXJ0Q3JpdGVyaW9uQWdncmVnYXRpb25UeXBlLkNPVU5UKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVmZWYuc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVmZWYgZmVmZWYgPSBuZXcgZmVmZWYoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
