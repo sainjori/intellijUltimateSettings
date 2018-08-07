@@ -86,6 +86,9 @@
       <file name="/__dummy.scss" timestamp="1529412803607">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertCriterionPojo.java" timestamp="1533637504917">
+        <mark key="'" line="341" column="48" />
+      </file>
       <file name="webpack://./node_modules/@angular/common/esm5/http.js" timestamp="1529484449796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,11 +186,11 @@
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1533568722719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1533573972007">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-        <mark key="^" line="156" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1533638699541">
+        <mark key="[" line="327" column="29" />
+        <mark key="]" line="328" column="71" />
+        <mark key="." line="328" column="71" />
+        <mark key="^" line="328" column="71" />
       </file>
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
@@ -214,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
       <jump line="41" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/dashboard_connector/DashboardApiClientProvider.java" />
       <jump line="44" column="58" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/dashboard_connector/DashboardApiClientProvider.java" />
       <jump line="46" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/dashboard_connector/DashboardApiClientProvider.java" />
@@ -314,52 +316,53 @@
       <jump line="103" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="401" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="100" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="341" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertCriterionPojo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>alertFilterDataalertFilterData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZvcm1hdCArICJbIithbGVydERlZmluaXRpb24uZ2V0QWxlcnREZWZpbml0aW9uUG9qbygpLmdldEdyb3VwKCkrIl0iOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>alertFilterDataalertFilterData</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoICgiL2luZGljZXMiKQogICAgQFJlc291cmNlTGFiZWwgKCJnZXRBbGxJbmRpY2VzIikKICAgIEBQcm9kdWNlcyAoe01lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OfSkKICAgIEBSb2xlc0FsbG93ZWQgKCJhZG1pbiIpCiAgICBwdWJsaWMgU3RyaW5nW10gZ2V0SW5kaWNlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZvcm1hdCArICJbIithbGVydERlZmluaXRpb24uZ2V0QWxlcnREZWZpbml0aW9uUG9qbygpLmdldEdyb3VwKCkrIl0iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4RmllbGRzLnNoaWZ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluZGV4RmllbGRzLnB1c2goW3Jlc3VsdF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIFtuZ1ZhbHVlXT0ibnVsbCI+PC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tZXRhRmlsdGVyRmllbGRzID0gdGhpcy5tZXRhRmlsdGVyRmllbGRzSW5kZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gImluIHRoZSBsYXN0IFllYXIiOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWxhc3RpY1NlYXJjaEVuZHBvaW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZWZyYW1lLgo=</text>
       </register>
       <register name=":" type="4">
         <text>944</text>
