@@ -41,6 +41,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -88,6 +89,10 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
