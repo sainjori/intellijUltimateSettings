@@ -30,7 +30,7 @@
       <file name="/a.dummy" timestamp="1533133996307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/gen/PlmProcessDocumentChange.java" timestamp="1533735390046" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/gen/PlmProcessDocumentChange.java" timestamp="1533736383709" />
       <file name="webpack://./node_modules/@angular/platform-browser/esm5/platform-browser.js" timestamp="1529488657958">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,6 +110,7 @@
         <mark key="." line="22" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1533733131185" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/modules/plantmaintenance/BasePlantMaintenanceProcess.java" timestamp="1533736555931" />
       <file name="/DATABASECHANGELOG [monitoring_dashboard@vm-grafana.dscsag.net]" timestamp="1529068801183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,6 +126,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/psm/brobj/BrPsmNode.java" timestamp="1533736571139" />
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,17 +213,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/omf/OmfDeereSaveMatCostDataMulti.java" timestamp="1533660880029" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1533736124729">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/cls/ProcessObjectClassifSetSingle.java" timestamp="1533736638222" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1533737652576">
         <mark key="'" line="106" column="12" />
-        <mark key="[" line="239" column="79" />
-        <mark key="]" line="239" column="79" />
-        <mark key="." line="239" column="79" />
-        <mark key="^" line="239" column="79" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+        <mark key="^" line="244" column="32" />
       </file>
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1533303871028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1533733952989">
+      <file name="/fragment.java" timestamp="1533737051874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -335,49 +338,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGxtVmFsdWVBc3NpZ25tZW50ICE9IG51bGwgJiYgcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMSkKICAgICAgICB7CiAgICAgICAgICBQbG1WYWx1ZSBwbG1WYWx1ZSA9IG5ldyBQbG1WYWx1ZSgiIiwgIiIpOwogICAgICAgICAgcGxtVmFsdWUuc2V0RGVsZXRlZCh0cnVlKTsKICAgICAgICAgIHBsbVZhbHVlQXNzaWdubWVudC5zZXRWYWx1ZUF0KDAsIHBsbVZhbHVlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUuc2V0RmF0aGVyVmFsdWUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>assignValue(plmObject.getPlmCharacteristic().getName(), &quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTl9DSEFSQUNURVJJU1RJQ1ZBTFVFU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEuYWRkT2JqZWN0KFBvcERvY0NoYW5nZU11bHRpLklOX0NIQU5HRV9DTEFTU0FMTE9DQVRJT05TLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbi5hc3NpZ25WYWx1ZShwbG1PYmplY3QuZ2V0UGxtQ2hhcmFjdGVyaXN0aWMoKS5nZXROYW1lKCksICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGxtVmFsdWVBc3NpZ25tZW50ICE9IG51bGwgJiYgcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMSkKICAgICAgICB7CiAgICAgICAgICBQbG1WYWx1ZSBwbG1WYWx1ZSA9IG5ldyBQbG1WYWx1ZSgiIiwgIiIpOwogICAgICAgICAgcGxtVmFsdWUuc2V0RGVsZXRlZCh0cnVlKTsKICAgICAgICAgIHBsbVZhbHVlQXNzaWdubWVudC5zZXRWYWx1ZUF0KDAsIHBsbVZhbHVlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUuc2V0RmF0aGVyVmFsdWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1WYWx1ZUFzc2lnbm1lbnQgcGxtVmFsdWVBc3NpZ25tZW50ID0gYWxsb2NhdGlvbi5nZXRQbG1WYWx1ZUFzc2lnbm1lbnQoZS5nZXRWYWx1ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbG9jYXRpb24uc2V0TW9kaWZpZWQodHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbVZhbHVlLnNldEFzc2lnbmVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbi5zZXRNb2RpZmllZCh0cnVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEuYWRkT2JqZWN0KFBvcERvY0NoYW5nZU11bHRpLklOX0RPQ1VNRU5UUywgQXJyYXlzLmFzTGlzdChkb2N1bWVudCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGxtVmFsdWVBc3NpZ25tZW50ICE9IG51bGwgJiYgcGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlc0NvdW50KCkgPT0gMSkKICAgICAgICB7CiAgICAgICAgICBQbG1WYWx1ZSBwbG1WYWx1ZSA9IG5ldyBQbG1WYWx1ZSgiIiwgIiIpOwogICAgICAgICAgcGxtVmFsdWUuc2V0RGVsZXRlZCh0cnVlKTsKICAgICAgICAgIHBsbVZhbHVlQXNzaWdubWVudC5zZXRWYWx1ZUF0KDAsIHBsbVZhbHVlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbVZhbHVlLmFzCg==</text>
+        <text encoding="base64">ICAgICAgICBQbG1WYWx1ZUFzc2lnbm1lbnQgcGxtVmFsdWVBc3NpZ25tZW50ID0gYWxsb2NhdGlvbi5nZXRQbG1WYWx1ZUFzc2lnbm1lbnQoZS5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbVZhbHVlQXNzaWdubWVudC5hCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsbVZhbHVlLnNldEFzc2lnbmVkKHRydWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW4K</text>
+        <text encoding="base64">ICAgIGRhdGEuYWRkT2JqZWN0KFBvcERvY0NoYW5nZU11bHRpLklOX0RPQ1VNRU5UUywgQXJyYXlzLmFzTGlzdChkb2N1bWVudCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsbVZhbHVlLmFzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsbVZhbHVlQXNzaWdubWVudC5hCg==</text>
       </register>
       <register name=":" type="4">
         <text>1595</text>
