@@ -51,7 +51,7 @@
       <file name="webpack://./node_modules/rxjs/_esm5/InnerSubscriber.js" timestamp="1529418440017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1533725190386">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1533730152939">
         <mark key="'" line="875" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinition.java" timestamp="1533644886193">
@@ -112,6 +112,12 @@
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1533566448919">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1533731369807">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="42" />
+      </file>
       <file name="/server [monitoring_dashboard@localhost]" timestamp="1529401513013">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,7 +169,7 @@
       <file name="/dummy.sql" timestamp="1533645412085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533720833630">
+      <file name="/Dummy.txt" timestamp="1533727160727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/ApplPart.java" timestamp="1533720646243">
@@ -208,13 +214,6 @@
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1533568722719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1533648355248">
-        <mark key="'" line="243" column="21" />
-        <mark key="[" line="300" column="64" />
-        <mark key="]" line="300" column="63" />
-        <mark key="." line="300" column="63" />
-        <mark key="^" line="300" column="63" />
-      </file>
       <file name="webpack://./node_modules/rxjs/_esm5/operators/map.js" timestamp="1529484425755">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,7 +223,7 @@
         <mark key="." line="122" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/omf/OmfDeereSaveMatCostDataMulti.java" timestamp="1533660880029" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1533726570194">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1533730819289">
         <mark key="'" line="103" column="12" />
         <mark key="[" line="115" column="112" />
         <mark key="]" line="115" column="115" />
@@ -347,11 +346,11 @@
       <jump line="21" column="38" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/customize/config/attributes-to-sap.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxESVJfQ0xTIGNoYXJhY3RlcmlzdGljPSJOQ19NQVRFUklBTE5VTU1FUiIgY2xhc3N0eXBlPSIwMTciIGNsYXNzPSJTQ0hJWlpFTF9ESVpaRUxfQ0wiPgogICAgICA8QVBQTF9BVFRSSUJVVEUgbmFtZT0iTkNfTUFURVJJQUxOVU1NRVIiLz4KICAgIDwvRElSX0NMUz4K</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>MODELDATA3</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZGNfY2hlY2tlZGluXD4=</text>
