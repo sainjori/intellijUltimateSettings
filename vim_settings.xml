@@ -92,7 +92,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1533735886644">
         <mark key="'" line="650" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1533734984846" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1533743806180">
+        <mark key="'" line="476" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmObject.java" timestamp="1533739074920" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1533733131185" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/modules/plantmaintenance/BasePlantMaintenanceProcess.java" timestamp="1533736555931" />
@@ -107,11 +109,14 @@
       <file name="/log_file [monitoring_dashboard@localhost]" timestamp="1533566448919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1533732282399">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/addons/new_task_config/customize/config/default.txt" timestamp="1533744885885">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="42" />
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="42" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/customize/config/default.txt" timestamp="1533745032842">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/utils/KsbClassificationUtils.java" timestamp="1533739183851" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/psm/brobj/BrPsmNode.java" timestamp="1533736571139" />
@@ -149,7 +154,7 @@
       <file name="/dummy.sql" timestamp="1533645412085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533738750810">
+      <file name="/Dummy.txt" timestamp="1533746589534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/sess/ApplPart.java" timestamp="1533720646243">
@@ -166,6 +171,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1533661266958" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/customize/config/attributes-to-sap.xml" timestamp="1533744888605">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1533643666983">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,17 +193,17 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/omf/OmfDeereSaveMatCostDataMulti.java" timestamp="1533660880029" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/cls/ProcessObjectClassifSetSingle.java" timestamp="1533736638222" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1533741086427">
-        <mark key="'" line="106" column="12" />
-        <mark key="[" line="242" column="39" />
-        <mark key="]" line="243" column="32" />
-        <mark key="." line="243" column="32" />
-        <mark key="^" line="243" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" timestamp="1533746748007">
+        <mark key="'" line="411" column="23" />
+        <mark key="[" line="125" column="112" />
+        <mark key="]" line="125" column="112" />
+        <mark key="." line="125" column="112" />
+        <mark key="^" line="189" column="27" />
       </file>
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1533303871028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1533739730886">
+      <file name="/fragment.java" timestamp="1533741724530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -203,13 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
-      <jump line="252" column="30" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DAOImpl.java" />
-      <jump line="49" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" />
-      <jump line="61" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/EventLogEndpoint.java" />
-      <jump line="149" column="15" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Record.java" />
-      <jump line="8881" column="6" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DSLContext.java" />
-      <jump line="390" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="96" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="388" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="103" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
@@ -303,61 +307,68 @@
       <jump line="274" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocumentNewRegisterVersionMulti.java" />
       <jump line="236" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocumentNewRegisterVersionMulti.java" />
       <jump line="343" column="60" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocumentNewRegisterVersionMulti.java" />
+      <jump line="130" column="92" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="476" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="22" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.2/customize/config/default.txt" />
+      <jump line="187" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="426" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="98" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
+      <jump line="411" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/dadi/DadiDocumentSaveBefore.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yQ3JlYXRlQXNzaWdubWVudC5nZXRWYWx1ZXNDb3VudCgpID09PSAxLmlmICAK</text>
+      <register name="&quot;" type="4">
+        <text>;DAT</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>;DAT</text>
       </register>
       <register name="/" type="4">
-        <text>setdeleted</text>
+        <text>group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb2NhdGlvbi5hc3NpZ25WYWx1ZShwbG1PYmplY3QuZ2V0UGxtQ2hhcmFjdGVyaXN0aWMoKS5nZXROYW1lKCksICIiKTsK</text>
+        <text encoding="base64">ICAgIDxESVJfQ0xTIGNoYXJhY3RlcmlzdGljPSJOQ19NQVRFUklBTE5VTU1FUiIgY2xhc3N0eXBlPSIwMTciIGNsYXNzPSJTQ0hJWlpFTF9ESVpaRUxfQ0wiPgogICAgICA8QVBQTF9BVFRSSUJVVEUgbmFtZT0iTkNfTUFURVJJQUxOVU1NRVIiLz4KICAgIDwvRElSX0NMUz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yQ3JlYXRlQXNzaWdubWVudC5nZXRWYWx1ZXNDb3VudCgpID09PSAxLmlmICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUcmEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGlnbm9yZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgUGxtVmFsdWUgcGxtdmFsdWUgPSBuZXcgUGxtVmFsdWUoIiIsICIiKTsKLy8gICAgICAgICAgcGxtdmFsdWUuc2V0QXNzaWduZWQodHJ1ZSk7CiAgICAgICAgICBvckNyZWF0ZUFzc2lnbm1lbnQuc2V0VmFsdWUocGxtVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBsbVZhbHVlIHBsbVZhbHVlID0gbmV3IFBsbVZhbHVlKCk7CiAgICAgICAgICBwbG1WYWx1ZS5zZXRBc3NpZ25lZCh0cnVlKTsKICAgICAgICAgIAoKICAgICAgICAgIHBsbVZhbHVlLnZhbHVlTmV1dHJhbCA9ICIiOwogICAgICAgICAgcGxtVmFsdWUudmFsdWVDaGFyID0gIiI7CiAgICAgICAgICBwbG1WYWx1ZS52YWx1ZSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBub3RGb3VuZEdyb3VwLmFkZChncm91cE5hbWVQcm9wZXJ0eU5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlQXNzaWdubWVudC5zZXRWYWx1ZShwbG1WYWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yQ3JlYXRlQXNzaWdubWVudC5zZXRWYWx1ZUF0KDAsIG51bGwpOwo=</text>
+        <text encoding="base64">Ci8vICAgIFBsbVByb2Nlc3NEb2N1bWVudFNpbXBsZUNoYW5nZSBwbG1Qcm9jZXNzRG9jdW1lbnRTaW1wbGVDaGFuZ2UgPSBuZXcgUGxtUHJvY2Vzc0RvY3VtZW50U2ltcGxlQ2hhbmdlKCk7Ci8vICAgIERhdGFDb250YWluZXIgZGF0YSA9IG5ldyBEYXRhQ29udGFpbmVyKCk7Ci8vICAgIEFycmF5TGlzdDxNYXA8U3RyaW5nLCA/Pj4gb2JqID0gbmV3IEFycmF5TGlzdDw+KCk7Ci8vICAgIEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+IGUgPSBuZXcgSGFzaE1hcDw+KCk7Ci8vICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPiBzdHJpbmdTdHJpbmdFbnRyeSA6IG5vdEZvdW5kR3JvdXApCi8vICAgIHsKLy8gICAgICAgIGUucHV0KHN0cmluZ1N0cmluZ0VudHJ5LmdldFZhbHVlKCksIG51bGwpOwovLyAgICB9Ci8vICAgIG9iai5hZGQoZSk7Ci8vCi8vICAgIGRhdGEuYWRkT2JqZWN0KFBsbVByb2Nlc3NEb2N1bWVudFNpbXBsZUNoYW5nZS5JTl9DSEFSQUNURVJJU1RJQ1ZBTFVFUywgb2JqKTsKLy8gICAgZGF0YS5hZGRPYmplY3QoUGxtUHJvY2Vzc0RvY3VtZW50U2ltcGxlQ2hhbmdlLklOX0RPQ1VNRU5ULCBkb2N1bWVudCk7Ci8vICAgIHBsbVByb2Nlc3NEb2N1bWVudFNpbXBsZUNoYW5nZS5zZXREYXRhKGRhdGEpOwovLyAgICB0cnkKLy8gICAgewovLyAgICAgIHBsbVByb2Nlc3NEb2N1bWVudFNpbXBsZUNoYW5nZS5leGVjdXRlKCk7Ci8vICAgIH0gY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZTEpCi8vICAgIHsKLy8gICAgICBlMS5wcmludFN0YWNrVHJhY2UoKTsKLy8gICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbXZhbHVlLnNldEFzc2lnbmVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yQ3JlYXRlQXNzaWdubWVudC5zZXRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0cyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbXZhbHVlLnNldEFzc2lnbmVkKHRydWUpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgYWxsb2NhdGlvbi5zZXRNb2RpZmllZCh0cnVlKTsKLy8gICAgICAgICAgYWxsb2NhdGlvbi5hc3NpZ25WYWx1ZShwbG1PYmplY3QuZ2V0UGxtQ2hhcmFjdGVyaXN0aWMoKS5nZXROYW1lKCksIHBsbXZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1595</text>
       </register>
     </registers>
     <search>
-      <last-search>setdeleted</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>setdeleted</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -365,11 +376,8 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJhYmxlXD4=</entry>
-        <entry>filter_data</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsRmlsdGVyXD4=</entry>
         <entry>groups</entry>
-        <entry>group</entry>
         <entry encoding="base64">XDxkYXRhVGFibGVcPg==</entry>
         <entry encoding="base64">XDxfYWRkaXRpb25hbEZpbHRlclw+</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
@@ -385,6 +393,9 @@
         <entry encoding="base64">XDxJTl9DSEFSQUNURVJJU1RJQ1ZBTFVFU1w+</entry>
         <entry encoding="base64">XDxjaGFuZ2VDbGFzc2lmaWNhdGlvblw+</entry>
         <entry>setdeleted</entry>
+        <entry encoding="base64">XDxJTl9DSEFOR0VfQ0hBUlZBTFVFU1w+</entry>
+        <entry encoding="base64">XDxjaGFuZ2VDaGFyVmFsdWVzXD4=</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>V</entry>
