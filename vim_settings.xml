@@ -27,7 +27,7 @@
       <file name="/alert_action [monitoring_dashboard@localhost]" timestamp="1533645411866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533133996307">
+      <file name="/a.dummy" timestamp="1533817738009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack://./node_modules/@angular/platform-browser/esm5/platform-browser.js" timestamp="1529488657958">
@@ -125,12 +125,12 @@
       <file name="/kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1532948144590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1533814156723">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1533820798487">
         <mark key="'" line="66" column="8" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="91" column="40" />
+        <mark key="[" line="317" column="113" />
+        <mark key="]" line="317" column="116" />
+        <mark key="." line="317" column="116" />
+        <mark key="^" line="317" column="116" />
       </file>
       <file name="/fragment.ts" timestamp="1533641517776">
         <mark key="[" line="0" column="0" />
@@ -152,6 +152,9 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1532547311013">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/viewx/sap_jvev/java/src/plm/modules/viewer/vev/RedliningHandler.java" timestamp="1533819991039">
+        <mark key="'" line="56" column="28" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1533640184992">
         <mark key="[" line="0" column="0" />
@@ -205,7 +208,7 @@
       <file name="/table_filter [monitoring_dashboard@localhost]" timestamp="1533303871028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1533813309968">
+      <file name="/fragment.java" timestamp="1533817733509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -216,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="360" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" />
       <jump line="270" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" />
       <jump line="243" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" />
@@ -316,61 +318,62 @@
       <jump line="83" column="13" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/org/xml/sax/InputSource.java" />
       <jump line="358" column="0" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/org/xml/sax/InputSource.java" />
       <jump line="65" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
+      <jump line="56" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/viewx/sap_jvev/java/src/plm/modules/viewer/vev/RedliningHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text encoding="base64">XDxUYWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb2RlIG5hbWUgPSBhdHRyaWJ1dGUuZ2V0QXR0cmlidXRlcygpLmdldE5hbWVkSXRlbSgiTkFNRSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JyUHJvcGVydHkgcHJvcGVydHkgPSBuZXcgT2JyUHJvcGVydHkoImZlZiIsIERpYy5nZXQoIlNZU1RFTS5ULk5BTUUiLCAiTmFtZSIpLCBidWNrZXRPYmplY3QuZ2V0SUQoKSwgdHJ1ZSwgZmFsc2UpOwogICAgICAgICAgICBwcm9wZXJ0eS5zZXRXaWR0aCgxNSk7CiAgICAgICAgICAgIGFkZE9iclByb3BlcnR5KHByb3BlcnR5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgego=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5Ob2RlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJyQ2F0ZWdvcnk+IGNhdGVnb3J5T2JqZWN0cyA9IGNhdGVnb3JpZXMuc3RyZWFtKCkubWFwKEJyQ2F0ZWdvcnk6Om5ldykuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5Ob2RlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PHRlc3RCcm93b2JlamN0PiBjb2xsZWN0ID0gbWF0RG9jRXF1aXBCdWNrZXRMaXN0LnN0cmVhbSgpLm1hcChlIC0+IG1hcFRvQnJvd3NlT2JqZWN0KGUpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5MaXN0LmdlCg==</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZVNlbGVjdGlvbkRpYWxvZzx0ZXN0QnJvd29iZWpjdD4gdGVzdEJyb3dvYmVqY3RUYWJsZVNlbGVjdGlvbkRpYWxvZyA9IG5ldyBUYWJsZVNlbGVjdGlvbkRpYWxvZzx0ZXN0QnJvd29iZWpjdD4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBEZWZhdWx0TG9nRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1595</text>
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search encoding="base64">XDxUYWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern encoding="base64">XDxUYWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRpdGlvbmFsRmlsdGVyXD4=</entry>
         <entry>groups</entry>
         <entry encoding="base64">XDxkYXRhVGFibGVcPg==</entry>
         <entry encoding="base64">XDxfYWRkaXRpb25hbEZpbHRlclw+</entry>
@@ -398,6 +400,7 @@
         <entry encoding="base64">XDxJTl9DSEFOR0VfQ0hBUlZBTFVFU1w+</entry>
         <entry encoding="base64">XDxjaGFuZ2VDaGFyVmFsdWVzXD4=</entry>
         <entry>group</entry>
+        <entry encoding="base64">XDxUYWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>V</entry>
