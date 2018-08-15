@@ -33,12 +33,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1534158035183">
         <mark key="'" line="180" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1534331724856">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1534332687399">
         <mark key="'" line="513" column="0" />
-        <mark key="[" line="84" column="57" />
-        <mark key="]" line="85" column="24" />
-        <mark key="." line="85" column="24" />
-        <mark key="^" line="85" column="24" />
+        <mark key="[" line="461" column="79" />
+        <mark key="]" line="461" column="80" />
+        <mark key="." line="461" column="80" />
+        <mark key="^" line="461" column="82" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/PlmProcessDocumentSimpleChange.java" timestamp="1533734267931">
         <mark key="'" line="84" column="101" />
@@ -108,11 +108,12 @@
         <mark key="'" line="343" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1534321501210" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocDelete.java" timestamp="1534332269139" />
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar!/org/mockito/ArgumentCaptor.java" timestamp="1534174601213">
         <mark key="'" line="55" column="65" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1534325039500" />
-      <file name="/fragment.java" timestamp="1534332110645">
+      <file name="/fragment.java" timestamp="1534332728736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,11 +227,11 @@
       <jump line="506" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ok</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnVja2V0T2JqZWN0LmdldFBsbU1hdGVyaWFsKCkgPT0gbnVsbCB8fCA=</text>
+        <text>ok</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbUd1aVw+</text>
