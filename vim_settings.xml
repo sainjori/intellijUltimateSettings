@@ -15,7 +15,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.2/sapbase-5.1.9.2-sources.jar!/cadagent/objmod/PlmValue.java" timestamp="1533733549596">
         <mark key="'" line="112" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1534326894248">
+      <file name="/a.dummy" timestamp="1534330677825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/test/java/ypsomed/proc/cad/PlmCommChannel.java" timestamp="1534160237220">
@@ -33,12 +33,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1534158035183">
         <mark key="'" line="180" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1534328698325">
-        <mark key="'" line="506" column="0" />
-        <mark key="[" line="226" column="35" />
-        <mark key="]" line="226" column="40" />
-        <mark key="." line="226" column="40" />
-        <mark key="^" line="226" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1534330919401">
+        <mark key="'" line="513" column="0" />
+        <mark key="[" line="84" column="57" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+        <mark key="^" line="85" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.2/plm-5.1.9.2-sources.jar!/plm/proc/doc/PlmProcessDocumentSimpleChange.java" timestamp="1533734267931">
         <mark key="'" line="84" column="101" />
@@ -230,11 +230,11 @@
       <jump line="506" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plmMaterial</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>plmMaterial</text>
+        <text encoding="base64">YnVja2V0T2JqZWN0LmdldFBsbU1hdGVyaWFsKCkgPT0gbnVsbCB8fCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbUd1aVw+</text>
@@ -243,40 +243,37 @@
         <text>plmAccess.materialNew</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbCBwbG1NYXRlcmlhbCA9IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldyhidWNrZXRPYmplY3QuZ2V0U2FwTnIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYnVja2V0T2JqZWN0LmdldFBsbU1hdGVyaWFsKCkgPT0gbnVsbCkKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90RnJvbVRlbXBsYXRlQW5kRXhpc3RzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBub3RGcm9tVGVtcGxhdGVBbmRFeGlzdHMgPSBidWNrZXRPYmplY3QuZ2V0U2FwTnIoKSAhPSBudWxsICYmIGJ1Y2tldE9iamVjdC5nZXRQbG1NYXRlcmlhbCgpLmV4aXN0ZW5jZUNoZWNrKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBub3RGcm9tVGVtcGxhdGVBbmRFeGlzdHMgPSBidWNrZXRPYmplY3QuZ2V0U2FwTnIoKSAhPSBudWxsICYmIGJ1Y2tldE9iamVjdC5nZXRQbG1NYXRlcmlhbCgpLmV4aXN0ZW5jZUNoZWNrKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbCBwbG1NYXRlcmlhbCA9IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldyhidWNrZXRPYmplY3QuZ2V0U2FwTnIoKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>private CustomBrowseObject mapToBrowseObject(BucketObject e)
-    {
-        return new CustomBrowseObject(e);
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1595</text>
