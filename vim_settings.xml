@@ -13,12 +13,19 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1534359383546">
         <mark key="'" line="213" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1534359679325">
-        <mark key="'" line="231" column="34" />
-        <mark key="[" line="189" column="45" />
-        <mark key="]" line="189" column="51" />
-        <mark key="." line="189" column="51" />
-        <mark key="^" line="189" column="51" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1534361128590">
+        <mark key="'" line="74" column="39" />
+        <mark key="[" line="597" column="0" />
+        <mark key="]" line="597" column="0" />
+        <mark key="^" line="548" column="73" />
+        <mark key="." line="597" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/test/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterialsTest.java" timestamp="1534254763379">
+        <mark key="'" line="231" column="47" />
+        <mark key="[" line="237" column="39" />
+        <mark key="]" line="237" column="39" />
+        <mark key="." line="237" column="39" />
+        <mark key="^" line="237" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1534321501210" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.11.0/addons-5.1.11.0-sources.jar!/plm/modules/dataexchange/brobj/BrExportObject.java" timestamp="1534335334853" />
@@ -30,14 +37,18 @@
         <mark key="^" line="26" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/env/Environment.java" timestamp="1534331777873" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1534359413604">
-        <mark key="'" line="88" column="4" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="^" line="212" column="40" />
-        <mark key="." line="175" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1534361287000">
+        <mark key="[" line="244" column="36" />
+        <mark key="]" line="244" column="40" />
+        <mark key="^" line="244" column="40" />
+        <mark key="." line="244" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1534354729235" />
+      <file name="/Dummy.txt" timestamp="1534361191932">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.11.0/addons-5.1.11.0.jar!/cadagent/proc/doc/ProcessExcGetMultidetail.class" timestamp="1534334937685" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1534349866311">
         <mark key="'" line="392" column="0" />
@@ -58,9 +69,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="855" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
-      <jump line="880" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
-      <jump line="883" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="895" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="947" column="42" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="950" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
@@ -158,52 +166,68 @@
       <jump line="221" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="88" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
       <jump line="231" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="461" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="76" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
+      <jump line="74" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CUSTOM</text>
+        <text>System.getProperty(&quot;user.home&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>CUSTOM</text>
+        <text>System.getProperty(&quot;user.home&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpblBsbU1hdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGxtTWF0ZXJpYWwgZ2V0Q3JlYXRlZE1hdGVyaWFsKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBjcmVhdGVkTWF0ZXJpYWw7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>Preferences.stringValue(&quot;ypsomed.dadi.assign.materials.search&quot;, null);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsUGFydC5hZGRPcHRpb24oQXBwbFBhcnQuQ1VTVE9NX0FDVElPTiwgImFzc2lnbk1hdGVyaWFscyIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBycCwgb2xkX3ZhbHVlLCBuZXdfdmFsdWUpIC0+IGF0dHJpYnV0ZS5zZXRWYWx1ZSgoU3RyaW5nKSBuZXdfdmFsdWUpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldEF0dHJpYnV0ZXMoTWFwPFN0cmluZywgT2JqZWN0PiBhdHRyaWJ1dGVzKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5hdHRyaWJ1dGVzID0gYXR0cmlidXRlczsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC8qCiAgICAgICAgICAgICAvLyBzZXQgZXJyb3IgLyBvayBpY29uCiAgICAgIFN0cmluZyBpY29uTmFtZSA9IG51bGw7CiAgICAgIGlmIChkZWZhdWx0X2luZm9ybWF0aW9uICE9IG51bGwgJiYgISIiLmVxdWFscyhkZWZhdWx0X2luZm9ybWF0aW9uKSkKICAgICAgICBpY29uTmFtZSA9ICJmcm9nLnN0YXR1cy5lcnJvciI7CiAgICAgIGVsc2UKICAgICAgICBpY29uTmFtZSA9ICJmcm9nLnN0YXR1cy5vayI7CiAgICAgIEltYWdlSWNvbiBkZWZhdWx0SWNvbiA9IEVudmlyb25tZW50LmdldEltYWdlSWNvbihpY29uTmFtZSk7CgogICAgICBPYnJQcm9wZXJ0eSBwcnAgPSBhZGRPYnJQcm9wZXJ0eShuZXcgT2JyUHJvcGVydHkoUFJQX0lDT04sIERpYy5nZXQoIlNZU1RFTS5ULklORElDSUNPTiIpLCBkZWZhdWx0SWNvbiwgdHJ1ZSwgZmFsc2UpKTsKICAgICAgcHJwLnNldFdpZHRoKDMpOwogICAgICBwcnAuc2V0RWRpdExlbmd0aCgzKTsKICAgICAgICAgICAgICovCgoKLy8gICAgICAgICAgICBMaXN0PEF0dGlidXRlQ3VzdG9tPiBhdHRyaWJ1dGVzID0gdGhpcy5idWNrZXRPYmplY3QuZ2V0QXR0cmlidXRlcygpOwovLyAgICAgICAgICAgIGZvciAoQXR0aWJ1dGVDdXN0b20gYXR0cmlidXRlIDogYXR0cmlidXRlcykKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIHByb3BlcnR5ID0gbmV3IE9iclByb3BlcnR5KGF0dHJpYnV0ZS5nZXROYW1lKCksIGF0dHJpYnV0ZS5nZXROYW1lKCksIGF0dHJpYnV0ZS5nZXRWYWx1ZSgpLCB0cnVlLCB0cnVlKTsKLy8gICAgICAgICAgICAgICAgcHJvcGVydHkuc2V0V2lkdGgoMTUpOwovLyAgICAgICAgICAgICAgICBhZGRPYnJQcm9wZXJ0eShwcm9wZXJ0eSk7Ci8vICAgICAgICAgICAgICAgIHByb3BlcnR5LmFkZFZhbHVlQ2hhbmdlZExpc3RlbmVyKChw</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEJ1Y2tldE9iamVjdCBidWNrZXRPYmplY3Q7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldFBsbU1hdGVyaWFsKFBsbU1hdGVyaWFsIHBsbU1hdGVyaWFsKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5wbG1NYXRlcmlhbCA9IHBsbU1hdGVyaWFsOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuY3JlYXRlZE1hdGVyaWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldFNhcE5yKFN0cmluZyBzYXBOcikKICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuc2FwTnIgPSBzYXBOcjsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>//        ProcessMatCopy processMatCopy = new ProcessMatCopy();
+//        DataContainer data = new DataContainer();
+//        data.addObject(ProcessMatCopy.IN_MATERIAL, plmAccess.materialNew(meterialTemplateNumber));
+//        processMatCopy.setData(data);
+//        try
+//        {
+//            processMatCopy.execute();
+//            plmMaterial = processMatCopy.getData().getObject(ProcessMatCopy.OUT_MATERIAL);
+//
+//        } catch (DefaultLogException e)
+//        {
+//            Trace.println(Trace.HEAD, &quot;Failed to create Material with template &quot; + meterialTemplateNumber);
+//            Trace.printlnStackTrace(0, e);
+//        }</text>
       </register>
       <register name=":" type="4">
         <text>1595</text>
