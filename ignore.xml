@@ -67,6 +67,20 @@ bash.exe.stackdump</template>
 !*.txt
 !*.bat
 !*.xml</template>
+      <template name="withExclipseDaten"># Created by .ignore support plugin (hsz.mobi)
+### bb template
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea/
+.svn/
+*.iml
+out/
+gen/
+target/
+bash.exe.stackdump
+.project/
+.settings/</template>
     </userTemplates>
   </component>
 </application>
