@@ -11,14 +11,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1534330677825">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wilo/trunk/ectr_dadi/pom.xml" timestamp="1534414131902">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.jar!/META-INF/maven/plugin.xml" timestamp="1534424658172">
+        <mark key="'" line="595" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1534361287000">
         <mark key="[" line="244" column="36" />
@@ -63,15 +63,14 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wilo/trunk/ectr_osgi/pom.xml" timestamp="1534416348280">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wilo/trunk/ectr_osgi/pom.xml" timestamp="1534425136136">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="56" column="46" />
+        <mark key="^" line="56" column="46" />
+        <mark key="." line="56" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="895" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="947" column="42" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="950" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="1162" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
@@ -171,10 +170,11 @@
       <jump line="461" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="76" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
       <jump line="74" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="595" column="38" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.jar!/META-INF/maven/plugin.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQk8UmVxdWlyZS1CdW5kbGU+CgkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaTsgYnVuZGxlLXZlcnNpb249WzUuMSw1LjIpCgkJCQkJPC9SZXF1aXJlLUJ1bmRsZT4K</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -186,50 +186,37 @@
         <text>Preferences.stringValue(&quot;ypsomed.dadi.assign.materials.search&quot;, null);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCQk8UmVxdWlyZS1CdW5kbGU+CgkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaTsgYnVuZGxlLXZlcnNpb249WzUuMSw1LjIpCgkJCQkJPC9SZXF1aXJlLUJ1bmRsZT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICBycCwgb2xkX3ZhbHVlLCBuZXdfdmFsdWUpIC0+IGF0dHJpYnV0ZS5zZXRWYWx1ZSgoU3RyaW5nKSBuZXdfdmFsdWUpKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IC8qCiAgICAgICAgICAgICAvLyBzZXQgZXJyb3IgLyBvayBpY29uCiAgICAgIFN0cmluZyBpY29uTmFtZSA9IG51bGw7CiAgICAgIGlmIChkZWZhdWx0X2luZm9ybWF0aW9uICE9IG51bGwgJiYgISIiLmVxdWFscyhkZWZhdWx0X2luZm9ybWF0aW9uKSkKICAgICAgICBpY29uTmFtZSA9ICJmcm9nLnN0YXR1cy5lcnJvciI7CiAgICAgIGVsc2UKICAgICAgICBpY29uTmFtZSA9ICJmcm9nLnN0YXR1cy5vayI7CiAgICAgIEltYWdlSWNvbiBkZWZhdWx0SWNvbiA9IEVudmlyb25tZW50LmdldEltYWdlSWNvbihpY29uTmFtZSk7CgogICAgICBPYnJQcm9wZXJ0eSBwcnAgPSBhZGRPYnJQcm9wZXJ0eShuZXcgT2JyUHJvcGVydHkoUFJQX0lDT04sIERpYy5nZXQoIlNZU1RFTS5ULklORElDSUNPTiIpLCBkZWZhdWx0SWNvbiwgdHJ1ZSwgZmFsc2UpKTsKICAgICAgcHJwLnNldFdpZHRoKDMpOwogICAgICBwcnAuc2V0RWRpdExlbmd0aCgzKTsKICAgICAgICAgICAgICovCgoKLy8gICAgICAgICAgICBMaXN0PEF0dGlidXRlQ3VzdG9tPiBhdHRyaWJ1dGVzID0gdGhpcy5idWNrZXRPYmplY3QuZ2V0QXR0cmlidXRlcygpOwovLyAgICAgICAgICAgIGZvciAoQXR0aWJ1dGVDdXN0b20gYXR0cmlidXRlIDogYXR0cmlidXRlcykKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIHByb3BlcnR5ID0gbmV3IE9iclByb3BlcnR5KGF0dHJpYnV0ZS5nZXROYW1lKCksIGF0dHJpYnV0ZS5nZXROYW1lKCksIGF0dHJpYnV0ZS5nZXRWYWx1ZSgpLCB0cnVlLCB0cnVlKTsKLy8gICAgICAgICAgICAgICAgcHJvcGVydHkuc2V0V2lkdGgoMTUpOwovLyAgICAgICAgICAgICAgICBhZGRPYnJQcm9wZXJ0eShwcm9wZXJ0eSk7Ci8vICAgICAgICAgICAgICAgIHByb3BlcnR5LmFkZFZhbHVlQ2hhbmdlZExpc3RlbmVyKChw</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIEJ1Y2tldE9iamVjdCBidWNrZXRPYmplY3Q7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldFBsbU1hdGVyaWFsKFBsbU1hdGVyaWFsIHBsbU1hdGVyaWFsKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5wbG1NYXRlcmlhbCA9IHBsbU1hdGVyaWFsOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldFNhcE5yKFN0cmluZyBzYXBOcikKICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuc2FwTnIgPSBzYXBOcjsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldFBsbU1hdGVyaWFsKFBsbU1hdGVyaWFsIHBsbU1hdGVyaWFsKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5wbG1NYXRlcmlhbCA9IHBsbU1hdGVyaWFsOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVja2V0T2JqZWN0IHNldFNhcE5yKFN0cmluZyBzYXBOcikKICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuc2FwTnIgPSBzYXBOcjsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>//        ProcessMatCopy processMatCopy = new ProcessMatCopy();
-//        DataContainer data = new DataContainer();
-//        data.addObject(ProcessMatCopy.IN_MATERIAL, plmAccess.materialNew(meterialTemplateNumber));
-//        processMatCopy.setData(data);
-//        try
-//        {
-//            processMatCopy.execute();
-//            plmMaterial = processMatCopy.getData().getObject(ProcessMatCopy.OUT_MATERIAL);
-//
-//        } catch (DefaultLogException e)
-//        {
-//            Trace.println(Trace.HEAD, &quot;Failed to create Material with template &quot; + meterialTemplateNumber);
-//            Trace.printlnStackTrace(0, e);
-//        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1595</text>
