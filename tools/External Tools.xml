@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="checkout-work-branch" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="CMD /C &quot;C:\Users\bya\Desktop\beforeLaunch.cmd&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Windows/System32" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="TRACING_FILTERS_ENABLED" value="false" />
+    <option name="FORCE_CLASSIC_VM" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -89,6 +90,10 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter enabled="false" url-pattern="Subscriber.js;*Zone*;" />
+            <stepping-filter enabled="false" url-pattern="http.js" />
+          </stepping-filters>
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">

@@ -17,19 +17,31 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.Submit" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorContextInfo" />
+  <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorSplitLine" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -55,12 +67,7 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.QuickJavadoc" />
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
@@ -74,6 +81,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="KotlinShellExecute" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
   <action id="RenameElement">
@@ -85,6 +105,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RerunTests" />
+  <action id="RevealIn">
+    <mouse-shortcut keystroke="alt button2" />
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -95,11 +119,27 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
@@ -108,6 +148,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
