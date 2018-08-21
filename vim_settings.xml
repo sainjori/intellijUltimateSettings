@@ -31,6 +31,7 @@
       <file name="/__dummy.xml" timestamp="1534764075983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertActionMapperService.java" timestamp="1534858228824" />
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1534856700860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,7 +62,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534856117508">
+      <file name="/Dummy.txt" timestamp="1534857800409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1534856867771">
@@ -70,11 +71,11 @@
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1534856846131">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534857562140">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="91" column="47" />
-        <mark key="." line="110" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534857949443">
+        <mark key="[" line="116" column="108" />
+        <mark key="]" line="118" column="11" />
+        <mark key="^" line="118" column="11" />
+        <mark key="." line="118" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1534782254212">
         <mark key="[" line="2182" column="100" />
@@ -196,7 +197,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW1haWxDbGllbnQK</text>
       </register>
       <register name="-" type="4">
         <text>pojosToInsert</text>
@@ -208,37 +209,37 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9IHNlY3VyaXR5Q29udGV4dC5nZXRVc2VyUHJpbmNpcGFsKCkuZ2V0TmFtZSgpOwogICAgICAgIHBvam9zVG9JbnNlcnQuZm9yRWFjaChlIC0+IHsKICAgICAgICAgICAgZS5zZXRDcmVhdGVkQnkobmFtZSk7CiAgICAgICAgICAgIGUuc2V0TGFzdFVwZGF0ZWRCeShuYW1lKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW1haWxDbGllbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZEVtYWlscyhhbGVydEFjdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb2pvc1RvVXBkYXRlLmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZEVtYWlscyhhbGVydEFjdGlvbnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkpOwogICAgICAgIFN0cmluZyBuYW1lID0gc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCk7CiAgICAgICAgcG9qb3NUb0luc2VydC5mb3JFYWNoKGUgLT4gewogICAgICAgICAgICBlLnNldENyZWF0ZWRCeShuYW1lKTsKICAgICAgICAgICAgZS5zZXRMYXN0VXBkYXRlZEJ5KG5hbWUpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvVXBkYXRlLmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkpOwogICAgICAgIFN0cmluZyBuYW1lID0gc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCk7CiAgICAgICAgcG9qb3NUb0luc2VydC5mb3JFYWNoKGUgLT4gewogICAgICAgICAgICBlLnNldENyZWF0ZWRCeShuYW1lKTsKICAgICAgICAgICAgZS5zZXRMYXN0VXBkYXRlZEJ5KG5hbWUpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5zZXRMYXN0VXBkYXRlZEJ5KG5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5zZXRDcmVhdGVkQnkobmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5zZXRMYXN0VXBkYXRlZEJ5KG5hbWUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb2pvc1RvVXBkYXRlLmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5zZXRDcmVhdGVkQnkobmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvVXBkYXRlLmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
