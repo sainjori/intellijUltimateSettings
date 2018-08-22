@@ -51,10 +51,7 @@
       <file name="/__dummy.as" timestamp="1534764349344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1534928169588">
-        <mark key="'" line="572" column="17" />
-      </file>
-      <file name="/a.sql" timestamp="1534938898125">
+      <file name="/a.sql" timestamp="1534944041124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/readme.txt" timestamp="1534934991897">
@@ -69,33 +66,51 @@
       <file name="/1.txt" timestamp="1534768689636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1534942832355">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1534944240449">
         <mark key="[" line="22" column="230" />
         <mark key="]" line="22" column="239" />
         <mark key="." line="22" column="239" />
         <mark key="^" line="22" column="239" />
       </file>
+      <file name="/databasechangelog [monitoring_dashboard@localhost]" timestamp="1534944948804">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/1.groovy" timestamp="1534768689641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1534938891185">
+      <file name="/dummy.sql" timestamp="1534945258950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1534936848142">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1534944090118">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1534936795371">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.databasechangelog [monitoring_dashboard@localhost]" timestamp="1534943945749">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534944024790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.alert_criterion [monitoring_dashboard@localhost]" timestamp="1534945258100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaCheckerTest.java" timestamp="1534935650445">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="/databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534944950172">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534943959892">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1534937026459" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1534937026459" />
@@ -243,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.1.40-bin.jar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>5.1.40-bin.jar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</text>
