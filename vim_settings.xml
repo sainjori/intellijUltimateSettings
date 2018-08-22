@@ -69,7 +69,12 @@
       <file name="/1.txt" timestamp="1534768689636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1534939549871" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1534941947312">
+        <mark key="[" line="22" column="230" />
+        <mark key="]" line="22" column="239" />
+        <mark key="." line="22" column="239" />
+        <mark key="^" line="22" column="239" />
+      </file>
       <file name="/1.groovy" timestamp="1534768689641">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,9 +85,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1534936848142">
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1534936795371">
         <mark key="[" line="0" column="0" />
@@ -121,7 +126,7 @@
         <mark key="." line="71" column="96" />
         <mark key="^" line="71" column="96" />
       </file>
-      <file name="/fragment.java" timestamp="1534938743574">
+      <file name="/fragment.java" timestamp="1534940468736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -238,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsdWVEYXRlPSIke25vd30iIA==</text>
+        <text>5.1.40-bin.jar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWVEYXRlPSIke25vd30iIA==</text>
+        <text>5.1.40-bin.jar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</text>
