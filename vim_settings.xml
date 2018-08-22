@@ -31,6 +31,12 @@
       <file name="/__dummy.xml" timestamp="1534764075983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1534934726571">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertActionMapperService.java" timestamp="1534858228824" />
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1534856700860">
         <mark key="[" line="0" column="0" />
@@ -44,10 +50,14 @@
       <file name="/__dummy.as" timestamp="1534764349344">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/EmailClient.java" timestamp="1534934802369" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/mat/PlmProcessMaterialCreateMulti.java" timestamp="1534928169588">
         <mark key="'" line="572" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfMatCreateMulti.java" timestamp="1534871906931" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/readme.txt" timestamp="1534934991897">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiCreateMaterialBefore.java" timestamp="1534928249561">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -76,11 +86,11 @@
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1534856846131">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534857949443">
-        <mark key="[" line="116" column="108" />
-        <mark key="]" line="118" column="11" />
-        <mark key="^" line="118" column="11" />
-        <mark key="." line="118" column="11" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534934761331">
+        <mark key="[" line="115" column="77" />
+        <mark key="]" line="116" column="11" />
+        <mark key="^" line="116" column="11" />
+        <mark key="." line="116" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1534782254212">
         <mark key="[" line="2182" column="100" />
@@ -208,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JEaWFsb2cuZ2V0SW5zdGFuY2UoKS5hZGRUaHJvd2FibGUoZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>emailActionDataParsedAlertActionDTO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</text>
@@ -220,37 +230,37 @@
         <text encoding="base64">ICAgICAgZGF0YUNvbnRhaW5lckJhY2suYWRkQm9vbChEQ0tleUNvbnN0cy5PVVRfSUdOT1JFX1NUQU5EQVJELCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JEaWFsb2cuZ2V0SW5zdGFuY2UoKS5hZGRUaHJvd2FibGUoZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JEaWFsb2cuZ2V0SW5zdGFuY2UoKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQogICAgICB7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWxDbGllbnQuc2VuZEVtYWlsKG1haWxDb250ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29udGFpbmVyQmFjay5hZGRCb29sKERDS2V5Q29uc3RzLk9VVF9JR05PUkVfU1RBTkRBUkQsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFpbENvbnRlbnQgbWFpbENvbnRlbnQgPSBuZXcgTWFpbENvbnRlbnQoZW1haWxBY3Rpb25EYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29udGFpbmVyQmFjay5hZGRCb29sKERDS2V5Q29uc3RzLk9VVF9JR05PUkVfU1RBTkRBUkQsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbEFjdGlvbkRhdGFQYXJzZWRBbGVydEFjdGlvbkRUTy5nZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGF0YUNvbnRhaW5lckJhY2suYWRkQm9vbChEQ0tleUNvbnN0cy5PVVRfSUdOT1JFX1NUQU5EQVJELCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN1YmplY3QgPSBkYXRhLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3JEaWFsb2cuZ2V0SW5zdGFuY2UoKS5hZGRUaHJvd2FibGUoZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3JEaWFsb2cuZ2V0SW5zdGFuY2UoKS5zaG93KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQogICAgICB7CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
