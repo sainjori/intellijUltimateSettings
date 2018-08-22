@@ -70,13 +70,18 @@
       <file name="/1.groovy" timestamp="1534768689641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1534856867874">
+      <file name="/dummy.sql" timestamp="1534936698279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534935519201">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1534936848142">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534936795371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiInterPretMatNumber.java" timestamp="1534935260647" />
@@ -85,10 +90,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1534856867771">
+      <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1534936677674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1534856846131">
+      <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1534936579879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534934761331">
@@ -222,11 +227,11 @@
       <jump line="147" column="71" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/mat/ProcessMatCopy.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFsdWVEYXRlPSIke25vd30iIA==</text>
       </register>
       <register name="-" type="4">
-        <text>dialog</text>
+        <text encoding="base64">dmFsdWVEYXRlPSIke25vd30iIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</text>
