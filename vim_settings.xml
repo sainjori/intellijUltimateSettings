@@ -15,6 +15,9 @@
       <file name="/a.dummy" timestamp="1534780245733">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/monitoring_dashboard.alert_action [monitoring_dashboard@localhost]" timestamp="1534949586528">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaPlannedTask.java" timestamp="1534856290162">
         <mark key="[" line="26" column="83" />
         <mark key="]" line="26" column="83" />
@@ -39,14 +42,18 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1534947796912" />
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1534856700860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertDefinitionEndpoint.java" timestamp="1534857064321">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertDefinitionEndpoint.java" timestamp="1534949907464">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
         <mark key="^" line="76" column="20" />
-        <mark key="." line="67" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.alert_definition [monitoring_dashboard@localhost]" timestamp="1534949822273">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/__dummy.as" timestamp="1534764349344">
         <mark key="[" line="0" column="0" />
@@ -66,7 +73,7 @@
       <file name="/1.txt" timestamp="1534768689636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1534944240449">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1534949209003">
         <mark key="[" line="22" column="230" />
         <mark key="]" line="22" column="239" />
         <mark key="." line="22" column="239" />
@@ -78,19 +85,22 @@
       <file name="/1.groovy" timestamp="1534768689641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1534945258950">
+      <file name="/dummy.sql" timestamp="1534949937856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1534944090118">
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1534949434039">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534936795371">
+      <file name="/Dummy.txt" timestamp="1534949751266">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/monitoring_dashboard.databasechangelog [monitoring_dashboard@localhost]" timestamp="1534943945749">
         <mark key="[" line="0" column="0" />
@@ -98,13 +108,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534944024790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/monitoring_dashboard.alert_criterion [monitoring_dashboard@localhost]" timestamp="1534945258100">
+      <file name="/monitoring_dashboard.alert_criterion [monitoring_dashboard@localhost]" timestamp="1534949583847">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaCheckerTest.java" timestamp="1534935650445">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="/databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534944950172">
         <mark key="[" line="0" column="0" />
@@ -112,15 +117,13 @@
       <file name="/monitoring_dashboard.databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534943959892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1534937026459" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1534937026459" />
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1534936677674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1534937425711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534934761331">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1534947124412">
         <mark key="[" line="115" column="77" />
         <mark key="]" line="116" column="11" />
         <mark key="^" line="116" column="11" />
@@ -257,50 +260,50 @@
       <jump line="265" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/.gitlab-ci.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHBvam9zVG9JbnNlcnQuZm9yRWFjaChlIC0+IGUuc2V0Q3JlYXRlZEF0KG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>clean up some work on email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGF0YUNvbnRhaW5lckJhY2suYWRkQm9vbChEQ0tleUNvbnN0cy5PVVRfSUdOT1JFX1NUQU5EQVJELCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHBvam9zVG9JbnNlcnQuZm9yRWFjaChlIC0+IGUuc2V0Q3JlYXRlZEF0KG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJsYXN0X3VwZGF0ZWRfYnkiIHR5cGU9IlZBUkNIQVIoNDUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiLz4KICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjcmVhdGVkX2J5IiB0eXBlPSJWQVJDSEFSKDQ1KSI+CiAgICAgICAgICAgICAgICA8Y29uc3RyYWludHMgbnVsbGFibGU9ImZhbHNlIi8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjcmVhdGVkX2F0IiB0eXBlPSJUSU1FU1RBTVAiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWxDbGllbnQuc2VuZEVtYWlsKG1haWxDb250ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjcmVhdGVkX2F0IiB0eXBlPSJUSU1FU1RBTVAiLz4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFpbENvbnRlbnQgbWFpbENvbnRlbnQgPSBuZXcgTWFpbENvbnRlbnQoZW1haWxBY3Rpb25EYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbEFjdGlvbkRhdGFQYXJzZWRBbGVydEFjdGlvbkRUTy5nZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
