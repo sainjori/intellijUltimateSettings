@@ -21,19 +21,22 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="/monitoring_dashboard.event_log_entry [monitoring_dashboard@localhost]" timestamp="1535022252933">
+      <file name="/monitoring_dashboard.event_log_entry [monitoring_dashboard@localhost]" timestamp="1535037090681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1534856700860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/monitoring_dashboard.alert_definition [monitoring_dashboard@localhost]" timestamp="1535036716843">
+      <file name="/monitoring_dashboard.alert_definition [monitoring_dashboard@localhost]" timestamp="1535037247557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/__dummy.as" timestamp="1534764349344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/monitoring_dashboard.server [monitoring_dashboard@localhost]" timestamp="1535036567206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1535037434599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiCreateMaterialBefore.java" timestamp="1534935470050">
@@ -59,6 +62,9 @@
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" timestamp="1535036917300">
+        <mark key="'" line="43" column="57" />
+      </file>
       <file name="/monitoring_dashboard.databasechangelog [monitoring_dashboard@localhost]" timestamp="1534943945749">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,7 +73,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/monitoring_dashboard.user [monitoring_dashboard@localhost]" timestamp="1535036426660">
+      <file name="/monitoring_dashboard.user [monitoring_dashboard@localhost]" timestamp="1535037436675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/monitoring_dashboard.alert_criterion [monitoring_dashboard@localhost]" timestamp="1535020818089">
@@ -91,6 +97,9 @@
         <mark key="]" line="80" column="19" />
         <mark key="^" line="80" column="19" />
         <mark key="." line="80" column="19" />
+      </file>
+      <file name="/monitoring_dashboard.ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1535037431824">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertActionsEndpoint.java" timestamp="1534857123841">
         <mark key="[" line="52" column="0" />
@@ -154,7 +163,7 @@
       <file name="/1.groovy" timestamp="1534768689641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535036716986">
+      <file name="/dummy.sql" timestamp="1535037436776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
@@ -182,8 +191,8 @@
       <file name="/databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534944950172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1535027716482">
-        <mark key="'" line="109" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1535036903964">
+        <mark key="'" line="116" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1534951877655">
         <mark key="'" line="110" column="55" />
@@ -220,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="718" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/PlmSessionManager.java" />
-      <jump line="805" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/PlmSessionManager.java" />
       <jump line="71" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="91" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="55" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -320,6 +327,8 @@
       <jump line="170" column="46" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="41" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="160" column="86" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="116" column="53" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" />
+      <jump line="43" column="57" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
