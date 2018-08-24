@@ -41,6 +41,7 @@
         <mark key="]" line="60" column="4" />
         <mark key="." line="60" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/sess/XmlData.java" timestamp="1535132591316" />
       <file name="/monitoring_dashboard.ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1535037434599">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,6 +58,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="112" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/pom.xml" timestamp="1535132722077" />
       <file name="/1.txt" timestamp="1535117368394">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,8 +74,9 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="74" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1535127419694">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1535132526054">
         <mark key="'" line="527" column="8" />
+        <mark key="[" line="66" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_OLD.xml" timestamp="1535027389929">
         <mark key="'" line="144" column="20" />
@@ -103,11 +106,11 @@
       <file name="/monitoring_dashboard.databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534943959892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1535130226525">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1535132438286">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1535117200695" />
       <file name="/monitoring_dashboard.triggered_alert [monitoring_dashboard@localhost]" timestamp="1535043786745">
@@ -207,7 +210,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535129870485">
+      <file name="/Dummy.txt" timestamp="1535132277158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,13 +369,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${project.parent.version}</text>
+        <text>5.1.13.0-rc17</text>
       </register>
       <register name="-" type="4">
-        <text>${project.parent.version}</text>
+        <text>5.1.13.0-rc17</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</text>
+        <text>readme</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICByZXR1cm4gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhcC5sb2dvbi5sb2NhdGlvbiIsCiAgICAgICAgRW52aXJvbm1lbnQuZ2V0VmFsdWUoIlBMTV9MT0NBVElPTiIsIEVudmlyb25tZW50LmdldFZhbHVlKCJXU19Mb2NhdGlvbiIpKSk7Cg==</text>
@@ -415,9 +418,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</last-search>
+      <last-search>readme</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</last-pattern>
+      <last-pattern>readme</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTl9DSEFOR0VfQ0hBUlZBTFVFU1w+</entry>
         <entry encoding="base64">XDxjaGFuZ2VDaGFyVmFsdWVzXD4=</entry>
         <entry>group</entry>
         <entry encoding="base64">XDxUYWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
@@ -445,6 +447,7 @@
         <entry encoding="base64">XDxudW1iZXJBc3NpZ25tZW50XD4=</entry>
         <entry>genericFu</entry>
         <entry encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</entry>
+        <entry>readme</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCBwIDpwdTxDUj4=</entry>
