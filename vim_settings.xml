@@ -103,11 +103,11 @@
       <file name="/monitoring_dashboard.databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534943959892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1535129281149">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1535130226525">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1535117200695" />
       <file name="/monitoring_dashboard.triggered_alert [monitoring_dashboard@localhost]" timestamp="1535043786745">
@@ -207,7 +207,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535128155712">
+      <file name="/Dummy.txt" timestamp="1535129870485">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -233,6 +233,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1535102474457">
         <mark key="'" line="158" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentSourceSequence.java" timestamp="1535129632893" />
       <file name="/alert_definition [monitoring_dashboard@localhost]" timestamp="1534936677674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -365,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.1.14</text>
+        <text>${project.parent.version}</text>
       </register>
       <register name="-" type="4">
-        <text>5.1.14</text>
+        <text>${project.parent.version}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</text>
