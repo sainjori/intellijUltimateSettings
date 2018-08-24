@@ -203,7 +203,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535119804179">
+      <file name="/Dummy.txt" timestamp="1535124178072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -407,7 +407,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>232</text>
+        <text>77</text>
       </register>
     </registers>
     <search>
@@ -443,7 +443,6 @@
         <entry encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>107</entry>
         <entry encoding="base64">bm1hcCBwIDpwdTxDUj4=</entry>
         <entry>pu</entry>
         <entry>1039</entry>
@@ -463,6 +462,7 @@
         <entry>51</entry>
         <entry>309</entry>
         <entry>232</entry>
+        <entry>77</entry>
       </history-cmd>
       <history-expr />
       <history-input />
