@@ -162,7 +162,7 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535455662050">
+      <file name="/Dummy.txt" timestamp="1535533625292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -201,6 +201,12 @@
       </file>
       <file name="/triggered_alert [monitoring_dashboard@localhost]" timestamp="1534937425711">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1535533652680">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" timestamp="1535136092077">
         <mark key="'" line="467" column="6" />
@@ -315,11 +321,11 @@
       <jump line="307" column="40" filename="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/internet/InternetAddress.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5.1.13.1</text>
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text>5.1.13.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNQVRFUklBTE5VTU1FUlw+</text>
