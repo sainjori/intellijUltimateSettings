@@ -55,6 +55,7 @@
       <file name="/1.txt" timestamp="1535969593478">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1536053471715" />
       <file name="$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/internet/InternetAddress.class" timestamp="1535453199236">
         <mark key="'" line="307" column="40" />
       </file>
@@ -114,6 +115,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1535378210670">
         <mark key="'" line="304" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneButtonPanel.java" timestamp="1536053403840">
+        <mark key="'" line="65" column="31" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1535026092391">
         <mark key="'" line="174" column="53" />
       </file>
@@ -132,7 +136,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1535377299371">
         <mark key="'" line="814" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1536052503436" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1536053184555" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/readme.txt" timestamp="1534934991897">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,6 +154,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1535989946120">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneMainDialog.java" timestamp="1536053389226">
+        <mark key="'" line="100" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/dtype/DTypeMaterialTemplate.java" timestamp="1535103712867">
         <mark key="'" line="47" column="14" />
@@ -186,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="53" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" />
-      <jump line="43" column="57" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" />
       <jump line="68" column="46" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="219" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" />
       <jump line="158" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" />
@@ -286,6 +291,8 @@
       <jump line="124" column="81" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/ProcessObjectGetLinkedDocuments.java" />
       <jump line="213" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/ProcessObjectGetLinkedDocuments.java" />
       <jump line="90" column="40" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" />
+      <jump line="100" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneMainDialog.java" />
+      <jump line="65" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneButtonPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,7 +302,7 @@
         <text>checkReturnTable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNQVRFUklBTE5VTU1FUlw+</text>
+        <text encoding="base64">XDxjbG9uZUJ1dHRvbnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">T2JqZWN0PiBvYmplY3RzID0gbg==</text>
@@ -338,9 +345,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNQVRFUklBTE5VTU1FUlw+</last-search>
+      <last-search encoding="base64">XDxjbG9uZUJ1dHRvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNQVRFUklBTE5VTU1FUlw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbG9uZUJ1dHRvbnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZURpYWxvZ1w+</entry>
-        <entry encoding="base64">XDxYbWxEYXRhXD4=</entry>
         <entry encoding="base64">XDx4bWxQYXJhbWV0ZXJzXD4=</entry>
         <entry>getOptions</entry>
         <entry encoding="base64">XDxub2Rlc1w+</entry>
@@ -368,6 +373,8 @@
         <entry encoding="base64">XDxyZWFkTWFpbkRldGFpbHNcPg==</entry>
         <entry encoding="base64">XDxQbG1PYmplY3RMaW5rXD4=</entry>
         <entry encoding="base64">XDxNQVRFUklBTE5VTU1FUlw+</entry>
+        <entry encoding="base64">XDxwbmxfYnRuXD4=</entry>
+        <entry encoding="base64">XDxjbG9uZUJ1dHRvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCBwIDpwdTxDUj4=</entry>
