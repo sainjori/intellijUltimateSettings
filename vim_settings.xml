@@ -123,11 +123,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.2.1/addons-5.1.2.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536065282513" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1536070941098" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536066180443">
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536076324121">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="27" />
+        <mark key="." line="58" column="27" />
+        <mark key="^" line="58" column="27" />
       </file>
       <file name="/monitoring_dashboard.preference [monitoring_dashboard@localhost]" timestamp="1535452969113">
         <mark key="[" line="0" column="0" />
@@ -195,7 +195,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1535979595742">
         <mark key="'" line="90" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536066178377" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536077056504">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="56" column="41" />
+        <mark key="." line="56" column="19" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1536068607010">
         <mark key="'" line="2163" column="28" />
       </file>
@@ -320,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>DADI_INOUT_CREATED_DOCS</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>DADI_INOUT_CREATED_DOCS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWRpQWZ0ZXJDbG9uZUZpbmlzaGVkXD4=</text>
