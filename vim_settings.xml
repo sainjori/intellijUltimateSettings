@@ -18,6 +18,7 @@
       <file name="/monitoring_dashboard.event_log_entry [monitoring_dashboard@localhost]" timestamp="1535037090681">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/ProcessDocumentClone.java" timestamp="1536143024454" />
       <file name="/alert_filter [monitoring_dashboard@localhost]" timestamp="1534856700860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,6 +46,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1535452228429">
         <mark key="[" line="196" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/modules/ecr/proc/PlmProcessEcrChangeItemRemove.java" timestamp="1536142753703" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiCreateMaterialBefore.java" timestamp="1535978936190">
         <mark key="[" line="56" column="23" />
         <mark key="]" line="56" column="34" />
@@ -60,6 +62,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_OLD.xml" timestamp="1535027389929">
         <mark key="'" line="144" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/modules/acm/proc/PlmProcessReadUserRoleAssignments.java" timestamp="1536142557022" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" timestamp="1535036917300">
         <mark key="'" line="43" column="57" />
       </file>
@@ -84,13 +87,13 @@
       <file name="/monitoring_dashboard.databasechangeloglock [monitoring_dashboard@localhost]" timestamp="1534943959892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1536064728353" />
       <file name="/monitoring_dashboard.triggered_alert [monitoring_dashboard@localhost]" timestamp="1535451076839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1535126319235">
         <mark key="'" line="20" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.3/addons-5.1.9.3-sources.jar!/plm/proc/doc/clone/service/CloneScheduleService.java" timestamp="1536144069662" />
       <file name="/monitoring_dashboard.ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1535037431824">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,11 +124,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/ProcessDocumentClone.java" timestamp="1536065773106">
         <mark key="'" line="70" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536141714788">
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="27" />
-        <mark key="." line="58" column="27" />
-        <mark key="^" line="58" column="27" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.2.1/addons-5.1.2.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536143980221" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536143846351">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="14" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="57" column="14" />
       </file>
       <file name="/monitoring_dashboard.preference [monitoring_dashboard@localhost]" timestamp="1535452969113">
         <mark key="[" line="0" column="0" />
@@ -157,6 +161,12 @@
       <file name="/event_log_entry [monitoring_dashboard@localhost]" timestamp="1534856708428">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536143830352">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536068945965">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,7 +190,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1535037948108">
         <mark key="'" line="116" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1536064728353" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1535102474457">
         <mark key="'" line="158" column="0" />
       </file>
@@ -193,11 +202,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1535979595742">
         <mark key="'" line="90" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536141711625">
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="54" column="30" />
-        <mark key="^" line="54" column="30" />
-        <mark key="." line="54" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536144022746">
+        <mark key="[" line="66" column="81" />
+        <mark key="]" line="67" column="3" />
+        <mark key="." line="67" column="3" />
+        <mark key="^" line="67" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1536068607010">
         <mark key="'" line="2163" column="28" />
@@ -208,8 +217,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1535115595012">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1536066963882">
-        <mark key="[" line="0" column="15" />
+      <file name="/fragment.java" timestamp="1536143417663">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
@@ -323,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DADI_INOUT_CREATED_DOCS</text>
+        <text>plmProcessDocumentCloneSchedule</text>
       </register>
       <register name="-" type="4">
-        <text>DADI_INOUT_CREATED_DOCS</text>
+        <text>plmProcessDocumentCloneSchedule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWRpQWZ0ZXJDbG9uZUZpbmlzaGVkXD4=</text>
@@ -334,52 +343,38 @@
       <register name="0" type="4">
         <text encoding="base64">T2JqZWN0PiBvYmplY3RzID0gbg==</text>
       </register>
-      <register name="1" type="4">
-        <text>try
-    {
-      String role = Environment.getValue(&quot;PLM_ROLE&quot;);
-      Trace.println(1, &quot;PLM_ROLE: &quot; + role);
-
-      if (role != null)
-      {
-        String name = &quot;GB.SAP.PLM.ROLE.&quot; + PlmFrontend.getCurrentPlmUser();
-        PlmUtils.uploadPrefToSap(name,role);
-      }
-    }
-    catch (Exception e)
-    {
-      Trace.printlnStackTrace(1,e);
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBsbVByb2Nlc3NEb2N1bWVudENsb25lU2NoZWR1bGUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIG5ldwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogR3Jvei1CZWNrZXJ0IGltcGxlbWVudGF0aW9uIG9mIGRhZGkgInBsbS5hZnRlci5sb2dvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogVXBsb2FkIFBMTV9ST0xFIHRvIHRhYmxlIC9EU0NTQUcvUFJFRgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRG9jdW1lbnRSZWxhdGlvbiBkb2N1bWVudFJlbGF0aW9uID0gbmV3IERvY3VtZW50UmVsYXRpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSGFzaE1hcDxPYmplY3QsIE9iamVjdD4gb2JqZWN0T2JqZWN0SGFzaE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgbmV3IERvUmVsYQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRG9jdVJlbGF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuZW50cnlTZXQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGdiLmJyb2JqLkRvY3VtZW50UmVsYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
