@@ -12,6 +12,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1536065897324">
         <mark key="'" line="90" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1536225839849">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/.gitlab-ci.yml" timestamp="1534937880714">
         <mark key="'" line="265" column="25" />
       </file>
@@ -60,11 +63,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_OLD.xml" timestamp="1535027389929">
         <mark key="'" line="144" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536155031939">
-        <mark key="[" line="40" column="47" />
-        <mark key="]" line="36" column="1" />
-        <mark key="^" line="36" column="1" />
-        <mark key="." line="36" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536225744837">
+        <mark key="[" line="105" column="5" />
+        <mark key="]" line="105" column="11" />
+        <mark key="." line="105" column="11" />
+        <mark key="^" line="105" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" timestamp="1535036917300">
         <mark key="'" line="43" column="57" />
@@ -97,11 +100,10 @@
         <mark key="'" line="158" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1536163368631" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536159169814">
-        <mark key="[" line="66" column="81" />
-        <mark key="]" line="67" column="3" />
-        <mark key="." line="67" column="3" />
-        <mark key="^" line="67" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536226681758">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1536068607010">
         <mark key="'" line="2163" column="28" />
@@ -125,10 +127,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1536161627187">
         <mark key="'" line="562" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1536156957540">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="/fragment.java" timestamp="1536226619631">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/convert/pom.xml" timestamp="1536067743901">
         <mark key="[" line="12" column="23" />
@@ -239,11 +241,11 @@
       <jump line="238" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UGM</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>UGM</text>
+        <text>plmDocument.getDocStructure()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvcmRDb250YWluZXJcPg==</text>
@@ -252,37 +254,37 @@
         <text encoding="base64">T2JqZWN0PiBvYmplY3RzID0gbg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAoQ2xvbmVPcHRpb24pCiAgICB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGxtRG9jQm9tSXRlbXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIENsb25lT3B0aW9uIGdldEFjdGlvbkVudW0oQ2xvbmVPcHRpb24gYWN0aW9uKQogIHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgUHJvU3R1Ywo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgRG9jdW1lbnRSZWxhdGlvbiBkb2N1bWVudFJlbGF0aW9uID0gZG9jdW1lbnRSZWxhdGlvbnMuZ2V0KDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBsbUFjY2VzcyBwbG1BY2Nlc3MgPSBuZXcgUGxtQWNjZXNzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENsb25lUmVjb3JkIGNsb25lUmVjb3JkID0gbmV3IENsb25lUmVjb3JkKCk7Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAoQ2xvbmVPcHRpb24pCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsb25lUmVjb3JkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">OwogICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlIENsb25lT3B0aW9uIGdldEFjdGlvbkVudW0oQ2xvbmVPcHRpb24gYWN0aW9uKQogIHsKCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
