@@ -105,12 +105,11 @@
         <mark key="'" line="158" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1536163368631" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536251102173">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536252000155">
         <mark key="'" line="352" column="16" />
-        <mark key="[" line="355" column="39" />
-        <mark key="]" line="355" column="45" />
-        <mark key="." line="355" column="45" />
-        <mark key="^" line="355" column="45" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1536068607010">
         <mark key="'" line="2163" column="28" />
@@ -139,7 +138,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1535115595012">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1536248663061">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1536252558222">
         <mark key="'" line="562" column="2" />
       </file>
       <file name="/fragment.java" timestamp="1536248373992">
@@ -256,8 +255,8 @@
       <jump line="352" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHN0cnVjdXRyZS5nZXQoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -269,37 +268,37 @@
         <text encoding="base64">ICAgIFBsbUFjY2VzcyBwbG1BY2Nlc3MgPSBuZXcgUGxtQWNjZXNzKCk7CiAgICAgcmV0dXJuIHBsbUFjY2Vzcy5kb2N1bWVudEZpbmQoZ2V0TmV3TnVtYmVyKCksIGdldE5ld1R5cGUoKSwgZ2V0TmV3UGFydCgpLCBnZXROZXdWZXJzaW9uKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0cnVjdXRyZS5nZXQoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbm9uTWFzdGVyLmdldHAK</text>
+        <text encoding="base64">ICAgIENsb25lRG9jdW1lbnQga2V5ID0gbmV3IENsb25lRG9jdW1lbnQobmNNb2RlbCk7CiAgICBzdHJ1Y3V0cmUucHV0KGtleSwgbnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5jTW9kZWwuZ2UK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5jTW9kZWwuZ2V0TWFzdGVyTW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgbm9uTWFzdGVyLmdldHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgIG5jTW9kZWwuZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZURvY3VtZW50Owo=</text>
+        <text encoding="base64">ICAgIG5jTW9kZWwuZ2V0TWFzdGVyTW9kZWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIENsb25lRG9jdW1lbnQgY2xvbmVEb2N1bWVudCA9IG5ldyBDbG9uZURvY3VtZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkbwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZURvY3VtZW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IAo=</text>
+        <text encoding="base64">ICAgIC8vICAgIENsb25lRG9jdW1lbnQgY2xvbmVEb2N1bWVudCA9IG5ldyBDbG9uZURvY3VtZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
