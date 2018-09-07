@@ -76,11 +76,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1536322791385">
         <mark key="'" line="457" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536335837757">
-        <mark key="[" line="73" column="124" />
-        <mark key="]" line="73" column="124" />
-        <mark key="." line="73" column="124" />
-        <mark key="^" line="73" column="124" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536337072234">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="75" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/generic/DataAccessEndpoint.java" timestamp="1535025652962">
         <mark key="'" line="120" column="49" />
@@ -149,10 +149,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1535115595012">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1536330184024">
+      <file name="/fragment.java" timestamp="1536336986791">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+        <mark key="]" line="2" column="117" />
+        <mark key="." line="2" column="117" />
       </file>
     </filemarks>
     <jumps>
@@ -258,11 +258,11 @@
       <jump line="204" column="69" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UGM</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgUHJlZGljYXRlPD8gc3VwZXIgTWFwPFN0cmluZywgPz4+IGZpbHRlck5vQWN0aW9uID0gZSAtPiAhKGUuZ2V0KCJBQ1RJT04iKS5lcXVhbHMoQ2xvbmVPcHRpb24uTk9fQUNUSU9OLmdldEFjdGlvbktleSgpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>UGM</text>
+        <text>NO_ACTION</text>
       </register>
       <register name="/" type="4">
         <text>folder</text>
@@ -271,37 +271,37 @@
         <text encoding="base64">ICAgIGlmIChkb2N1bWVudEtleS5nZXROdW1iZXIoKS5lcXVhbHNJZ25vcmVDYXNlKGdldFRlbXBsYXRlTnVtYmVyKCkpKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgUHJlZGljYXRlPD8gc3VwZXIgTWFwPFN0cmluZywgPz4+IGZpbHRlck5vQWN0aW9uID0gZSAtPiAhKGUuZ2V0KCJBQ1RJT04iKS5lcXVhbHMoQ2xvbmVPcHRpb24uTk9fQUNUSU9OLmdldEFjdGlvbktleSgpKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoKICBQbG1Eb2N1bWVudCBuZXdEb2N1bWVudCA9IGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3RG9jdW1lbnQoKTsKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBwbG1BY2Nlc3MKICAgICAgICAgIC5kb2N1bWVudEZpbmQoZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdOdW1iZXIoKSwgZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdUeXBlKCksIGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3UGFydCgpLAogICAgICAgICAgICAgIGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3VmVyc2lvbigpKTsKICAgICAgUGxtRG9jdW1lbnRDb250YWluZXIgcGxtRG9jdW1lbnRzID0gbmV3IFBsbURvY3VtZW50Q29udGFpbmVyKCk7CiAgICAgIHBsbURvY3VtZW50cy5hZGREb2N1bWVudChwbG1Eb2N1bWVudCk7CiAgICAgIHBsbURvY3VtZW50cy5yZWFkRGV0YWlsc1BvcCh0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUpOwogICAgICByZWFkRG9jU3RydWN0dXJlU2luZ2xlKG5ld0RvY3VtZW50KTsKCiAgICAgIFBsbURvY1N0cnVjdHVyZSBkb2NTdHJ1Y3R1cmUgPSBuZXdEb2N1bWVudC5nZXREb2NTdHJ1Y3R1cmUoKTsKICAgICAgQ29sbGVjdGlvbjxQbG1Eb2NCb21JdGVtPiBwbG1Eb2NCb21JdGVtcyA9IGRvY1N0cnVjdHVyZS5nZXRQbG1Eb2NCb21JdGVtcygpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgKi8=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZG9jdW1lbnRSZWxhdGlvbnMgPSBldF9kb2N1bWVudHMuc3RyZWFtKCkKICAgICAgICAgIC5maWx0ZXIoZmlsdGVyTm9BY3Rpb24pCiAgICAgICAgICAubWFwKERvY3VtZW50UmVsYXRpb246Om5ldykKICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZVJlY29yZDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZVJlY29yZDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoKICBQbG1Eb2N1bWVudCBuZXdEb2N1bWVudCA9IGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3RG9jdW1lbnQoKTsKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBwbG1BY2Nlc3MKICAgICAgICAgIC5kb2N1bWVudEZpbmQoZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdOdW1iZXIoKSwgZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdUeXBlKCksIGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3UGFydCgpLAogICAgICAgICAgICAgIGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3VmVyc2lvbigpKTsKICAgICAgUGxtRG9jdW1lbnRDb250YWluZXIgcGxtRG9jdW1lbnRzID0gbmV3IFBsbURvY3VtZW50Q29udGFpbmVyKCk7CiAgICAgIHBsbURvY3VtZW50cy5hZGREb2N1bWVudChwbG1Eb2N1bWVudCk7CiAgICAgIHBsbURvY3VtZW50cy5yZWFkRGV0YWlsc1BvcCh0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUpOwogICAgICByZWFkRG9jU3RydWN0dXJlU2luZ2xlKG5ld0RvY3VtZW50KTsKCiAgICAgIFBsbURvY1N0cnVjdHVyZSBkb2NTdHJ1Y3R1cmUgPSBuZXdEb2N1bWVudC5nZXREb2NTdHJ1Y3R1cmUoKTsKICAgICAgQ29sbGVjdGlvbjxQbG1Eb2NCb21JdGVtPiBwbG1Eb2NCb21JdGVtcyA9IGRvY1N0cnVjdHVyZS5nZXRQbG1Eb2NCb21JdGVtcygpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgKi8=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQuc3RyZWFtKCkuYW55TWF0Y2goZSAtPiAhZS5nZXRQbG1Eb2N1bWVudCgpLmVxdWFscyhwbG1Eb2N1bWVudCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZVJlY29yZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZVJlY29yZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQuc3RyZWFtKCkuYW55TWF0Y2goZSAtPiAhZS5nZXRQbG1Eb2N1bWVudCgpLmVxdWFscyhwbG1Eb2N1bWVudCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwbG1Eb2N1bWVudDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwbG1Eb2NCb21JdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
