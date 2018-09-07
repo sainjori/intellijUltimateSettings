@@ -63,8 +63,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_OLD.xml" timestamp="1535027389929">
         <mark key="'" line="144" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536310868517">
-        <mark key="'" line="11" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536312172650">
+        <mark key="'" line="110" column="0" />
         <mark key="[" line="133" column="16" />
         <mark key="]" line="133" column="16" />
         <mark key="." line="133" column="16" />
@@ -112,11 +112,12 @@
         <mark key="'" line="158" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1536163368631" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536310989036">
-        <mark key="[" line="407" column="5" />
-        <mark key="]" line="408" column="15" />
-        <mark key="." line="408" column="15" />
-        <mark key="^" line="408" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536314086160">
+        <mark key="'" line="393" column="0" />
+        <mark key="[" line="134" column="60" />
+        <mark key="]" line="135" column="31" />
+        <mark key="." line="135" column="31" />
+        <mark key="^" line="135" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1536068607010">
         <mark key="'" line="2163" column="28" />
@@ -148,7 +149,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1535115595012">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1536255813812">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1536312009405">
         <mark key="'" line="562" column="2" />
       </file>
       <file name="/fragment.java" timestamp="1536248373992">
@@ -163,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
-      <jump line="401" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="439" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="493" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
       <jump line="618" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
@@ -263,13 +262,15 @@
       <jump line="399" column="7" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="9" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
       <jump line="102" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/cadagent/objmod/PlmDocument.java" />
+      <jump line="110" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
+      <jump line="388" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getTemplateNumber</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getTemplateNumber</text>
+        <text>PlmDocument plmDocument =</text>
       </register>
       <register name="/" type="4">
         <text>folder</text>
@@ -278,37 +279,37 @@
         <text encoding="base64">ICAgIGlmIChkb2N1bWVudEtleS5nZXROdW1iZXIoKS5lcXVhbHNJZ25vcmVDYXNlKGdldFRlbXBsYXRlTnVtYmVyKCkpKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHRlbXBsYXRlTnVtYmVyID0gZG9jdW1lbnRSZWxhdGlvbi5nZXRUZW1wbGF0ZU51bWJlcigpOwogICAgICBkb2N1bWVudFJlbGF0aW9uLmdldHQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRSZWxhdGlvbi5lcXVhbHMoZmVydGlnVGVpbE9sZCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pCiAgewogICAgYm9vbGVhbiBpc0VxdWFsID0gZmFsc2U7CiAgICBpZiAobyBpbnN0YW5jZW9mIFBsbURvY3VtZW50KQogICAgewogICAgICBEb2N1bWVudFJlbGF0aW9uIGNvbXAgPSAoRG9jdW1lbnRSZWxhdGlvbikgbzsKICAgICAgaXNFcXVhbCA9ICh0ZW1wbGF0ZU51bWJlci5lcXVhbHMoY29tcC5nZXRUZW1wbGF0ZU51bWJlcigpKSAmJiB0ZW1wbGF0ZVR5cGUuZXF1YWxzKGNvbXAuZ2V0VGVtcGxhdGVUeXBlKCkpCiAgICAgICAgICAmJiB0ZW1wbGF0ZVBhcnQuZXF1YWxzKGNvbXAuZ2V0VGVtcGxhdGVQYXJ0KCkpICYmIHRlbXBsYXRlVmVyc2lvbi5lcXVhbHMoY29tcC5nZXRUZW1wbGF0ZVZlcnNpb24oKSkpOwogICAgfQogICAgZWxzZQogICAgICBpc0VxdWFsID0gc3VwZXIuZXF1YWxzKG8pOwogICAgcmV0dXJuIGlzRXF1YWw7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwbG1Eb2NCb21JdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGlmIChwbG1Eb2NCb21JdGVtID09IG51bGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5lcXVhbHMob2JqKTsK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRSZWxhdGlvbi5nZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvY3UK</text>
+        <text encoding="base64">ICAgIHJlYWREb2NTdHJ1Y3R1cmVTaW5nbGUoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRSZWxhdGlvbnMgPSBkb2N1bWVudFJlbGF0aW9uczsK</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtRG9jQm9tSXRlbT4gcGxtRG9jQm9tSXRlbXMgPSBkb2NTdHJ1Y3R1cmUuZ2V0UGxtRG9jQm9tSXRlbXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gKFBsbURvY3VtZW50KSBwbG1Eb2NCb21JdGVtcwo=</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
