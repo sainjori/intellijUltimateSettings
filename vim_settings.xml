@@ -107,6 +107,9 @@
         <mark key="'" line="47" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/com/dscsag/pcp/PCPDatagram.java" timestamp="1536310337548" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" timestamp="1536340453705">
+        <mark key="'" line="226" column="9" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1535037948108">
         <mark key="'" line="116" column="53" />
       </file>
@@ -116,12 +119,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1535102474457">
         <mark key="'" line="158" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536335687205">
-        <mark key="'" line="188" column="33" />
-        <mark key="[" line="805" column="1" />
-        <mark key="]" line="806" column="0" />
-        <mark key="^" line="806" column="0" />
-        <mark key="." line="806" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536341587689">
+        <mark key="'" line="191" column="33" />
+        <mark key="[" line="584" column="30" />
+        <mark key="]" line="584" column="30" />
+        <mark key="." line="584" column="30" />
+        <mark key="^" line="584" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" timestamp="1536068607010">
         <mark key="'" line="2163" column="28" />
@@ -156,12 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="793" column="42" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
-      <jump line="834" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/sess/XmlData.java" />
-      <jump line="468" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
-      <jump line="483" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
-      <jump line="497" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
-      <jump line="43" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="65" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="216" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="218" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
@@ -256,61 +253,67 @@
       <jump line="457" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" />
       <jump line="188" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="204" column="69" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
+      <jump line="361" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" />
+      <jump line="364" column="81" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" />
+      <jump line="589" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" />
+      <jump line="1543" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" />
+      <jump line="184" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" />
+      <jump line="226" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrMaterial.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUHJlZGljYXRlPD8gc3VwZXIgTWFwPFN0cmluZywgPz4+IGZpbHRlck5vQWN0aW9uID0gZSAtPiAhKGUuZ2V0KCJBQ1RJT04iKS5lcXVhbHMoQ2xvbmVPcHRpb24uTk9fQUNUSU9OLmdldEFjdGlvbktleSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>NO_ACTION</text>
+        <text>objectLink</text>
       </register>
       <register name="/" type="4">
-        <text>folder</text>
+        <text encoding="base64">XDxzaWduXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChkb2N1bWVudEtleS5nZXROdW1iZXIoKS5lcXVhbHNJZ25vcmVDYXNlKGdldFRlbXBsYXRlTnVtYmVyKCkpKXsK</text>
+        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsIHBsbU1hdGVyaWFsID0gZ2V0TWF0ZXJpYWwob2xEb2MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUHJlZGljYXRlPD8gc3VwZXIgTWFwPFN0cmluZywgPz4+IGZpbHRlck5vQWN0aW9uID0gZSAtPiAhKGUuZ2V0KCJBQ1RJT04iKS5lcXVhbHMoQ2xvbmVPcHRpb24uTk9fQUNUSU9OLmdldEFjdGlvbktleSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRSZWxhdGlvbnMgPSBldF9kb2N1bWVudHMuc3RyZWFtKCkKICAgICAgICAgIC5maWx0ZXIoZmlsdGVyTm9BY3Rpb24pCiAgICAgICAgICAubWFwKERvY3VtZW50UmVsYXRpb246Om5ldykKICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoKICBQbG1Eb2N1bWVudCBuZXdEb2N1bWVudCA9IGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3RG9jdW1lbnQoKTsKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBwbG1BY2Nlc3MKICAgICAgICAgIC5kb2N1bWVudEZpbmQoZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdOdW1iZXIoKSwgZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdUeXBlKCksIGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3UGFydCgpLAogICAgICAgICAgICAgIGRvY3VtZW50UmVsYXRpb24uZ2V0TmV3VmVyc2lvbigpKTsKICAgICAgUGxtRG9jdW1lbnRDb250YWluZXIgcGxtRG9jdW1lbnRzID0gbmV3IFBsbURvY3VtZW50Q29udGFpbmVyKCk7CiAgICAgIHBsbURvY3VtZW50cy5hZGREb2N1bWVudChwbG1Eb2N1bWVudCk7CiAgICAgIHBsbURvY3VtZW50cy5yZWFkRGV0YWlsc1BvcCh0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUsdHJ1ZSx0cnVlLHRydWUpOwogICAgICByZWFkRG9jU3RydWN0dXJlU2luZ2xlKG5ld0RvY3VtZW50KTsKCiAgICAgIFBsbURvY1N0cnVjdHVyZSBkb2NTdHJ1Y3R1cmUgPSBuZXdEb2N1bWVudC5nZXREb2NTdHJ1Y3R1cmUoKTsKICAgICAgQ29sbGVjdGlvbjxQbG1Eb2NCb21JdGVtPiBwbG1Eb2NCb21JdGVtcyA9IGRvY1N0cnVjdHVyZS5nZXRQbG1Eb2NCb21JdGVtcygpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgKi8=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBEb2N1bWVudCBjbG9uZVhtbERvY3VtZW50ID0gY3JlYXRlQ2xvbmVYbWxEb2N1bWVudChuY01vZGVsKTsKICAgICAgICBGaWxlIHhtbEZpbGUgPSB0cmFuc2Zvcm1YbWxUb0ZpbGUoY2xvbmVYbWxEb2N1bWVudCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgICAgICAgUGxtRG9jdW1lbnQgam9iRG9jdW1lbnQgPSBjcmVhdGVEb2N1bWVudChqb2JEdHlwZSwgeG1sRmlsZSk7CiAgICAgICAgc2NoZWR1bGVDbG9uZUpvYihqb2JEb2N1bWVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZVJlY29yZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZVJlY29yZDsK</text>
+        <text encoding="base64">ICAgIGZvciAoUGxtT2JqZWN0TGluayBwbG1PYmplY3RMaW5rIDogcGxtT2JqZWN0TGlua3MpCiAgICB7CiAgICAgIFBsbU9iamVjdCBsaW5rZWRPYmplY3QgPSBwbG1PYmplY3RMaW5rLmdldExpbmtlZE9iamVjdCgpOwogICAgICBpZiAobGlua2VkT2JqZWN0IGluc3RhbmNlb2YgUGxtTWF0ZXJpYWwpCiAgICAgIHsKICAgICAgICByZXR1cm4gKFBsbU1hdGVyaWFsKSBsaW5rZWRPYmplY3Q7CiAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQuc3RyZWFtKCkuYW55TWF0Y2goZSAtPiAhZS5nZXRQbG1Eb2N1bWVudCgpLmVxdWFscyhwbG1Eb2N1bWVudCkpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGZvciAoUGxtT2JqZWN0TGluayBwbG1PYmplY3RMaW5rIDogcGxtT2JqZWN0TGlua3MpCiAgICB7CiAgICAgIFBsbU9iamVjdCBsaW5rZWRPYmplY3QgPSBwbG1PYmplY3RMaW5rLmdldExpbmtlZE9iamVjdCgpOwogICAgICBpZiAobGlua2VkT2JqZWN0IGluc3RhbmNlb2YgUGxtTWF0ZXJpYWwpCiAgICAgIHsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsIHBsbU1hdGVyaWFsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
       </register>
     </registers>
     <search>
-      <last-search>folder</last-search>
+      <last-search encoding="base64">XDxzaWduXD4=</last-search>
       <last-offset />
-      <last-pattern>folder</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpblBsbU1hdFw+</entry>
         <entry encoding="base64">XDxoaWJlcm5hdGVkXD4=</entry>
         <entry encoding="base64">XDxkYXRhQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</entry>
@@ -338,6 +340,7 @@
         <entry encoding="base64">XDxyZWNvcmRDb250YWluZXJcPg==</entry>
         <entry>addto</entry>
         <entry>folder</entry>
+        <entry encoding="base64">XDxzaWduXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCBwIDpwdTxDUj4=</entry>
