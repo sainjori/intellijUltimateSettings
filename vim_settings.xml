@@ -116,7 +116,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/proc/mat/DeereProcessSaveMatCostDataMulti.java" timestamp="1535102474457">
         <mark key="'" line="158" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536324546983">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536330083662">
         <mark key="'" line="188" column="33" />
         <mark key="[" line="805" column="1" />
         <mark key="]" line="806" column="0" />
@@ -139,18 +139,18 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" timestamp="1535136092077">
         <mark key="'" line="467" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536327181391">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536329365283">
         <mark key="'" line="204" column="69" />
-        <mark key="[" line="320" column="46" />
-        <mark key="]" line="320" column="49" />
-        <mark key="^" line="320" column="49" />
-        <mark key="." line="320" column="49" />
+        <mark key="[" line="95" column="88" />
+        <mark key="]" line="95" column="92" />
+        <mark key="^" line="95" column="92" />
+        <mark key="." line="95" column="92" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1535115595012">
         <mark key="'" line="308" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1536325098902">
-        <mark key="[" line="0" column="46" />
+      <file name="/fragment.java" timestamp="1536330184024">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
@@ -259,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DRWV</text>
+        <text>UGM</text>
       </register>
       <register name="-" type="4">
-        <text>DRWV</text>
+        <text>UGM</text>
       </register>
       <register name="/" type="4">
         <text>folder</text>
