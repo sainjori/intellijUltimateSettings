@@ -29,6 +29,13 @@
         <mark key="^" line="142" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocGetWhereusedAllVersions.java" timestamp="1536587135988" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536312172650">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="133" column="16" />
+        <mark key="]" line="133" column="16" />
+        <mark key="." line="133" column="16" />
+        <mark key="^" line="133" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536658914406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -42,6 +49,27 @@
         <mark key="." line="369" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrWhereUsedMode.java" timestamp="1536588357117" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536661562316">
+        <mark key="'" line="567" column="19" />
+        <mark key="[" line="584" column="30" />
+        <mark key="]" line="584" column="30" />
+        <mark key="." line="584" column="30" />
+        <mark key="^" line="584" column="30" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" timestamp="1536321359030">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="84" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536329365283">
+        <mark key="'" line="204" column="69" />
+        <mark key="[" line="95" column="88" />
+        <mark key="]" line="95" column="92" />
+        <mark key="^" line="95" column="92" />
+        <mark key="." line="95" column="92" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrGenericObjectContainer.java" timestamp="1536587794708" />
       <file name="/fragment.java" timestamp="1536657684183">
         <mark key="[" line="0" column="0" />
@@ -52,7 +80,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/brobj/FaContainerProviderRetriever.java" timestamp="1536577785807" />
     </filemarks>
     <jumps>
-      <jump line="415" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="417" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="440" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="442" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
@@ -152,6 +179,7 @@
       <jump line="1349" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
       <jump line="1373" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
       <jump line="141" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreePanelTreeModel.java" />
+      <jump line="567" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
