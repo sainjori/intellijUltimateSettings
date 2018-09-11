@@ -6,9 +6,6 @@
       <mark key="V" line="86" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1536225839849">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/FaWhereUsedObjectsHelper.java" timestamp="1536578226717" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/BrFAWhereUsedRoutingContainer.java" timestamp="1536593408126" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/BrFAProductionToolWhereUsedContainer.java" timestamp="1536580272710" />
@@ -24,15 +21,20 @@
         <mark key="^" line="270" column="46" />
         <mark key="." line="267" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreePanelTreeModel.java" timestamp="1536587356643" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreePanelTreeModel.java" timestamp="1536658087239">
+        <mark key="'" line="141" column="36" />
+        <mark key="[" line="142" column="13" />
+        <mark key="]" line="142" column="46" />
+        <mark key="." line="142" column="46" />
+        <mark key="^" line="142" column="46" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocGetWhereusedAllVersions.java" timestamp="1536587135988" />
-      <file name="/Dummy.txt" timestamp="1536588702680">
+      <file name="/Dummy.txt" timestamp="1536658914406">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/BrFAWhereUsedProductionOrderContainer.java" timestamp="1536589482480" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/.gitignore" timestamp="1536229529071">
-        <mark key="[" line="2" column="7" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/BrFAWhereUsedProductionOrderContainer.java" timestamp="1536657785827" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/LogonMain.java" timestamp="1536587971284">
         <mark key="[" line="369" column="0" />
         <mark key="]" line="369" column="0" />
@@ -41,16 +43,15 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrWhereUsedMode.java" timestamp="1536588357117" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrGenericObjectContainer.java" timestamp="1536587794708" />
-      <file name="/fragment.java" timestamp="1536590725489">
+      <file name="/fragment.java" timestamp="1536657684183">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/brobj/FaContainerProviderRetriever.java" timestamp="1536577785807" />
     </filemarks>
     <jumps>
-      <jump line="412" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="415" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="417" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
       <jump line="440" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
@@ -150,61 +151,62 @@
       <jump line="883" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
       <jump line="1349" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
       <jump line="1373" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="141" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreePanelTreeModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcjEuZ2V0Q2hpbGRyZW4oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>dirty work state</text>
       </register>
       <register name="-" type="4">
-        <text>W</text>
+        <text>dirty work state</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbUNsaWVudElkZW50XD4=</text>
+        <text encoding="base64">XDxCckNvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIExpc3Q8PyBleHRlbmRzIE9ick9iamVjdD4gY2hpbGRyZW4xID0gY29udGFpbmVyMS5nZXRDaGlsZHJlbihjX2tleSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcjEuZ2V0Q2hpbGRyZW4oKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbV9kb2MuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcjEuZ2V0Q2hpbGRyZW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBsbV9kb2MuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEJyRkFXaGVyZVVzZWRQcm9kdWN0aW9uT3JkZXJDb250YWluZXIgY29udGFpbmVyMTEgPSAoQnJGQVdoZXJlVXNlZFByb2R1Y3Rpb25PcmRlckNvbnRhaW5lcikgY29udGFpbmVyMTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>366</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbUNsaWVudElkZW50XD4=</last-search>
+      <last-search encoding="base64">XDxCckNvbnRhaW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbUNsaWVudElkZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCckNvbnRhaW5lclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -212,7 +214,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdEZXNjcmlwdGlvblw+</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxudW1iZXJBc3NpZ25tZW50XD4=</entry>
         <entry>genericFu</entry>
@@ -232,6 +233,7 @@
         <entry encoding="base64">XDxzaWduXD4=</entry>
         <entry encoding="base64">XDxEaWFsb2dib3hcPg==</entry>
         <entry encoding="base64">XDxvbUNsaWVudElkZW50XD4=</entry>
+        <entry encoding="base64">XDxCckNvbnRhaW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>pu</entry>
