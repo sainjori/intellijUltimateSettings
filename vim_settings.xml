@@ -10,11 +10,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/BrFAWhereUsedRoutingContainer.java" timestamp="1536593408126" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/plm/modules/fa/brobj/BrFAProductionToolWhereUsedContainer.java" timestamp="1536580272710" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.10.0/fctr-5.1.10.0-sources.jar!/cadagent/modules/fa/ProcessFAObjectGetWhereUsed.java" timestamp="1536589550481" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1536579382751">
-        <mark key="'" line="1373" column="35" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1536587019651" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1536589086536" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/brobj/BrObjectLinkContainer.java" timestamp="1536664824880" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrWhereUsedContainer.java" timestamp="1536593593067">
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="0" />
@@ -35,6 +32,13 @@
         <mark key="^" line="75" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocGetWhereusedAllVersions.java" timestamp="1536587135988" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536312172650">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="133" column="16" />
+        <mark key="]" line="133" column="16" />
+        <mark key="." line="133" column="16" />
+        <mark key="^" line="133" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536658914406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -48,19 +52,30 @@
         <mark key="." line="369" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrWhereUsedMode.java" timestamp="1536588357117" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536662417839">
-        <mark key="'" line="567" column="19" />
-        <mark key="[" line="584" column="30" />
-        <mark key="]" line="584" column="30" />
-        <mark key="." line="584" column="30" />
-        <mark key="^" line="584" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536665967675">
+        <mark key="'" line="568" column="19" />
+        <mark key="[" line="615" column="0" />
+        <mark key="]" line="615" column="0" />
+        <mark key="." line="615" column="0" />
+        <mark key="^" line="614" column="57" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" timestamp="1536321359030">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="84" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536329365283">
+        <mark key="'" line="204" column="69" />
+        <mark key="[" line="95" column="88" />
+        <mark key="]" line="95" column="92" />
+        <mark key="^" line="95" column="92" />
+        <mark key="." line="95" column="92" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrGenericObjectContainer.java" timestamp="1536587794708" />
-      <file name="/fragment.java" timestamp="1536657684183">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="47" />
+      <file name="/fragment.java" timestamp="1536666033519">
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/brobj/FaContainerProviderRetriever.java" timestamp="1536577785807" />
     </filemarks>
@@ -168,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dirty work state</text>
+        <text encoding="base64">bWFwKCBlIC0+IHsKICBQbG1PYmplY3QgbGlua2VkT2JqZWN0ID0gZS5nZXRMaW5rZWRPYmplY3QoKTsKICBpZiAobGlua2VkT2JqZWN0IGluc3RhbmNlb2YgUGxtTWF0ZXJpYWwpCiAgcmV0dXJuIChQbG1NYXRlcmlhbCkgbGlua2VkT2JqZWN0OwogIGVsc2UgCiAgICByZXR1cm4gbnVsbDs=</text>
       </register>
       <register name="-" type="4">
-        <text>dirty work state</text>
+        <text>filter(Objects::isNull).collect(Collectors.toList());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCckNvbnRhaW5lclw+</text>
@@ -179,41 +194,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIExpc3Q8PyBleHRlbmRzIE9ick9iamVjdD4gY2hpbGRyZW4xID0gY29udGFpbmVyMS5nZXRDaGlsZHJlbihjX2tleSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bWFwKCBlIC0+IHsKICBQbG1PYmplY3QgbGlua2VkT2JqZWN0ID0gZS5nZXRMaW5rZWRPYmplY3QoKTsKICBpZiAobGlua2VkT2JqZWN0IGluc3RhbmNlb2YgUGxtTWF0ZXJpYWwpCiAgcmV0dXJuIChQbG1NYXRlcmlhbCkgbGlua2VkT2JqZWN0OwogIGVsc2UgCiAgICByZXR1cm4gbnVsbDs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcjEuZ2V0Q2hpbGRyZW4oKQo=</text>
+        <text encoding="base64">ICAgIExpc3Q8UGxtTWF0ZXJpYWw+IGNvbGxlY3QgPSAoTGlzdDxQbG1NYXRlcmlhbD4pIHBsbU9iamVjdExpbmtzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihlIC0+IGUuZ2V0TGlua2VkT2JqZWN0KCkuZ2V0Q2xhc3MoKS5pc0luc3RhbmNlKFBsbU1hdGVyaWFsLmNsYXNzKSkKICAgICAgICAubWFwKGUgLT4gZS5nZXRMaW5rZWRPYmplY3QoKS5nZXRDbGFzcygpLmNhc3QoUGxtTWF0ZXJpYWwuY2xhc3MpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbV9kb2MuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcjEuZ2V0Q2hpbGRyZW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsbV9kb2MuCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIGNoaWxkcmVuLmFkZChjb250YWluZXIpOwo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>366</text>
+        <text>586</text>
       </register>
     </registers>
     <search>
@@ -249,7 +264,6 @@
         <entry encoding="base64">XDxCckNvbnRhaW5lclw+</entry>
       </history-search>
       <history-cmd>
-        <entry>pu</entry>
         <entry>1039</entry>
         <entry>1987</entry>
         <entry>631</entry>
@@ -269,6 +283,7 @@
         <entry>232</entry>
         <entry>77</entry>
         <entry>366</entry>
+        <entry>586</entry>
       </history-cmd>
       <history-expr />
       <history-input />
