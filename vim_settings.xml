@@ -32,11 +32,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="75" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536667604792">
-        <mark key="'" line="568" column="19" />
-        <mark key="[" line="628" column="0" />
-        <mark key="]" line="628" column="0" />
-        <mark key="." line="628" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536670450572">
+        <mark key="'" line="571" column="19" />
+        <mark key="[" line="116" column="17" />
+        <mark key="]" line="116" column="22" />
+        <mark key="^" line="116" column="22" />
+        <mark key="." line="116" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" timestamp="1536321359030">
         <mark key="'" line="92" column="0" />
@@ -172,50 +173,50 @@
       <jump line="567" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>boolean</text>
       </register>
       <register name="-" type="4">
-        <text>filter(Objects::isNull).collect(Collectors.toList());</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCckNvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAoUGxtTWF0ZXJpYWwpIHBsbU9iamVjdExpbmsuZ2V0TGlua2VkT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkdHlwZU9mTmNNb2RlbCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJnYi5uYy5hc3NlbWJseS5kdHlwZSIsICJVTk0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYWRkKG9iamVjdExpbmspOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bWFwKCBlIC0+IHsKICBQbG1PYmplY3QgbGlua2VkT2JqZWN0ID0gZS5nZXRMaW5rZWRPYmplY3QoKTsKICBpZiAobGlua2VkT2JqZWN0IGluc3RhbmNlb2YgUGxtTWF0ZXJpYWwpCiAgcmV0dXJuIChQbG1NYXRlcmlhbCkgbGlua2VkT2JqZWN0OwogIGVsc2UgCiAgICByZXR1cm4gbnVsbDs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtTWF0ZXJpYWw+IGNvbGxlY3QgPSAoTGlzdDxQbG1NYXRlcmlhbD4pIHBsbU9iamVjdExpbmtzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihlIC0+IGUuZ2V0TGlua2VkT2JqZWN0KCkuZ2V0Q2xhc3MoKS5pc0luc3RhbmNlKFBsbU1hdGVyaWFsLmNsYXNzKSkKICAgICAgICAubWFwKGUgLT4gZS5nZXRMaW5rZWRPYmplY3QoKS5nZXRDbGFzcygpLmNhc3QoUGxtTWF0ZXJpYWwuY2xhc3MpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNDYXNlQSA9IGNvbGxlY3Quc3RyZWFtKCkuYWxsTWF0Y2goZSAtPiBlLmVxdWFsc0lnbm9yZUNhc2UoZG9jdW1lbnRSZWxhdGlvbi5nZXRUZW1wbGF0ZU51bWJlcigpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcjEuZ2V0Q2hpbGRyZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbV9kb2MuCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>586</text>
