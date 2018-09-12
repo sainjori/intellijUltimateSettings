@@ -34,12 +34,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="75" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536673679492">
-        <mark key="'" line="630" column="34" />
-        <mark key="[" line="112" column="66" />
-        <mark key="]" line="112" column="71" />
-        <mark key="^" line="112" column="71" />
-        <mark key="." line="112" column="71" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536744505538">
+        <mark key="'" line="639" column="34" />
+        <mark key="[" line="606" column="8" />
+        <mark key="]" line="606" column="14" />
+        <mark key="^" line="606" column="14" />
+        <mark key="." line="606" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" timestamp="1536321359030">
         <mark key="'" line="92" column="0" />
@@ -69,9 +69,11 @@
         <mark key="." line="133" column="16" />
         <mark key="^" line="133" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1536687564579">
+      <file name="/fragment.java" timestamp="1536744724200">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -177,17 +179,17 @@
       <jump line="630" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmYXVsdFZhbDsK</text>
+      <register name="&quot;" type="4">
+        <text>plmDocument</text>
       </register>
       <register name="-" type="4">
-        <text>dtype</text>
+        <text>plmDocument</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCckNvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZmluYWwgU3RyaW5nIENMT05FX0RUWVBFID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInBsbS5hZHYuY2xvbmUuam9iLmR0eXBlIiwgIlBJTlQiKTsK</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwgIkNBU0UgQSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmYXVsdFZhbDsK</text>
