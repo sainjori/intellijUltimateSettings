@@ -6,7 +6,7 @@
       <mark key="V" line="86" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1536755591317">
+      <file name="/Dummy.txt" timestamp="1536761160474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -25,6 +25,9 @@
         <mark key="." line="369" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1536688618578" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1536760675938">
+        <mark key="'" line="83" column="25" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1536666681015" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/nxcam/NXCAMImportUtils.java" timestamp="1536688979091" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1536666681015" />
@@ -34,14 +37,24 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="75" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" timestamp="1536321359030">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="84" column="7" />
-        <mark key="." line="13" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/cadagent/objmod/PlmObjectLink.java" timestamp="1536762165080">
+        <mark key="'" line="45" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536329365283">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1536763072025">
+        <mark key="'" line="328" column="2" />
+        <mark key="[" line="361" column="4" />
+        <mark key="]" line="361" column="7" />
+        <mark key="." line="361" column="7" />
+        <mark key="^" line="361" column="7" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" timestamp="1536763109003">
+        <mark key="'" line="135" column="2" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="23" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1536759849225">
         <mark key="'" line="204" column="69" />
         <mark key="[" line="95" column="88" />
         <mark key="]" line="95" column="92" />
@@ -62,21 +75,19 @@
         <mark key="^" line="129" column="16" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1536754418461">
+      <file name="/fragment.java" timestamp="1536762635900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/CloneXmlUtil.java" timestamp="1536763118584">
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmMaterialContainer.java" />
-      <jump line="65" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmObjectLink.java" />
-      <jump line="70" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmObjectLink.java" />
-      <jump line="76" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/objmod/PlmObjectLink.java" />
-      <jump line="72" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/src/main/java/deere/dadi/createMatMulti/DadiCreateMaterialBefore.java" />
-      <jump line="291" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
-      <jump line="503" column="74" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
       <jump line="478" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
       <jump line="814" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" />
       <jump line="162" column="50" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreateMulti.java" />
@@ -170,19 +181,26 @@
       <jump line="630" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="290" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="333" column="62" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="890" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="829" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="83" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" />
+      <jump line="347" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="328" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="45" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/cadagent/objmod/PlmObjectLink.java" />
+      <jump line="135" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gb86Util</text>
       </register>
       <register name="-" type="4">
-        <text>e.printStackTrace();</text>
+        <text>gb86Util</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCckNvbnRhaW5lclw+</text>
+        <text encoding="base64">XDxQcm9jZXNzRG9jR2V0Tm9uTWFzdGVyc0Zhc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gIioiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oMCwgIk5vIHNpZ25lZCBsaW5rcyIgKyBwbG1PYmplY3RMaW5rKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -191,40 +209,40 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIERvY3VtZW50IGNyZWF0ZUNsb25lWG1sRG9jdW1lbnQoKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgovLyAgewovLy8vICAgIExpc3Q8Q2xvbmVEb2N1bWVudD4gaW5Eb3dubG9hZERvY3VtZW50cyA9IGdldE9iamVjdElucHV0KFBsbVByb2Nlc3NEb2N1bWVudENsb25lLklOX0RPV05MT0FEX0RPQ1VNRU5UUyk7Ci8vLy8gICAgTGlzdDxDbG9uZVJlY29yZD4gaW5DbG9uZVJlY29yZHMgPSBnZXRPYmplY3RJbnB1dChQbG1Qcm9jZXNzRG9jdW1lbnRDbG9uZS5JTl9DTE9ORV9SRUNPUkRTKTsKLy8vLyAgICBNYXA8Q2xvbmVEb2N1bWVudCwgU2V0PENsb25lRG9jdW1lbnQ+PiBpblN0cnVjdXRyZSA9IGdldE9iamVjdElucHV0KFBsbVByb2Nlc3NEb2N1bWVudENsb25lLklOX1NUUlVDVFVSRSk7Ci8vLy8gICAgTGlzdDxDbG9uZURvY3VtZW50PiBpblRvcERvY3VtZW50cyA9IGdldE9iamVjdElucHV0KFBsbVByb2Nlc3NEb2N1bWVudENsb25lLklOX1RPUF9ET0NVTUVOVFMpOwovLyAgICBQbG1Gb2xkZXIgYWRkVG9Gb2xkZXIgPSBCckZvbGRlci5nZXRBY3RpdmVQbG1Gb2xkZXIoKTsKLy8KLy8gICAgRG9jdW1lbnQgY2xvbmVYbWxEb2N1bWVudCA9IFhtbFV0aWxzLmdldERvY3VtZW50KCk7Ci8vCi8vICAgIEVsZW1lbnQgY2xvbmVFbGVtZW50ID0gYWRkQ2xvbmVFbGVtZW50KGNsb25lWG1sRG9jdW1lbnQpOwovLyAgICBhZGREb2N1bWVudHMoQ2xvbmVUYXNrLk5PREVfRE9XTkxPQURfRE9DVU1FTlRTLCBpbkRvd25sb2FkRG9jdW1lbnRzLCBjbG9uZUVsZW1lbnQsIGNsb25lWG1sRG9jdW1lbnQpOwovLyAgICBhZGREb2N1bWVudHMoQ2xvbmVUYXNrLk5PREVfVE9QX0RPQ1VNRU5UUywgaW5Ub3BEb2N1bWVudHMsIGNsb25lRWxlbWVudCwgY2xvbmVYbWxEb2N1bWVudCk7Ci8vICAgIGFkZFN0cnVjdHVyZShpblN0cnVjdXRyZSwgY2xvbmVFbGVtZW50LCBjbG9uZVhtbERvY3VtZW50KTsKLy8gICAgYWRkQ2xvbmVSZWNvcmRzKGluQ2xvbmVSZWNvcmRzLCBjbG9uZUVsZW1lbnQsIGNsb25lWG1sRG9jdW1lbnQpOwovLyAgICBhZGRBZGRUb0ZvbGRlcihhZGRUb0ZvbGRlciwgY2xvbmVFbGVtZW50LCBjbG9uZVhtbERvY3VtZW50KTsKLy8KLy8gICAgYWRkQ3VzdG9tZXJEYXRhKGNsb25lRWxlbWVudCwgY2xvbmVYbWxEb2N1bWVudCk7Ci8vCi8vICAgIHJldHVybiBjbG9uZVhtbERvY3VtZW50OwovLyAgfQoKICBwcml2YXRlIHN0YXRpYyB2b2lkIGFkZEN1c3RvbWVyRGF0YShFbGVtZW50IGNsb25lRWxlbWVudCwgRG9jdW1lbnQgY2xvbmVYbWxEb2N1bWVudCkKICAgICAgdGhyb3dzIERlZmF1bHRMb2dFeGNlcHRpb24KICB7CiAgICBMaXN0PEVudHJ5PFN0cmluZywgU3RyaW5nPj4gY3VzdG9tZXJEYXRhID0gZ2V0Q3VzdG9tZXJEYXRhKCk7CiAgICBpZiAoY3VzdG9tZXJEYXRhICE9IG51bGwpCiAgICB7CiAgICAgIEVsZW1lbnQgY3VzdG9tZXJEYXRhRWxlbWVudCA9IGNsb25lWG1sRG9jdW1lbnQuY3JlYXRlRWxlbWVudChDbG9uZVRhc2suTk9ERV9DVVNUT01FUl9EQVRBKTsKICAgICAgY2xvbmVFbGVtZW50LmFwcGVuZENoaWxkKGN1c3RvbWVyRGF0YUVsZW1lbnQpOwogICAgICBmb3IgKEVudHJ5PFN0cmluZywgU3RyaW5nPiBlbnRyeSA6IGN1c3RvbWVyRGF0YSkKICAgICAgICBhZGRFbnRyeShlbnRyeSwgY3VzdG9tZXJEYXRhRWxlbWVudCwgY2xvbmVYbWxEb2N1bWVudCk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vTWFwPHBsbS5wcm9jLmRvYy5jbG9uZS5DbG9uZURvY3VtZW50LCBTZXQ8cGxtLnByb2MuZG9jLmNsb25lLkNsb25lRG9jdW1lbnQ+PiBpblN0cnVjdXRyZSA9IGdldE9iamVjdElucHV0KFBsbVByb2Nlc3NEb2N1bWVudENsb25lLklOX1NUUlVDVFVSRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oMCwgIlJldHVybiBzaWduZWQgbGlua3MiICsgcGxtT2JqZWN0TGluayk7CiAgICAgICAgICByZXR1cm4gKFBsbU1hdGVyaWFsKSBwbG1PYmplY3RMaW5rLmdldExpbmtlZE9iamVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnRDb250YWluZXIgY29udGFpbmVyID0gZ2V0T2JqZWN0SW5wdXQoUGxtUHJvY2Vzc0RvY3VtZW50Q2xvbmUuREFESV9JTk9VVF9DUkVBVEVEX0RPQ1VNRU5UUyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdOdW1iZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGMuYWRkT2JqZWN0KFBvcERvY0NyZWF0ZS5JTl9DSEFOR0VfVE9fU1RBVFVTLCAiQUMiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCckNvbnRhaW5lclw+</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzRG9jR2V0Tm9uTWFzdGVyc0Zhc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCckNvbnRhaW5lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzRG9jR2V0Tm9uTWFzdGVyc0Zhc3RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -232,8 +250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry encoding="base64">XDxudW1iZXJBc3NpZ25tZW50XD4=</entry>
         <entry>genericFu</entry>
         <entry encoding="base64">XDxpbXBvcnRQYXJhbWV0ZXJcPg==</entry>
         <entry>readme</entry>
@@ -252,6 +268,8 @@
         <entry encoding="base64">XDxEaWFsb2dib3hcPg==</entry>
         <entry encoding="base64">XDxvbUNsaWVudElkZW50XD4=</entry>
         <entry encoding="base64">XDxCckNvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxjb3B5TGlua3NcPg==</entry>
+        <entry encoding="base64">XDxQcm9jZXNzRG9jR2V0Tm9uTWFzdGVyc0Zhc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>631</entry>
