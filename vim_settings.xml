@@ -16,11 +16,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1536849582536">
         <mark key="'" line="85" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/nxcam/NXCAMImportUtils.java" timestamp="1536850791012">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="59" column="25" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/nxcam/NXCAMImportUtils.java" timestamp="1536851378029">
+        <mark key="[" line="54" column="71" />
+        <mark key="]" line="54" column="81" />
+        <mark key="^" line="54" column="81" />
+        <mark key="." line="54" column="81" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1536770133102">
         <mark key="[" line="78" column="0" />
@@ -31,10 +31,14 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/cadagent/objmod/PlmObjectLink.java" timestamp="1536762165080">
         <mark key="'" line="45" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/nxcam/NXCAMValueExtractor.java" timestamp="1536851311880">
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="428" column="0" />
+        <mark key="." line="428" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/cadagent/proc/doc/ProcessDocGetNonMastersFast.java" timestamp="1536838331715">
         <mark key="'" line="71" column="118" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ERROR/85000096_A-Gewindebohrwerkzeug.xml" timestamp="1536688846888" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1536755077000">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="37" column="0" />
@@ -42,10 +46,10 @@
         <mark key="^" line="129" column="16" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536842027400">
+      <file name="/Dummy.txt" timestamp="1536851453905">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.3/base-5.1.9.3-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1536840422436">
         <mark key="'" line="871" column="53" />
@@ -56,7 +60,6 @@
         <mark key="^" line="370" column="13" />
         <mark key="." line="369" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1536688618578" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1536760675938">
         <mark key="'" line="83" column="25" />
       </file>
@@ -202,11 +205,11 @@
       <jump line="722" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bugfix</text>
       </register>
       <register name="-" type="4">
-        <text>CLONE</text>
+        <text>bugfix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPVVRfTk9OTUFTVEVSU1w+</text>
@@ -215,37 +218,37 @@
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRIZWFkZXIxKDAsICJEQURJIEFGVEVSIENMT05FIEZJTklTSEVEIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRIZWFkZXIxKDAsICJFTkQgQUZURVIgIEZJTklTSEVEIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRIZWFkZXIxKDAsICJBRlRFUiBDTE9ORSBGSU5JU0hFRCIpOwo=</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRIZWFkZXIxKDAsICJFTkQgQUZURVIgIEZJTklTSEVEIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRIZWFkZXIxKDAsICJBRlRFUiBDTE9ORSBGSU5JU0hFRCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChubykK</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghZ2V0Tm9uTWFzdGVyKG5jTW9kZWwpLmlzRW1wdHkoKSkK</text>
+        <text encoding="base64">ICAgIGlmIChubykK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtRG9jdW1lbnQ+IG5vbk1hc3RlciA9IGdldE5vbk1hc3RlcihuY01vZGVsKTsK</text>
+        <text encoding="base64">ICAgIGlmICghZ2V0Tm9uTWFzdGVyKG5jTW9kZWwpLmlzRW1wdHkoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtRG9jdW1lbnQ+IG5vbk1hc3RlciA9IGdldE5vbk1hc3RlcihuY01vZGVsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>373</text>
