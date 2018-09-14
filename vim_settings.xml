@@ -13,18 +13,15 @@
         <mark key="." line="142" column="46" />
         <mark key="^" line="142" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1536920897732">
-        <mark key="'" line="93" column="25" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1536922920495">
+        <mark key="'" line="90" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" timestamp="1536920915802">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="2572" column="72" />
-        <mark key="]" line="2573" column="48" />
-        <mark key="^" line="2573" column="48" />
-        <mark key="." line="2573" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" timestamp="1536922622846">
+        <mark key="'" line="2560" column="63" />
+        <mark key="[" line="2573" column="44" />
+        <mark key="]" line="2573" column="47" />
+        <mark key="^" line="2573" column="47" />
+        <mark key="." line="2573" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/utils/nxcam/NXCAMImportUtils.java" timestamp="1536851378029">
         <mark key="[" line="54" column="71" />
@@ -57,7 +54,7 @@
         <mark key="^" line="129" column="16" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536921476060">
+      <file name="/Dummy.txt" timestamp="1536922981824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,8 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneMainDialog.java" />
-      <jump line="65" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneButtonPanel.java" />
       <jump line="70" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/ProcessDocumentClone.java" />
       <jump line="90" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.2.1/plm-5.1.2.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" />
       <jump line="2163" column="28" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.2.1/customize/config/default.txt" />
@@ -217,13 +212,15 @@
       <jump line="178" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="722" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="16" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
+      <jump line="14" column="73" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
+      <jump line="2560" column="63" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPVVRfTk9OTUFTVEVSU1w+</text>
