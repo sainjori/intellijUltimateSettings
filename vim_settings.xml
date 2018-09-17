@@ -73,8 +73,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537178784477">
-        <mark key="'" line="138" column="43" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537184314749">
+        <mark key="'" line="382" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrModelInterface.java" timestamp="1536933849419">
         <mark key="'" line="156" column="60" />
@@ -105,23 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="277" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="199" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="266" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="136" column="71" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="132" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="113" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="129" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="316" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="178" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" />
-      <jump line="31" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" />
-      <jump line="204" column="72" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" />
-      <jump line="472" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="261" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" />
-      <jump line="352" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="23" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/util/gb86Util.java" />
-      <jump line="399" column="7" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="9" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
       <jump line="102" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.3/sapbase-5.1.9.3-sources.jar!/cadagent/objmod/PlmDocument.java" />
       <jump line="110" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
@@ -205,6 +188,23 @@
       <jump line="134" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
       <jump line="130" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="138" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1163" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="136" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="329" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="337" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1050" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1059" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1077" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1121" column="69" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1176" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1177" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="1500" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="105" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="206" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="279" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="283" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="291" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
+      <jump line="382" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -214,7 +214,7 @@
         <text>&quot;balaa&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNRUlOU1w+</text>
+        <text encoding="base64">XDxhZHZNYXRGaWVsZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eSA9IGFkZE9iclByb3BlcnR5KCBuZXcgT2JyUHJvcGVydHkoTUVURVJJQUxfTlVNQkVSLCBtZXRlcmlhbG51bW1lciwgcGxtTWF0ZXJpYWwuZ2V0RXh0TnVtYmVyKCksIHRydWUsIGZhbHNlKSk7Cg==</text>
@@ -257,9 +257,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNRUlOU1w+</last-search>
+      <last-search encoding="base64">XDxhZHZNYXRGaWVsZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNRUlOU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhZHZNYXRGaWVsZHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -267,8 +267,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9uZUJ1dHRvbnNcPg==</entry>
-        <entry encoding="base64">XDxkYWRpQWZ0ZXJDbG9uZUV4dGVuZGVkXD4=</entry>
         <entry encoding="base64">XDxkYWRpQWZ0ZXJDbG9uZUZpbmlzaGVkXD4=</entry>
         <entry encoding="base64">XDxyZWNvcmRDb250YWluZXJcPg==</entry>
         <entry>addto</entry>
@@ -287,6 +285,8 @@
         <entry encoding="base64">XDxkYm9PYmplY3RUeXBlXD4=</entry>
         <entry encoding="base64">XDxndWlOYW1lXD4=</entry>
         <entry encoding="base64">XDxNRUlOU1w+</entry>
+        <entry encoding="base64">XDxNVEFSVFw+</entry>
+        <entry encoding="base64">XDxhZHZNYXRGaWVsZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>630</entry>
