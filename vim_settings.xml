@@ -13,7 +13,7 @@
         <mark key="." line="173" column="65" />
         <mark key="^" line="173" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1537457448104">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1537459962099">
         <mark key="'" line="77" column="3" />
       </file>
       <file name="/1.regexp" timestamp="1537446583095">
@@ -30,7 +30,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1537451718652">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1537460006299">
         <mark key="[" line="426" column="12" />
         <mark key="]" line="441" column="11" />
         <mark key="^" line="441" column="11" />
@@ -57,12 +57,12 @@
       <file name="/1.txt" timestamp="1537446572262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1537458605846">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1537459766312">
         <mark key="'" line="87" column="62" />
-        <mark key="[" line="204" column="24" />
-        <mark key="]" line="204" column="33" />
-        <mark key="." line="204" column="33" />
-        <mark key="^" line="204" column="33" />
+        <mark key="[" line="96" column="104" />
+        <mark key="]" line="96" column="104" />
+        <mark key="." line="96" column="104" />
+        <mark key="^" line="635" column="26" />
       </file>
       <file name="/1.groovy" timestamp="1537446572266">
         <mark key="[" line="0" column="0" />
@@ -237,49 +237,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text encoding="base64">ICYmICFlLmlzRnJvbVRlbXBsYXRlKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">ICYmICFlLmlzRnJvbVRlbXBsYXRlKCk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcmFtZXRlcnMuYWRkKCItbG9hZF9jb21wb25lbnRzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChleGlzdGVuY2VDaGVjayAmJiBTdHJpbmdUb29sLmhhc0NvbnRlbnQoYnVja2V0T2JqZWN0LmdldFNhcE5yKCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoIWV4aXN0ZW5jZUNoZWNrICYmIGJ1Y2tldE9iamVjdC5nZXRTYXBOcigpICE9IG51bGwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGlzdE9mRmlsZXMubGVuZ3RoOyBpKyspIHsKICAgICAgaWYgKGxpc3RPZkZpbGVzW2ldLmlzRmlsZSgpKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGaWxlIGFhYSIgKyBsaXN0T2ZGaWxlc1tpXS5nZXROYW1lKCkpOwogICAgICB9IGVsc2UgaWYgKGxpc3RPZkZpbGVzW2ldLmlzRGlyZWN0b3J5KCkpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRpcmVjdG9yeSBiYmIiICsgbGlzdE9mRmlsZXNbaV0uZ2V0TmFtZSgpKTsKICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEZpbGVzLncK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpci53YQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dGaWxlLmRlbGV0ZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGlzdE9mRmlsZXMubGVuZ3RoOyBpKyspIHsKICAgICAgaWYgKGxpc3RPZkZpbGVzW2ldLmlzRmlsZSgpKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGaWxlIGFhYSIgKyBsaXN0T2ZGaWxlc1tpXS5nZXROYW1lKCkpOwogICAgICB9IGVsc2UgaWYgKGxpc3RPZkZpbGVzW2ldLmlzRGlyZWN0b3J5KCkpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRpcmVjdG9yeSBiYmIiICsgbGlzdE9mRmlsZXNbaV0uZ2V0TmFtZSgpKTsKICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEZpbGVzLncK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRpci53YQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dGaWxlLmRlbGV0ZSgpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFydC5zZXRNZXRhSW5mRmlsZW5hbWUoZmlsZW5hbWUyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFydC5zZXRNZXRhSW5mRmlsZW5hbWUoZmlsZW5hbWUyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFydC5zZXRNZXRhSW5mRmlsZW5hbWUoZmlsZW5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>142</text>
