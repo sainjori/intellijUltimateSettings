@@ -12,18 +12,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1537539398770">
         <mark key="'" line="77" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1536943367723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/psm/gui/search/SearchDialog.java" timestamp="1537779256436" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/ExportAction.java" timestamp="1537780169317">
         <mark key="'" line="66" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ApplPart.java" timestamp="1537524270031">
         <mark key="'" line="792" column="4" />
-      </file>
-      <file name="/__dummy.as" timestamp="1537446372206">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/dadi/YpsomedDadiExportBefore.java" timestamp="1536941622354">
         <mark key="'" line="589" column="40" />
@@ -35,35 +29,41 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentCheckoutFast.java" timestamp="1537790769929">
         <mark key="'" line="124" column="20" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" timestamp="1537792573540">
+        <mark key="'" line="592" column="8" />
+        <mark key="[" line="592" column="0" />
+        <mark key="]" line="592" column="0" />
+        <mark key="." line="592" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1537538080010">
         <mark key="'" line="179" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/messaging/NotificationBroadcastingService.java" timestamp="1537783779588" />
-      <file name="/1.txt" timestamp="1537446572262">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1537544452202">
         <mark key="'" line="289" column="4" />
-      </file>
-      <file name="/1.groovy" timestamp="1537446572266">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2-rc20/plm-5.1.13.2-rc20-sources.jar!/plm/sess/ApplPart.java" timestamp="1537448566312">
         <mark key="'" line="301" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/CancelKeyAdapter.java" timestamp="1537778368630" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/util/AbortableSwingWorker.java" timestamp="1537791128901" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/util/AbortableSwingWorker.java" timestamp="1537792930234">
+        <mark key="'" line="81" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1536942747935">
         <mark key="'" line="701" column="90" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1537546178473">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
         <mark key="'" line="135" column="43" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrModelInterface.java" timestamp="1536933849419">
         <mark key="'" line="156" column="60" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/messaging/utils/CancelEventBroadcaster.java" timestamp="1537792774568" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/Hafe.java" timestamp="1537792275698">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.eventadmin/1.4.8/org.apache.felix.eventadmin-1.4.8-sources.jar!/org/apache/felix/eventadmin/impl/tasks/SyncDeliverTasks.java" timestamp="1537784021970" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentOpenFast.java" timestamp="1537790724054">
@@ -83,7 +83,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1537438453086">
         <mark key="'" line="122" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1537775940836" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/omf/OmfDocOpenFastWithDef.java" timestamp="1537790679432">
         <mark key="'" line="490" column="8" />
       </file>
@@ -93,13 +92,15 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxBackgroundPanel.java" timestamp="1537780113702" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/plugins/OSGINotificationBroadcaster.java" timestamp="1537790878843" />
+      <file name="/fragment.java" timestamp="1537792097180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfShutdown.java" timestamp="1537783832430" />
     </filemarks>
     <jumps>
-      <jump line="1193" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="1479" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="135" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="107" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" />
       <jump line="157" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" />
       <jump line="158" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" />
       <jump line="175" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" />
@@ -196,13 +197,17 @@
       <jump line="357" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentCheckoutFast.java" />
       <jump line="124" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentCheckoutFast.java" />
       <jump line="100" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfAddWithMacro.java" />
+      <jump line="566" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
+      <jump line="591" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
+      <jump line="592" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
+      <jump line="81" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/util/AbortableSwingWorker.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>handler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhYm9ydGFibGVcPg==</text>
@@ -211,37 +216,37 @@
         <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbENvbnRhaW5lciBjb250YWluZXIgPSBuZXcgUGxtTWF0ZXJpYWxDb250YWluZXIocGxtTWF0ZXJpYWxzKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5yZWFkTWFpbkRldGFpbHModHJ1ZSk7CiAgICAgICAgfSBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoMCwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIuY2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGxtTWF0ZXJpYWxDb250YWluZXIgY29udGFpbmVyMiA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcihwbG1NYXRlcmlhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgQE51bGxhYmxlIE5vdGlmaWNhdGlvbkJyb2FkY2FzdFJlZ2lzdHJhdGlvbiBub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVNZXRhSW5mKGJ1Y2tldExpc3QsIGdldFNhdmVMb2NhdGlvbih4bWxEYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuY2xlYXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG1NYXRlcmlhbCA9IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldygiKiIsIG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGxtTWF0ZXJpYWxDb250YWluZXIgY29udGFpbmVyMiA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcihwbG1NYXRlcmlhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVNZXRhSW5mKGJ1Y2tldExpc3QsIGdldFNhdmVMb2NhdGlvbih4bWxEYXRhKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiBmcm9tIHRlbXBhbHRlIGluIGVpdGhlciBjYXNlIHNvIHdlIGRvbnQgbmVlZCB0byBzZXQgdmFsdWVzIGZvciBtYXRlcmlhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>142</text>
@@ -258,7 +263,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxndWlOYW1lXD4=</entry>
         <entry encoding="base64">XDxNRUlOU1w+</entry>
         <entry encoding="base64">XDxNVEFSVFw+</entry>
         <entry encoding="base64">XDxhZHZNYXRGaWVsZHNcPg==</entry>
@@ -277,6 +281,7 @@
         <entry encoding="base64">XDxwcm9ncmVzc0Jhclw+</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxkY1w+</entry>
+        <entry encoding="base64">XDxub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxhYm9ydGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
