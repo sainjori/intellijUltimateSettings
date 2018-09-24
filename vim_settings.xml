@@ -9,11 +9,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1537539398770">
         <mark key="'" line="77" column="3" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/exc/ProcessCancelledException.java" timestamp="1537801229711" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/ExportAction.java" timestamp="1537780169317">
         <mark key="'" line="66" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" timestamp="1537797794778">
-        <mark key="'" line="210" column="16" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" timestamp="1537801567291">
+        <mark key="'" line="908" column="0" />
         <mark key="[" line="592" column="0" />
         <mark key="]" line="592" column="0" />
         <mark key="." line="592" column="0" />
@@ -68,17 +69,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrModelInterface.java" timestamp="1536933849419">
         <mark key="'" line="156" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/Hafe.java" timestamp="1537797693602">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="9" column="48" />
-        <mark key="^" line="9" column="48" />
-        <mark key="." line="9" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/Hafe.java" timestamp="1537801324634">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.eventadmin/1.4.8/org.apache.felix.eventadmin-1.4.8-sources.jar!/org/apache/felix/eventadmin/impl/tasks/SyncDeliverTasks.java" timestamp="1537784021970" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentOpenFast.java" timestamp="1537790724054">
         <mark key="'" line="184" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" timestamp="1537790553887">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" timestamp="1537801358288">
         <mark key="'" line="148" column="4" />
         <mark key="[" line="188" column="24" />
         <mark key="]" line="188" column="27" />
@@ -94,7 +94,7 @@
         <mark key="'" line="114" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/plugins/OSGINotificationBroadcaster.java" timestamp="1537797033252" />
-      <file name="/fragment.java" timestamp="1537797176298">
+      <file name="/fragment.java" timestamp="1537801278266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
         <mark key="^" line="0" column="26" />
@@ -102,8 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" />
-      <jump line="455" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" />
       <jump line="461" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" />
       <jump line="248" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" />
       <jump line="179" column="47" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" />
@@ -202,10 +200,12 @@
       <jump line="625" column="68" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
       <jump line="634" column="58" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
       <jump line="210" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
+      <jump line="932" column="60" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
+      <jump line="908" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBTdGF0dXNsCg==</text>
       </register>
       <register name="-" type="4">
         <text>handler</text>
@@ -217,37 +217,37 @@
         <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbENvbnRhaW5lciBjb250YWluZXIgPSBuZXcgUGxtTWF0ZXJpYWxDb250YWluZXIocGxtTWF0ZXJpYWxzKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5yZWFkTWFpbkRldGFpbHModHJ1ZSk7CiAgICAgICAgfSBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoMCwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBTdGF0dXNsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQE51bGxhYmxlIE5vdGlmaWNhdGlvbkJyb2FkY2FzdFJlZ2lzdHJhdGlvbiBub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgIEd1aVV0aWxzLnVwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEd1aVV0aWxzLmNsZWFyU3RhdHVzTGluZVRleHQoKTsKICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVJbmZvVGV4dCgidHJ5aW5nIHRvIGNhbmNlbCBjdXJyZW50IHByb2Nlc3MuLi4iKTsKICAgIEd1aVV0aWxzLnVwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIuY2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgICAgQE51bGxhYmxlIE5vdGlmaWNhdGlvbkJyb2FkY2FzdFJlZ2lzdHJhdGlvbiBub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGxtTWF0ZXJpYWxDb250YWluZXIgY29udGFpbmVyMiA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcihwbG1NYXRlcmlhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVNZXRhSW5mKGJ1Y2tldExpc3QsIGdldFNhdmVMb2NhdGlvbih4bWxEYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuY2xlYXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGxtTWF0ZXJpYWxDb250YWluZXIgY29udGFpbmVyMiA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcihwbG1NYXRlcmlhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>142</text>
