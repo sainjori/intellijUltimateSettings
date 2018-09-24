@@ -52,6 +52,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1537538080010">
         <mark key="'" line="179" column="47" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/messaging/NotificationBroadcastingService.java" timestamp="1537783779588" />
       <file name="/1.txt" timestamp="1537446572262">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +73,7 @@
         <mark key="'" line="301" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/CancelKeyAdapter.java" timestamp="1537778368630" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/util/AbortableSwingWorker.java" timestamp="1537783818980" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1536942747935">
         <mark key="'" line="701" column="90" />
       </file>
@@ -90,8 +92,13 @@
         <mark key="^" line="299" column="52" />
         <mark key="." line="299" column="52" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" timestamp="1537781901268">
-        <mark key="'" line="128" column="27" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.eventadmin/1.4.8/org.apache.felix.eventadmin-1.4.8-sources.jar!/org/apache/felix/eventadmin/impl/tasks/SyncDeliverTasks.java" timestamp="1537784021970" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" timestamp="1537784195126">
+        <mark key="'" line="127" column="23" />
+        <mark key="[" line="188" column="24" />
+        <mark key="]" line="188" column="27" />
+        <mark key="^" line="188" column="27" />
+        <mark key="." line="188" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1536760675938">
         <mark key="'" line="83" column="25" />
@@ -108,11 +115,6 @@
         <mark key="'" line="122" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1537775940836" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1537536835131">
-        <mark key="'" line="193" column="6" />
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="77" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/psm/proc/ProcessPsmNodeSearch.java" timestamp="1537779310886" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxBackgroundPanel.java" timestamp="1537780113702" />
       <file name="/fragment.java" timestamp="1537545706585">
@@ -121,16 +123,9 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfShutdown.java" timestamp="1537783832430" />
     </filemarks>
     <jumps>
-      <jump line="489" column="56" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="490" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="544" column="56" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="545" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="596" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="656" column="56" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="657" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
-      <jump line="690" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
       <jump line="735" column="56" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
       <jump line="736" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
       <jump line="766" column="56" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" />
@@ -223,16 +218,24 @@
       <jump line="630" column="56" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
       <jump line="753" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
       <jump line="128" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="183" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="184" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="185" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="186" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="635" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="636" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="639" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
+      <jump line="127" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIuY2xlYXIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>plmMaterials</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnbGFzc1BhbmVcPg==</text>
+        <text encoding="base64">XDxwcm9ncmVzc0Jhclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbENvbnRhaW5lciBjb250YWluZXIgPSBuZXcgUGxtTWF0ZXJpYWxDb250YWluZXIocGxtTWF0ZXJpYWxzKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGNvbnRhaW5lci5yZWFkTWFpbkRldGFpbHModHJ1ZSk7CiAgICAgICAgfSBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoMCwgZSk7CiAgICAgICAgfQo=</text>
@@ -275,9 +278,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnbGFzc1BhbmVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9ncmVzc0Jhclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnbGFzc1BhbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9ncmVzc0Jhclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -285,7 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addchi</entry>
         <entry encoding="base64">XDxNT0RFX1VQREFURVw+</entry>
         <entry encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</entry>
         <entry encoding="base64">XDxkYm9PYmplY3RUeXBlXD4=</entry>
@@ -305,6 +307,7 @@
         <entry encoding="base64">XDxzdGF0dXNMaW5lXD4=</entry>
         <entry encoding="base64">XDx0ZXh0RGlzcGxheVw+</entry>
         <entry encoding="base64">XDxnbGFzc1BhbmVcPg==</entry>
+        <entry encoding="base64">XDxwcm9ncmVzc0Jhclw+</entry>
       </history-search>
       <history-cmd>
         <entry>183</entry>
