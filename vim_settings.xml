@@ -80,6 +80,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1537802078809">
         <mark key="'" line="213" column="25" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts/defined-alerts.component.html" timestamp="1537865642751">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/AbortEscListener.java" timestamp="1537804641557">
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
@@ -94,10 +99,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1536942747935">
         <mark key="'" line="701" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537864551147">
+      <file name="/Dummy.txt" timestamp="1537865986421">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
         <mark key="'" line="135" column="43" />
@@ -113,13 +118,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentOpenFast.java" timestamp="1537790724054">
         <mark key="'" line="184" column="20" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/StatusLinePane.java" timestamp="1537801358288">
-        <mark key="'" line="148" column="4" />
-        <mark key="[" line="188" column="24" />
-        <mark key="]" line="188" column="27" />
-        <mark key="^" line="188" column="27" />
-        <mark key="." line="188" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/EscHandler.java" timestamp="1537804921258">
         <mark key="[" line="9" column="21" />
@@ -252,11 +250,11 @@
       <jump line="194" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocOpenFast.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5tZXNzYWdpbmcuSW50ZXJuYWxOb3RpZmljYXRpb25Db25zdGFudHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_fixPipeLine1</text>
       </register>
       <register name="-" type="4">
-        <text>notificationBroadcastRegistration</text>
+        <text>_fixPipeLine1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb25cPg==</text>
