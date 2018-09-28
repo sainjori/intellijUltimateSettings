@@ -91,6 +91,12 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" timestamp="1538165224970">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/EnumerationValueException.java" timestamp="1537879017808">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="20" column="4" />
@@ -121,6 +127,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1537802078809">
         <mark key="'" line="213" column="25" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinHelper.java" timestamp="1538165119365">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/checkin/FFFEW.java" timestamp="1538142727274">
         <mark key="[" line="36" column="6" />
         <mark key="]" line="36" column="10" />
@@ -139,7 +150,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1536942747935">
         <mark key="'" line="701" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538164294651">
+      <file name="/Dummy.txt" timestamp="1538165363228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
@@ -200,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" />
-      <jump line="481" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" />
       <jump line="482" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" />
       <jump line="483" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" />
       <jump line="500" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" />
@@ -297,13 +306,15 @@
       <jump line="163" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
       <jump line="250" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
       <jump line="417" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
-      <jump line="158" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
       <jump line="159" column="1" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
       <jump line="387" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
+      <jump line="303" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
+      <jump line="158" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
+      <jump line="132" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Util</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name="-" type="4">
         <text>Util</text>
@@ -315,37 +326,37 @@
         <text encoding="base64">ICAgICAqIERpYWxvZyB0aXRsZSBiYXIgY2xvc2luZyB4IHByZXNzZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuRGF0YUNvbnRhaW5lcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnBsbS5Ob0Rpc2tleUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoKCgoK</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmR0eXBlLkRUeXBlOwppbXBvcnQgY2FkYWdlbnQuZHR5cGUuRFR5cGVDb250YWluZXI7CmltcG9ydCBjYWRhZ2VudC5leGMuUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkRpYWxvZ2JveDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5lbnYuRW52aXJvbm1lbnQ7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4LkNsb3NlQWN0aW9uTGlzdGVuZXI7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4Lkd4QnV0dG9uOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeEZyYW1lOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFBhbmVsOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFRleHRBcmVhOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1VdGlsczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1QYXJ0TmFtZVJ1bGVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
