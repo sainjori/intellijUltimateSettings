@@ -9,8 +9,14 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1537539398770">
         <mark key="'" line="77" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1538127714369">
+      <file name="/a.dummy" timestamp="1538141455093">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/checkin/CheckinUtil.java" timestamp="1538141474412">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="1" />
+        <mark key="^" line="37" column="1" />
+        <mark key="." line="37" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/ExportAction.java" timestamp="1537780169317">
         <mark key="'" line="66" column="25" />
@@ -20,6 +26,12 @@
         <mark key="]" line="434" column="23" />
         <mark key="^" line="434" column="23" />
         <mark key="." line="434" column="23" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/checkin/FEEFE.java" timestamp="1538141137677">
+        <mark key="[" line="88" column="6" />
+        <mark key="]" line="88" column="6" />
+        <mark key="." line="88" column="6" />
+        <mark key="^" line="72" column="5" />
       </file>
       <file name="/1.txt" timestamp="1537973463195">
         <mark key="[" line="0" column="0" />
@@ -42,6 +54,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1536760675938">
         <mark key="'" line="83" column="25" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1538140430242">
+        <mark key="'" line="626" column="57" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1537438453086">
         <mark key="'" line="122" column="27" />
       </file>
@@ -54,6 +69,12 @@
         <mark key="]" line="128" column="43" />
         <mark key="." line="128" column="43" />
         <mark key="^" line="128" column="43" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/checkin/CheckinCheckoutPartsHook.java" timestamp="1538141428362">
+        <mark key="'" line="178" column="30" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/applications/wrd/customize/config/default.txt" timestamp="1538128383410">
         <mark key="'" line="12" column="74" />
@@ -180,7 +201,7 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1538126338263">
+      <file name="/fragment.java" timestamp="1538141403254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="7" column="10" />
@@ -188,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
-      <jump line="182" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
       <jump line="437" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
       <jump line="567" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
       <jump line="522" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
@@ -288,13 +307,15 @@
       <jump line="345" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
       <jump line="12" column="74" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/applications/wrd/customize/config/default.txt" />
       <jump line="311" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
+      <jump line="626" column="57" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="178" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/checkin/CheckinCheckoutPartsHook.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBwbG0ucHJvYy5zaHV0ZG93bmhvb2tzLmNoZWNraW4uRkVFRkUuY2hlY2tpbldpdGhDb25maXJtYXRpb247Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVDYW5jZWxCdXR0b25cPg==</text>
@@ -303,37 +324,37 @@
         <text encoding="base64">ICAgICAqIERpYWxvZyB0aXRsZSBiYXIgY2xvc2luZyB4IHByZXNzZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBwbG0ucHJvYy5zaHV0ZG93bmhvb2tzLmNoZWNraW4uRkVFRkUuY2hlY2tpbldpdGhDb25maXJtYXRpb247Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LkZvbnQ7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgLyoqCiAgICogVGhlIGNsb3NpbmcgWCBvZiBKRGlhbG9nCiAgICogQHJldHVybiBib29sZWFuIGNsb3NpbmcgeCBwcmVzc2VkCiAgICov</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLkRhZGlGYWN0b3J5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogZGV0ZXJtaW5lIFggcHJlc3NlZAo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5jaGVja2luLlBsbVByb2Nlc3NEb2N1bWVudFNhdmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERpYy5nZXQK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5vbWYuT21mRG9jU2F2ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiLmFkZEJ1dHRvbihidG5DYW5jZWwpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5nZnguR3hGcmFtZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5nZnguR3hUZXh0QXJlYTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRiLmFkZEJ1dHRvbihidG5DYW5jZWwpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5nZnguR3hQYW5lbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLnNodXRkb3duaG9va3MubGlzdGVuZXIuQ2xvc2VXaW5kb3dMaXN0ZW5lcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
