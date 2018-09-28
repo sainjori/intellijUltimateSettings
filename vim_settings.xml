@@ -127,10 +127,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1537802078809">
         <mark key="'" line="213" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinHelper.java" timestamp="1538165119365">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinHelper.java" timestamp="1538167476570">
+        <mark key="[" line="249" column="69" />
+        <mark key="]" line="249" column="70" />
+        <mark key="." line="249" column="70" />
+        <mark key="^" line="58" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/checkin/FFFEW.java" timestamp="1538142727274">
         <mark key="[" line="36" column="6" />
@@ -150,7 +151,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1536942747935">
         <mark key="'" line="701" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538165363228">
+      <file name="/Dummy.txt" timestamp="1538167511277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
@@ -185,6 +186,8 @@
         <mark key="^" line="9" column="58" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1538136702187" />
+      <file name="/CheckinCheckoutPartsHook.java" timestamp="1538166341119" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CleanFileServerHook.java" timestamp="1538166580683" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/omf/OmfDocOpenFastWithDef.java" timestamp="1537790679432">
         <mark key="'" line="490" column="8" />
       </file>
@@ -313,11 +316,11 @@
       <jump line="132" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
+      <register name="&quot;" type="4">
+        <text>bda</text>
       </register>
       <register name="-" type="4">
-        <text>Util</text>
+        <text>bda</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVDYW5jZWxCdXR0b25cPg==</text>
@@ -326,37 +329,37 @@
         <text encoding="base64">ICAgICAqIERpYWxvZyB0aXRsZSBiYXIgY2xvc2luZyB4IHByZXNzZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuRGF0YUNvbnRhaW5lcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnBsbS5Ob0Rpc2tleUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuRGF0YUNvbnRhaW5lcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnBsbS5Ob0Rpc2tleUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmR0eXBlLkRUeXBlOwppbXBvcnQgY2FkYWdlbnQuZHR5cGUuRFR5cGVDb250YWluZXI7CmltcG9ydCBjYWRhZ2VudC5leGMuUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkRpYWxvZ2JveDsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmR0eXBlLkRUeXBlOwppbXBvcnQgY2FkYWdlbnQuZHR5cGUuRFR5cGVDb250YWluZXI7CmltcG9ydCBjYWRhZ2VudC5leGMuUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5lbnYuRW52aXJvbm1lbnQ7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4LkNsb3NlQWN0aW9uTGlzdGVuZXI7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4Lkd4QnV0dG9uOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeEZyYW1lOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFBhbmVsOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFRleHRBcmVhOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkRpYWxvZ2JveDsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1VdGlsczsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5lbnYuRW52aXJvbm1lbnQ7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4LkNsb3NlQWN0aW9uTGlzdGVuZXI7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4Lkd4QnV0dG9uOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeEZyYW1lOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFBhbmVsOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFRleHRBcmVhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1QYXJ0TmFtZVJ1bGVzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1VdGlsczsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
