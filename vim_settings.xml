@@ -23,7 +23,9 @@
         <mark key="^" line="60" column="45" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" timestamp="1538401957882" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" timestamp="1538403488511">
+        <mark key="'" line="96" column="42" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/ExportAction.java" timestamp="1537780169317">
         <mark key="'" line="66" column="25" />
       </file>
@@ -227,12 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="666" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" />
-      <jump line="628" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
-      <jump line="201" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/sap/LicenseHandlerSapAdapter.java" />
-      <jump line="335" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
-      <jump line="354" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
-      <jump line="51" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/shutdownhooks/CheckinCheckoutPartsHook.java" />
       <jump line="303" column="31" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="304" column="20" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="305" column="60" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
@@ -327,6 +323,12 @@
       <jump line="75" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/macro/gui/SmartObjectDialog.java" />
       <jump line="39" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfSendTo.java" />
       <jump line="65" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfActiveListAddLinkedDocuments.java" />
+      <jump line="113" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" />
+      <jump line="114" column="50" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" />
+      <jump line="122" column="49" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" />
+      <jump line="131" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" />
+      <jump line="266" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" />
+      <jump line="96" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -336,7 +338,7 @@
         <text>bda</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbG1BY3RpdmVMaXN0RHJvcEhhbmRsZXJcPg==</text>
+        <text encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIERpYWxvZyB0aXRsZSBiYXIgY2xvc2luZyB4IHByZXNzZWQK</text>
@@ -379,9 +381,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbG1BY3RpdmVMaXN0RHJvcEhhbmRsZXJcPg==</last-search>
+      <last-search encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbG1BY3RpdmVMaXN0RHJvcEhhbmRsZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxhYm9ydGFibGVcPg==</entry>
         <entry encoding="base64">XDxQbG1Qcm9jZXNzRGF0YUV4Y0V4cG9ydFw+</entry>
         <entry encoding="base64">XDxwbmxTdGF0dXNcPg==</entry>
@@ -409,6 +410,7 @@
         <entry encoding="base64">XDxjcmVhdGVDYW5jZWxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxEcm9wVGFyZ2V0TGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxQbG1BY3RpdmVMaXN0RHJvcEhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
