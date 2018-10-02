@@ -9,6 +9,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1537539398770">
         <mark key="'" line="77" column="3" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1538492208753">
+        <mark key="'" line="630" column="30" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfSendTo.java" timestamp="1538403047684">
         <mark key="'" line="39" column="15" />
       </file>
@@ -18,7 +21,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/ExportAction.java" timestamp="1537780169317">
         <mark key="'" line="66" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1538490879780" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1538491759001" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/viewx/sap_jvev/java/src/plm/modules/viewer/vev/VisualEnterpriseViewer.java" timestamp="1538469111326">
         <mark key="'" line="893" column="49" />
       </file>
@@ -55,11 +58,10 @@
         <mark key="'" line="12" column="74" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1538483176738" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" timestamp="1538491084163">
-        <mark key="[" line="110" column="42" />
-        <mark key="]" line="110" column="46" />
-        <mark key="^" line="110" column="46" />
-        <mark key="." line="110" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" timestamp="1538491460565">
+        <mark key="[" line="437" column="0" />
+        <mark key="]" line="437" column="0" />
+        <mark key="." line="437" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocCreate.java" timestamp="1538472232032" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" timestamp="1537968450909">
@@ -105,9 +107,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1536942747935">
         <mark key="'" line="701" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538412855970">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
         <mark key="'" line="135" column="43" />
       </file>
@@ -121,7 +120,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/macro/gui/SmartObjectDialog.java" timestamp="1538403032869">
         <mark key="'" line="75" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1538490830942">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1538491515229">
         <mark key="'" line="213" column="76" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/checkout/PlmProcessDocumentOpenFast.java" timestamp="1537790724054">
@@ -144,7 +143,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" timestamp="1537966742295">
         <mark key="'" line="522" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1538490768978">
+      <file name="/fragment.java" timestamp="1538492120652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="48" />
@@ -152,22 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="26" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="313" column="49" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="744" column="45" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="759" column="51" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="774" column="60" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="784" column="56" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="803" column="53" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="825" column="62" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="839" column="44" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="853" column="41" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="866" column="50" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="878" column="46" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="894" column="43" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="913" column="52" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="928" column="47" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
-      <jump line="931" column="64" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="941" column="28" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="953" column="42" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="1247" column="23" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
@@ -252,61 +235,77 @@
       <jump line="71" column="58" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserverDispatcher.java" />
       <jump line="475" column="68" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" />
       <jump line="213" column="76" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" />
+      <jump line="79" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="93" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="94" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="177" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="202" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="278" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="312" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="350" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="395" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="429" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="488" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="573" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="585" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="597" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="612" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="630" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbW9kZWxBY2Nlc3MuCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</text>
+        <text encoding="base64">XDxvYmpOb2RSZWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnNldEhpYmVybmF0ZWQodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZAo=</text>
+        <text encoding="base64">ICAgICAgbW9kZWxBY2Nlc3MuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuRGF0YUNvbnRhaW5lcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnBsbS5Ob0Rpc2tleUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuRGF0YUNvbnRhaW5lcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnBsbS5Ob0Rpc2tleUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmR0eXBlLkRUeXBlOwppbXBvcnQgY2FkYWdlbnQuZHR5cGUuRFR5cGVDb250YWluZXI7CmltcG9ydCBjYWRhZ2VudC5leGMuUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkRpYWxvZ2JveDsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmR0eXBlLkRUeXBlOwppbXBvcnQgY2FkYWdlbnQuZHR5cGUuRFR5cGVDb250YWluZXI7CmltcG9ydCBjYWRhZ2VudC5leGMuUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5lbnYuRW52aXJvbm1lbnQ7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4LkNsb3NlQWN0aW9uTGlzdGVuZXI7CmltcG9ydCBjYWRhZ2VudC5jZmMuZ2Z4Lkd4QnV0dG9uOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeEZyYW1lOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFBhbmVsOwppbXBvcnQgY2FkYWdlbnQuY2ZjLmdmeC5HeFRleHRBcmVhOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkRpYWxvZ2JveDsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</last-search>
+      <last-search encoding="base64">XDxvYmpOb2RSZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxvYmpOb2RSZWxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -314,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQbG1Qcm9jZXNzRGF0YUV4Y0V4cG9ydFw+</entry>
         <entry encoding="base64">XDxwbmxTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxFc2NFdmVudFw+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb25cPg==</entry>
@@ -334,6 +332,7 @@
         <entry encoding="base64">XDxQbG1BY3RpdmVMaXN0RHJvcEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</entry>
+        <entry encoding="base64">XDxvYmpOb2RSZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
