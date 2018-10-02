@@ -166,6 +166,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
         <mark key="'" line="135" column="43" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1538473823202" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrModelInterface.java" timestamp="1536933849419">
         <mark key="'" line="156" column="60" />
       </file>
@@ -221,11 +222,11 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1538415581192">
+      <file name="/fragment.java" timestamp="1538474095739">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -332,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</text>
