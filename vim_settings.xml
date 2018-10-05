@@ -113,7 +113,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
         <mark key="'" line="135" column="43" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1538734328466" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1538735668144">
+        <mark key="[" line="271" column="79" />
+        <mark key="]" line="271" column="85" />
+        <mark key="." line="271" column="85" />
+        <mark key="^" line="271" column="85" />
+      </file>
       <file name="/Dummy.txt" timestamp="1538734113618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -261,49 +266,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZWxlY3Rpb24uZ2V0UGxtTWF0ZXJpYWwoKTsK</text>
+        <text encoding="base64">ICAgIGxfb2JyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>plmMatSelection</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodE5vZGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnNldEhpYmVybmF0ZWQodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IG9vID0gb21fbW9kZWwuZ2V0T2JqZWN0KG1hdC5nZXRTYXBLZXkoKSsiQC0xIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZWxlY3Rpb24uZ2V0UGxtTWF0ZXJpYWwoKTsK</text>
+        <text encoding="base64">ICAgIGxfb2JyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsbU1hdGVyaWFscy5nZXRNYXRlcmlhbChzZWxlY3Rpb24uKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxlY3Rpb24uZ2V0UGxtTWF0ZXJpYWwoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBwb3NzaWJsZU9iamVjdEtleXMgPSBCck1hdGVyaWFsLmdldFBvc3NpYmxlT2JqZWN0S2V5cyhwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKSk7CiAgICBmb3IgKFN0cmluZyBvYmplY3RLZXkgOiBwb3NzaWJsZU9iamVjdEtleXMpCiAgICB7CiAgICAgIEJyTWF0ZXJpYWwgbWF0ID0gKEJyTWF0ZXJpYWwpUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0T2JqZWN0KG9iamVjdEtleSk7CiAgICAgIGlmIChtYXQgIT0gbnVsbCkKICAgICAgICBtYXQuc2V0RGV0YWlscyhwbG1NYXRlcmlhbCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHBsbU1hdGVyaWFscy5nZXRNYXRlcmlhbChzZWxlY3Rpb24uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBsbVNhcE1hdENoYW5nZVV0aWxzCg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsbVNhcE1hdENoYW5nZVV0aWxzIHBsbVNhcE1hdENoYW5nZVV0aWxzID0gbmV3IFBsbVNhcE1hdENoYW5nZVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBwb3NzaWJsZU9iamVjdEtleXMgPSBCck1hdGVyaWFsLmdldFBvc3NpYmxlT2JqZWN0S2V5cyhwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKSk7CiAgICBmb3IgKFN0cmluZyBvYmplY3RLZXkgOiBwb3NzaWJsZU9iamVjdEtleXMpCiAgICB7CiAgICAgIEJyTWF0ZXJpYWwgbWF0ID0gKEJyTWF0ZXJpYWwpUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0T2JqZWN0KG9iamVjdEtleSk7CiAgICAgIGlmIChtYXQgIT0gbnVsbCkKICAgICAgICBtYXQuc2V0RGV0YWlscyhwbG1NYXRlcmlhbCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsRmllbGRzVXRpbC5nZXQK</text>
+        <text encoding="base64">ICAgIFBsbVNhcE1hdENoYW5nZVV0aWxzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IDUwMWJlOGExZmMzODdjNzBjNTAyMmYyMzJlN2NkYmI3OWE1OTM5NDcp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFBsbVNhcE1hdENoYW5nZVV0aWxzIHBsbVNhcE1hdENoYW5nZVV0aWxzID0gbmV3IFBsbVNhcE1hdENoYW5nZVV0aWxzOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CihjaGVycnkgcGlja2VkIGZyb20gY29tbWl0IDUwMWJlOGExZmMzODdjNzBjNTAyMmYyMzJlN2NkYmI3OWE1OTM5NDcp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsRmllbGRzVXRpbC5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
