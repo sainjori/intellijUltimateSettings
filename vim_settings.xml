@@ -10,11 +10,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrActiveListDisplay.java" timestamp="1538753298391">
         <mark key="'" line="96" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1538743553178">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1538729563090" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTreeTransferHandler.java" timestamp="1538771005126" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTreeTransferHandler.java" timestamp="1538772389451" />
       <file name="/OmfMatLinkMark.java" timestamp="1538733417187" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/plugins/objects/GenericContextInfo.java" timestamp="1538769689209" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ExtensableObrObjectTransferable.java" timestamp="1538750795127" />
@@ -25,15 +22,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1538769754094" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1538773206721">
+        <mark key="[" line="264" column="94" />
+        <mark key="]" line="269" column="31" />
+        <mark key="^" line="269" column="31" />
+        <mark key="." line="269" column="31" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrRepository.java" timestamp="1538730641384" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1538750839329" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dnd/ObrDnDTransferContainer.java" timestamp="1538753786994" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dnd/ObrDnDTransferContainer.java" timestamp="1538772703286" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" timestamp="1538733956483">
         <mark key="[" line="454" column="35" />
         <mark key="]" line="455" column="22" />
         <mark key="." line="455" column="22" />
         <mark key="^" line="455" column="22" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1538773138246">
+        <mark key="'" line="86" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1538769591275" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1538753477552">
@@ -59,7 +64,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2943" column="45" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="2952" column="23" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="2970" column="60" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="2974" column="19" filename="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/javax/swing/AbstractButton.java" />
@@ -159,16 +163,17 @@
       <jump line="1145" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1150" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1164" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="86" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBkbmQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GxPreviewPanel.()</text>
       </register>
       <register name="-" type="4">
-        <text>l_obr</text>
+        <text>GxPreviewPanel.()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodE5vZGVzXD4=</text>
+        <text encoding="base64">XDxoYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgT2JyT2JqZWN0IG9vID0gb21fbW9kZWwuZ2V0T2JqZWN0KG1hdC5nZXRTYXBLZXkoKSsiQC0xIik7Cg==</text>
@@ -211,9 +216,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodE5vZGVzXD4=</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodE5vZGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -221,7 +226,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFc2NFdmVudFw+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25Ccm9hZGNhc3RSZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxleHRyYUJ1dHRvbnNcPg==</entry>
         <entry encoding="base64">XDxidF9jYW5jZWxcPg==</entry>
@@ -241,6 +245,7 @@
         <entry encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxvYmpOb2RSZWxcPg==</entry>
         <entry encoding="base64">XDxodE5vZGVzXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
