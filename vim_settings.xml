@@ -45,8 +45,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1536760675938">
         <mark key="'" line="83" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1538741605135">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1538742428004">
         <mark key="'" line="626" column="57" />
+        <mark key="]" line="832" column="17" />
+        <mark key="." line="832" column="17" />
+        <mark key="^" line="832" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1537438453086">
         <mark key="'" line="122" column="27" />
@@ -113,7 +116,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1537532054454">
         <mark key="'" line="135" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538737553590">
+      <file name="/Dummy.txt" timestamp="1538742562533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -259,11 +262,11 @@
       <jump line="1164" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>anyMatch</text>
       </register>
       <register name="-" type="4">
-        <text>l_br_mat</text>
+        <text>anyMatch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodE5vZGVzXD4=</text>
@@ -272,15 +275,21 @@
         <text encoding="base64">ICAgICAgT2JyT2JqZWN0IG9vID0gb21fbW9kZWwuZ2V0T2JqZWN0KG1hdC5nZXRTYXBLZXkoKSsiQC0xIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>//    for (ObrObject obr : l_obr)
 //    {
 //      // special handling for material, because a material can have
@@ -289,26 +298,20 @@
 //        l_obr_return.add(obr);
 //    }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgTGlzdDxCck1hdGVyaWFsPiBsX2JyX21hdCA9IGdldEJyT2JqZWN0c0Zyb21QbG1NYXRlcmlhbHModmVjX21hdCwgbF9vYnIpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgTGlzdDxCck1hdGVyaWFsPiBsX2JyX21hdCA9IGdldEJyT2JqZWN0c0Zyb21QbG1NYXRlcmlhbHModmVjX21hdCwgbF9vYnIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbF9vYnJfcmV0dXJuLmFkZEFsbChsX2JyX21hdCk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgTGlzdDxCck1hdGVyaWFsPiBsX2JyX21hdCA9IGdldEJyT2JqZWN0c0Zyb21QbG1NYXRlcmlhbHModmVjX21hdCwgbF9vYnIpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxCck1hdGVyaWFsPiBsX2JyX21hdCA9IGdldEJyT2JqZWN0c0Zyb21QbG1NYXRlcmlhbHModmVjX21hdCwgbF9vYnIpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbF9vYnJfcmV0dXJuLmFkZEFsbChsX2JyX21hdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
