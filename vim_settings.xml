@@ -6,6 +6,7 @@
       <mark key="V" line="86" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1539001932130" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1538994965643" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrObjectLinkContainer.java" timestamp="1538992405760">
         <mark key="'" line="216" column="25" />
@@ -22,13 +23,19 @@
         <mark key="." line="264" column="51" />
         <mark key="^" line="264" column="51" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1539002518314">
+        <mark key="[" line="172" column="61" />
+        <mark key="]" line="173" column="30" />
+        <mark key="^" line="173" column="30" />
+        <mark key="." line="173" column="30" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1538996539424">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="181" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538996544665">
+      <file name="/Dummy.txt" timestamp="1539002635322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -57,11 +64,11 @@
         <mark key="." line="196" column="4" />
         <mark key="^" line="196" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1538995349811">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="57" />
+      <file name="/fragment.java" timestamp="1539002023511">
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="1" column="78" />
         <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="57" />
+        <mark key="." line="1" column="78" />
       </file>
     </filemarks>
     <jumps>
@@ -167,11 +174,11 @@
       <jump line="151" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/ObrTreeSelection.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>omi</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoY1BhcmVudEtleXNcPg==</text>
@@ -180,37 +187,37 @@
         <text encoding="base64">Ly8gICAgICAgIHN1cHBvcnRlZEZsYXZvcnNbc3VwcG9ydGVkRmxhdm9ycy5sZW5ndGggLSAxXSA9IE9ickRuREZsYXZvci5vYnJEbkRNdWx0aXNlbGVjdGlvbkZsYXZvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFoYXNDb250ZW50KHZhbHVlKSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNGcm9tTGlua0NvbmFpbmVyKCkKLy8gIHsKLy8gICAgT2JyTW9kZWxJbnRlcmZhY2Ugb2JyTW9kZWxJbnRlcmZhY2UgPSBQbG1TZXNzaW9uTWFuYWdlci5nZXRJbnN0KCkuZ2V0T2JyTW9kZWxJbnRlcmZhY2UoKTsKLy8gICAgZm9yIChPYnJPYmplY3QgZHJhZ2dlZE9iamVjdCA6IGRyYWdnZWRPYmplY3RzKQovLyAgICB7Ci8vCi8vICAgICAgQ29sbGVjdGlvbjxTdHJpbmc+IGFsbFBhcmVudEtleXMgPSBvYnJNb2RlbEludGVyZmFjZS5nZQovLyAgICAgIGZvciAoU3RyaW5nIGFsbFBhcmVudEtleSA6IGFsbFBhcmVudEtleXMpCi8vICAgICAgewovLyAgICAgICAgT2JyT2JqZWN0IG9iamVjdCA9IG9ick1vZGVsSW50ZXJmYWNlLmdldE9iamVjdChhbGxQYXJlbnRLZXkpOwovLyAgICAgICAgaWYgKG9iamVjdCBpbnN0YW5jZW9mIEJyT2JqZWN0TGlua0NvbnRhaW5lcikKLy8gICAgICAgICAgcmV0dXJuIHRydWU7Ci8vICAgICAgfQovLyAgICB9Ci8vICAgIHJldHVybiBmYWxzZTsKLy8gIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpICE9IG51bGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBjYXRjaCAoVW5zdXBwb3J0ZWRGbGF2b3JFeGNlcHRpb24gZSkKICAgICAgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgIH0KICAgICAgY2F0Y2ggKElPRXhjZXB0aW9uIGUpCiAgICAgIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hdERvY0VxdWlwQnVja2V0LmdldE1hdHJpYWwoKSA9PSBudWxsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsKICAgICAgICBPYnJEbkRUcmFuc2ZlckNvbnRhaW5lciBvYnJEbkRUcmFuc2ZlckNvbnRhaW5lciA9IChPYnJEbkRUcmFuc2ZlckNvbnRhaW5lcikKICAgICAgICAgICAgZHREcm9wRXZlbnQuZ2V0VHJhbnNmZXJhYmxlKCkuZ2V0VHJhbnNmZXJEYXRhKE9ickRuREZsYXZvci5vYnJEbkRUcmFuc2ZlckZsYXZvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hdERvY0VxdWlwQnVja2V0LmdldE1hdHJpYWwoKSA9PSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
