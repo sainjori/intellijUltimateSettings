@@ -6,9 +6,18 @@
       <mark key="V" line="86" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1539001932130" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/brobj/BrMaterial.java" timestamp="1539004023297" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1538994965643" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1539077918097">
+        <mark key="'" line="454" column="4" />
+        <mark key="[" line="89" column="10" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539078121144">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrObjectLinkContainer.java" timestamp="1538992405760">
         <mark key="'" line="216" column="25" />
       </file>
@@ -17,6 +26,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1538774385556">
         <mark key="'" line="87" column="28" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1538774753059">
+        <mark key="'" line="213" column="76" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTreeTransferHandler.java" timestamp="1538993172693">
         <mark key="[" line="264" column="49" />
@@ -27,28 +39,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1539005146568">
         <mark key="'" line="217" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1539005192947" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1538990566116" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1538990566116" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1539011722154">
         <mark key="^" line="945" column="52" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1538996539424">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="181" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1539011975725">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1539004627683" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1538774753059">
-        <mark key="'" line="213" column="76" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1538990566116" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1538990566116" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1538994357237" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dnd/ObrDnDTransferContainer.java" timestamp="1538993033001">
         <mark key="'" line="202" column="27" />
       </file>
@@ -62,15 +57,14 @@
         <mark key="." line="196" column="4" />
         <mark key="^" line="196" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1539002023511">
-        <mark key="[" line="1" column="78" />
+      <file name="/fragment.java" timestamp="1539075898373">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="78" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="1" column="78" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxScrollPane.java" />
       <jump line="35" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ctx/PlmActiveListContextInit.java" />
       <jump line="75" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/macro/gui/SmartObjectDialog.java" />
       <jump line="39" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfSendTo.java" />
@@ -170,52 +164,53 @@
       <jump line="727" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="812" column="101" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="103" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="458" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyB5cHNvbWVkLnV0aWxzLllwc29tZWRWZWFIZWxwZXIuZ2V0U2F2ZUxvY2F0aW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ObrDnDTransferContainer</text>
       </register>
       <register name="-" type="4">
-        <text>entry.get(&quot;NAME&quot;);</text>
+        <text>ObrDnDTransferContainer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoY1BhcmVudEtleXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IGVudHJ5LmdldCgiTkFNRSIpOwo=</text>
+        <text encoding="base64">ICAgIExpc3Q8T2JyT2JqZWN0PiBsX29icl9yZXR1cm4gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyB5cHNvbWVkLnV0aWxzLllwc29tZWRWZWFIZWxwZXIuZ2V0U2F2ZUxvY2F0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgZHJhZ0Zyb21PYmplY3RMaW5rQ29uYWluZXIgPSBkcmFnRnJvbU9iamVjdExpbmtDb250YWluZXIob2JyRG5EVHJhbnNmZXJDb250YWluZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ld1Nob3J0VGV4dCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkcmFnRnJvbU9iamVjdExpbmtDb25haW5lciA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZHJhZ0Zyb21PYmplY3RMaW5rQ29uYWluZXIoKSkKICAgICAgICAgIG9ickhhbmRsZWQgPSBHdWlVdGlscy5jb252ZXJ0U2lnbmVkTWF0ZXJpYWxzKG9ickhhbmRsZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tEcmFnU291cmNlKG9ickRuRFRyYW5zZmVyQ29udGFpbmVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVja2V0T2JqZWN0IGJ1Y2tldE9iamVjdCA9IGJ1Y2tldExpc3Quc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5maWx0ZXIoZSAtPiBlLmdldElkKCkuZXF1YWxzSWdub3JlQ2FzZShTdHJpbmcudmFsdWVPZihvYnJQcm9wZXJ0eS5nZXRWYWx1ZSgpKSkpCiAgICAgICAgICAgICAgICAuZmluZEFueSgpLm9yRWxzZShudWxsKTsKICAgICAgICAgICAgaWYgKGJ1Y2tldE9iamVjdCAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBPYnJQcm9wZXJ0eSBzaG9ydFRleHRPYnIgPSBjdXN0b21Ccm93c2VPYmplY3QuZ2V0T2JyUHJvcGVydHkoQ3VzdG9tQXNzaWduQnJvd3NlT2JqZWN0Lk1BVF9TSE9SVF9URVhUKTsKICAgICAgICAgICAgICAgIGJ1Y2tldE9iamVjdC5zZXROZXdTaG9ydFRleHQoKFN0cmluZykgc2hvcnRUZXh0T2JyLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmFnRnJvbU9iamVjdExpbmtDb25haW5lciA9IHRydWU7CiAgICAgIGVsc2UgCiAgICAgICAgZHJhZ0Zyb21PYmplY3RMaW5rQ29uYWluZXIgPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkcmFnRnJvbU9iamVjdExpbmtDb25haW5lcigpIHsKICAgIH0KCgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0RyYWdTb3VyY2UoT2JyRG5EVHJhbnNmZXJDb250YWluZXIgb2JyRG5EVHJhbnNmZXJDb250YWluZXIpCiAgICB7CiAgICAgIE9ick1vZGVsSW50ZXJmYWNlIG9taSA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwogICAgICBPYnJUcmVlU2VsZWN0aW9uIG9iclNlbGVjdGlvbiA9IG9ickRuRFRyYW5zZmVyQ29udGFpbmVyLmdldE9iclNlbGVjdGlvbigpOwogICAgICBPYnJPYmplY3Qgb2JqZWN0ID0gb21pLmdldE9iamVjdChvYnJTZWxlY3Rpb24uZ2V0Rmlyc3RQYXJlbnRLZXkoKSk7CiAgICAgIGlmIChvYmplY3QgaW5zdGFuY2VvZiBCck9iamVjdExpbmtDb250YWluZXIpCiAgICAgICAgZHJhZ0Zyb21PYmplY3RMaW5rQ29uYWluZXIgPSB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRyYW5zZmVydE5ld1Nob3J0VGV4dFRvQnVja2V0KGJ1Y2tldExpc3QsIGN1c3RvbUJyb3dzZU9iamVjdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vYnJEbkRUcmFuc2ZlckNvbnRhaW5lciA9IG9ickRuRFRyYW5zZmVyQ29udGFpbmVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
