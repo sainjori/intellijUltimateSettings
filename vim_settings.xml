@@ -56,6 +56,9 @@
         <mark key="^" line="0" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/plm++/java/src/plm/omf/OmfDisplayFiles.java" timestamp="1539260717649" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" timestamp="1539702077468">
+        <mark key="'" line="593" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfLaunchGenericFile.java" timestamp="1539687411249" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayTemplate.java" timestamp="1539258547006" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatAdd.java" timestamp="1539699310740" />
@@ -97,12 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="350" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="395" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="429" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="488" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="573" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="585" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="597" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="612" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
@@ -197,6 +194,12 @@
       <jump line="111" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayGuides.java" />
       <jump line="268" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayGuides.java" />
       <jump line="272" column="74" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayGuides.java" />
+      <jump line="527" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
+      <jump line="528" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
+      <jump line="578" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
+      <jump line="583" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
+      <jump line="588" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
+      <jump line="593" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -206,7 +209,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYWNrZW5kVHlwZVw+</text>
+        <text encoding="base64">XDxzZWFyY2hRdWVyeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBycCA9IGFkZE9iclByb3BlcnR5KAogICAgICAgIG5ldyBPYnJQcm9wZXJ0eShFQ01fUkVTRVJWQVRJT05TLCBEaWMuZ2V0KCJwbG0ub2Iuc2V0ZWNtLmd1aS50aXRsZSIsICJSZXNlcnZhdGlvbiBpbiBDaGFuZ2UgTWFuYWdlbWVudCIpLCBFTVBUWSwgZmFsc2UsIGZhbHNlKSk7CiAgICBwcnAuc2V0U3BlY2llcyhPYnJQcm9wZXJ0eS5TUEVDSUVTX0RJUyk7CiAgICBwcnAuc2V0V2lkdGgoNDApOwogICAgcHJwLnNldEVkaXRMZW5ndGgoNDApOwo=</text>
@@ -249,9 +252,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYWNrZW5kVHlwZVw+</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hRdWVyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYWNrZW5kVHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hRdWVyeVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVDYW5jZWxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxEcm9wVGFyZ2V0TGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxQbG1BY3RpdmVMaXN0RHJvcEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</entry>
@@ -279,6 +281,7 @@
         <entry encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</entry>
         <entry encoding="base64">XDxwbG1fZWN0cl9zeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxiYWNrZW5kVHlwZVw+</entry>
+        <entry encoding="base64">XDxzZWFyY2hRdWVyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
