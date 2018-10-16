@@ -134,6 +134,7 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="alt a" />
+    <mouse-shortcut keystroke="alt button142" />
   </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="f3" />
