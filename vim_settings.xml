@@ -16,6 +16,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" timestamp="1538774385556">
         <mark key="'" line="87" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1539690505785">
+        <mark key="'" line="218" column="49" />
+        <mark key="[" line="803" column="0" />
+        <mark key="]" line="803" column="0" />
+        <mark key="^" line="693" column="17" />
+        <mark key="." line="803" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTreeTransferHandler.java" timestamp="1538993172693">
         <mark key="[" line="264" column="49" />
         <mark key="]" line="264" column="51" />
@@ -68,6 +75,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/ObrTreeSelection.java" timestamp="1539089842579">
         <mark key="'" line="95" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" timestamp="1538993546057">
+        <mark key="'" line="415" column="13" />
+        <mark key="[" line="196" column="40" />
+        <mark key="]" line="196" column="4" />
+        <mark key="." line="196" column="4" />
+        <mark key="^" line="196" column="4" />
+      </file>
       <file name="/fragment.java" timestamp="1539265919188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="27" />
@@ -76,17 +90,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="76" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" />
-      <jump line="963" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="426" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" />
-      <jump line="1093" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1096" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1097" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1101" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1114" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1118" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1126" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1128" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1139" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1146" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1151" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
@@ -176,72 +179,79 @@
       <jump line="185" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayGuides.java" />
       <jump line="305" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayGuides.java" />
       <jump line="234" column="50" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayFiles.java" />
+      <jump line="792" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="1268" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="1271" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="299" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="1709" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="172" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="543" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="840" column="60" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="220" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="1946" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
+      <jump line="218" column="49" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>manuals</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>manuals</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</text>
+        <text encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiIjsK</text>
+        <text encoding="base64">ICAgIHBycCA9IGFkZE9iclByb3BlcnR5KAogICAgICAgIG5ldyBPYnJQcm9wZXJ0eShFQ01fUkVTRVJWQVRJT05TLCBEaWMuZ2V0KCJwbG0ub2Iuc2V0ZWNtLmd1aS50aXRsZSIsICJSZXNlcnZhdGlvbiBpbiBDaGFuZ2UgTWFuYWdlbWVudCIpLCBFTVBUWSwgZmFsc2UsIGZhbHNlKSk7CiAgICBwcnAuc2V0U3BlY2llcyhPYnJQcm9wZXJ0eS5TUEVDSUVTX0RJUyk7CiAgICBwcnAuc2V0V2lkdGgoNDApOwogICAgcHJwLnNldEVkaXRMZW5ndGgoNDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZUdldCgoKSAtPiB1bmNvbW1pdHRlZERpYWxvZy5tYXAoT3ApLm9yRWxzZSgiIikpOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChPcHRpb25hbDo6Z2V0KQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgcHJwID0gYWRkT2JyUHJvcGVydHkoCiAgICAgICAgbmV3IE9iclByb3BlcnR5KE1BVFNUQVRVUywgRGljLmdldCgicGxtLm9iLnNldGVjbS5ndWkudGl0bGUiLCAiUmVzZXJ2YXRpb24gaW4gQ2hhbmdlIE1hbmFnZW1lbnQiKSwgRU1QVFksIGZhbHNlLCBmYWxzZSkpOwogICAgcHJwLnNldFdpZHRoKDQwKTsKICAgIHBycC5zZXRFZGl0TGVuZ3RoKDQwKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gRGljLmdldCgicGxtLnNlc3MuMDAwNSIpOwo=</text>
+        <text encoding="base64">ICAgIHBycC5zZXRTcGVjaWVzKE9iclByb3BlcnR5LlNQRUNJRVNfRElTKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgZmluYWwgc3RhdGljIFN0cmluZyBNQVRfPSAiMjgiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbnk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFUX1NUQVRVUyA9ICJmZWYiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZUdldCgoKSAtPiB1bmNvbW1pdHRlZERpYWxvZy5tYXAoT3ApLm9yRWxzZSgiIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChPcHRpb25hbDo6Z2V0KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gRGljLmdldCgicGxtLnNlc3MuMDAwNSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</last-search>
+      <last-search encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxvY2N1cmVuY2VUeXBlUHJpbWFyeVw+</last-substitute>
+      <last-substitute encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXJlZFw+</entry>
-        <entry encoding="base64">XDxva0J1dHRvblRleHRcPg==</entry>
-        <entry encoding="base64">XDxhbGxCdXR0b25zXD4=</entry>
-        <entry encoding="base64">XDxidE9rXD4=</entry>
         <entry encoding="base64">XDxidXR0b25PS3ByZXNzZWRcPg==</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDYW5jZWxCdXR0b25cPg==</entry>
@@ -258,6 +268,10 @@
         <entry encoding="base64">XDxvYmplY3RMaW5rQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxoY1BhcmVudEtleXNcPg==</entry>
         <entry encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</entry>
+        <entry encoding="base64">XDxJQ09OX0tFWV9NQVRfU1RBVFVTXD4=</entry>
+        <entry encoding="base64">XDxOVU1CRVJcPg==</entry>
+        <entry>49</entry>
+        <entry encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
