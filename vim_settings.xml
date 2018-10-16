@@ -38,6 +38,8 @@
         <mark key="." line="122" column="44" />
         <mark key="^" line="122" column="44" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/plm++/java/src/plm/omf/OmfLaunchGenericFile.java" timestamp="1539702713698" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1539703591511" />
       <file name="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/java/awt/Dialog.java" timestamp="1539178053362">
         <mark key="'" line="882" column="23" />
       </file>
@@ -60,6 +62,9 @@
         <mark key="'" line="593" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfLaunchGenericFile.java" timestamp="1539687411249" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1539703189538">
+        <mark key="'" line="138" column="37" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayTemplate.java" timestamp="1539258547006" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatAdd.java" timestamp="1539699310740" />
       <file name="C:/ENTWICKLUNG/java/jdks/jdk8_x64/src.zip!/java/awt/Component.java" timestamp="1539170936701" />
@@ -92,20 +97,14 @@
         <mark key="." line="196" column="4" />
         <mark key="^" line="196" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1539265919188">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="27" />
+      <file name="/fragment.java" timestamp="1539703695291">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
         <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
+        <mark key="." line="0" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="597" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="612" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="630" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="759" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="781" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="790" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="842" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="981" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
@@ -200,16 +199,22 @@
       <jump line="583" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
       <jump line="588" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
       <jump line="593" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDynamicFolder.java" />
+      <jump line="269" column="18" filename="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1192" column="11" filename="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1198" column="17" filename="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1200" column="23" filename="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="1202" column="45" filename="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="138" column="37" filename="C:/ENTWICKLUNG/java/workspaces/lagacy_ectr/5.1.6.1/core/base/java/src/cadagent/cfc/env/Environment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZ3VpLmdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>plm_doc_path</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>plm_doc_path</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hRdWVyeVw+</text>
+        <text encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBycCA9IGFkZE9iclByb3BlcnR5KAogICAgICAgIG5ldyBPYnJQcm9wZXJ0eShFQ01fUkVTRVJWQVRJT05TLCBEaWMuZ2V0KCJwbG0ub2Iuc2V0ZWNtLmd1aS50aXRsZSIsICJSZXNlcnZhdGlvbiBpbiBDaGFuZ2UgTWFuYWdlbWVudCIpLCBFTVBUWSwgZmFsc2UsIGZhbHNlKSk7CiAgICBwcnAuc2V0U3BlY2llcyhPYnJQcm9wZXJ0eS5TUEVDSUVTX0RJUyk7CiAgICBwcnAuc2V0V2lkdGgoNDApOwogICAgcHJwLnNldEVkaXRMZW5ndGgoNDApOwo=</text>
@@ -252,9 +257,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hRdWVyeVw+</last-search>
+      <last-search encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hRdWVyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -274,7 +279,6 @@
         <entry encoding="base64">XDxtb2RlbEFjY2Vzc1w+</entry>
         <entry encoding="base64">XDxvYmplY3RMaW5rQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxoY1BhcmVudEtleXNcPg==</entry>
-        <entry encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</entry>
         <entry encoding="base64">XDxJQ09OX0tFWV9NQVRfU1RBVFVTXD4=</entry>
         <entry encoding="base64">XDxOVU1CRVJcPg==</entry>
         <entry>49</entry>
@@ -282,6 +286,7 @@
         <entry encoding="base64">XDxwbG1fZWN0cl9zeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxiYWNrZW5kVHlwZVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hRdWVyeVw+</entry>
+        <entry encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
