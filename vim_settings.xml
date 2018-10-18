@@ -21,6 +21,7 @@
       <file name="/a.dummy" timestamp="1539765021187">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfAbout.java" timestamp="1539858560049" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTreeTransferHandler.java" timestamp="1538993172693">
         <mark key="[" line="264" column="49" />
         <mark key="]" line="264" column="51" />
@@ -32,6 +33,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirHeaderPanel.java" timestamp="1539789289260">
         <mark key="'" line="92" column="25" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1539858130817">
+        <mark key="'" line="3259" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/macro/gui/MacroEditorGui.java" timestamp="1539171538694">
         <mark key="[" line="122" column="41" />
@@ -90,11 +94,6 @@
         <mark key="^" line="80" column="5" />
         <mark key="." line="80" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDynamicFolderAddQuery.java" timestamp="1539700880814">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDisplayGuides.java" timestamp="1539766114921">
         <mark key="'" line="272" column="74" />
       </file>
@@ -115,16 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1113" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1117" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1125" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1127" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1138" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1145" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1150" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="1164" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="86" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
-      <jump line="87" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxPreviewPanel.java" />
       <jump line="278" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dnd/ObrDnDTransferContainer.java" />
       <jump line="309" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dnd/ObrDnDTransferContainer.java" />
       <jump line="321" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dnd/ObrDnDTransferContainer.java" />
@@ -215,6 +204,16 @@
       <jump line="322" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirHeaderPanel.java" />
       <jump line="325" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirHeaderPanel.java" />
       <jump line="92" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirHeaderPanel.java" />
+      <jump line="384" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="385" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="386" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="255" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="382" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="471" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="472" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="479" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="1339" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="3259" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -224,7 +223,7 @@
         <text>new GxPanel();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJlbnRcPg==</text>
+        <text encoding="base64">XDxnZXRGaWx0ZXJDb21wb25lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcGFyYW1ldGVyID0gcGFyYW1ldGVyLnJlcGxhY2UoIiQocGxtX2RvY19wYXRoKSIsIHBsbV9kb2NfcGF0aCk7Cg==</text>
@@ -267,9 +266,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJlbnRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRGaWx0ZXJDb21wb25lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRGaWx0ZXJDb21wb25lbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -277,8 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkcm9wVGFyZ2V0TGlzdGVuZXJcPg==</entry>
-        <entry encoding="base64">XDxvYnNlcnZlck9iamVjdHNMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxvYmpOb2RSZWxcPg==</entry>
         <entry encoding="base64">XDxodE5vZGVzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
@@ -297,6 +294,8 @@
         <entry encoding="base64">XDxzY3JpcHRFbnZpcm9ubWVudFw+</entry>
         <entry encoding="base64">XDxjbGFzc0FsbG9jYXRpb25UcmVlXD4=</entry>
         <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJDb21wb25lbnRcPg==</entry>
+        <entry encoding="base64">XDxnZXRGaWx0ZXJDb21wb25lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>181</entry>
