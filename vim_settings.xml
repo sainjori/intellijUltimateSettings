@@ -68,10 +68,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/plm/PlmServiceExecutor.java" timestamp="1539253746013">
         <mark key="'" line="251" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540221803012">
-        <mark key="]" line="52" column="34" />
-        <mark key="^" line="52" column="34" />
-        <mark key="." line="52" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540227134120">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1540226333768">
         <mark key="[" line="0" column="0" />
@@ -116,8 +116,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DirBrowsePanel.java" timestamp="1539788123347">
         <mark key="'" line="175" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1540221865272">
-        <mark key="'" line="1307" column="21" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1540227455646">
+        <mark key="'" line="1315" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfMatDisplay.java" timestamp="1539868863698">
         <mark key="[" line="118" column="0" />
@@ -141,8 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="812" column="101" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="103" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="458" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" />
       <jump line="141" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/ObrTreeSelection.java" />
       <jump line="151" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/ObrTreeSelection.java" />
@@ -241,61 +239,63 @@
       <jump line="1307" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" />
       <jump line="59" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrObject.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrObject.java" />
+      <jump line="1418" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" />
+      <jump line="1315" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>readDetails</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5jb252ZXJ0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>readDetails</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWRhZ2VudFw+</text>
+        <text encoding="base64">XDxnZXRQbG1PYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFJlYWREZXRhaWxzU2VydmljZVByb3ZpZGVyLnJlYWREZXRhaWxzKHBsbW9zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHE+SGVvIHdvcmxkITwvcT4K</text>
+        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5jb252ZXJ0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVzdAo=</text>
+        <text encoding="base64">ICAgICAgPHE+SGVvIHdvcmxkITwvcT4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlYWREZXRhaWxzU2VydmljZVByb3ZpZGVyLnJlYWREZXRhaWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlYWREZXRhaWxzU2VydmljZVByb3ZpZGVyLnJlYWREZXRhaWxzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZUVycm9yVGV4dChleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCxleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZUVycm9yVGV4dChleCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ3VpLmdldAo=</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCxleCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ3VpLmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWRhZ2VudFw+</last-search>
+      <last-search encoding="base64">XDxnZXRQbG1PYmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWRhZ2VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRQbG1PYmplY3RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxFQ01fUkVTRVJWQVRJT05TXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -303,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvYmplY3RMaW5rQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxoY1BhcmVudEtleXNcPg==</entry>
         <entry encoding="base64">XDxJQ09OX0tFWV9NQVRfU1RBVFVTXD4=</entry>
         <entry encoding="base64">XDxOVU1CRVJcPg==</entry>
@@ -323,6 +322,7 @@
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
         <entry encoding="base64">XDxTZXJpYWxpemFibGVcPg==</entry>
         <entry encoding="base64">XDxjYWRhZ2VudFw+</entry>
+        <entry encoding="base64">XDxnZXRQbG1PYmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>910</entry>
