@@ -105,6 +105,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RerunTests" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="RevealIn">
     <mouse-shortcut keystroke="alt button2" />
     <mouse-shortcut keystroke="alt button3" />
